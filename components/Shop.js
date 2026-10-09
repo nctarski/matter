@@ -5,7 +5,7 @@ import catalog from '@/data/catalog.json';
 import edits from '@/data/edits.json';
 import ProductCard from './ProductCard';
 import {
-  CATEGORIES, COLOURS, DEFAULTS, FILTERABLE_FIBERS, PRICE_CEILING,
+  COLOURS, DEFAULTS, FILTERABLE_FIBERS, NAV, PRICE_CEILING,
   formatPrice, passes, sortItems,
 } from '@/lib/fibers';
 
@@ -14,16 +14,18 @@ const RETAILERS = [...new Set(catalog.map((i) => i.retailer))].sort();
 
 /** The filter state each curated edit drops you into when you click through. */
 const EDIT_FILTERS = {
-  outerwear: { category: 'Outerwear' },
+  outerwear: { nav: 'Outerwear', category: 'Outerwear' },
   pure: { threshold: 100, allowStretch: false },
   under300: { maxPrice: 300 },
   cashmere: { fibers: ['Cashmere'] },
-  tailoring: { category: 'Tailoring' },
+  tailoring: { nav: 'Tailoring', category: 'Tailoring' },
 };
 
 const initial = () => ({
   ...DEFAULTS,
-  category: 'All',
+  nav: 'All',      // which top bar entry is active
+  category: null,  // set when that entry is a garment category
+  tag: null,       // set when that entry is an occasion
   colours: [],
   fibers: [],
   retailers: [],
@@ -60,17 +62,21 @@ export default function Shop() {
       <div className="catbar">
         <div className="wrap">
           <div className="cats" role="group" aria-label="Category">
-            {CATEGORIES.map((c) => (
+            {NAV.map((entry) => (
               <button
-                key={c}
+                key={entry.label}
                 type="button"
-                aria-pressed={f.category === c}
+                aria-pressed={f.nav === entry.label}
                 onClick={() => {
-                  set({ category: c });
+                  set({
+                    nav: entry.label,
+                    category: entry.category || null,
+                    tag: entry.tag || null,
+                  });
                   fullRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
                 }}
               >
-                {c}
+                {entry.label}
               </button>
             ))}
           </div>

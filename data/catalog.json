@@ -25,7 +25,8 @@
         100
       ]
     ],
-    "isNew": true
+    "isNew": true,
+    "tags": []
   },
   {
     "id": "the-row-hanson-cashmere-knit",
@@ -35,7 +36,7 @@
     "price": 1290,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Ivory",
     "shell": [
       [
@@ -44,7 +45,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "cos-boiled-wool-car-coat",
@@ -63,7 +65,8 @@
       ]
     ],
     "lining": null,
-    "isNew": true
+    "isNew": true,
+    "tags": []
   },
   {
     "id": "arket-merino-crewneck",
@@ -73,7 +76,7 @@
     "price": 119,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Grey",
     "shell": [
       [
@@ -82,7 +85,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "sezane-gaspard-alpaca-cardigan",
@@ -92,7 +96,7 @@
     "price": 215,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Cream",
     "shell": [
       [
@@ -109,7 +113,8 @@
       ]
     ],
     "lining": null,
-    "isNew": true
+    "isNew": true,
+    "tags": []
   },
   {
     "id": "reformation-marcella-wool-blazer",
@@ -137,7 +142,10 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "khaite-scarlet-cashmere-turtleneck",
@@ -147,7 +155,7 @@
     "price": 1080,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Oxblood",
     "shell": [
       [
@@ -156,7 +164,10 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "massimo-dutti-wool-blend-overcoat",
@@ -188,7 +199,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "mango-ribbed-wool-midi-dress",
@@ -215,7 +227,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "everlane-felted-merino-coat",
@@ -243,7 +256,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "loro-piana-davos-cashmere-cape",
@@ -267,7 +281,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "other-stories-oversized-scarf-coat",
@@ -295,7 +310,8 @@
         100
       ]
     ],
-    "isNew": true
+    "isNew": true,
+    "tags": []
   },
   {
     "id": "gabriela-hearst-nolan-cashmere-trousers",
@@ -305,7 +321,7 @@
     "price": 1190,
     "url": "",
     "image": "",
-    "category": "Trousers",
+    "category": "Pants",
     "colour": "Ivory",
     "shell": [
       [
@@ -314,7 +330,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "uniqlo-extra-fine-merino-crew",
@@ -324,7 +341,7 @@
     "price": 49,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Navy",
     "shell": [
       [
@@ -333,7 +350,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "lisa-yang-sony-cashmere-polo",
@@ -343,7 +361,7 @@
     "price": 525,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Blush",
     "shell": [
       [
@@ -352,7 +370,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "aritzia-wilfred-wool-wrap-coat",
@@ -384,7 +403,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "nanushka-lior-alpaca-knit-dress",
@@ -411,7 +431,10 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "joseph-dove-cashmere-cardigan",
@@ -421,7 +444,7 @@
     "price": 650,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Grey",
     "shell": [
       [
@@ -434,7 +457,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "max-mara-teddy-camel-coat",
@@ -462,7 +486,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "me-em-merino-longline-cardigan",
@@ -472,7 +497,7 @@
     "price": 265,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Black",
     "shell": [
       [
@@ -481,7 +506,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "zara-wool-blend-check-blazer",
@@ -513,7 +539,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "jil-sander-compact-wool-midi-skirt",
@@ -537,7 +564,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "eileen-fisher-organic-cotton-wool-knit",
@@ -547,7 +575,7 @@
     "price": 238,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Olive",
     "shell": [
       [
@@ -560,7 +588,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "theory-admiral-crepe-suit-jacket",
@@ -592,7 +621,8 @@
         45
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "toteme-pleated-silk-midi-skirt",
@@ -616,7 +646,10 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "sezane-lina-linen-shirt",
@@ -635,7 +668,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "cos-poplin-oversized-shirt",
@@ -654,7 +688,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "reformation-kourtney-linen-dress",
@@ -673,7 +708,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "vince-silk-charmeuse-blouse",
@@ -692,7 +728,10 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "arket-straight-linen-trousers",
@@ -702,7 +741,7 @@
     "price": 129,
     "url": "",
     "image": "",
-    "category": "Trousers",
+    "category": "Pants",
     "colour": "Olive",
     "shell": [
       [
@@ -711,7 +750,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "toteme-cotton-poplin-shirt-dress",
@@ -730,7 +770,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "mango-satin-slip-dress",
@@ -749,7 +790,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "lovers-and-friends-odette-silk-midi-dress",
@@ -773,7 +815,10 @@
         100
       ]
     ],
-    "isNew": true
+    "isNew": true,
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "favorite-daughter-wool-trouser-wide-leg",
@@ -783,7 +828,7 @@
     "price": 258,
     "url": "",
     "image": "",
-    "category": "Trousers",
+    "category": "Pants",
     "colour": "Black",
     "shell": [
       [
@@ -796,7 +841,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "agolde-criss-cross-rigid-jean",
@@ -806,7 +852,7 @@
     "price": 228,
     "url": "",
     "image": "",
-    "category": "Trousers",
+    "category": "Pants",
     "colour": "Blue",
     "shell": [
       [
@@ -815,7 +861,8 @@
       ]
     ],
     "lining": null,
-    "isNew": true
+    "isNew": true,
+    "tags": []
   },
   {
     "id": "citizens-of-humanity-ayla-barrel-leg-jean",
@@ -825,7 +872,7 @@
     "price": 258,
     "url": "",
     "image": "",
-    "category": "Trousers",
+    "category": "Pants",
     "colour": "Blue",
     "shell": [
       [
@@ -838,7 +885,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "frankie-shop-bea-cotton-blazer",
@@ -862,7 +910,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "ganni-crinkle-cotton-midi",
@@ -881,7 +930,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "zara-linen-blend-waistcoat",
@@ -904,7 +954,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "uniqlo-premium-linen-long-shirt",
@@ -923,7 +974,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "massimo-dutti-silk-satin-shirt",
@@ -942,7 +994,10 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "aritzia-babaton-crepe-trouser",
@@ -952,7 +1007,7 @@
     "price": 148,
     "url": "",
     "image": "",
-    "category": "Trousers",
+    "category": "Pants",
     "colour": "Grey",
     "shell": [
       [
@@ -965,7 +1020,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "the-row-lucia-silk-blouse",
@@ -984,7 +1040,10 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "loulou-studio-silk-slip-skirt",
@@ -1008,7 +1067,10 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "nili-lotan-carlita-wool-trousers",
@@ -1018,7 +1080,7 @@
     "price": 595,
     "url": "",
     "image": "",
-    "category": "Trousers",
+    "category": "Pants",
     "colour": "Chocolate",
     "shell": [
       [
@@ -1032,7 +1094,8 @@
         100
       ]
     ],
-    "isNew": true
+    "isNew": true,
+    "tags": []
   },
   {
     "id": "everlane-heavyweight-cotton-tee",
@@ -1051,7 +1114,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "sezane-will-wool-pleated-skirt",
@@ -1079,7 +1143,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "cos-cashmere-wrap-skirt",
@@ -1098,7 +1163,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "reformation-juliette-silk-gown",
@@ -1122,7 +1188,10 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "ralph-lauren-cable-cashmere-crewneck",
@@ -1132,7 +1201,7 @@
     "price": 698,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Cream",
     "shell": [
       [
@@ -1141,7 +1210,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "arket-wool-blend-overshirt",
@@ -1168,7 +1238,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "mango-100-linen-blazer",
@@ -1192,7 +1263,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "khaite-jadena-leather-jacket",
@@ -1216,7 +1288,8 @@
         100
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "frame-le-high-straight-jean",
@@ -1226,7 +1299,7 @@
     "price": 208,
     "url": "",
     "image": "",
-    "category": "Trousers",
+    "category": "Pants",
     "colour": "Blue",
     "shell": [
       [
@@ -1243,7 +1316,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "jil-sander-boxy-cotton-poplin-top",
@@ -1262,7 +1336,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "toteme-alpaca-blend-cardigan",
@@ -1272,7 +1347,7 @@
     "price": 740,
     "url": "",
     "image": "",
-    "category": "Knitwear",
+    "category": "Sweaters",
     "colour": "Chocolate",
     "shell": [
       [
@@ -1289,7 +1364,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "staud-ribbed-cotton-knit-dress",
@@ -1312,7 +1388,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "max-mara-linen-blend-trousers",
@@ -1322,7 +1399,7 @@
     "price": 650,
     "url": "",
     "image": "",
-    "category": "Trousers",
+    "category": "Pants",
     "colour": "Ivory",
     "shell": [
       [
@@ -1335,7 +1412,8 @@
       ]
     ],
     "lining": null,
-    "isNew": false
+    "isNew": false,
+    "tags": []
   },
   {
     "id": "other-stories-merino-polo-top",
@@ -1354,7 +1432,8 @@
       ]
     ],
     "lining": null,
-    "isNew": true
+    "isNew": true,
+    "tags": []
   },
   {
     "id": "vince-wool-cashmere-topcoat",
@@ -1386,6 +1465,372 @@
         48
       ]
     ],
-    "isNew": false
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "icebreaker-merino-175-long-sleeve-base-layer",
+    "retailer": "Icebreaker",
+    "brand": "Icebreaker",
+    "name": "Merino 175 long sleeve base layer",
+    "price": 110,
+    "url": "",
+    "image": "",
+    "category": "Active",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "icebreaker-merino-legging",
+    "retailer": "Icebreaker",
+    "brand": "Icebreaker",
+    "name": "Merino legging",
+    "price": 120,
+    "url": "",
+    "image": "",
+    "category": "Active",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        87
+      ],
+      [
+        "Polyamide",
+        13
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "uniqlo-heattech-merino-crew",
+    "retailer": "Uniqlo",
+    "brand": "Uniqlo",
+    "name": "Heattech merino crew",
+    "price": 40,
+    "url": "",
+    "image": "",
+    "category": "Active",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "organic-basics-organic-cotton-sweatpant",
+    "retailer": "Organic Basics",
+    "brand": "Organic Basics",
+    "name": "Organic cotton sweatpant",
+    "price": 95,
+    "url": "",
+    "image": "",
+    "category": "Active",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "arket-heavyweight-cotton-hoodie",
+    "retailer": "Arket",
+    "brand": "Arket",
+    "name": "Heavyweight cotton hoodie",
+    "price": 109,
+    "url": "",
+    "image": "",
+    "category": "Active",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "smartwool-classic-all-season-merino-tee",
+    "retailer": "Smartwool",
+    "brand": "Smartwool",
+    "name": "Classic all-season merino tee",
+    "price": 85,
+    "url": "",
+    "image": "",
+    "category": "Active",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "cou-cou-intimates-the-bralette",
+    "retailer": "Revolve",
+    "brand": "Cou Cou Intimates",
+    "name": "The bralette",
+    "price": 45,
+    "url": "",
+    "image": "",
+    "category": "Undergarments",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Organic cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "cou-cou-intimates-the-high-rise-brief",
+    "retailer": "Revolve",
+    "brand": "Cou Cou Intimates",
+    "name": "The high rise brief",
+    "price": 30,
+    "url": "",
+    "image": "",
+    "category": "Undergarments",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Organic cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "pansy-organic-cotton-high-rise",
+    "retailer": "Pansy",
+    "brand": "Pansy",
+    "name": "Organic cotton high rise",
+    "price": 32,
+    "url": "",
+    "image": "",
+    "category": "Undergarments",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-tilda-silk-brief",
+    "retailer": "Net-a-Porter",
+    "brand": "Araks",
+    "name": "Tilda silk brief",
+    "price": 98,
+    "url": "",
+    "image": "",
+    "category": "Undergarments",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "hanro-cotton-seamless-camisole",
+    "retailer": "Net-a-Porter",
+    "brand": "Hanro",
+    "name": "Cotton seamless camisole",
+    "price": 95,
+    "url": "",
+    "image": "",
+    "category": "Undergarments",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "base-range-bold-organic-cotton-bra",
+    "retailer": "Mytheresa",
+    "brand": "Base Range",
+    "name": "Bold organic cotton bra",
+    "price": 75,
+    "url": "",
+    "image": "",
+    "category": "Undergarments",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        92
+      ],
+      [
+        "Elastane",
+        8
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-organic-pima-cotton-slip",
+    "retailer": "Net-a-Porter",
+    "brand": "Skin",
+    "name": "Organic Pima cotton slip",
+    "price": 140,
+    "url": "",
+    "image": "",
+    "category": "Undergarments",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "sezane-albane-silk-midi-dress",
+    "retailer": "Sezane",
+    "brand": "Sezane",
+    "name": "Albane silk midi dress",
+    "price": 320,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Green",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "isNew": true,
+    "tags": [
+      "wedding-guest"
+    ]
+  },
+  {
+    "id": "rixo-celeste-printed-silk-dress",
+    "retailer": "Net-a-Porter",
+    "brand": "Rixo",
+    "name": "Celeste printed silk dress",
+    "price": 445,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
+  },
+  {
+    "id": "the-row-delphina-silk-column-dress",
+    "retailer": "Mytheresa",
+    "brand": "The Row",
+    "name": "Delphina silk column dress",
+    "price": 2190,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   }
 ]
