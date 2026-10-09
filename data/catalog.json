@@ -1,0 +1,1391 @@
+[
+  {
+    "id": "toteme-signature-double-breasted-coat",
+    "retailer": "Net-a-Porter",
+    "brand": "Toteme",
+    "name": "Signature double-breasted coat",
+    "price": 890,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        92
+      ],
+      [
+        "Cashmere",
+        8
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": true
+  },
+  {
+    "id": "the-row-hanson-cashmere-knit",
+    "retailer": "Mytheresa",
+    "brand": "The Row",
+    "name": "Hanson cashmere knit",
+    "price": 1290,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "cos-boiled-wool-car-coat",
+    "retailer": "COS",
+    "brand": "COS",
+    "name": "Boiled wool car coat",
+    "price": 290,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true
+  },
+  {
+    "id": "arket-merino-crewneck",
+    "retailer": "Arket",
+    "brand": "Arket",
+    "name": "Merino crewneck",
+    "price": 119,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "sezane-gaspard-alpaca-cardigan",
+    "retailer": "Sezane",
+    "brand": "Sezane",
+    "name": "Gaspard alpaca cardigan",
+    "price": 215,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Alpaca",
+        62
+      ],
+      [
+        "Wool",
+        31
+      ],
+      [
+        "Polyamide",
+        7
+      ]
+    ],
+    "lining": null,
+    "isNew": true
+  },
+  {
+    "id": "reformation-marcella-wool-blazer",
+    "retailer": "Reformation",
+    "brand": "Reformation",
+    "name": "Marcella wool blazer",
+    "price": 348,
+    "url": "",
+    "image": "",
+    "category": "Tailoring",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        96
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
+    "lining": [
+      [
+        "Cupro",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "khaite-scarlet-cashmere-turtleneck",
+    "retailer": "Mytheresa",
+    "brand": "Khaite",
+    "name": "Scarlet cashmere turtleneck",
+    "price": 1080,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "massimo-dutti-wool-blend-overcoat",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Wool blend overcoat",
+    "price": 279,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        68
+      ],
+      [
+        "Polyester",
+        28
+      ],
+      [
+        "Acrylic",
+        4
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "mango-ribbed-wool-midi-dress",
+    "retailer": "Mango",
+    "brand": "Mango",
+    "name": "Ribbed wool midi dress",
+    "price": 99,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        72
+      ],
+      [
+        "Polyamide",
+        24
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "everlane-felted-merino-coat",
+    "retailer": "Everlane",
+    "brand": "Everlane",
+    "name": "Felted merino coat",
+    "price": 368,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Polyamide",
+        10
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "loro-piana-davos-cashmere-cape",
+    "retailer": "Mytheresa",
+    "brand": "Loro Piana",
+    "name": "Davos cashmere cape",
+    "price": 3450,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "other-stories-oversized-scarf-coat",
+    "retailer": "& Other Stories",
+    "brand": "& Other Stories",
+    "name": "Oversized scarf coat",
+    "price": 329,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        85
+      ],
+      [
+        "Polyamide",
+        15
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": true
+  },
+  {
+    "id": "gabriela-hearst-nolan-cashmere-trousers",
+    "retailer": "Net-a-Porter",
+    "brand": "Gabriela Hearst",
+    "name": "Nolan cashmere trousers",
+    "price": 1190,
+    "url": "",
+    "image": "",
+    "category": "Trousers",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "uniqlo-extra-fine-merino-crew",
+    "retailer": "Uniqlo",
+    "brand": "Uniqlo",
+    "name": "Extra fine merino crew",
+    "price": 49,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "lisa-yang-sony-cashmere-polo",
+    "retailer": "Net-a-Porter",
+    "brand": "Lisa Yang",
+    "name": "Sony cashmere polo",
+    "price": 525,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "aritzia-wilfred-wool-wrap-coat",
+    "retailer": "Aritzia",
+    "brand": "Aritzia",
+    "name": "Wilfred wool wrap coat",
+    "price": 398,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Wool",
+        54
+      ],
+      [
+        "Polyester",
+        42
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "nanushka-lior-alpaca-knit-dress",
+    "retailer": "Revolve",
+    "brand": "Nanushka",
+    "name": "Lior alpaca knit dress",
+    "price": 495,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Alpaca",
+        48
+      ],
+      [
+        "Wool",
+        33
+      ],
+      [
+        "Polyamide",
+        19
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "joseph-dove-cashmere-cardigan",
+    "retailer": "Net-a-Porter",
+    "brand": "Joseph",
+    "name": "Dove cashmere cardigan",
+    "price": 650,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        95
+      ],
+      [
+        "Polyamide",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "max-mara-teddy-camel-coat",
+    "retailer": "Mytheresa",
+    "brand": "Max Mara",
+    "name": "Teddy camel coat",
+    "price": 3290,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Camel hair",
+        67
+      ],
+      [
+        "Wool",
+        33
+      ]
+    ],
+    "lining": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "me-em-merino-longline-cardigan",
+    "retailer": "Net-a-Porter",
+    "brand": "Me+Em",
+    "name": "Merino longline cardigan",
+    "price": 265,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "zara-wool-blend-check-blazer",
+    "retailer": "Zara",
+    "brand": "Zara",
+    "name": "Wool blend check blazer",
+    "price": 149,
+    "url": "",
+    "image": "",
+    "category": "Tailoring",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        62
+      ],
+      [
+        "Polyester",
+        35
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "jil-sander-compact-wool-midi-skirt",
+    "retailer": "Mytheresa",
+    "brand": "Jil Sander",
+    "name": "Compact wool midi skirt",
+    "price": 790,
+    "url": "",
+    "image": "",
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cupro",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "eileen-fisher-organic-cotton-wool-knit",
+    "retailer": "Net-a-Porter",
+    "brand": "Eileen Fisher",
+    "name": "Organic cotton wool knit",
+    "price": 238,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Organic cotton",
+        55
+      ],
+      [
+        "Wool",
+        45
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "theory-admiral-crepe-suit-jacket",
+    "retailer": "Net-a-Porter",
+    "brand": "Theory",
+    "name": "Admiral crepe suit jacket",
+    "price": 595,
+    "url": "",
+    "image": "",
+    "category": "Tailoring",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        55
+      ],
+      [
+        "Viscose",
+        45
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "toteme-pleated-silk-midi-skirt",
+    "retailer": "Net-a-Porter",
+    "brand": "Toteme",
+    "name": "Pleated silk midi skirt",
+    "price": 620,
+    "url": "",
+    "image": "",
+    "category": "Skirts",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "sezane-lina-linen-shirt",
+    "retailer": "Sezane",
+    "brand": "Sezane",
+    "name": "Lina linen shirt",
+    "price": 120,
+    "url": "",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "cos-poplin-oversized-shirt",
+    "retailer": "COS",
+    "brand": "COS",
+    "name": "Poplin oversized shirt",
+    "price": 99,
+    "url": "",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "reformation-kourtney-linen-dress",
+    "retailer": "Reformation",
+    "brand": "Reformation",
+    "name": "Kourtney linen dress",
+    "price": 278,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "vince-silk-charmeuse-blouse",
+    "retailer": "Net-a-Porter",
+    "brand": "Vince",
+    "name": "Silk charmeuse blouse",
+    "price": 345,
+    "url": "",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "arket-straight-linen-trousers",
+    "retailer": "Arket",
+    "brand": "Arket",
+    "name": "Straight linen trousers",
+    "price": 129,
+    "url": "",
+    "image": "",
+    "category": "Trousers",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "toteme-cotton-poplin-shirt-dress",
+    "retailer": "Mytheresa",
+    "brand": "Toteme",
+    "name": "Cotton poplin shirt dress",
+    "price": 450,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "mango-satin-slip-dress",
+    "retailer": "Mango",
+    "brand": "Mango",
+    "name": "Satin slip dress",
+    "price": 79,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "lovers-and-friends-odette-silk-midi-dress",
+    "retailer": "Revolve",
+    "brand": "Lovers and Friends",
+    "name": "Odette silk midi dress",
+    "price": 268,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Green",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": true
+  },
+  {
+    "id": "favorite-daughter-wool-trouser-wide-leg",
+    "retailer": "Revolve",
+    "brand": "Favorite Daughter",
+    "name": "Wool trouser, wide leg",
+    "price": 258,
+    "url": "",
+    "image": "",
+    "category": "Trousers",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "agolde-criss-cross-rigid-jean",
+    "retailer": "Revolve",
+    "brand": "Agolde",
+    "name": "Criss cross rigid jean",
+    "price": 228,
+    "url": "",
+    "image": "",
+    "category": "Trousers",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true
+  },
+  {
+    "id": "citizens-of-humanity-ayla-barrel-leg-jean",
+    "retailer": "Net-a-Porter",
+    "brand": "Citizens of Humanity",
+    "name": "Ayla barrel leg jean",
+    "price": 258,
+    "url": "",
+    "image": "",
+    "category": "Trousers",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "frankie-shop-bea-cotton-blazer",
+    "retailer": "Mytheresa",
+    "brand": "Frankie Shop",
+    "name": "Bea cotton blazer",
+    "price": 395,
+    "url": "",
+    "image": "",
+    "category": "Tailoring",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "ganni-crinkle-cotton-midi",
+    "retailer": "Revolve",
+    "brand": "Ganni",
+    "name": "Crinkle cotton midi",
+    "price": 325,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "zara-linen-blend-waistcoat",
+    "retailer": "Zara",
+    "brand": "Zara",
+    "name": "Linen blend waistcoat",
+    "price": 69,
+    "url": "",
+    "image": "",
+    "category": "Tailoring",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Viscose",
+        45
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "uniqlo-premium-linen-long-shirt",
+    "retailer": "Uniqlo",
+    "brand": "Uniqlo",
+    "name": "Premium linen long shirt",
+    "price": 50,
+    "url": "",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "massimo-dutti-silk-satin-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Silk satin shirt",
+    "price": 169,
+    "url": "",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "aritzia-babaton-crepe-trouser",
+    "retailer": "Aritzia",
+    "brand": "Aritzia",
+    "name": "Babaton crepe trouser",
+    "price": 148,
+    "url": "",
+    "image": "",
+    "category": "Trousers",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Polyester",
+        88
+      ],
+      [
+        "Elastane",
+        12
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "the-row-lucia-silk-blouse",
+    "retailer": "Mytheresa",
+    "brand": "The Row",
+    "name": "Lucia silk blouse",
+    "price": 1190,
+    "url": "",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "loulou-studio-silk-slip-skirt",
+    "retailer": "Net-a-Porter",
+    "brand": "Loulou Studio",
+    "name": "Silk slip skirt",
+    "price": 340,
+    "url": "",
+    "image": "",
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "nili-lotan-carlita-wool-trousers",
+    "retailer": "Net-a-Porter",
+    "brand": "Nili Lotan",
+    "name": "Carlita wool trousers",
+    "price": 595,
+    "url": "",
+    "image": "",
+    "category": "Trousers",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cupro",
+        100
+      ]
+    ],
+    "isNew": true
+  },
+  {
+    "id": "everlane-heavyweight-cotton-tee",
+    "retailer": "Everlane",
+    "brand": "Everlane",
+    "name": "Heavyweight cotton tee",
+    "price": 38,
+    "url": "",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "sezane-will-wool-pleated-skirt",
+    "retailer": "Sezane",
+    "brand": "Sezane",
+    "name": "Will wool pleated skirt",
+    "price": 175,
+    "url": "",
+    "image": "",
+    "category": "Skirts",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        80
+      ],
+      [
+        "Polyamide",
+        20
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "cos-cashmere-wrap-skirt",
+    "retailer": "COS",
+    "brand": "COS",
+    "name": "Cashmere wrap skirt",
+    "price": 250,
+    "url": "",
+    "image": "",
+    "category": "Skirts",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "reformation-juliette-silk-gown",
+    "retailer": "Reformation",
+    "brand": "Reformation",
+    "name": "Juliette silk gown",
+    "price": 398,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "ralph-lauren-cable-cashmere-crewneck",
+    "retailer": "Net-a-Porter",
+    "brand": "Ralph Lauren",
+    "name": "Cable cashmere crewneck",
+    "price": 698,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "arket-wool-blend-overshirt",
+    "retailer": "Arket",
+    "brand": "Arket",
+    "name": "Wool blend overshirt",
+    "price": 189,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Polyamide",
+        22
+      ],
+      [
+        "Polyester",
+        8
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "mango-100-linen-blazer",
+    "retailer": "Mango",
+    "brand": "Mango",
+    "name": "100% linen blazer",
+    "price": 130,
+    "url": "",
+    "image": "",
+    "category": "Tailoring",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "khaite-jadena-leather-jacket",
+    "retailer": "Mytheresa",
+    "brand": "Khaite",
+    "name": "Jadena leather jacket",
+    "price": 3200,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false
+  },
+  {
+    "id": "frame-le-high-straight-jean",
+    "retailer": "Revolve",
+    "brand": "Frame",
+    "name": "Le high straight jean",
+    "price": 208,
+    "url": "",
+    "image": "",
+    "category": "Trousers",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        92
+      ],
+      [
+        "Polyester",
+        6
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "jil-sander-boxy-cotton-poplin-top",
+    "retailer": "Mytheresa",
+    "brand": "Jil Sander",
+    "name": "Boxy cotton poplin top",
+    "price": 590,
+    "url": "",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "toteme-alpaca-blend-cardigan",
+    "retailer": "Net-a-Porter",
+    "brand": "Toteme",
+    "name": "Alpaca blend cardigan",
+    "price": 740,
+    "url": "",
+    "image": "",
+    "category": "Knitwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Alpaca",
+        70
+      ],
+      [
+        "Wool",
+        25
+      ],
+      [
+        "Polyamide",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "staud-ribbed-cotton-knit-dress",
+    "retailer": "Revolve",
+    "brand": "Staud",
+    "name": "Ribbed cotton knit dress",
+    "price": 295,
+    "url": "",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        94
+      ],
+      [
+        "Elastane",
+        6
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "max-mara-linen-blend-trousers",
+    "retailer": "Mytheresa",
+    "brand": "Max Mara",
+    "name": "Linen blend trousers",
+    "price": 650,
+    "url": "",
+    "image": "",
+    "category": "Trousers",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Linen",
+        68
+      ],
+      [
+        "Viscose",
+        32
+      ]
+    ],
+    "lining": null,
+    "isNew": false
+  },
+  {
+    "id": "other-stories-merino-polo-top",
+    "retailer": "& Other Stories",
+    "brand": "& Other Stories",
+    "name": "Merino polo top",
+    "price": 89,
+    "url": "",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true
+  },
+  {
+    "id": "vince-wool-cashmere-topcoat",
+    "retailer": "Net-a-Porter",
+    "brand": "Vince",
+    "name": "Wool cashmere topcoat",
+    "price": 995,
+    "url": "",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        80
+      ],
+      [
+        "Cashmere",
+        20
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        52
+      ],
+      [
+        "Cupro",
+        48
+      ]
+    ],
+    "isNew": false
+  }
+]

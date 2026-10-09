@@ -1,0 +1,338 @@
+[
+  {
+    "slug": "wool",
+    "key": "Wool",
+    "title": "Wool",
+    "specs": [
+      {
+        "label": "Moisture held",
+        "value": "30% of its weight"
+      },
+      {
+        "label": "Clean",
+        "value": "2 to 3 times a season"
+      },
+      {
+        "label": "Weakness",
+        "value": "Slow to dry"
+      }
+    ],
+    "intro": [
+      "Wool is the fiber most people already read as a quality signal, which makes it the one most often faked. A coat labelled wool blend can be anywhere from 80 percent wool to 30 percent wool carried by acrylic, and the label rarely leads with the number that matters.",
+      "It holds roughly 30 percent of its weight in moisture before it feels wet, which is why it stays warm in damp cold where down collapses. It resists odour, so a coat worn daily needs cleaning two or three times a season rather than weekly. The crimp in the fiber recovers from compression, so tailoring keeps its shape across a day of sitting."
+    ],
+    "sections": [
+      {
+        "heading": "The grades, briefly",
+        "list": [
+          "<strong>Merino</strong>, measured in microns. Under 19 is next-to-skin soft. 21 and above is a sweater over something, not against the skin.",
+          "<strong>Lambswool</strong>, the first shearing. Softer and springier than the same sheep&rsquo;s later clips.",
+          "<strong>Shetland</strong>, coarser and drier, with more loft. Ages into something better than it starts as.",
+          "<strong>Boiled and melton</strong>, felted after weaving. Dense, wind resistant, and the reason a good coat needs no lining to be warm.",
+          "<strong>Virgin wool</strong> means never previously spun. Not a quality grade on its own, though it correlates."
+        ]
+      },
+      {
+        "pull": "Read the lining before the shell. A wool crepe dress with a polyester lining breathes like polyester."
+      },
+      {
+        "heading": "The blends that are fine, and the one that is not",
+        "body": "Five to fifteen percent nylon or polyamide in knitwear is added at cuffs and elbows for abrasion resistance and genuinely extends the life of the garment. Acrylic is different. It is there to cut cost, it pills within a season, and it does not recover from compression, so a coat with a quarter acrylic goes flat at the elbows and stays flat."
+      },
+      {
+        "heading": "Care, which decides how long it lasts",
+        "list": [
+          "Air it rather than clean it. Overnight on a wide hanger removes most of what a wash would.",
+          "Dry clean two or three times a season at most. The solvents strip lanolin and the fiber gets brittle.",
+          "Hand wash knitwear cool, press water out against the basin, never wring, dry flat. Hanging wet wool stretches it permanently.",
+          "Store folded, not hung. Clean before storing, since moths are drawn to body oils rather than the wool itself.",
+          "De-pill with a comb after the first few wears. Early pilling on good wool is surface fiber shedding and it stops."
+        ]
+      },
+      {
+        "heading": "The honest trade-offs",
+        "body": "Slow to dry, so a poor choice for sustained rain without a treated face. Some people cannot wear it against the skin regardless of micron count. It is most expensive exactly where the quality gap is narrowest, in mid-weight knitwear."
+      }
+    ]
+  },
+  {
+    "slug": "linen",
+    "key": "Linen",
+    "title": "Linen",
+    "specs": [
+      {
+        "label": "Strength when wet",
+        "value": "20% stronger"
+      },
+      {
+        "label": "Lifespan",
+        "value": "Decades, softening"
+      },
+      {
+        "label": "Weakness",
+        "value": "Creases, always"
+      }
+    ],
+    "intro": [
+      "Linen is flax, and it is the oldest fiber in continuous use for clothing. It is two to three times stronger than cotton, gets stronger when wet rather than weaker, and it is the only common fiber that improves measurably with every wash for the first several years.",
+      "It conducts heat away from the body faster than cotton and the fiber is hollow, so it moves air. That is the whole reason it dominates hot-weather dressing and no synthetic has displaced it."
+    ],
+    "sections": [
+      {
+        "heading": "Reading a linen label",
+        "list": [
+          "<strong>100% linen</strong> is the standard. There is rarely a technical reason to blend it.",
+          "<strong>Linen and viscose</strong> is a cost blend. It drapes softer and creases less, and it loses most of what linen is for.",
+          "<strong>Linen and cotton</strong> is a legitimate blend for structure in shirting, usually 55/45.",
+          "<strong>Belgian or Irish linen</strong> refers to where it was woven, not where the flax grew. European flax is the quality benchmark.",
+          "<strong>Washed</strong> linen is pre-softened. It saves you two years of breaking it in."
+        ]
+      },
+      {
+        "pull": "Linen creases. That is the material telling the truth about itself, not a defect to be engineered out."
+      },
+      {
+        "heading": "The crease question",
+        "body": "Anything sold as wrinkle-free linen has either been blended down with synthetic or chemically resin-finished, and both trade away the hand and the breathability that made you want linen. Buy it creased or buy something else."
+      },
+      {
+        "heading": "Care, which decides how long it lasts",
+        "list": [
+          "Machine wash cool and tumble low, or line dry. Linen genuinely likes being washed.",
+          "Remove it from the dryer slightly damp and hang. Most of the creasing falls out on its own.",
+          "Iron damp on high if you want it crisp. Dry linen resists the iron.",
+          "Skip fabric softener. It coats the fiber and blocks the softening that happens naturally.",
+          "Store folded. Hanging heavy linen over a season sets a shoulder line you will not get out."
+        ]
+      },
+      {
+        "heading": "The honest trade-offs",
+        "body": "It creases permanently within an hour of wear, it is weak at persistent fold lines, and it is expensive relative to cotton because flax processing is slow and largely mechanical."
+      }
+    ]
+  },
+  {
+    "slug": "cotton",
+    "key": "Cotton",
+    "title": "Cotton",
+    "specs": [
+      {
+        "label": "What decides quality",
+        "value": "Staple length"
+      },
+      {
+        "label": "Extra-long staple",
+        "value": "34mm and up"
+      },
+      {
+        "label": "Weakness",
+        "value": "Holds damp"
+      }
+    ],
+    "intro": [
+      "Cotton is the fiber where the word on the label tells you almost nothing and the staple length tells you everything. Staple is the length of the individual fiber, and longer staple means fewer ends poking out of the yarn, which means a smoother hand, less pilling, and more strength at the same weight.",
+      "This is why two 100 percent cotton t-shirts can differ by a factor of ten in price and the more expensive one is not simply a markup."
+    ],
+    "sections": [
+      {
+        "heading": "The names worth knowing",
+        "list": [
+          "<strong>Extra-long staple</strong>, which covers Pima, Supima and Egyptian Giza. Fibers of 34mm and up. Smooth, strong, and worth the premium in shirting and tees.",
+          "<strong>Upland</strong>, around 90 percent of world production, 22 to 32mm. Everything ordinary is made from it.",
+          "<strong>Supima</strong> is a trademarked certification for US-grown Pima, so it is one of the few cotton claims independently verified.",
+          "<strong>Organic</strong> speaks to how it was farmed, not how it performs. A separate question from quality, and the two do not track each other.",
+          "<strong>Mercerised</strong> cotton has been treated under tension for lustre and dye uptake. A finish, not a grade."
+        ]
+      },
+      {
+        "pull": "Weight in GSM tells you more about a cotton tee than any word on the front of the label."
+      },
+      {
+        "heading": "Where cotton is the wrong answer",
+        "body": "Cotton holds moisture against the skin and gives up its insulation completely when wet, which is why it is a genuinely poor choice for cold-weather base layers and for anything athletic. Wool or linen does that job better. Cotton is for everything else."
+      },
+      {
+        "heading": "Care, which decides how long it lasts",
+        "list": [
+          "Wash cool. Hot water is what shrinks cotton, not the drying.",
+          "Tumble low or line dry. High heat is the single biggest cause of premature wear.",
+          "Turn printed and dark cotton inside out to protect the surface.",
+          "Do not over-dry. Pulling it out slightly damp prevents most shrinkage and stiffness.",
+          "Denim can go much longer between washes than people think. Wash it when it needs it, cold, inside out."
+        ]
+      },
+      {
+        "heading": "The honest trade-offs",
+        "body": "Wrinkles readily, shrinks on first wash unless pre-shrunk, holds damp, and conventional cultivation is water and pesticide intensive in a way that is well documented."
+      }
+    ]
+  },
+  {
+    "slug": "silk",
+    "key": "Silk",
+    "title": "Silk",
+    "specs": [
+      {
+        "label": "Blouse weight",
+        "value": "12 to 16 momme"
+      },
+      {
+        "label": "Substantial",
+        "value": "19 to 22 momme"
+      },
+      {
+        "label": "Weakness",
+        "value": "Water marks, sun"
+      }
+    ],
+    "intro": [
+      "Silk is a protein fiber, chemically closer to your own hair than to any plant. It is the strongest natural fiber by weight, it is thermoregulating in both directions, and its triangular cross-section is what produces the lustre nothing else replicates.",
+      "It is also the fiber most routinely imitated. Polyester satin is engineered specifically to look like silk in a photograph, and at the price points where imitation is most common it is very hard to tell from a product image."
+    ],
+    "sections": [
+      {
+        "heading": "Momme, the number that matters",
+        "list": [
+          "<strong>Momme (mm)</strong> is silk&rsquo;s weight measure. 12 to 16 is standard for blouses. 19 to 22 is substantial, the weight used for good bedding and heavier shirting. 25 and above is dense and rare.",
+          "<strong>Charmeuse</strong>, satin weave, lustrous face and matte back. The classic slip dress.",
+          "<strong>Crepe de chine</strong>, matte with a slight grain. Drapes beautifully and shows water marks less.",
+          "<strong>Habotai</strong>, lightweight and plain. Often used for linings and the cheapest silk garments.",
+          "<strong>Mulberry silk</strong> means the Bombyx mori worm fed on mulberry, the standard for long uniform filaments. Wild and Tussah silks are shorter and more textured by nature."
+        ]
+      },
+      {
+        "pull": "If a satin dress is priced like polyester, it is polyester. Silk at that weight has a floor."
+      },
+      {
+        "heading": "Spotting the substitute",
+        "body": "Real silk warms quickly in the hand and has an uneven, deep lustre that shifts colour as it moves. Polyester satin stays cool, shines evenly, and tends to a plasticky slide. The composition line settles it faster than either test."
+      },
+      {
+        "heading": "Care, which decides how long it lasts",
+        "list": [
+          "Hand wash cool with a pH-neutral or dedicated silk wash, or dry clean. Never bleach.",
+          "Do not wring. Roll in a towel and press, then dry flat away from direct sun.",
+          "Iron on the reverse, low, slightly damp. Direct heat scorches protein fiber permanently.",
+          "Keep perfume and deodorant off it. Alcohol and aluminium salts degrade the fiber and leave marks that do not come out.",
+          "Store out of light. Sunlight yellows and weakens silk faster than wear does."
+        ]
+      },
+      {
+        "heading": "The honest trade-offs",
+        "body": "Water-spots, degrades in sunlight, weakens from perspiration, and generally cannot be machine washed. It is a material that asks something of you."
+      }
+    ]
+  },
+  {
+    "slug": "cashmere",
+    "key": "Cashmere",
+    "title": "Cashmere",
+    "specs": [
+      {
+        "label": "Warmth",
+        "value": "About 3 times wool"
+      },
+      {
+        "label": "Grade worth paying for",
+        "value": "Under 16 microns"
+      },
+      {
+        "label": "Weakness",
+        "value": "Pills, snags"
+      }
+    ],
+    "intro": [
+      "Cashmere is the undercoat of the cashmere goat, combed rather than shorn, and a single animal yields enough for roughly a third of a sweater in a year. That supply constraint is the entire reason for the price, and it is also why the cheap cashmere that flooded the market is a different product in practice if not in name.",
+      "It is around three times warmer than sheep&rsquo;s wool at the same weight, and far softer, because the fiber is finer and has less crimp."
+    ],
+    "sections": [
+      {
+        "heading": "What separates $150 cashmere from $900 cashmere",
+        "list": [
+          "<strong>Fiber length.</strong> Long fibers, 36mm and up, stay twisted into the yarn. Short fibers work loose and become pills. The biggest difference, and never on the label.",
+          "<strong>Micron count.</strong> Under 16 is the grade worth paying for. Coarser cashmere is still cashmere and still legally labelled as such.",
+          "<strong>Ply.</strong> Two-ply and above holds shape. Single-ply is lighter and will not survive the same number of seasons.",
+          "<strong>Grams.</strong> A substantial crewneck is 400g or more. Many sub-$200 sweaters are nearer 200g, which is where the saving actually comes from.",
+          "<strong>Recycled cashmere</strong> is shredded from existing garments, which necessarily shortens the fiber. Softer in the shop, pills much faster."
+        ]
+      },
+      {
+        "pull": "Pull the knit gently and let go. Good cashmere springs back. Poor cashmere stays stretched."
+      },
+      {
+        "heading": "The pilling question",
+        "body": "All cashmere pills at first. Good cashmere sheds its short surface fibers over the first three or four wears and then stops. Poor cashmere pills continuously, because the pills are coming from the structure of the yarn rather than from its surface."
+      },
+      {
+        "heading": "Care, which decides how long it lasts",
+        "list": [
+          "Hand wash cool with baby shampoo or a wool wash every three to four wears. Cashmere prefers washing to dry cleaning.",
+          "Press water out against the side of the basin, never wring. Dry flat, reshaped by hand.",
+          "De-pill with a cashmere comb, not a razor. A comb lifts the pill, a blade cuts healthy fiber.",
+          "Rest it a day between wears so the fiber recovers.",
+          "Store folded in a breathable bag with cedar. Never on a hanger, which pulls the shoulders out permanently."
+        ]
+      },
+      {
+        "heading": "The honest trade-offs",
+        "body": "Pills, snags on jewellery and bag hardware, and needs genuine upkeep. The market is full of mislabelled and low-grade product, so price is one of the few reliable signals."
+      }
+    ]
+  },
+  {
+    "slug": "cellulosic",
+    "key": "Cellulosic",
+    "title": "Viscose & lyocell",
+    "specs": [
+      {
+        "label": "Source",
+        "value": "Wood pulp"
+      },
+      {
+        "label": "Our tier",
+        "value": "Separate, not natural"
+      },
+      {
+        "label": "Weakness",
+        "value": "Weak when wet"
+      }
+    ],
+    "intro": [
+      "Viscose, modal, cupro, acetate and lyocell are made from plant cellulose, usually wood pulp, dissolved in chemicals and extruded as fiber. They are neither natural nor synthetic in any useful sense, so we show them as their own tier rather than quietly counting them toward either.",
+      "This matters because the most common way a garment is made to look more natural than it is involves putting viscose in the lining and nothing in the headline."
+    ],
+    "sections": [
+      {
+        "heading": "How they differ from each other",
+        "list": [
+          "<strong>Viscose and rayon</strong> are the same thing under two names. Drapes well, breathes reasonably, loses up to half its strength when wet, and the conventional process is chemically harsh.",
+          "<strong>Modal</strong> is a stronger, more stable viscose made from beech. Holds up to washing far better.",
+          "<strong>Cupro</strong> is made from cotton linter waste. Cool, silk-like, and genuinely the best lining material short of silk itself.",
+          "<strong>Lyocell and TENCEL</strong> use a closed-loop solvent process that recovers more than 99 percent of what it uses. Materially different from the rest, and we separate it.",
+          "<strong>Bamboo</strong> on a label almost always means bamboo viscose. It is viscose. We index it as viscose."
+        ]
+      },
+      {
+        "pull": "Bamboo viscose is viscose. The plant it started as does not survive the process."
+      },
+      {
+        "heading": "Where we land",
+        "body": "We do not count cellulosics toward the natural percentage, and we do not treat them as synthetic either. They breathe better than polyester, they biodegrade, and in a lining cupro is a genuinely good outcome. You can see the number and decide for yourself."
+      },
+      {
+        "heading": "Care, which decides how long it lasts",
+        "list": [
+          "Wash cool and gently. Viscose is at its weakest wet and can stretch out of shape in the machine.",
+          "Reshape while damp and dry flat. Hanging wet viscose is how a garment grows two sizes.",
+          "Iron on low, on the reverse. The fiber scorches easily.",
+          "Expect some shrinkage on the first wash even when the label says otherwise.",
+          "Lyocell and modal both tolerate normal machine washing far better than standard viscose."
+        ]
+      },
+      {
+        "heading": "The honest trade-offs",
+        "body": "Weak when wet, prone to stretching and shrinking, and conventional viscose production carries real environmental and worker safety problems that the closed-loop processes were developed to solve."
+      }
+    ]
+  }
+]
