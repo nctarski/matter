@@ -137,6 +137,13 @@ export default function Shop() {
             {catalog.length} pieces, every composition read shell and lining separately.
             Move the bar and watch what survives it.
           </p>
+          {/* Says out loud why the tiles are blank. A shopper reads it as a
+              design choice and an affiliate reviewer reads it as someone who
+              understands that product photography is licensed, not taken. */}
+          <p className="photonote">
+            Photography appears as each retailer partnership is approved. Until then a
+            piece shows its colour.
+          </p>
         </div>
 
         <div className="shop">

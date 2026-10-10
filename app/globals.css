@@ -172,6 +172,7 @@ button, input, select { font-family: inherit; }
 }
 .fullhead h2 { font-family: var(--display); font-size: clamp(28px, 5vw, 42px); line-height: 1.12; }
 .fullhead p { color: var(--muted); }
+.fullhead .photonote { color: var(--faint); font-size: 12px; margin-top: 8px; }
 
 .shop { display: grid; gap: var(--s5); padding-block: var(--s5) var(--s6); align-items: start; }
 @media (min-width: 960px) { .shop { grid-template-columns: 210px 1fr; gap: var(--s7); } }
