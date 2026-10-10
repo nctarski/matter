@@ -4,6 +4,7 @@ import {
   COLOURS, DARK_COLOURS, LINING_UNDISCLOSED,
   cellulosicPct, formatComposition, formatPrice,
 } from '@/lib/fibers';
+import { licensedImage } from '@/lib/catalog';
 import { SITE } from '@/lib/site';
 import { useHearts } from './HeartsProvider';
 
@@ -21,10 +22,15 @@ export default function ProductCard({ item, note }) {
 
   // Until you are approved and have real links, the card does not pretend to
   // be clickable. Fill item.url in the catalog and it becomes an outbound link.
+  // Never item.image directly. licensedImage returns nothing unless this
+  // retailer's program is approved, so an image can sit in the catalog ready
+  // to go and still not render until we have the right to show it.
+  const image = licensedImage(item);
+
   const Shot = (
     <div className="shot" style={{ backgroundColor: COLOURS[item.colour] || 'var(--hairline)' }}>
-      {item.image
-        ? <img src={item.image} alt={`${item.brand} ${item.name}`} loading="lazy" />
+      {image
+        ? <img src={image} alt={`${item.brand} ${item.name}`} loading="lazy" />
         : <span className="placeholder">{item.colour}</span>}
     </div>
   );
