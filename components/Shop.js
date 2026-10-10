@@ -54,6 +54,19 @@ export default function Shop() {
 
   const results = useMemo(() => sortItems(catalog.filter((i) => passes(i, f)), f.sort), [f]);
 
+  /* When a filter set returns nothing, find the nearest lower threshold that
+   * returns something. Only the threshold is relaxed, because it is the one
+   * control where the shopper picked a number rather than a hard rule, and
+   * quietly undoing an exclusion they set would be a different promise. */
+  const relax = useMemo(() => {
+    if (results.length) return null;
+    for (let t = f.threshold - 5; t >= 50; t -= 5) {
+      const count = catalog.filter((i) => passes(i, { ...f, threshold: t })).length;
+      if (count) return { threshold: t, count };
+    }
+    return null;
+  }, [f, results.length]);
+
   // Two-handle price slider. Keep the handles at least one step apart so they
   // cannot cross and strand the shopper on an empty result set.
   const onMin = (v) => set({ minPrice: Math.min(v, f.maxPrice - 50) });
@@ -274,10 +287,30 @@ export default function Shop() {
                 {results.map((item) => <ProductCard key={item.id} item={item} />)}
               </div>
             ) : (
-              <p className="empty">
-                Nothing meets that standard right now. Lower the threshold, widen the
-                price, or allow a blend.
-              </p>
+              <div className="empty">
+                <p>Nothing meets that standard right now.</p>
+                {/* Some categories cannot clear a high threshold at all. A legging
+                    needs more elastane than our allowance by construction, so
+                    Active at 95% is always empty. Telling someone the number that
+                    does work beats leaving them to guess at the slider. */}
+                {relax ? (
+                  <>
+                    <p>
+                      {relax.count} {relax.count === 1 ? 'piece' : 'pieces'} at{' '}
+                      {relax.threshold}% and above.
+                    </p>
+                    <button
+                      type="button"
+                      className="linkbtn"
+                      onClick={() => set({ threshold: relax.threshold })}
+                    >
+                      Drop to {relax.threshold}% &rarr;
+                    </button>
+                  </>
+                ) : (
+                  <p>Widen the price, clear an exclusion, or reset the filters.</p>
+                )}
+              </div>
             )}
           </div>
         </div>

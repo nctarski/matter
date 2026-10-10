@@ -55,6 +55,28 @@
   },
   {
     "type": "edit",
+    "title": "Same Shell, Different Lining",
+    "by": "One brand, one season, two answers",
+    "note": "These two Veronica Beard pieces were designed to be worn together and are photographed together. Both are 98 percent cotton corduroy. One is lined in cupro and one is lined in polyester. Net-a-Porter publishes both, several taps down, which is the whole reason we put it on the front of the card.",
+    "cta": "Shop tailoring",
+    "apply": "tailoring",
+    "picks": [
+      {
+        "id": "veronica-beard-livvy-dickey-corduroy-blazer",
+        "note": "Cupro lining. Plant derived rather than natural, and it breathes closer to silk than anything else at this price."
+      },
+      {
+        "id": "veronica-beard-holt-corduroy-flared-pants",
+        "note": "The matching pants, same corduroy, lined in polyester. Nothing about the shell tells you that."
+      },
+      {
+        "id": "polo-ralph-lauren-linen-blazer-pastel-yellow",
+        "note": "Pure linen, and then a polyester and viscose sleeve lining. Worth knowing before you buy linen for the breathability."
+      }
+    ]
+  },
+  {
+    "type": "edit",
     "title": "What Satin Isn’t",
     "by": "Three pieces that read like silk",
     "note": "Satin is a weave, not a fiber. It is the single most expensive thing most people do not know about buying clothes. Each of these looks like silk on the hanger and none of them is.",

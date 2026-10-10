@@ -297,8 +297,11 @@ select {
   border-top: 1px solid var(--hairline);
 }
 .lining { font-size: 11px; color: var(--faint); }
+/* Trim sits a notch quieter than the lining line. It is context, not a filterable fact. */
+.trim { font-size: 11px; color: var(--faint); font-style: italic; }
 .at { font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--faint); margin-top: 4px; }
-.empty { padding-block: var(--s7); text-align: center; color: var(--muted); }
+.empty { padding-block: var(--s7); text-align: center; color: var(--muted); display: grid; gap: 10px; justify-items: center; }
+.empty p { margin: 0; }
 
 /* ---------- My hearts ---------- */
 .hearts { padding-block: var(--s6); display: grid; gap: var(--s5); }

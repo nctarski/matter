@@ -67,11 +67,17 @@ export default function ProductCard({ item, note }) {
             an item can override the word. */}
         <span className="lining">
           {item.lining === LINING_UNDISCLOSED
-            ? 'Lining not disclosed'
+            ? `${item.liningLabel || 'Lining'} not disclosed`
             : item.lining
               ? `${item.liningLabel || 'Lining'} ${formatComposition(item.lining)}`
               : 'Unlined'}
         </span>
+        {/* Elastic, lace and thread are not a lining and should not be filtered
+            like one, but they are the part of a garment people are most often
+            surprised by. A trim note says what is known, in either direction:
+            Pansy publishing natural rubber elastic, or Hanro not publishing the
+            waistband at all. */}
+        {item.trim && <span className="trim">{item.trim}</span>}
         <span className="at">at {item.retailer}</span>
         {/* Shoppers find data problems faster than any sampling process does.
             Prefilled so a report arrives with the piece already identified. */}

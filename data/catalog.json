@@ -9,7 +9,16 @@
     "image": "",
     "category": "Sweaters",
     "colour": "Black",
-    "shell": [["Wool", 68], ["Nylon", 32]],
+    "shell": [
+      [
+        "Wool",
+        68
+      ],
+      [
+        "Nylon",
+        32
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -24,7 +33,20 @@
     "image": "",
     "category": "Outerwear",
     "colour": "Chocolate",
-    "shell": [["Wool", 65], ["Nylon", 34], ["Spandex", 1]],
+    "shell": [
+      [
+        "Wool",
+        65
+      ],
+      [
+        "Nylon",
+        34
+      ],
+      [
+        "Spandex",
+        1
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -39,7 +61,16 @@
     "image": "",
     "category": "Sweaters",
     "colour": "Ivory",
-    "shell": [["Cashmere", 67], ["Silk", 33]],
+    "shell": [
+      [
+        "Cashmere",
+        67
+      ],
+      [
+        "Silk",
+        33
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -54,7 +85,12 @@
     "image": "",
     "category": "Skirts",
     "colour": "Olive",
-    "shell": [["Leather", 100]],
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
     "lining": "undisclosed",
     "isNew": false,
     "tags": []
@@ -69,8 +105,22 @@
     "image": "",
     "category": "Skirts",
     "colour": "Green",
-    "shell": [["Rayon", 99], ["Spandex", 1]],
-    "lining": [["Polyester", 100]],
+    "shell": [
+      [
+        "Rayon",
+        99
+      ],
+      [
+        "Spandex",
+        1
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
     "liningLabel": "Contrast",
     "isNew": false,
     "tags": []
@@ -85,7 +135,12 @@
     "image": "",
     "category": "Skirts",
     "colour": "Olive",
-    "shell": [["Suede", 100]],
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -100,7 +155,12 @@
     "image": "",
     "category": "Sweaters",
     "colour": "Green",
-    "shell": [["Cashmere", 100]],
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -115,7 +175,12 @@
     "image": "",
     "category": "Outerwear",
     "colour": "Olive",
-    "shell": [["Shearling", 100]],
+    "shell": [
+      [
+        "Shearling",
+        100
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -130,7 +195,20 @@
     "image": "",
     "category": "Outerwear",
     "colour": "Grey",
-    "shell": [["Wool", 50], ["Alpaca", 49], ["Polyamide", 1]],
+    "shell": [
+      [
+        "Wool",
+        50
+      ],
+      [
+        "Alpaca",
+        49
+      ],
+      [
+        "Polyamide",
+        1
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -145,7 +223,20 @@
     "image": "",
     "category": "Dresses",
     "colour": "Navy",
-    "shell": [["Linen", 64], ["Rayon", 33], ["Spandex", 3]],
+    "shell": [
+      [
+        "Linen",
+        64
+      ],
+      [
+        "Rayon",
+        33
+      ],
+      [
+        "Spandex",
+        3
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -160,10 +251,22 @@
     "image": "",
     "category": "Dresses",
     "colour": "Olive",
-    "shell": [["Cotton", 100]],
-    "lining": [["Cotton", 100]],
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
     "isNew": false,
-    "tags": ["wedding-guest"]
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "eaves-reidun-top",
@@ -175,7 +278,12 @@
     "image": "",
     "category": "Tops & blouses",
     "colour": "Olive",
-    "shell": [["Viscose", 100]],
+    "shell": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -190,10 +298,17 @@
     "image": "",
     "category": "Tops & blouses",
     "colour": "Blush",
-    "shell": [["Silk", 100]],
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
     "lining": null,
     "isNew": false,
-    "tags": ["wedding-guest"]
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "eaves-nico-silk-tank",
@@ -205,7 +320,12 @@
     "image": "",
     "category": "Tops & blouses",
     "colour": "Blush",
-    "shell": [["Silk", 100]],
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -220,7 +340,12 @@
     "image": "",
     "category": "Tops & blouses",
     "colour": "Black",
-    "shell": [["Viscose", 100]],
+    "shell": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
     "lining": null,
     "isNew": false,
     "tags": []
@@ -235,10 +360,25 @@
     "image": "",
     "category": "Tops & blouses",
     "colour": "Mustard",
-    "shell": [["Cotton", 72], ["Silk", 25], ["Metallised fibre", 3]],
+    "shell": [
+      [
+        "Cotton",
+        72
+      ],
+      [
+        "Silk",
+        25
+      ],
+      [
+        "Metallised fibre",
+        3
+      ]
+    ],
     "lining": null,
     "isNew": false,
-    "tags": ["wedding-guest"]
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "clio-peppiatt-mare-mini-dress",
@@ -250,10 +390,17 @@
     "image": "",
     "category": "Dresses",
     "colour": "Pink",
-    "shell": [["Nylon", 100]],
+    "shell": [
+      [
+        "Nylon",
+        100
+      ]
+    ],
     "lining": null,
     "isNew": false,
-    "tags": ["wedding-guest"]
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "magda-butrym-floral-appliqued-wool-crepe-midi-dress",
@@ -265,10 +412,21 @@
     "image": "",
     "category": "Dresses",
     "colour": "Red",
-    "shell": [["Wool", 96], ["Elastane", 4]],
+    "shell": [
+      [
+        "Wool",
+        96
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
     "lining": null,
     "isNew": false,
-    "tags": ["wedding-guest"]
+    "tags": [
+      "wedding-guest"
+    ]
   },
   {
     "id": "magda-butrym-cotton-silk-blend-mini-dress",
@@ -280,9 +438,264 @@
     "image": "",
     "category": "Dresses",
     "colour": "Black",
-    "shell": [["Cotton", 51], ["Silk", 49]],
-    "lining": [["Silk", 100]],
+    "shell": [
+      [
+        "Cotton",
+        51
+      ],
+      [
+        "Silk",
+        49
+      ]
+    ],
+    "lining": [
+      [
+        "Silk",
+        100
+      ]
+    ],
     "isNew": false,
-    "tags": ["wedding-guest"]
+    "tags": [
+      "wedding-guest"
+    ]
+  },
+  {
+    "id": "veronica-beard-livvy-dickey-corduroy-blazer",
+    "retailer": "Net-a-Porter",
+    "brand": "Veronica Beard",
+    "name": "Livvy Dickey cotton-blend corduroy blazer",
+    "price": 800,
+    "url": "https://www.net-a-porter.com/en-us/shop/product/veronica-beard/clothing/blazers/livvy-dickey-cotton-blend-corduroy-blazer/46376663163141857",
+    "image": "",
+    "category": "Tailoring",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": [
+      [
+        "Cupro",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "veronica-beard-holt-corduroy-flared-pants",
+    "retailer": "Net-a-Porter",
+    "brand": "Veronica Beard",
+    "name": "Holt cotton-blend corduroy flared pants",
+    "price": 500,
+    "url": "https://www.net-a-porter.com/en-us/shop/product/veronica-beard/clothing/flared/holt-cotton-blend-corduroy-flared-pants/46376663163141843",
+    "image": "",
+    "category": "Pants",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "polo-ralph-lauren-belted-linen-wide-leg-pants",
+    "retailer": "Net-a-Porter",
+    "brand": "Polo Ralph Lauren",
+    "name": "Belted linen wide-leg pants",
+    "price": 300,
+    "url": "https://www.net-a-porter.com/en-us/shop/product/polo-ralph-lauren/clothing/wide-leg/belted-linen-wide-leg-pants/46376663163106759",
+    "image": "",
+    "category": "Pants",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "polo-ralph-lauren-linen-blazer-white",
+    "retailer": "Net-a-Porter",
+    "brand": "Polo Ralph Lauren",
+    "name": "Linen blazer",
+    "price": 500,
+    "url": "https://www.net-a-porter.com/en-us/shop/product/polo-ralph-lauren/clothing/blazers/linen-blazer/46376663163106689",
+    "image": "",
+    "category": "Tailoring",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "polo-ralph-lauren-linen-blazer-pastel-yellow",
+    "retailer": "Net-a-Porter",
+    "brand": "Polo Ralph Lauren",
+    "name": "Linen blazer",
+    "price": 500,
+    "url": "https://www.net-a-porter.com/en-us/shop/product/polo-ralph-lauren/clothing/blazers/linen-blazer/46376663163106803",
+    "image": "",
+    "category": "Tailoring",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        55
+      ],
+      [
+        "Viscose",
+        45
+      ]
+    ],
+    "liningLabel": "Sleeve lining",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "hanro-cotton-seamless-high-cut-full-brief",
+    "retailer": "Hanro",
+    "brand": "Hanro",
+    "name": "Cotton Seamless high cut full brief",
+    "price": 55,
+    "url": "https://shop.hanrousa.com/products/cotton-seamless-cotton-high-cut-full-brief-dark-mocha",
+    "image": "",
+    "category": "Undergarments",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "trim": "Elastic at the waist and legs, composition not published",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "hanro-cotton-delight-lace-trim-soft-cup-bra",
+    "retailer": "Hanro",
+    "brand": "Hanro",
+    "name": "Cotton Delight lace trim soft cup bra",
+    "price": 110,
+    "url": "https://shop.hanrousa.com/products/cotton-delight-lace-trim-cotton-soft-cup-bra-white-71838-101",
+    "image": "",
+    "category": "Undergarments",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "trim": "Lace trim composition not published",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "pansy-french-cut",
+    "retailer": "Pansy",
+    "brand": "Pansy",
+    "name": "French cut",
+    "price": 34,
+    "url": "https://www.pansy.co/shop/french-cut",
+    "image": "",
+    "category": "Undergarments",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "trim": "Natural rubber elastic, organic cotton thread",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "pact-organic-rib-legging",
+    "retailer": "Pact",
+    "brand": "Pact",
+    "name": "Organic On The Go-To rib legging",
+    "price": 38,
+    "url": "https://wearpact.com/women/apparel/all%20bottoms/on%20the%20go-to%20rib%20legging/wa1-fbn-cac",
+    "image": "",
+    "category": "Active",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Organic cotton",
+        91
+      ],
+      [
+        "Elastane",
+        9
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "pact-organic-shelf-bra-tank",
+    "retailer": "Pact",
+    "brand": "Pact",
+    "name": "Organic On The Go-To shelf bra tank",
+    "price": 28,
+    "url": "https://wearpact.com/women/apparel/all%20tops/on%20the%20go-to%20shelf%20bra%20tank/wa1-w18-seb",
+    "image": "",
+    "category": "Active",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        90
+      ],
+      [
+        "Spandex",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
   }
 ]
