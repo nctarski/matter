@@ -697,5 +697,758 @@
     "lining": null,
     "isNew": false,
     "tags": []
+  },
+  {
+    "id": "white-warren-cashmere-crew-dark-emerald",
+    "retailer": "White + Warren",
+    "brand": "White + Warren",
+    "name": "Cashmere crew",
+    "price": 365,
+    "url": "https://www.whiteandwarren.com/products/cashmere-crew-dark-emerald",
+    "image": "",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "white-warren-cashmere-waffle-polo",
+    "retailer": "White + Warren",
+    "brand": "White + Warren",
+    "name": "Cashmere waffle polo",
+    "price": 465,
+    "url": "https://www.whiteandwarren.com/products/cashmere-thermal-polo-graphite-heather",
+    "image": "",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "white-warren-cashmere-saddle-sleeve-crewneck",
+    "retailer": "White + Warren",
+    "brand": "White + Warren",
+    "name": "Cashmere saddle sleeve crewneck",
+    "price": 525,
+    "url": "https://www.whiteandwarren.com/products/cashmere-saddle-sleeve-crewneck-soft-shale",
+    "image": "",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "white-warren-cashmere-layered-collar-sweater",
+    "retailer": "White + Warren",
+    "brand": "White + Warren",
+    "name": "Cashmere layered collar sweater",
+    "price": 395,
+    "url": "https://www.whiteandwarren.com/products/cashmere-contrast-collarsweater-deep-navydeep-olive",
+    "image": "",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "white-warren-cashmere-varsity-shorts",
+    "retailer": "White + Warren",
+    "brand": "White + Warren",
+    "name": "Cashmere varsity shorts",
+    "price": 139,
+    "url": "https://www.whiteandwarren.com/products/cashmere-varisty-shorts-deep-navy-soft-white",
+    "image": "",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "white-warren-cashmere-mockneck-tee",
+    "retailer": "White + Warren",
+    "brand": "White + Warren",
+    "name": "Cashmere mockneck tee",
+    "price": 385,
+    "url": "https://www.whiteandwarren.com/products/cashmere-mock-neck-tee-graphite-heather",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "white-warren-cashmere-off-shoulder-top",
+    "retailer": "White + Warren",
+    "brand": "White + Warren",
+    "name": "Cashmere off shoulder top",
+    "price": 295,
+    "url": "https://www.whiteandwarren.com/products/cashmere-off-the-shoulder-top-soft-white",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        87
+      ],
+      [
+        "Lycra",
+        13
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "white-warren-cashmere-button-polo",
+    "retailer": "White + Warren",
+    "brand": "White + Warren",
+    "name": "Cashmere button polo",
+    "price": 189,
+    "url": "https://www.whiteandwarren.com/products/cashmere-button-polo-soft-white-taupe",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "faherty-driftwood-denim-pant",
+    "retailer": "Faherty",
+    "brand": "Faherty",
+    "name": "Driftwood denim pant",
+    "price": 198,
+    "url": "https://fahertybrand.com/products/driftwood-denim-pant-almond-milk",
+    "image": "",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        80
+      ],
+      [
+        "Recycled cotton",
+        20
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "faherty-apres-alpaca-relaxed-vest",
+    "retailer": "Faherty",
+    "brand": "Faherty",
+    "name": "Après alpaca relaxed vest",
+    "price": 298,
+    "url": "https://fahertybrand.com/products/apres-alpaca-relaxed-vest-autumn-heather",
+    "image": "",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Alpaca",
+        56
+      ],
+      [
+        "Pima cotton",
+        44
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "faherty-sunwashed-canvas-dockside-pant",
+    "retailer": "Faherty",
+    "brand": "Faherty",
+    "name": "Sunwashed canvas dockside pant",
+    "price": 198,
+    "url": "https://fahertybrand.com/products/sunwashed-canvas-dockside-pant-olive-night",
+    "image": "",
+    "category": "Pants",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Organic cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "faherty-twill-tide-slim-straight-pant",
+    "retailer": "Faherty",
+    "brand": "Faherty",
+    "name": "Twill tide slim straight pant",
+    "price": 198,
+    "url": "https://fahertybrand.com/products/twill-tide-slim-straight-pant-maple-cove-stripe",
+    "image": "",
+    "category": "Pants",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Organic cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "faherty-coastal-poplin-nera-skirt",
+    "retailer": "Faherty",
+    "brand": "Faherty",
+    "name": "Coastal poplin Nera skirt",
+    "price": 168,
+    "url": "https://fahertybrand.com/products/coastal-poplin-nera-skirt-night-bloom",
+    "image": "",
+    "category": "Skirts",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "faherty-organic-cotton-denim-sleeveless-dress",
+    "retailer": "Faherty",
+    "brand": "Faherty",
+    "name": "Organic cotton denim sleeveless dress",
+    "price": 228,
+    "url": "https://fahertybrand.com/products/organic-cotton-denim-sleeveless-dress-midnight-storm-wash",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Regenerative cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "faherty-coastal-poplin-catalina-dress",
+    "retailer": "Faherty",
+    "brand": "Faherty",
+    "name": "Coastal poplin Catalina dress",
+    "price": 248,
+    "url": "https://fahertybrand.com/products/coastal-poplin-catalina-dress-drift-sand-stripe",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "another-tomorrow-cropped-tapered-trouser",
+    "retailer": "Another Tomorrow",
+    "brand": "Another Tomorrow",
+    "name": "Cropped tapered trouser",
+    "price": 790,
+    "url": "https://anothertomorrow.co/products/cropped-tapered-trouser-black",
+    "image": "",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Lyocell",
+        65
+      ],
+      [
+        "Organic cotton",
+        35
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "another-tomorrow-satin-gown",
+    "retailer": "Another Tomorrow",
+    "brand": "Another Tomorrow",
+    "name": "Satin gown",
+    "price": 1590,
+    "url": "https://anothertomorrow.co/products/satin-gown-black",
+    "image": "",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
+  },
+  {
+    "id": "another-tomorrow-fur-collar-balmacaan",
+    "retailer": "Another Tomorrow",
+    "brand": "Another Tomorrow",
+    "name": "Fur collar balmacaan",
+    "price": 1690,
+    "url": "https://anothertomorrow.co/products/fur-collar-balmacaan-celadon",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Green",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Collar composition not listed separately"
+  },
+  {
+    "id": "another-tomorrow-short-mac-blouson",
+    "retailer": "Another Tomorrow",
+    "brand": "Another Tomorrow",
+    "name": "Short mac blouson",
+    "price": 1590,
+    "url": "https://anothertomorrow.co/products/short-mac-blouson-cream",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "another-tomorrow-double-face-balmacaan",
+    "retailer": "Another Tomorrow",
+    "brand": "Another Tomorrow",
+    "name": "Double face balmacaan",
+    "price": 1950,
+    "url": "https://anothertomorrow.co/products/double-face-balmacaan-khaki",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "another-tomorrow-soft-trench",
+    "retailer": "Another Tomorrow",
+    "brand": "Another Tomorrow",
+    "name": "Soft trench",
+    "price": 1990,
+    "url": "https://anothertomorrow.co/products/soft-trench-quartz",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Lyocell",
+        65
+      ],
+      [
+        "Organic cotton",
+        35
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": [],
+    "liningLabel": "Partial lining"
+  },
+  {
+    "id": "another-tomorrow-fluid-cowl-neck-top",
+    "retailer": "Another Tomorrow",
+    "brand": "Another Tomorrow",
+    "name": "Fluid cowl neck top",
+    "price": 790,
+    "url": "https://anothertomorrow.co/products/fluid-cowl-neck-top-black",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Viscose",
+        96
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "another-tomorrow-french-cuff-blouse",
+    "retailer": "Another Tomorrow",
+    "brand": "Another Tomorrow",
+    "name": "French cuff blouse",
+    "price": 490,
+    "url": "https://anothertomorrow.co/products/french-cuff-blouse-black",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "another-tomorrow-cropped-sleeveless-shirt",
+    "retailer": "Another Tomorrow",
+    "brand": "Another Tomorrow",
+    "name": "Cropped sleeveless shirt",
+    "price": 350,
+    "url": "https://anothertomorrow.co/products/cropped-sleeveless-shirt-midnight",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "falconeri-ultrasoft-cashmere-palazzo-pants",
+    "retailer": "Falconeri",
+    "brand": "Falconeri",
+    "name": "Ultrasoft cashmere palazzo pants",
+    "price": 395,
+    "url": "https://www.falconeri.com/us/product/ultrasoft_cashmere_palazzo_pants-DPL445A.html?dwvar_DPL445A_Z_COL_FALCD=9797",
+    "image": "",
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "falconeri-ultrasoft-cashmere-cable-knit-pants-grey",
+    "retailer": "Falconeri",
+    "brand": "Falconeri",
+    "name": "Ultrasoft cashmere ribbed cable-knit pants",
+    "price": 715,
+    "url": "https://www.falconeri.com/us/product/ultrasoft_cashmere_ribbed_cable-knit_pants-DPL484B.html?dwvar_DPL484B_Z_COL_FALC=9108",
+    "image": "",
+    "category": "Pants",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "falconeri-ultrasoft-cashmere-cable-knit-pants-natural",
+    "retailer": "Falconeri",
+    "brand": "Falconeri",
+    "name": "Ultrasoft cashmere ribbed cable-knit pants",
+    "price": 715,
+    "url": "https://www.falconeri.com/us/product/ultrasoft_cashmere_ribbed_cable-knit_pants-DPL484B.html?dwvar_DPL484B_Z_COL_FALC=8176",
+    "image": "",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "falconeri-light-cashmere-palazzo-pants",
+    "retailer": "Falconeri",
+    "brand": "Falconeri",
+    "name": "Light cashmere palazzo pants",
+    "price": 395,
+    "url": "https://www.falconeri.com/us/product/light_cashmere_palazzo_pants-DPL250B.html?dwvar_DPL250B_Z_COL_FALC=9394",
+    "image": "",
+    "category": "Pants",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "falconeri-reversible-ultrafine-cashmere-skirt",
+    "retailer": "Falconeri",
+    "brand": "Falconeri",
+    "name": "Reversible skirt in ultrafine cashmere",
+    "price": 535,
+    "url": "https://www.falconeri.com/us/product/reversible_skirt_in_ultrafine_cashmere-DGL439D.html?dwvar_DGL439D_Z_COL_FALC=9370",
+    "image": "",
+    "category": "Skirts",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "falconeri-cashmere-tricot-lame-cardigan",
+    "retailer": "Falconeri",
+    "brand": "Falconeri",
+    "name": "Cashmere tricot lamé cardigan with zipper",
+    "price": 885,
+    "url": "https://www.falconeri.com/us/product/cashmere_tricot_lame_cardigan_with_zipper-DML481W.html?dwvar_DML481W_Z_COL_FALC=9365",
+    "image": "",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        85
+      ],
+      [
+        "Viscose",
+        12
+      ],
+      [
+        "Polyester",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "falconeri-silk-satin-blouse-knitted-inserts",
+    "retailer": "Falconeri",
+    "brand": "Falconeri",
+    "name": "Silk satin blouse with knitted inserts",
+    "price": 295,
+    "url": "https://www.falconeri.com/us/product/silk_satin_blouse_with_knitted_inserts-DMLD406.html?dwvar_DMLD406_Z_COL_FALC=9883",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Silk",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Polyamide",
+        1
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "isNew": false,
+    "tags": [],
+    "liningLabel": "Knitted inserts"
+  },
+  {
+    "id": "falconeri-double-breasted-cashmere-coat",
+    "retailer": "Falconeri",
+    "brand": "Falconeri",
+    "name": "Double-breasted cashmere coat",
+    "price": 2400,
+    "url": "https://www.falconeri.com/us/product/double-breasted_cashmere_coat-DCL470Q.html?dwvar_DCL470Q_Z_COL_FALC=9879",
+    "image": "",
+    "category": "Outerwear",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "falconeri-ribbed-wool-top",
+    "retailer": "Falconeri",
+    "brand": "Falconeri",
+    "name": "Ribbed wool top",
+    "price": 225,
+    "url": "https://www.falconeri.com/us/product/ribbed_wool_top-DMC472B.html?dwvar_DMC472B_Z_COL_FALC=8297",
+    "image": "",
+    "category": "Tops & blouses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "falconeri-pure-silk-wrap-skirt",
+    "retailer": "Falconeri",
+    "brand": "Falconeri",
+    "name": "Pure silk wrap skirt",
+    "price": 535,
+    "url": "https://www.falconeri.com/us/product/pure_silk_wrap_skirt-DGL406L.html?dwvar_DGL406L_Z_COL_FALC=9879",
+    "image": "",
+    "category": "Skirts",
+    "colour": "Green",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [
+      "wedding-guest"
+    ]
   }
 ]

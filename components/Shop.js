@@ -30,7 +30,7 @@ const EDIT_FILTERS = {
  * who wants to apply the standard. */
 const initial = (brand) => ({
   ...DEFAULTS,
-  ...(brand ? { threshold: 0, sort: 'natural' } : { sort: 'new' }),
+  ...(brand ? { threshold: 0, sort: 'brand' } : { sort: 'new' }),
   nav: 'All',      // which top bar entry is active
   category: null,  // set when that entry is a garment category
   tag: null,       // set when that entry is an occasion
@@ -315,6 +315,7 @@ export default function Shop({ brand = null }) {
               <div className="sortwrap">
                 <label htmlFor="sort">Sort</label>
                 <select id="sort" value={f.sort} onChange={(e) => set({ sort: e.target.value })}>
+                  {brand && <option value="brand">Featured</option>}
                   <option value="new">New arrivals</option>
                   <option value="natural">Most natural</option>
                   <option value="asc">Price, low to high</option>

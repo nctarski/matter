@@ -1,6 +1,6 @@
 'use client';
 
-import catalog from '@/data/catalog.json';
+import { catalog } from '@/lib/catalog';
 import ProductCard from './ProductCard';
 import { useHearts } from './HeartsProvider';
 import { formatPrice } from '@/lib/fibers';
