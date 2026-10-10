@@ -5,7 +5,7 @@ import { catalog } from '@/lib/catalog';
 import edits from '@/data/edits.json';
 import ProductCard from './ProductCard';
 import {
-  COLOURS, DEFAULTS, FILTERABLE_FIBERS, NAV, PRICE_CEILING,
+  COLOURS, DEFAULTS, EXCLUDABLE, FILTERABLE_FIBERS, NAV, PRICE_CEILING,
   formatPrice, passes, sortItems,
 } from '@/lib/fibers';
 
@@ -29,6 +29,7 @@ const initial = () => ({
   tag: null,       // set when that entry is an occasion
   colours: [],
   fibers: [],
+  excluded: [],
   retailers: [],
   sort: 'new',
 });
@@ -205,6 +206,20 @@ export default function Shop() {
                 />
                 Exclude animal fibers
               </label>
+            </div>
+
+            <div className="fgroup">
+              <h3>Never show me</h3>
+              {EXCLUDABLE.map((group) => (
+                <button
+                  key={group.label} type="button" className="fbtn ex"
+                  aria-pressed={f.excluded.includes(group.label)}
+                  onClick={() => toggleIn('excluded', group.label)}
+                >
+                  {group.label}
+                </button>
+              ))}
+              <p className="fnote">Reads the lining too.</p>
             </div>
 
             <div className="fgroup">

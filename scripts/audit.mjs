@@ -77,6 +77,11 @@ for (const item of catalog) {
   }
 
   for (const [label, comp] of [['shell', item.shell], ['lining', item.lining]]) {
+    if (comp === 'undisclosed') {
+      if (label === 'shell') fail(id, 'shell composition cannot be undisclosed');
+      else warn(id, 'retailer says lined but will not say with what');
+      continue;
+    }
     if (!comp) {
       if (label === 'shell') fail(id, 'no shell composition');
       continue;

@@ -1,6 +1,9 @@
 'use client';
 
-import { COLOURS, DARK_COLOURS, cellulosicPct, formatComposition, formatPrice } from '@/lib/fibers';
+import {
+  COLOURS, DARK_COLOURS, LINING_UNDISCLOSED,
+  cellulosicPct, formatComposition, formatPrice,
+} from '@/lib/fibers';
 import { SITE } from '@/lib/site';
 import { useHearts } from './HeartsProvider';
 
@@ -63,9 +66,11 @@ export default function ProductCard({ item, note }) {
             a trim, and calling those a lining would be its own small lie, so
             an item can override the word. */}
         <span className="lining">
-          {item.lining
-            ? `${item.liningLabel || 'Lining'} ${formatComposition(item.lining)}`
-            : 'Unlined'}
+          {item.lining === LINING_UNDISCLOSED
+            ? 'Lining not disclosed'
+            : item.lining
+              ? `${item.liningLabel || 'Lining'} ${formatComposition(item.lining)}`
+              : 'Unlined'}
         </span>
         <span className="at">at {item.retailer}</span>
         {/* Shoppers find data problems faster than any sampling process does.
@@ -76,9 +81,11 @@ export default function ProductCard({ item, note }) {
             `Composition correction: ${item.brand} ${item.name}`
           )}&body=${encodeURIComponent(
             `Piece: ${item.brand} ${item.name}\nID: ${item.id}\nWe list: ${formatComposition(item.shell)}` +
-              `${item.lining
-                ? ` / ${(item.liningLabel || 'lining').toLowerCase()} ${formatComposition(item.lining)}`
-                : ' / unlined'}\n\nWhat we got wrong:\n`
+              `${item.lining === LINING_UNDISCLOSED
+                ? ' / lining not disclosed'
+                : item.lining
+                  ? ` / ${(item.liningLabel || 'lining').toLowerCase()} ${formatComposition(item.lining)}`
+                  : ' / unlined'}\n\nWhat we got wrong:\n`
           )}`}
         >
           Report an error
