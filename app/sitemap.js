@@ -1,4 +1,5 @@
 import guides from '@/data/guides.json';
+import { BRANDS, slugify } from '@/lib/catalog';
 import { SITE } from '@/lib/site';
 
 export default function sitemap() {
@@ -12,6 +13,12 @@ export default function sitemap() {
     { url: `${SITE.url}/disclosure`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${SITE.url}/privacy`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${SITE.url}/terms`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
+    ...BRANDS.map((b) => ({
+      url: `${SITE.url}/brand/${slugify(b)}`,
+      lastModified: now,
+      changeFrequency: 'weekly',
+      priority: 0.7,
+    })),
     ...guides.map((g) => ({
       url: `${SITE.url}/learn/${g.slug}`,
       lastModified: now,

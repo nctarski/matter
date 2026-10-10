@@ -22,8 +22,15 @@ const EDIT_FILTERS = {
   tailoring: { nav: 'Tailoring', category: 'Tailoring' },
 };
 
-const initial = () => ({
+/* A brand page starts from a different place than the homepage. It shows every
+ * piece of that brand, including the ones that miss the 95% default, because
+ * the person most likely to be looking is the brand itself and hiding half
+ * their range would be its own kind of dishonesty. Sorted most natural first,
+ * so the pieces that make the case lead. The rail is still there for anyone
+ * who wants to apply the standard. */
+const initial = (brand) => ({
   ...DEFAULTS,
+  ...(brand ? { threshold: 0, sort: 'natural' } : { sort: 'new' }),
   nav: 'All',      // which top bar entry is active
   category: null,  // set when that entry is a garment category
   tag: null,       // set when that entry is an occasion
@@ -31,12 +38,13 @@ const initial = () => ({
   fibers: [],
   excluded: [],
   retailers: [],
-  sort: 'new',
+  brands: brand ? [brand] : [],
 });
 
-export default function Shop() {
-  const [f, setF] = useState(initial);
+export default function Shop({ brand = null }) {
+  const [f, setF] = useState(() => initial(brand));
   const fullRef = useRef(null);
+  const brandPieces = brand ? catalog.filter((i) => i.brand === brand) : catalog;
 
   const set = (patch) => setF((prev) => ({ ...prev, ...patch }));
   const toggleIn = (key, value) =>
@@ -48,7 +56,7 @@ export default function Shop() {
     }));
 
   const applyEdit = (key) => {
-    setF({ ...initial(), ...(EDIT_FILTERS[key] || {}) });
+    setF({ ...initial(brand), ...(EDIT_FILTERS[key] || {}) });
     fullRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   };
 
@@ -110,8 +118,9 @@ export default function Shop() {
       </div>
 
       <main id="main" className="wrap">
-        {/* Curated edits and explainer strips, in the order set in data/edits.json */}
-        {edits.map((block, i) =>
+        {/* Curated edits and explainer strips, in the order set in data/edits.json.
+            A brand page skips straight to that brand's grid. */}
+        {!brand && edits.map((block, i) =>
           block.type === 'strip' ? (
             <section className="strip" key={`strip-${i}`}>
               <h2>{block.heading}</h2>
@@ -142,12 +151,26 @@ export default function Shop() {
         )}
 
         <div className="fullhead" ref={fullRef}>
-          <p className="eyebrow">The full edit</p>
-          <h2>Set your own standard</h2>
-          <p>
-            {catalog.length} pieces, every composition read shell and lining separately.
-            Move the bar and watch what survives it.
-          </p>
+          {brand ? (
+            <>
+              <p className="eyebrow">{brand} at MATTER</p>
+              <h2>{brand}, read label first</h2>
+              <p>
+                {brandPieces.length} {brandPieces.length === 1 ? 'piece' : 'pieces'} indexed,
+                every composition read from the product page and shown shell and lining
+                separately. Sorted most natural first.
+              </p>
+            </>
+          ) : (
+            <>
+              <p className="eyebrow">The full edit</p>
+              <h2>Set your own standard</h2>
+              <p>
+                {catalog.length} pieces, every composition read shell and lining separately.
+                Move the bar and watch what survives it.
+              </p>
+            </>
+          )}
           {/* Says out loud why the tiles are blank. A shopper reads it as a
               design choice and an affiliate reviewer reads it as someone who
               understands that product photography is licensed, not taken. */}
@@ -166,7 +189,7 @@ export default function Shop() {
                 <span>and above</span>
               </div>
               <input
-                id="thresh" type="range" min={50} max={100} step={5} value={f.threshold}
+                id="thresh" type="range" min={brand ? 0 : 50} max={100} step={5} value={f.threshold}
                 aria-label="Minimum natural fiber percentage"
                 onChange={(e) => set({ threshold: +e.target.value })}
               />
@@ -279,7 +302,7 @@ export default function Shop() {
               ))}
             </div>
 
-            <button type="button" className="reset" onClick={() => setF(initial())}>
+            <button type="button" className="reset" onClick={() => setF(initial(brand))}>
               Reset all filters
             </button>
           </aside>
