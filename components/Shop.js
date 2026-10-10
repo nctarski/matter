@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo, useRef, useState } from 'react';
-import catalog from '@/data/catalog.json';
+import { catalog } from '@/lib/catalog';
 import edits from '@/data/edits.json';
 import ProductCard from './ProductCard';
 import {
@@ -15,6 +15,7 @@ const RETAILERS = [...new Set(catalog.map((i) => i.retailer))].sort();
 /** The filter state each curated edit drops you into when you click through. */
 const EDIT_FILTERS = {
   outerwear: { nav: 'Outerwear', category: 'Outerwear' },
+  weddingGuest: { nav: 'Wedding guest', tag: 'wedding-guest' },
   pure: { threshold: 100, allowStretch: false },
   under300: { maxPrice: 300 },
   cashmere: { fibers: ['Cashmere'] },
@@ -91,7 +92,10 @@ export default function Shop() {
               <h2>{block.heading}</h2>
               <p>{block.body}</p>
             </section>
-          ) : (
+          ) : /* An edit whose picks are all still pending confirmation would
+                 render as a heading above nothing. Drop the whole block
+                 instead, so the homepage never has a hole in it. */
+          block.picks.filter((p) => byId[p.id]).length === 0 ? null : (
             <section className="edit-sec" key={`edit-${i}`} aria-labelledby={`edit-h-${i}`}>
               <div className="ehead">
                 <h2 id={`edit-h-${i}`}>{block.title}</h2>

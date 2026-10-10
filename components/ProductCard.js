@@ -59,8 +59,13 @@ export default function ProductCard({ item, note }) {
           {formatComposition(item.shell)}
           {cellulosic > 0 && ` · ${cellulosic}% regenerated cellulosic`}
         </span>
+        {/* Most second compositions are a lining. Some are a contrast panel or
+            a trim, and calling those a lining would be its own small lie, so
+            an item can override the word. */}
         <span className="lining">
-          {item.lining ? `Lining ${formatComposition(item.lining)}` : 'Unlined'}
+          {item.lining
+            ? `${item.liningLabel || 'Lining'} ${formatComposition(item.lining)}`
+            : 'Unlined'}
         </span>
         <span className="at">at {item.retailer}</span>
         {/* Shoppers find data problems faster than any sampling process does.
@@ -71,7 +76,9 @@ export default function ProductCard({ item, note }) {
             `Composition correction: ${item.brand} ${item.name}`
           )}&body=${encodeURIComponent(
             `Piece: ${item.brand} ${item.name}\nID: ${item.id}\nWe list: ${formatComposition(item.shell)}` +
-              `${item.lining ? ` / lining ${formatComposition(item.lining)}` : ' / unlined'}\n\nWhat we got wrong:\n`
+              `${item.lining
+                ? ` / ${(item.liningLabel || 'lining').toLowerCase()} ${formatComposition(item.lining)}`
+                : ' / unlined'}\n\nWhat we got wrong:\n`
           )}`}
         >
           Report an error

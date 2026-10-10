@@ -3,21 +3,21 @@
     "type": "edit",
     "title": "The Fall Edit",
     "by": "Hand selected by our editors",
-    "note": "Six weeks of looking, three pieces we would actually buy. Chosen for cut first, then held to the same composition standard as everything else here.",
+    "note": "Three pieces that earned it. Chosen for the cut first, then held to the same composition standard as everything else here.",
     "cta": "Shop all outerwear",
     "apply": "outerwear",
     "picks": [
       {
-        "id": "toteme-signature-double-breasted-coat",
-        "note": "The camel coat worth the outlay. That 8 percent cashmere is what stops it reading stiff across the shoulders."
+        "id": "vince-spotted-virgin-wool-blend-coat",
+        "note": "Fifty percent wool, forty-nine percent alpaca, one percent polyamide holding the seams. The alpaca is what gives it drape instead of bulk."
       },
       {
-        "id": "cos-boiled-wool-car-coat",
-        "note": "Boiled, unlined, and under $300. Nothing else in the catalog does this much for the money."
+        "id": "vince-plush-cashmere-funnel-neck-sweater",
+        "note": "Cashmere and nothing else. The funnel neck is the part that makes it work without a scarf."
       },
       {
-        "id": "toteme-alpaca-blend-cardigan",
-        "note": "Alpaca-led rather than wool-led, which is why it has weight without bulk."
+        "id": "vince-leather-midi-skirt",
+        "note": "Full lambskin, unlined. It will crease where you sit and that is the point."
       }
     ]
   },
@@ -28,23 +28,23 @@
   },
   {
     "type": "edit",
-    "title": "The 100% Club",
-    "by": "Single fiber, nothing blended in",
-    "note": "No polyamide at the cuffs, no elastane for shape, no viscose quietly making up the difference. Harder to find than it should be, which is why it has its own edit.",
-    "cta": "Shop the 100% club",
-    "apply": "pure",
+    "title": "Wedding Guest, Read Properly",
+    "by": "What survives the filter",
+    "note": "Wedding guest is where composition gets worst, because beading and structure usually mean polyester doing the work underneath. These three do not.",
+    "cta": "Shop wedding guest",
+    "apply": "weddingGuest",
     "picks": [
       {
-        "id": "jil-sander-compact-wool-midi-skirt",
-        "note": "Compact wool with a cupro lining. The whole garment is natural fiber, which almost never happens at this price."
+        "id": "magda-butrym-cotton-silk-blend-mini-dress",
+        "note": "Cotton and silk on top, one hundred percent silk lining underneath. Nothing else in the catalog does both."
       },
       {
-        "id": "the-row-lucia-silk-blouse",
-        "note": "Silk, and nothing else. The weight is the tell."
+        "id": "magda-butrym-floral-appliqued-wool-crepe-midi-dress",
+        "note": "Ninety-six percent wool with four percent elastane for the shape. Inside our allowance, and the crepe is why it hangs like that."
       },
       {
-        "id": "gabriela-hearst-nolan-cashmere-trousers",
-        "note": "Cashmere trousers are a commitment. These are the pair that justifies it."
+        "id": "zimmermann-wanderlust-cropped-top",
+        "note": "Cotton and silk with three percent metallic yarn doing the shimmer. Rare for anything that catches light."
       }
     ]
   },
@@ -55,23 +55,23 @@
   },
   {
     "type": "edit",
-    "title": "Under $300, Still Natural",
-    "by": "The value edit",
-    "note": "Natural fiber is not supposed to require a budget. These three are the proof, and each one is a full single fiber or close to it.",
-    "cta": "Shop under $300",
-    "apply": "under300",
+    "title": "What Satin Isn’t",
+    "by": "Three pieces that read like silk",
+    "note": "Satin is a weave, not a fiber. It is the single most expensive thing most people do not know about buying clothes. Each of these looks like silk on the hanger and none of them is.",
+    "cta": "See what one hundred percent looks like",
+    "apply": "pure",
     "picks": [
       {
-        "id": "other-stories-merino-polo-top",
-        "note": "Under $100 and genuinely 100 percent merino. We checked it twice."
+        "id": "vince-raw-edge-satin-skirt",
+        "note": "Ninety-nine percent rayon with a polyester contrast. Honestly sold as satin, because satin describes how it was woven."
       },
       {
-        "id": "cos-cashmere-wrap-skirt",
-        "note": "A cashmere skirt at $250 reads like a mistake. It is not."
+        "id": "eaves-reidun-top",
+        "note": "One hundred percent viscose. Plant derived, chemically rebuilt, and it will not breathe like the silk it resembles."
       },
       {
-        "id": "arket-straight-linen-trousers",
-        "note": "European flax, straight leg, no viscose cut into it to soften the price."
+        "id": "clio-peppiatt-mare-mini-dress",
+        "note": "One hundred percent nylon at a Net-a-Porter price. The crystals are the reason, and we still think you should know."
       }
     ]
   },
@@ -79,49 +79,5 @@
     "type": "strip",
     "heading": "Natural is not the same as sustainable.",
     "body": "Composition tells you how a garment will feel, wear and age. It does not tell you how the animal was treated, who sewed it, or what the dye house released. Those are real questions and we do not pretend a percentage answers them."
-  },
-  {
-    "type": "edit",
-    "title": "The Cashmere Report",
-    "by": "What the grade actually buys you",
-    "note": "Price in cashmere tracks fiber length and micron count, and neither appears on a label. These three sit at different points on that curve, which is the useful thing about seeing them together.",
-    "cta": "Shop cashmere",
-    "apply": "cashmere",
-    "picks": [
-      {
-        "id": "the-row-hanson-cashmere-knit",
-        "note": "The benchmark. Long fiber, high ply, and it will not pill after the first few wears."
-      },
-      {
-        "id": "joseph-dove-cashmere-cardigan",
-        "note": "Five percent polyamide at the cuffs, which is the one blend we consider an improvement."
-      },
-      {
-        "id": "ralph-lauren-cable-cashmere-crewneck",
-        "note": "Cable knit holds its shape longer than a flat knit. Worth knowing before you compare prices."
-      }
-    ]
-  },
-  {
-    "type": "edit",
-    "title": "Quiet Tailoring",
-    "by": "Trousers and blazers worth the alteration",
-    "note": "Tailoring is where the lining matters most, because it is the layer sitting against you all day. All three of these line in something that breathes.",
-    "cta": "Shop tailoring",
-    "apply": "tailoring",
-    "picks": [
-      {
-        "id": "nili-lotan-carlita-wool-trousers",
-        "note": "100 percent wool with a cupro lining. The quiet benchmark for what trousers should be."
-      },
-      {
-        "id": "frankie-shop-bea-cotton-blazer",
-        "note": "Cotton shell, cotton lining. Rare, and it is why this one wears cool."
-      },
-      {
-        "id": "reformation-marcella-wool-blazer",
-        "note": "Cupro lining at $348 is the detail that separates this from every blazer at the price."
-      }
-    ]
   }
 ]
