@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo, useRef, useState } from 'react';
-import { catalog } from '@/lib/catalog';
+import { catalog, imageAllowed } from '@/lib/catalog';
 import edits from '@/data/edits.json';
 import ProductCard from './ProductCard';
 import {
@@ -52,7 +52,18 @@ export default function Shop() {
     fullRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   };
 
-  const results = useMemo(() => sortItems(catalog.filter((i) => passes(i, f)), f.sort), [f]);
+  /* Pieces whose retailer has approved us, and therefore have photography,
+   * sort ahead of pieces that do not, inside whatever sort the shopper chose.
+   * Approvals arrive one retailer at a time over weeks, and without this the
+   * grid interleaves photographed pieces with bare colour tiles and reads as
+   * broken rather than partial. It needs no upkeep: adding a retailer to
+   * IMAGE_LICENSED_RETAILERS promotes all of its pieces automatically, and
+   * once everything is approved the rule stops having any effect. */
+  const results = useMemo(() => {
+    const kept = sortItems(catalog.filter((i) => passes(i, f)), f.sort);
+    const withImage = kept.filter((i) => imageAllowed(i) && i.image);
+    return withImage.length ? [...withImage, ...kept.filter((i) => !(imageAllowed(i) && i.image))] : kept;
+  }, [f]);
 
   /* When a filter set returns nothing, find the nearest lower threshold that
    * returns something. Only the threshold is relaxed, because it is the one
