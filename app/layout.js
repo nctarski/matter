@@ -18,7 +18,11 @@ export const metadata = {
     title: `${SITE.name} · ${SITE.tagline}`,
     description: SITE.description,
   },
-  robots: { index: true, follow: true },
+  // Driven by SITE.indexable, so there is one place to flip when the real
+  // catalog lands rather than a setting hiding in several files.
+  robots: SITE.indexable
+    ? { index: true, follow: true }
+    : { index: false, follow: false },
 };
 
 export const viewport = { themeColor: '#f7f5ef' };

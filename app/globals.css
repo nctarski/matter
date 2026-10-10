@@ -378,3 +378,24 @@ footer {
   font-size: 12px; color: var(--faint); display: grid; gap: var(--s2); max-width: 70ch;
 }
 footer a { color: var(--muted); }
+.footlinks {
+  display: flex; flex-wrap: wrap; gap: var(--s3) var(--s4);
+  padding-block: var(--s2);
+}
+.footlinks a {
+  font-size: 10px; letter-spacing: .14em; text-transform: uppercase;
+  color: var(--muted); text-decoration: none;
+}
+.footlinks a:hover { color: var(--charcoal); }
+
+/* Report an error, on every product card. The one control that lets shoppers
+   do QA for us, which they do faster than any sampling process. */
+.report {
+  background: none; border: 0; padding: 0; margin-top: 5px; cursor: pointer;
+  font-size: 10px; letter-spacing: .1em; text-transform: uppercase;
+  color: var(--faint); text-decoration: none; display: inline-block;
+  opacity: 0; transition: opacity .15s ease;
+}
+.card:hover .report, .report:focus-visible { opacity: 1; }
+.report:hover { color: var(--oxblood); }
+@media (hover: none) { .report { opacity: 1; } }

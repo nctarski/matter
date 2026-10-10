@@ -1,6 +1,7 @@
 'use client';
 
 import { COLOURS, DARK_COLOURS, cellulosicPct, formatComposition, formatPrice } from '@/lib/fibers';
+import { SITE } from '@/lib/site';
 import { useHearts } from './HeartsProvider';
 
 const HeartIcon = () => (
@@ -62,6 +63,19 @@ export default function ProductCard({ item, note }) {
           {item.lining ? `Lining ${formatComposition(item.lining)}` : 'Unlined'}
         </span>
         <span className="at">at {item.retailer}</span>
+        {/* Shoppers find data problems faster than any sampling process does.
+            Prefilled so a report arrives with the piece already identified. */}
+        <a
+          className="report"
+          href={`mailto:${SITE.email}?subject=${encodeURIComponent(
+            `Composition correction: ${item.brand} ${item.name}`
+          )}&body=${encodeURIComponent(
+            `Piece: ${item.brand} ${item.name}\nID: ${item.id}\nWe list: ${formatComposition(item.shell)}` +
+              `${item.lining ? ` / lining ${formatComposition(item.lining)}` : ' / unlined'}\n\nWhat we got wrong:\n`
+          )}`}
+        >
+          Report an error
+        </a>
       </div>
     </article>
   );
