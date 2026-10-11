@@ -31,6 +31,14 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        {/* Impact.com site ownership check. Impact's own snippet uses a value
+            attribute; content is added too so either style of checker reads
+            it. Safe to leave in place after verification. */}
+        <meta
+          name="impact-site-verification"
+          value="edc5d1d2-1c47-40f3-9751-1dfda03aeb64"
+          content="edc5d1d2-1c47-40f3-9751-1dfda03aeb64"
+        />
         {/* Loaded from Google rather than through next/font, so a slow or
             blocked font fetch can never fail a deploy. If you later want the
             faces self-hosted (slightly faster, no layout shift), swap this
