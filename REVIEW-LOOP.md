@@ -96,25 +96,74 @@ Sea New York (sea-ny.com), Ulla Johnson (ullajohnson.com), St. Agni
 (st-agni.com), Gabriela Hearst (gabrielahearst.com), Tibi (tibi.com), Christy
 Dawn (christydawn.com), Jenni Kayne (jennikayne.com), Faherty
 (fahertybrand.com, women's only), Anine Bing (aninebing.com), Kotn (kotn.com),
-Lisa Says Gah (lisasaysgah.com). Shopify, but composition missing from the
-data: Khaite, Toteme, Nili Lotan, Citizens of Humanity, Cuyana, Lauren
-Manoogian, Nanushka, Ronny Kobo, Frame, Rachel Comey, Staud, Simkhai, Matteau.
-Arch4 is Shopify but prices in GBP, skip. Could not be read: Vince, Pact,
-Pansy, Doen, Jesse Kamm, Rag & Bone, Reformation, Sezane, Rouje, Ganni, A Piece
-Apart, Lisa Yang, LaPointe, Les et Moi, Posse.
+Lisa Says Gah (lisasaysgah.com).
 
-**Mango.** 403 on category pages fetched by script. Not automated yet.
+**Shopify brands whose fiber content is on the product page.** Added
+2026-10-22. Same `products.json` for the list, then
+`fetch('https://<domain>/products/<handle>')` from any tab (it works across
+origins for all of these except Toteme) and read the composition from the page
+text, stripped of tags. Anchor to the main product block: product pages also
+render "you may also like" items, so only accept a composition that sits near
+the product's own title or details section, and drop the piece when that is
+unclear. Pre-filter with product tags where the brand has them, which saves
+page reads. Domains and tag patterns:
+- Khaite (khaite.com), tags `material:Cashmere` and similar.
+- The Row (therow.com).
+- Toteme (toteme.com). Product pages refuse cross-origin reads: navigate one
+  tab to toteme.com first and fetch from there.
+- Staud (staud.clothing), tags `fabric-cashmere`, `fabric-silk`, `fabric-linen`.
+- Simkhai (simkhai.com), tags `Fabric: Wool` and similar.
+- Frame (frame-store.com), tags `filter-fabric::Silk` and similar.
+- Rachel Comey (rachelcomey.com), Ronny Kobo (ronnykobo.com), Citizens of
+  Humanity (citizensofhumanity.com), Nanushka (nanushka.com, skip vegan
+  leather), Another Tomorrow (anothertomorrow.co), Enza Costa (enzacosta.com),
+  The Elder Statesman (elder-statesman.com), Hanro (hanro.com), Doen
+  (shopdoen.com), Rouje (rouje.com, skip socks), Matteau (matteau-store.com),
+  With Jean (withjean.com), Atoir (atoir.com).
+- Composition already in `body_html` for: SAME Los Angeles
+  (samelosangeles.com), Retrofete (retrofete.com), WeWoreWhat
+  (weworewhat.com), Naked Wardrobe (nakedwardrobe.com), Princess Polly
+  (us.princesspolly.com), The Frankie Shop (thefrankieshop.com), Few Moda
+  (fewmoda.com), Vrg Grl (vrggrl.com), DISSH (dissh.com). Most of Retrofete,
+  Naked Wardrobe, Princess Polly, Atoir and With Jean is synthetic or viscose,
+  so expect few passes.
+- Australian stores (DISSH, With Jean, Atoir): `products.json` prices may be in
+  the store's base currency. Take the price from the product page's
+  `"priceCurrency":"USD"` offer, and skip the piece if no USD price is shown.
+
+Shopify with no readable composition anywhere: Nili Lotan, Lauren Manoogian,
+Cuyana, Everlane. Hand pick only. Balzac Paris and Arch4 price in EUR and GBP,
+skip. Arket does not sell in the US, skip.
+
+**Nordstrom. Filtered pull.** Added 2026-10-22. Use the women's category
+pages with the Material filter set to one of 100% Cashmere, 100% Cotton, 100%
+Linen, 100% Silk or 100% Wool, and collect product links from the rendered
+grid in Chrome. Read each product page; composition sits in `copyFeatures`.
+Still apply the fiber rule, since the filter is Nordstrom's own tagging. Keep a
+run under 40 product pages, one every 3 seconds, and stop at the first block.
+Nordstrom is also the route to Vince, Khaite and Lioness.
+
+**Retailers with a material filter, not yet automated.** Bloomingdale's
+(Fabric, including 100% Cashmere), Saks (Material, fiber family only),
+Mytheresa (Material), Falconeri (shop by yarn), Banana Republic (sweater
+fabric), COS, & Other Stories, H&M, J.Crew, Anthropologie, Aritzia, Ganni. Add
+these one at a time after the Nordstrom pull proves stable.
+
+**Mango.** 403 on category pages fetched by script, and no material filter.
+Hand pick only.
 **Neiman Marcus.** Serves a CAPTCHA. Do not attempt to get past it. Manual or
 affiliate feed only.
-**Nordstrom.** Listing renders client side and was inconsistent. Product pages
-carry composition in `copyFeatures`. Not automated yet.
+
+The full brand list with strategy per brand lives at
+https://claude.ai/artifact/8V4UYyg5TPHj8bNw2koJvz.
 
 ## Monday pull, step by step
 
 1. Read `data/catalog.json` and every `data/review/round-*.json` so nothing
    already listed or already offered comes back.
-2. Pull from the Shopify brand stores first, then Massimo Dutti, then Revolve
-   within its pacing. Apply the fiber rule. Pick about 60 across all seven
+2. Pull from the Shopify brand stores first (both the data group and the
+   product page group), then Massimo Dutti, then the Nordstrom filtered pull,
+   then Revolve within its pacing. Apply the fiber rule. Pick about 60 across all seven
    categories, at most 8 per brand and 3 per category per brand, favouring what
    is new and in season, a mix of fibers, and nothing near-identical to a piece
    already live or already in the queue.
