@@ -1,0 +1,36 @@
+{
+ "christydawn.com/products/the-eleanor-coat-crimson-1": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "christydawn.com/products/the-ethel-cardigan-mulberry": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "christydawn.com/products/the-geneva-blouse-emerald-jacquard": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "christydawn.com/products/the-helen-bias-skirt-emerald-jacquard": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "christydawn.com/products/the-josette-dress-emerald-jacquard": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "christydawn.com/products/the-marion-dress-rose": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "christydawn.com/products/the-vytas-cardigan-moss": {
+  "outcome": "staged",
+  "date": "2026-10-22",
+  "round": "round-2026-10-22-shopify.json"
+ },
+ "christydawn.com/products/the-clover-cardigan-winter-heart": {
+  "outcome": "staged",
+  "date": "2026-10-22",
+  "round": "round-2026-10-22-shopify.json"
+ }
+}

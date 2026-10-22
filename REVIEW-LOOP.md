@@ -62,7 +62,7 @@ after a burst, and a block can follow her into her own browsing for a while.
   40 pixel swatch, never use it.
 - Categories used: coats-n1426, jackets-n1450, blazers-n1428 (Tailoring),
   jumpers-n1464 and cardigans-n1448 (Sweaters), dresses-n1494, shirts-n1439,
-  blouses-n1432 and t-shirts-n1444 (Tops & blouses), trousers-n1476 (Pants),
+  blouses-n1432 and t-shirts-n1444 (Tops), trousers-n1476 (Pants),
   skirts-n1457.
 
 **Revolve. Works, rate limited.** Navigate to a category page in Chrome and
@@ -157,7 +157,80 @@ affiliate feed only.
 The full brand list with strategy per brand lives at
 https://claude.ai/artifact/8V4UYyg5TPHj8bNw2koJvz.
 
-## Monday pull, step by step
+## Nightly pull: sweep first, then only what is new
+
+Added October 22, 2026. This replaces the Monday pull and the one-time overnight
+pull. Natalie wants every retailer swept completely once, then only new arrivals
+after that. She reviews and vetoes fast, so there is no per run piece cap and no
+per brand cap. The only limits are the ones below.
+
+**Categories.** Sweaters, Outerwear, Tailoring, Tops, Dresses, Pants, Denim,
+Skirts, Shorts, Sets & jumpsuits, Sleep & lounge, Active, Undergarments. Jeans
+and denim pants go in Denim (a denim dress stays in Dresses, a denim shirt in
+Tops). Shorts are Shorts, not Pants. Tees, tanks, camis and blouses are Tops.
+Matching sets and jumpsuits and rompers are Sets & jumpsuits. Pajamas, robes
+and loungewear are Sleep & lounge; bras and underwear stay Undergarments.
+
+**The ledger.** `data/seen/<retailer>.json` records every product we have
+fully handled and what happened to it (staged, catalog, rejected, fiber,
+not-womens, out-of-scope, no-price-usd, no-composition, dead). `node
+scripts/ledger.mjs seed` built it from the catalog and every round file. A
+product is in the ledger only when fully handled. Never record anything that
+errored, timed out, or was not finished, so it comes back next run. Key is the
+product URL without query string, from `keyOf` in `scripts/ledger.mjs`.
+Record outcomes with `node scripts/ledger.mjs record <file>` and commit the
+ledger with the round file. Natalie's vetoes: when she skips a piece on the
+review page, the publish step records it as "rejected".
+
+**The queue.** `data/sweep-status.json` lists every retailer in order with a
+status (todo, partial, done), a `cursor` for where a partial sweep stopped
+(category, material filter value, page), `lastSweep` and `lastDelta` dates.
+`sweepComplete` flips to true when every retailer is done.
+
+**Each night.**
+1. Read this file, `data/sweep-status.json`, `git status`, and the review page.
+   Work on top of whatever is committed.
+2. If `sweepComplete` is false, run SWEEP: take retailers in queue order
+   starting with any marked partial. For each, enumerate the whole women's
+   catalogue in all 13 categories (Shopify: page all of products.json; Massimo
+   Dutti: every category id from the runbook; filtered listing retailers: every
+   category crossed with every natural material filter value, paging until the
+   listing ends; browse retailers: every category listing). Skip anything the
+   ledger already has. Read each remaining composition and apply the fiber rule.
+   Mark a retailer done only when its enumeration ended with no errors; mark it
+   partial with a cursor if you ran out of budget or were blocked.
+3. If `sweepComplete` is true, run DELTA: for each retailer, enumerate in
+   newest first order (Shopify: all products.json pages, diffing against the
+   ledger; listings: sort by Newest and stop paging after a full page of
+   products already in the ledger; Massimo Dutti: diff category id lists).
+   Read only products not in the ledger. Set `lastDelta`.
+4. Budget for one night: stop starting new retailers after about 4 hours of
+   work, or after about 400 compositions read, whichever comes first. Finish
+   the retailer in progress or mark it partial with a cursor. Never skip a
+   retailer just to save time; leave it for tomorrow.
+5. Review page limits. The page holds at most 450 photos, because a published
+   version may hold 511 files. Before adding, remove the photos of candidates
+   that are published or rejected (pass null for those img files in the
+   publish). If pending candidates plus new ones would exceed 450, stage only
+   what fits, in queue order, and do NOT record the rest in the ledger.
+6. Every new piece gets a round file `data/review/round-<date>-nightly.json`
+   with `category` from the list above. Run `node scripts/audit.mjs` against a
+   temporary merged copy, then record ledger outcomes (staged for new pieces
+   and the right negative outcome for each one rejected by the fiber rule or
+   scope), update `data/sweep-status.json`, commit, and republish the review
+   page with only the new photos. Commit with the attribution lines the
+   environment specifies.
+7. Push with GitHub Desktop through computer use (Repository menu, Push; Fetch
+   first if Push is disabled). If the Mac is locked, leave it committed.
+8. Message Natalie once, short: new pieces waiting, retailers swept tonight and
+   how many remain, retailers that blocked or yielded nothing, whether pushed.
+   When the sweep finishes, say so and that the nightly run is now delta only.
+
+Pacing, fiber rule, USD only, women's only, no accessories, shoes or bags: all
+unchanged from the sections above. Old per run caps in the Monday pull section
+no longer apply.
+
+## Monday pull, step by step (superseded by the nightly pull above, kept for the source and pacing details)
 
 1. Read `data/catalog.json` and every `data/review/round-*.json` so nothing
    already listed or already offered comes back.

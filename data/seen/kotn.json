@@ -1,0 +1,37 @@
+{
+ "kotn.com/products/unisex-antifit-denim-in-reverse": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "kotn.com/products/womens-mona-merino-cardigan-in-tawny-port": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "kotn.com/products/womens-mona-merino-dolman-sweater-in-charcoal-melange": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "kotn.com/products/womens-mona-merino-dolman-sweater-in-deep-ocean-melange": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "kotn.com/products/womens-mona-merino-legging-in-charcoal-melange": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "kotn.com/products/womens-mona-merino-button-tunic-in-charcoal-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-22",
+  "round": "round-2026-10-22-shopify.json"
+ },
+ "kotn.com/products/shrunken-rugby-shirt-in-powder-blue-navy-ash": {
+  "outcome": "staged",
+  "date": "2026-10-22",
+  "round": "round-2026-10-22-shopify.json"
+ },
+ "kotn.com/products/womens-mona-merino-button-tunic-in-charcoal-melange": {
+  "outcome": "staged",
+  "date": "2026-10-22",
+  "round": "round-2026-10-22-shopify.json"
+ }
+}

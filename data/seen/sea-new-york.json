@@ -1,0 +1,35 @@
+{
+ "sea-ny.com/products/kayla-cardigan": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "sea-ny.com/products/kayla-dress": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "sea-ny.com/products/kayla-polo": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "sea-ny.com/products/liana-cardigan": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "sea-ny.com/products/michaela-coat": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "sea-ny.com/products/michaela-wool-cape": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "sea-ny.com/products/zelie-sweater": {
+  "outcome": "catalog",
+  "date": "2026-10-22"
+ },
+ "sea-ny.com/products/taegan-dress": {
+  "outcome": "staged",
+  "date": "2026-10-22",
+  "round": "round-2026-10-22-shopify.json"
+ }
+}
