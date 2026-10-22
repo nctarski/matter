@@ -188,7 +188,7 @@ status (todo, partial, done), a `cursor` for where a partial sweep stopped
 `sweepComplete` flips to true when every retailer is done.
 
 **Each night.**
-1. Read this file, `data/sweep-status.json`, `git status`, and the review page.
+1. Read this file, `data/sweep-status.json`, `git status`, and the review page. Query the review page's candidates for status "rejected" or "published" and record those in the ledger (rejected, catalog), so vetoes are never staged again.
    Work on top of whatever is committed.
 2. If `sweepComplete` is false, run SWEEP: take retailers in queue order
    starting with any marked partial. For each, enumerate the whole women's
