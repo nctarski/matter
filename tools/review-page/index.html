@@ -1,0 +1,254 @@
+<title>MATTER Review Queue</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;0,6..96,600;1,6..96,500&family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Layout: sticky ledger bar, category chips, then a shop-style photo grid where each card is one decision. */
+:root {
+  --bg: #f7f5ef;
+  --surface: #ffffff;
+  --ink: #1f2020;
+  --muted: #6e6660;
+  --faint: #8f877f;
+  --hairline: #e3ded4;
+  --accent: #5c1a1f;
+  --accent-ink: #f7f5ef;
+  --skip-veil: rgba(247, 245, 239, 0.78);
+  --display: 'Bodoni Moda', Didot, 'Bodoni MT', Georgia, serif;
+  --ui: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161615; --surface: #1f1f1d; --ink: #ece8df; --muted: #a39b92; --faint: #7d766f;
+    --hairline: #33312d; --accent: #c98a8e; --accent-ink: #161615; --skip-veil: rgba(22, 22, 21, 0.78);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #161615; --surface: #1f1f1d; --ink: #ece8df; --muted: #a39b92; --faint: #7d766f;
+  --hairline: #33312d; --accent: #c98a8e; --accent-ink: #161615; --skip-veil: rgba(22, 22, 21, 0.78);
+  color-scheme: dark;
+}
+body { background: var(--bg); color: var(--ink); font-family: var(--ui); font-size: 14px; line-height: 1.45; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); max-width: 1240px; margin: 0 auto; }
+
+header.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); border-bottom: 1px solid var(--hairline); }
+.bar-inner { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 24px; padding-block: 14px 12px; }
+.mark { font-family: var(--display); font-weight: 600; font-size: 22px; letter-spacing: 0.18em; }
+.mark small { font-family: var(--ui); font-weight: 500; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-left: 10px; }
+.ledger { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.ledger b { color: var(--ink); font-weight: 600; }
+.ledger .live b { color: var(--accent); }
+
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-block: 10px 12px; scrollbar-width: none; }
+.chips::-webkit-scrollbar { display: none; }
+.chip { flex: none; font: 500 12px var(--ui); letter-spacing: 0.04em; padding: 7px 12px; border-radius: 999px; border: 1px solid var(--hairline); background: transparent; color: var(--ink); cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.chip .n { color: var(--faint); margin-left: 4px; font-variant-numeric: tabular-nums; }
+.chip[aria-pressed="true"] .n { color: var(--bg); opacity: 0.7; }
+.chip:focus-visible, .act:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.intro { padding-block: 18px 6px; max-width: 62ch; color: var(--muted); font-size: 13px; }
+.intro strong { color: var(--ink); font-weight: 600; }
+
+.grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 14px; padding-block: 14px 64px; }
+@media (min-width: 720px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px 20px; } }
+@media (min-width: 1040px) { .grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+
+.card { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.photo { position: relative; aspect-ratio: 2 / 3; max-width: 100%; background: var(--surface); overflow: hidden; }
+.photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.photo .veil { position: absolute; inset: 0; background: var(--skip-veil); display: grid; place-items: center; }
+.photo .veil span { font: 600 11px var(--ui); letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); border: 1px solid var(--accent); padding: 6px 10px; }
+.photo .tile { width: 100%; height: 100%; display: grid; place-items: center; color: var(--faint); font-size: 12px; }
+.meta { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.brand { font: 600 10.5px var(--ui); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.brand .via { font-weight: 500; letter-spacing: 0.06em; text-transform: none; color: var(--faint); }
+.name { font-family: var(--display); font-size: 15px; line-height: 1.25; text-wrap: balance; }
+.price { font-variant-numeric: tabular-nums; font-size: 13px; }
+.comp { font-size: 12px; color: var(--ink); }
+.comp .lbl { color: var(--faint); }
+.lining-bad { color: var(--accent); }
+.row { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 4px; }
+.act { font: 600 12px var(--ui); letter-spacing: 0.06em; padding: 8px 14px; border-radius: 2px; border: 1px solid var(--ink); background: transparent; color: var(--ink); cursor: pointer; min-width: 74px; }
+.act.skip { }
+.act.undo { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.act:disabled { opacity: 0.5; cursor: default; }
+.ext { font-size: 12px; color: var(--muted); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--hairline); }
+.card.skipped .meta { opacity: 0.55; }
+
+.empty { padding-block: 64px; text-align: center; color: var(--muted); max-width: 46ch; margin: 0 auto; }
+.empty h2 { font-family: var(--display); font-weight: 500; font-size: 22px; color: var(--ink); margin: 0 0 8px; }
+.note { font-size: 12px; color: var(--accent); padding-block: 8px 0; }
+@media (prefers-reduced-motion: no-preference) { .photo .veil { transition: opacity 160ms ease; } }
+</style>
+
+<header class="bar">
+  <div class="wrap bar-inner">
+    <div class="mark">MATTER<small>Review queue</small></div>
+    <div class="ledger" id="ledger"><span>Loading the queue</span></div>
+  </div>
+  <div class="wrap"><div class="chips" id="chips" role="toolbar" aria-label="Filter by category"></div></div>
+</header>
+
+<main class="wrap">
+  <p class="intro" id="intro">Each card cleared the fiber rule, 95% natural shell with up to 5% stretch. Tap <strong>Skip</strong> on anything below the curation bar. Everything left goes live when the window closes.</p>
+  <p class="note" id="note" hidden></p>
+  <section class="grid" id="grid" aria-live="polite"></section>
+  <div class="empty" id="empty" hidden>
+    <h2>No pieces waiting</h2>
+    <p>Each week's candidates land here after the pull. Skip what misses the bar and the rest publish to mattertheedit.com when the window closes.</p>
+  </div>
+</main>
+
+<script>
+(function () {
+  const ORDER = ['Sweaters', 'Outerwear', 'Tailoring', 'Tops & blouses', 'Dresses', 'Pants', 'Skirts', 'Active', 'Undergarments'];
+  const state = { items: [], round: null, filter: 'All', db: null, canWrite: true, busy: new Set() };
+  const $ = (id) => document.getElementById(id);
+
+  const pair = (x) => Array.isArray(x) ? x : [x.fiber, x.pct];
+  const fmtComp = (c) => Array.isArray(c) ? c.map(pair).map(([f, p]) => p + '% ' + String(f).toLowerCase()).join(' / ') : '';
+  const NAT = ['cotton','linen','wool','merino wool','cashmere','silk','leather','suede','alpaca','mohair','yak','ramie','hemp','camel hair','lambswool','shearling','down'];
+  const liningNatural = (l) => !l || (Array.isArray(l) && l.map(pair).every(([f]) => NAT.includes(String(f).toLowerCase())));
+  const fmtDeadline = (iso) => {
+    if (!iso) return '';
+    try {
+      return new Date(iso).toLocaleString('en-US', { weekday: 'short', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZone: 'America/Chicago', timeZoneName: 'short' });
+    } catch (e) { return iso; }
+  };
+
+  function renderLedger() {
+    const total = state.items.length;
+    const skipped = state.items.filter((i) => i.skip).length;
+    const r = state.round;
+    const parts = [];
+    if (!total) { $('ledger').innerHTML = '<span>Queue is empty</span>'; return; }
+    parts.push('<span><b>' + total + '</b> pieces</span>');
+    parts.push('<span><b>' + skipped + '</b> skipped</span>');
+    parts.push('<span><b>' + (total - skipped) + '</b> publishing</span>');
+    if (r && r.deadline) parts.push('<span class="live">Goes live <b>' + fmtDeadline(r.deadline) + '</b></span>');
+    $('ledger').innerHTML = parts.join('');
+  }
+
+  function renderChips() {
+    const counts = { All: state.items.length };
+    state.items.forEach((i) => { counts[i.category] = (counts[i.category] || 0) + 1; });
+    const skippedN = state.items.filter((i) => i.skip).length;
+    const cats = ['All'].concat(ORDER.filter((c) => counts[c]));
+    const chips = cats.map((c) => [c, counts[c]]);
+    if (skippedN) chips.push(['Skipped', skippedN]);
+    const host = $('chips');
+    host.textContent = '';
+    chips.forEach(([label, n]) => {
+      const b = document.createElement('button');
+      b.className = 'chip';
+      b.type = 'button';
+      b.id = 'chip-' + label.replace(/[^a-z]/gi, '');
+      b.setAttribute('aria-pressed', String(state.filter === label));
+      b.textContent = label;
+      const s = document.createElement('span'); s.className = 'n'; s.textContent = n; b.appendChild(s);
+      b.addEventListener('click', () => { state.filter = label; render(); });
+      host.appendChild(b);
+    });
+  }
+
+  function card(i) {
+    const el = document.createElement('article');
+    el.className = 'card' + (i.skip ? ' skipped' : '');
+    const photo = document.createElement('div'); photo.className = 'photo';
+    if (i.img) {
+      const img = document.createElement('img'); img.loading = 'lazy'; img.alt = i.brand + ' ' + i.name; img.src = i.img;
+      img.addEventListener('error', () => { img.replaceWith(Object.assign(document.createElement('div'), { className: 'tile', textContent: 'No photo' })); });
+      photo.appendChild(img);
+    } else {
+      photo.appendChild(Object.assign(document.createElement('div'), { className: 'tile', textContent: 'No photo' }));
+    }
+    if (i.skip) { const v = document.createElement('div'); v.className = 'veil'; const s = document.createElement('span'); s.textContent = 'Skipped'; v.appendChild(s); photo.appendChild(v); }
+    el.appendChild(photo);
+
+    const meta = document.createElement('div'); meta.className = 'meta';
+    const brand = document.createElement('div'); brand.className = 'brand'; brand.textContent = i.brand;
+    if (i.retailer && i.retailer !== i.brand) { const v = document.createElement('span'); v.className = 'via'; v.textContent = ' at ' + i.retailer; brand.appendChild(v); }
+    const name = document.createElement('div'); name.className = 'name'; name.textContent = i.name;
+    const price = document.createElement('div'); price.className = 'price'; price.textContent = '$' + Number(i.price).toLocaleString();
+    const shell = document.createElement('div'); shell.className = 'comp';
+    shell.innerHTML = '<span class="lbl">Shell </span>'; shell.appendChild(document.createTextNode(fmtComp(i.shell)));
+    meta.append(brand, name, price, shell);
+    if (i.lining) {
+      const lin = document.createElement('div'); lin.className = 'comp' + (liningNatural(i.lining) ? '' : ' lining-bad');
+      lin.innerHTML = '<span class="lbl">Lining </span>';
+      lin.appendChild(document.createTextNode(i.lining === 'undisclosed' ? 'not disclosed' : fmtComp(i.lining)));
+      meta.appendChild(lin);
+    }
+    el.appendChild(meta);
+
+    const row = document.createElement('div'); row.className = 'row';
+    const btn = document.createElement('button'); btn.type = 'button'; btn.id = 'act-' + i.id;
+    btn.className = 'act ' + (i.skip ? 'undo' : 'skip');
+    btn.textContent = i.skip ? 'Keep' : 'Skip';
+    btn.setAttribute('aria-label', (i.skip ? 'Keep ' : 'Skip ') + i.name);
+    btn.disabled = !state.db || !state.canWrite || state.busy.has(i.id);
+    btn.addEventListener('click', () => toggle(i));
+    const a = document.createElement('a'); a.className = 'ext'; a.href = i.url; a.target = '_blank'; a.rel = 'noopener'; a.textContent = 'View at ' + (i.retailer || 'retailer');
+    row.append(btn, a);
+    el.appendChild(row);
+    return el;
+  }
+
+  function render() {
+    renderLedger();
+    renderChips();
+    const grid = $('grid'); grid.textContent = '';
+    const shown = state.items.filter((i) => state.filter === 'All' ? true : state.filter === 'Skipped' ? i.skip : i.category === state.filter);
+    $('empty').hidden = state.items.length > 0;
+    $('intro').hidden = state.items.length === 0;
+    shown.forEach((i) => grid.appendChild(card(i)));
+  }
+
+  async function toggle(i) {
+    if (!state.db || state.busy.has(i.id)) return;
+    const next = !i.skip;
+    state.busy.add(i.id);
+    i.skip = next; render();
+    try {
+      await state.db.doc('candidates/' + i.id).update({ skip: next, decidedAt: new Date().toISOString() });
+    } catch (e) {
+      i.skip = !next;
+      if (e && e.code === 'invalid_argument') { state.canWrite = false; showNote('This view can look but not save. Open it signed in as the owner to skip pieces.'); }
+      else showNote('That change did not save. Try the button again in a moment.');
+    } finally { state.busy.delete(i.id); render(); }
+  }
+
+  function showNote(t) { const n = $('note'); n.textContent = t; n.hidden = false; }
+
+  function sortItems(arr) {
+    return arr.sort((a, b) => (ORDER.indexOf(a.category) - ORDER.indexOf(b.category)) || String(a.retailer).localeCompare(String(b.retailer)) || (a.order || 0) - (b.order || 0));
+  }
+
+  render();
+
+  (async () => {
+    const claude = window.claude;
+    const db = claude && claude.use ? await claude.use('db') : null;
+    if (!db) { $('ledger').innerHTML = '<span>Open this page in Claude to load the queue</span>'; return; }
+    state.db = db;
+    try {
+      const user = await claude.use('user');
+      if (user && user.can) { const w = await user.can('data.write'); if (w === false) { state.canWrite = false; showNote('You can view this queue. Only the owner can skip pieces.'); } }
+    } catch (e) {}
+    db.doc('meta/round').onSnapshot((s) => { state.round = s.exists ? s.data() : null; renderLedger(); }, () => {});
+    db.collection('candidates').onSnapshot((snap) => {
+      const local = new Map(state.items.map((i) => [i.id, i]));
+      state.items = sortItems(snap.docs.map((d) => {
+        const data = Object.assign({ id: d.id }, d.data());
+        if (state.busy.has(d.id) && local.has(d.id)) data.skip = local.get(d.id).skip;
+        return data;
+      }));
+      render();
+    }, () => showNote('The queue stopped updating. Reload the page to reconnect.'));
+  })();
+})();
+</script>
