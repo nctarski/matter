@@ -28,7 +28,10 @@ export default function ProductCard({ item, note }) {
   const image = licensedImage(item);
 
   const Shot = (
-    <div className="shot" style={{ backgroundColor: COLOURS[item.colour] || 'var(--hairline)' }}>
+    <div
+      className={`shot${image ? ' has-img' : ''}`}
+      style={image ? undefined : { backgroundColor: COLOURS[item.colour] || 'var(--hairline)' }}
+    >
       {image
         ? <img src={image} alt={`${item.brand} ${item.name}`} loading="lazy" />
         : <span className="placeholder">{item.colour}</span>}

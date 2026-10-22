@@ -8,16 +8,16 @@
     "apply": "outerwear",
     "picks": [
       {
-        "id": "vince-spotted-virgin-wool-blend-coat",
-        "note": "Fifty percent wool, forty-nine percent alpaca, one percent polyamide holding the seams. The alpaca is what gives it drape instead of bulk."
+        "id": "brochu-walker-blake-coat",
+        "note": "One hundred percent wool and unlined, so what you feel against you is the wool itself."
       },
       {
-        "id": "vince-plush-cashmere-funnel-neck-sweater",
-        "note": "Cashmere and nothing else. The funnel neck is the part that makes it work without a scarf."
+        "id": "guest-in-residence-felted-zip-jacket",
+        "note": "Ninety percent wool, ten percent cashmere, felted so it blocks wind without a lining."
       },
       {
-        "id": "vince-leather-midi-skirt",
-        "note": "Full lambskin, and it will crease where you sit. Vince says lined without saying with what, so we say that rather than guess."
+        "id": "massimo-dutti-high-neck-suede-jacket",
+        "note": "Full suede and unlined. It will soften and darken where you wear it most."
       }
     ]
   },
@@ -35,16 +35,16 @@
     "apply": "weddingGuest",
     "picks": [
       {
-        "id": "magda-butrym-cotton-silk-blend-mini-dress",
-        "note": "Cotton and silk on top, one hundred percent silk lining underneath. Nothing else in the catalog does both."
+        "id": "ulla-johnson-ethel-dress",
+        "note": "One hundred percent silk, unlined. The color and the movement are the silk doing the work."
       },
       {
-        "id": "magda-butrym-floral-appliqued-wool-crepe-midi-dress",
-        "note": "Ninety-six percent wool with four percent elastane for the shape. Inside our allowance, and the crepe is why it hangs like that."
+        "id": "christy-dawn-the-josette-dress",
+        "note": "Silk and nothing else, at a little over five hundred dollars."
       },
       {
-        "id": "zimmermann-wanderlust-cropped-top",
-        "note": "Cotton and silk with three percent metallic yarn doing the shimmer. Rare for anything that catches light."
+        "id": "st-agni-silk-wool-jacquard-strapless-dress",
+        "note": "Wool and silk jacquard with a lyocell lining. Structure without polyester underneath."
       }
     ]
   },
@@ -56,44 +56,44 @@
   {
     "type": "edit",
     "title": "Same Shell, Different Lining",
-    "by": "One brand, one season, two answers",
-    "note": "These two Veronica Beard pieces were designed to be worn together and are photographed together. Both are 98 percent cotton corduroy. One is lined in cupro and one is lined in polyester. Net-a-Porter publishes both, several taps down, which is the whole reason we put it on the front of the card.",
+    "by": "One brand, one name, two answers",
+    "note": "Sea New York's Michaela coat and Michaela cape share a name and a one hundred percent wool shell. The coat is lined in polyester and viscose. The cape is lined in cotton. Sea publishes both, and we put it on the front of the card.",
     "cta": "Shop tailoring",
     "apply": "tailoring",
     "picks": [
       {
-        "id": "veronica-beard-livvy-dickey-corduroy-blazer",
-        "note": "Cupro lining. Plant derived rather than natural, and it breathes closer to silk than anything else at this price."
+        "id": "sea-new-york-michaela-coat",
+        "note": "Wool shell, lined in polyester and viscose. Nothing about the outside tells you that."
       },
       {
-        "id": "veronica-beard-holt-corduroy-flared-pants",
-        "note": "The matching pants, same corduroy, lined in polyester. Nothing about the shell tells you that."
+        "id": "sea-new-york-michaela-wool-cape",
+        "note": "The same wool, lined in cotton. It breathes all the way through."
       },
       {
-        "id": "polo-ralph-lauren-linen-blazer-pastel-yellow",
-        "note": "Pure linen, and then a polyester and viscose sleeve lining. Worth knowing before you buy linen for the breathability."
+        "id": "massimo-dutti-100-wool-flannel-suit-blazer",
+        "note": "A third answer. Wool flannel lined in acetate and modal, both plant derived, at three hundred fifty dollars."
       }
     ]
   },
   {
     "type": "edit",
-    "title": "What Satin Isn’t",
-    "by": "Three pieces that read like silk",
-    "note": "Satin is a weave, not a fiber. It is the single most expensive thing most people do not know about buying clothes. Each of these looks like silk on the hanger and none of them is.",
+    "title": "What Silk Looks Like",
+    "by": "Three pieces that are what they look like",
+    "note": "Satin is a weave, not a fiber, and most of what is sold as satin is polyester or viscose. These three are silk all the way through, which is what the word used to promise.",
     "cta": "See what one hundred percent looks like",
     "apply": "pure",
     "picks": [
       {
-        "id": "vince-raw-edge-satin-skirt",
-        "note": "Ninety-nine percent rayon with a polyester contrast. Honestly sold as satin, because satin describes how it was woven."
+        "id": "tibi-4-ply-silk-v-neck-dress-with-bra",
+        "note": "Four ply silk, heavy enough to hang straight. One hundred percent."
       },
       {
-        "id": "eaves-reidun-top",
-        "note": "One hundred percent viscose. Plant derived, chemically rebuilt, and it will not breathe like the silk it resembles."
+        "id": "christy-dawn-the-helen-bias-skirt",
+        "note": "Silk cut on the bias, which is why it moves the way satin is supposed to."
       },
       {
-        "id": "clio-peppiatt-mare-mini-dress",
-        "note": "One hundred percent nylon at a Net-a-Porter price. The crystals are the reason, and we still think you should know."
+        "id": "brochu-walker-carina-blouse",
+        "note": "One hundred percent silk, unlined, in ivory."
       }
     ]
   },
