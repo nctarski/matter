@@ -4,7 +4,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;0,6..96,600;1,6..96,500&family=Inter:wght@400;500;600&display=swap">
 <style>
-/* Layout: sticky ledger bar, category chips, then a shop-style photo grid where each card is one decision. */
+/* Layout: sticky ledger bar with the Publish control, category chips, then a shop-style photo grid where each card is one decision. */
 :root {
   --bg: #f7f5ef;
   --surface: #ffffff;
@@ -14,6 +14,7 @@
   --hairline: #e3ded4;
   --accent: #5c1a1f;
   --accent-ink: #f7f5ef;
+  --ok: #3f5a45;
   --skip-veil: rgba(247, 245, 239, 0.78);
   --display: 'Bodoni Moda', Didot, 'Bodoni MT', Georgia, serif;
   --ui: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
@@ -21,13 +22,13 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #161615; --surface: #1f1f1d; --ink: #ece8df; --muted: #a39b92; --faint: #7d766f;
-    --hairline: #33312d; --accent: #c98a8e; --accent-ink: #161615; --skip-veil: rgba(22, 22, 21, 0.78);
+    --hairline: #33312d; --accent: #c98a8e; --accent-ink: #161615; --ok: #9cbfa3; --skip-veil: rgba(22, 22, 21, 0.78);
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #161615; --surface: #1f1f1d; --ink: #ece8df; --muted: #a39b92; --faint: #7d766f;
-  --hairline: #33312d; --accent: #c98a8e; --accent-ink: #161615; --skip-veil: rgba(22, 22, 21, 0.78);
+  --hairline: #33312d; --accent: #c98a8e; --accent-ink: #161615; --ok: #9cbfa3; --skip-veil: rgba(22, 22, 21, 0.78);
   color-scheme: dark;
 }
 body { background: var(--bg); color: var(--ink); font-family: var(--ui); font-size: 14px; line-height: 1.45; }
@@ -35,22 +36,35 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .wrap { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); max-width: 1240px; margin: 0 auto; }
 
 header.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); border-bottom: 1px solid var(--hairline); }
-.bar-inner { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 24px; padding-block: 14px 12px; }
+.bar-inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 20px; padding-block: 12px 10px; }
 .mark { font-family: var(--display); font-weight: 600; font-size: 22px; letter-spacing: 0.18em; }
 .mark small { font-family: var(--ui); font-weight: 500; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-left: 10px; }
-.ledger { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.right { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; }
+.ledger { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
 .ledger b { color: var(--ink); font-weight: 600; }
-.ledger .live b { color: var(--accent); }
+.ledger .busy b { color: var(--ok); }
+.publish { font: 600 12.5px var(--ui); letter-spacing: 0.06em; padding: 9px 16px; border-radius: 2px; border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); cursor: pointer; }
+.publish:disabled { background: transparent; color: var(--faint); border-color: var(--hairline); cursor: default; }
 
-.chips { display: flex; gap: 6px; overflow-x: auto; padding-block: 10px 12px; scrollbar-width: none; }
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-block: 8px 12px; scrollbar-width: none; }
 .chips::-webkit-scrollbar { display: none; }
 .chip { flex: none; font: 500 12px var(--ui); letter-spacing: 0.04em; padding: 7px 12px; border-radius: 999px; border: 1px solid var(--hairline); background: transparent; color: var(--ink); cursor: pointer; }
 .chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
 .chip .n { color: var(--faint); margin-left: 4px; font-variant-numeric: tabular-nums; }
 .chip[aria-pressed="true"] .n { color: var(--bg); opacity: 0.7; }
-.chip:focus-visible, .act:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.chip.sep { margin-left: 8px; }
+.chip:focus-visible, .act:focus-visible, .publish:focus-visible, a:focus-visible, .btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
-.intro { padding-block: 18px 6px; max-width: 62ch; color: var(--muted); font-size: 13px; }
+.panel { margin-block: 16px 0; padding: 16px; border: 1px solid var(--hairline); background: var(--surface); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; }
+.panel p { margin: 0; max-width: 62ch; }
+.panel .btns { display: flex; gap: 8px; }
+.btn { font: 600 12px var(--ui); letter-spacing: 0.06em; padding: 8px 14px; border-radius: 2px; border: 1px solid var(--ink); background: transparent; color: var(--ink); cursor: pointer; }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.btn:disabled { opacity: 0.5; cursor: default; }
+.notice { margin-block: 14px 0; padding: 12px 14px; border-left: 2px solid var(--ok); background: var(--surface); font-size: 13px; max-width: 72ch; }
+.notice.warn { border-left-color: var(--accent); }
+
+.intro { padding-block: 16px 4px; max-width: 64ch; color: var(--muted); font-size: 13px; }
 .intro strong { color: var(--ink); font-weight: 600; }
 
 .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 14px; padding-block: 14px 64px; }
@@ -73,13 +87,12 @@ header.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; b
 .lining-bad { color: var(--accent); }
 .row { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 4px; }
 .act { font: 600 12px var(--ui); letter-spacing: 0.06em; padding: 8px 14px; border-radius: 2px; border: 1px solid var(--ink); background: transparent; color: var(--ink); cursor: pointer; min-width: 74px; }
-.act.skip { }
 .act.undo { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
 .act:disabled { opacity: 0.5; cursor: default; }
 .ext { font-size: 12px; color: var(--muted); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--hairline); }
 .card.skipped .meta { opacity: 0.55; }
 
-.empty { padding-block: 64px; text-align: center; color: var(--muted); max-width: 46ch; margin: 0 auto; }
+.empty { padding-block: 64px; text-align: center; color: var(--muted); max-width: 48ch; margin: 0 auto; }
 .empty h2 { font-family: var(--display); font-weight: 500; font-size: 22px; color: var(--ink); margin: 0 0 8px; }
 .note { font-size: 12px; color: var(--accent); padding-block: 8px 0; }
 @media (prefers-reduced-motion: no-preference) { .photo .veil { transition: opacity 160ms ease; } }
@@ -88,76 +101,101 @@ header.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; b
 <header class="bar">
   <div class="wrap bar-inner">
     <div class="mark">MATTER<small>Review queue</small></div>
-    <div class="ledger" id="ledger"><span>Loading the queue</span></div>
+    <div class="right">
+      <div class="ledger" id="ledger"><span>Loading the queue</span></div>
+      <button type="button" class="publish" id="publish" disabled>Publish</button>
+    </div>
   </div>
-  <div class="wrap"><div class="chips" id="chips" role="toolbar" aria-label="Filter by category"></div></div>
+  <div class="wrap"><div class="chips" id="chips" role="toolbar" aria-label="Filter the queue"></div></div>
 </header>
 
 <main class="wrap">
-  <p class="intro" id="intro">Each card cleared the fiber rule, 95% natural shell with up to 5% stretch. Tap <strong>Skip</strong> on anything below the curation bar. Everything left goes live when the window closes.</p>
+  <div class="panel" id="confirm" hidden>
+    <p id="confirm-text"></p>
+    <div class="btns">
+      <button type="button" class="btn" id="confirm-cancel">Cancel</button>
+      <button type="button" class="btn primary" id="confirm-go">Publish</button>
+    </div>
+  </div>
+  <div class="notice" id="notice" hidden></div>
+  <p class="intro" id="intro">Every card already cleared the fiber rule. Scroll through and tap <strong>Skip</strong> on anything below the bar. Cards you have scrolled past count as reviewed, and <strong>Publish</strong> puts every reviewed piece you kept live on mattertheedit.com.</p>
   <p class="note" id="note" hidden></p>
   <section class="grid" id="grid" aria-live="polite"></section>
   <div class="empty" id="empty" hidden>
-    <h2>No pieces waiting</h2>
-    <p>Each week's candidates land here after the pull. Skip what misses the bar and the rest publish to mattertheedit.com when the window closes.</p>
+    <h2 id="empty-title">Nothing new to review</h2>
+    <p id="empty-text">New pieces land here after each Monday pull.</p>
   </div>
 </main>
 
 <script>
 (function () {
+  const TRIGGER_ID = 'trig_01Kxb1RHkXd1GA1fcDHsjHG9';
+  const CONNECTOR = 'Claude Code Remote';
   const ORDER = ['Sweaters', 'Outerwear', 'Tailoring', 'Tops & blouses', 'Dresses', 'Pants', 'Skirts', 'Active', 'Undergarments'];
-  const state = { items: [], round: null, filter: 'All', db: null, canWrite: true, busy: new Set() };
+  const state = {
+    items: [], filter: 'All', view: 'new', db: null, mcp: undefined, canWrite: true,
+    busy: new Set(), seenAtLoad: null, seenQueue: [], seenWriting: false, publishing: false,
+  };
   const $ = (id) => document.getElementById(id);
 
   const pair = (x) => Array.isArray(x) ? x : [x.fiber, x.pct];
   const fmtComp = (c) => Array.isArray(c) ? c.map(pair).map(([f, p]) => p + '% ' + String(f).toLowerCase()).join(' / ') : '';
-  const NAT = ['cotton','linen','wool','merino wool','cashmere','silk','leather','suede','alpaca','mohair','yak','ramie','hemp','camel hair','lambswool','shearling','down'];
+  const NAT = ['cotton','organic cotton','pima cotton','recycled cotton','linen','wool','merino wool','cashmere','silk','leather','suede','alpaca','mohair','yak','ramie','hemp','camel hair','lambswool','shearling','down'];
   const liningNatural = (l) => !l || (Array.isArray(l) && l.map(pair).every(([f]) => NAT.includes(String(f).toLowerCase())));
-  const fmtDeadline = (iso) => {
-    if (!iso) return '';
-    try {
-      return new Date(iso).toLocaleString('en-US', { weekday: 'short', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZone: 'America/Chicago', timeZoneName: 'short' });
-    } catch (e) { return iso; }
-  };
+
+  const status = (i) => i.status || 'pending';
+  const pending = () => state.items.filter((i) => status(i) === 'pending');
+  const isReviewed = (i) => state.seenAtLoad && state.seenAtLoad.has(i.id);
+  const ready = () => pending().filter((i) => i.seenAt && !i.skip);
+  const inFlight = () => state.items.filter((i) => status(i) === 'approved');
+
+  function visible() {
+    return pending().filter((i) => state.view === 'reviewed' ? isReviewed(i) : !isReviewed(i));
+  }
 
   function renderLedger() {
-    const total = state.items.length;
-    const skipped = state.items.filter((i) => i.skip).length;
-    const r = state.round;
+    const toReview = pending().filter((i) => !isReviewed(i)).length;
+    const r = ready().length;
+    const busy = inFlight().length;
     const parts = [];
-    if (!total) { $('ledger').innerHTML = '<span>Queue is empty</span>'; return; }
-    parts.push('<span><b>' + total + '</b> pieces</span>');
-    parts.push('<span><b>' + skipped + '</b> skipped</span>');
-    parts.push('<span><b>' + (total - skipped) + '</b> publishing</span>');
-    if (r && r.deadline) parts.push('<span class="live">Goes live <b>' + fmtDeadline(r.deadline) + '</b></span>');
+    parts.push('<span><b>' + toReview + '</b> to review</span>');
+    parts.push('<span><b>' + r + '</b> ready to publish</span>');
+    if (busy) parts.push('<span class="busy"><b>' + busy + '</b> publishing</span>');
     $('ledger').innerHTML = parts.join('');
+    const btn = $('publish');
+    btn.textContent = r ? 'Publish ' + r : 'Publish';
+    btn.disabled = !r || !state.db || !state.canWrite || state.publishing;
   }
 
   function renderChips() {
-    const counts = { All: state.items.length };
-    state.items.forEach((i) => { counts[i.category] = (counts[i.category] || 0) + 1; });
-    const skippedN = state.items.filter((i) => i.skip).length;
-    const cats = ['All'].concat(ORDER.filter((c) => counts[c]));
-    const chips = cats.map((c) => [c, counts[c]]);
-    if (skippedN) chips.push(['Skipped', skippedN]);
+    const base = visible();
+    const counts = { All: base.length };
+    base.forEach((i) => { counts[i.category] = (counts[i.category] || 0) + 1; });
     const host = $('chips');
     host.textContent = '';
-    chips.forEach(([label, n]) => {
+    const add = (label, n, pressed, onClick, extra) => {
       const b = document.createElement('button');
-      b.className = 'chip';
+      b.className = 'chip' + (extra ? ' ' + extra : '');
       b.type = 'button';
       b.id = 'chip-' + label.replace(/[^a-z]/gi, '');
-      b.setAttribute('aria-pressed', String(state.filter === label));
+      b.setAttribute('aria-pressed', String(pressed));
       b.textContent = label;
       const s = document.createElement('span'); s.className = 'n'; s.textContent = n; b.appendChild(s);
-      b.addEventListener('click', () => { state.filter = label; render(); });
+      b.addEventListener('click', onClick);
       host.appendChild(b);
-    });
+    };
+    ['All'].concat(ORDER.filter((c) => counts[c])).forEach((c) => add(c, counts[c] || 0, state.filter === c, () => { state.filter = c; render(); }));
+    const reviewedN = pending().filter(isReviewed).length;
+    if (reviewedN) {
+      add(state.view === 'reviewed' ? 'Back to new' : 'Reviewed', state.view === 'reviewed' ? pending().filter((i) => !isReviewed(i)).length : reviewedN,
+        state.view === 'reviewed', () => { state.view = state.view === 'reviewed' ? 'new' : 'reviewed'; state.filter = 'All'; render(); }, 'sep');
+    }
   }
 
   function card(i) {
     const el = document.createElement('article');
     el.className = 'card' + (i.skip ? ' skipped' : '');
+    el.dataset.id = i.id;
     const photo = document.createElement('div'); photo.className = 'photo';
     if (i.img) {
       const img = document.createElement('img'); img.loading = 'lazy'; img.alt = i.brand + ' ' + i.name; img.src = i.img;
@@ -187,10 +225,10 @@ header.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; b
 
     const row = document.createElement('div'); row.className = 'row';
     const btn = document.createElement('button'); btn.type = 'button'; btn.id = 'act-' + i.id;
-    btn.className = 'act ' + (i.skip ? 'undo' : 'skip');
+    btn.className = 'act' + (i.skip ? ' undo' : '');
     btn.textContent = i.skip ? 'Keep' : 'Skip';
     btn.setAttribute('aria-label', (i.skip ? 'Keep ' : 'Skip ') + i.name);
-    btn.disabled = !state.db || !state.canWrite || state.busy.has(i.id);
+    btn.disabled = !state.db || !state.canWrite || state.busy.has(i.id) || state.publishing;
     btn.addEventListener('click', () => toggle(i));
     const a = document.createElement('a'); a.className = 'ext'; a.href = i.url; a.target = '_blank'; a.rel = 'noopener'; a.textContent = 'View at ' + (i.retailer || 'retailer');
     row.append(btn, a);
@@ -198,31 +236,132 @@ header.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; b
     return el;
   }
 
+  /* Reviewed tracking. A card counts as seen once most of it has been on
+   * screen for a moment. Seen cards stay put for the rest of this visit, so
+   * nothing jumps while scrolling, and drop out of the "to review" view the
+   * next time the page opens. */
+  const io = 'IntersectionObserver' in window ? new IntersectionObserver((entries) => {
+    entries.forEach((e) => {
+      const id = e.target.dataset.id;
+      if (e.isIntersecting) {
+        e.target._t = setTimeout(() => markSeen(id), 700);
+      } else if (e.target._t) { clearTimeout(e.target._t); e.target._t = null; }
+    });
+  }, { threshold: 0.6 }) : null;
+
+  function markSeen(id) {
+    const i = state.items.find((x) => x.id === id);
+    if (!i || i.seenAt || !state.db || !state.canWrite) return;
+    i.seenAt = new Date().toISOString();
+    state.seenQueue.push(i);
+    renderLedger();
+    drainSeen();
+  }
+  async function drainSeen() {
+    if (state.seenWriting) return;
+    state.seenWriting = true;
+    while (state.seenQueue.length) {
+      const i = state.seenQueue.shift();
+      try { await state.db.doc('candidates/' + i.id).update({ seenAt: i.seenAt }); }
+      catch (e) { if (e && e.code === 'invalid_argument') { state.canWrite = false; break; } }
+    }
+    state.seenWriting = false;
+  }
+
   function render() {
     renderLedger();
     renderChips();
-    const grid = $('grid'); grid.textContent = '';
-    const shown = state.items.filter((i) => state.filter === 'All' ? true : state.filter === 'Skipped' ? i.skip : i.category === state.filter);
-    $('empty').hidden = state.items.length > 0;
-    $('intro').hidden = state.items.length === 0;
-    shown.forEach((i) => grid.appendChild(card(i)));
+    const grid = $('grid');
+    if (io) io.disconnect();
+    grid.textContent = '';
+    const shown = visible().filter((i) => state.filter === 'All' || i.category === state.filter);
+    const hasAny = state.items.length > 0;
+    $('intro').hidden = !hasAny || state.view === 'reviewed';
+    const showEmpty = shown.length === 0 && state.seenAtLoad;
+    $('empty').hidden = !showEmpty;
+    if (showEmpty) {
+      const r = ready().length;
+      $('empty-title').textContent = state.view === 'reviewed' ? 'Nothing reviewed yet' : 'Nothing new to review';
+      $('empty-text').textContent = r ? r + ' reviewed pieces are ready. Press Publish to put them live.' : 'New pieces land here after each Monday pull.';
+    }
+    shown.forEach((i) => { const el = card(i); grid.appendChild(el); if (io && !i.seenAt) io.observe(el); });
   }
 
   async function toggle(i) {
     if (!state.db || state.busy.has(i.id)) return;
     const next = !i.skip;
     state.busy.add(i.id);
-    i.skip = next; render();
+    i.skip = next;
+    if (!i.seenAt) i.seenAt = new Date().toISOString();
+    render();
     try {
-      await state.db.doc('candidates/' + i.id).update({ skip: next, decidedAt: new Date().toISOString() });
+      await state.db.doc('candidates/' + i.id).update({ skip: next, seenAt: i.seenAt, decidedAt: new Date().toISOString() });
     } catch (e) {
       i.skip = !next;
-      if (e && e.code === 'invalid_argument') { state.canWrite = false; showNote('This view can look but not save. Open it signed in as the owner to skip pieces.'); }
+      if (e && e.code === 'invalid_argument') { state.canWrite = false; showNote('This view can look but not save. Open it signed in as the owner to review pieces.'); }
       else showNote('That change did not save. Try the button again in a moment.');
     } finally { state.busy.delete(i.id); render(); }
   }
 
   function showNote(t) { const n = $('note'); n.textContent = t; n.hidden = false; }
+  function showNotice(t, warn) { const n = $('notice'); n.textContent = t; n.className = 'notice' + (warn ? ' warn' : ''); n.hidden = false; }
+
+  /* Publish. Approve every reviewed piece that was kept, then start the
+   * publish task on Natalie's Mac through her Claude Code Remote connector.
+   * If the connector cannot be reached, the approvals still stand and the
+   * Wednesday run publishes them. */
+  $('publish').addEventListener('click', () => {
+    const r = ready().length;
+    if (!r) return;
+    const skipped = pending().filter((i) => i.seenAt && i.skip).length;
+    $('confirm-text').textContent = 'Put ' + r + ' reviewed piece' + (r === 1 ? '' : 's') + ' live on mattertheedit.com?' +
+      (skipped ? ' The ' + skipped + ' you skipped stay off the site.' : '') +
+      ' Pieces you have not scrolled to yet stay in the queue.';
+    $('confirm').hidden = false;
+    $('confirm-go').focus();
+  });
+  $('confirm-cancel').addEventListener('click', () => { $('confirm').hidden = true; });
+  $('confirm-go').addEventListener('click', publish);
+
+  async function publish() {
+    if (state.publishing) return;
+    const list = ready();
+    if (!list.length) { $('confirm').hidden = true; return; }
+    state.publishing = true; $('confirm-go').disabled = true; render();
+    let done = 0, failed = 0;
+    for (const i of list) {
+      try { await state.db.doc('candidates/' + i.id).update({ status: 'approved', approvedAt: new Date().toISOString() }); i.status = 'approved'; done++; }
+      catch (e) { failed++; }
+      if (done % 10 === 0) { $('confirm-text').textContent = 'Approving ' + done + ' of ' + list.length + '.'; }
+    }
+    $('confirm').hidden = true; $('confirm-go').disabled = false;
+    if (!done) { state.publishing = false; showNotice('Nothing was approved. Check your connection and press Publish again.', true); render(); return; }
+    await fire(done, failed);
+    state.publishing = false;
+    render();
+  }
+
+  async function fire(done, failed) {
+    const tail = failed ? ' ' + failed + ' did not save and are still in the queue.' : '';
+    const fallback = ' They are approved and will go live on the Wednesday run.';
+    const mcp = state.mcp;
+    if (!mcp) { showNotice(done + ' pieces approved.' + fallback + tail, true); return; }
+    try {
+      await mcp.callTool(CONNECTOR, 'fire_trigger', { trigger_id: TRIGGER_ID });
+      showNotice('Publishing ' + done + ' pieces now. They go live in about ten minutes, as long as your Mac is awake. You will get a notification when it is done.' + tail);
+    } catch (e) {
+      const code = e && e.code;
+      if (code === 'server_not_connected' || code === 'needs_reauth') {
+        showNotice(done + ' pieces approved.' + fallback + ' To publish instantly next time, ' + (code === 'needs_reauth' ? 'reconnect' : 'add') + ' Claude Code Remote in claude.ai Settings, Connectors.' + tail, true);
+      } else if (code === 'approval_required' || code === 'not_in_manifest') {
+        showNotice(done + ' pieces approved.' + fallback + ' Starting the publish right away needs your OK for Claude Code Remote on this page. Press Publish again next time and allow it when asked.' + tail, true);
+      } else if (code === 'server_unavailable' || code === 'upstream_error' || code === 'cancelled') {
+        showNotice(done + ' pieces approved. The publish may have started; if you do not get a notification in fifteen minutes they will still go live on the Wednesday run.' + tail, true);
+      } else {
+        showNotice(done + ' pieces approved.' + fallback + tail, true);
+      }
+    }
+  }
 
   function sortItems(arr) {
     return arr.sort((a, b) => (ORDER.indexOf(a.category) - ORDER.indexOf(b.category)) || String(a.retailer).localeCompare(String(b.retailer)) || (a.order || 0) - (b.order || 0));
@@ -235,18 +374,24 @@ header.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; b
     const db = claude && claude.use ? await claude.use('db') : null;
     if (!db) { $('ledger').innerHTML = '<span>Open this page in Claude to load the queue</span>'; return; }
     state.db = db;
+    claude.use('mcp').then((m) => { state.mcp = m; }).catch(() => { state.mcp = null; });
     try {
       const user = await claude.use('user');
-      if (user && user.can) { const w = await user.can('data.write'); if (w === false) { state.canWrite = false; showNote('You can view this queue. Only the owner can skip pieces.'); } }
+      if (user && user.can) { const w = await user.can('data.write'); if (w === false) { state.canWrite = false; showNote('You can view this queue. Only the owner can review and publish.'); } }
     } catch (e) {}
-    db.doc('meta/round').onSnapshot((s) => { state.round = s.exists ? s.data() : null; renderLedger(); }, () => {});
     db.collection('candidates').onSnapshot((snap) => {
       const local = new Map(state.items.map((i) => [i.id, i]));
       state.items = sortItems(snap.docs.map((d) => {
         const data = Object.assign({ id: d.id }, d.data());
-        if (state.busy.has(d.id) && local.has(d.id)) data.skip = local.get(d.id).skip;
+        const prev = local.get(d.id);
+        if (prev) {
+          if (state.busy.has(d.id)) data.skip = prev.skip;
+          if (prev.seenAt && !data.seenAt) data.seenAt = prev.seenAt;
+          if (prev.status === 'approved' && status(data) === 'pending') data.status = 'approved';
+        }
         return data;
       }));
+      if (!state.seenAtLoad) state.seenAtLoad = new Set(state.items.filter((i) => i.seenAt).map((i) => i.id));
       render();
     }, () => showNote('The queue stopped updating. Reload the page to reconnect.'));
   })();

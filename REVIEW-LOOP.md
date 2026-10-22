@@ -1,17 +1,27 @@
 # MATTER review loop
 
-How new pieces get into the catalog. Two scheduled runs do the work, Natalie
-curates in between.
+How new pieces get into the catalog. Nothing goes live until Natalie has seen
+it and pressed Publish.
 
-- **Monday pull.** Pull candidates, load them into the review page, save the
+- **Monday pull.** Pull candidates, add them to the review page, save the
   photo file. Natalie has given standing approval (2026-10-22) for the Monday
-  run to save `matter-thumbnails.json` to her Downloads folder without asking.
-- **Wednesday publish.** Read her skips, merge the rest into the catalog,
-  audit, commit, push.
+  run to save the photo file to her Downloads folder without asking.
 - **Review page.** https://claude.ai/artifact/SX52cEycYGym5RrhYJWMvK
-  Source lives in `tools/review-page/index.html`. Its database holds
-  `candidates/<id>` (one doc per piece, field `skip`) and `meta/round`
-  (`label`, `round`, `deadline` ISO with -05:00 or -06:00, `retailers`).
+  Source lives in `tools/review-page/index.html`. It shows only pieces she has
+  not reviewed yet. A card counts as reviewed once she has scrolled past it
+  (`seenAt` is written). She taps Skip on anything below the bar. The Publish
+  button marks every reviewed, kept piece `status: "approved"` and starts the
+  "MATTER publish now" scheduled task (trig_01Kxb1RHkXd1GA1fcDHsjHG9) through
+  her Claude Code Remote connector.
+- **Publish run.** "MATTER publish now" on demand, plus the Wednesday run as a
+  backstop for approvals that did not get published. Both follow "Publish"
+  below and only ever publish `approved` docs.
+- **Database.** `candidates/<id>`, one doc per piece: retailer, brand, name,
+  price, url, img (`img/<id>.jpg` published with the page), category, colour,
+  shell and lining as `[{fiber, pct}]` (lining may be the string
+  `"undisclosed"` or null), round, order, skip, seenAt, status
+  (`pending`, `approved`, `published`, `rejected`). The full catalog record for
+  every candidate lives in a `data/review/round-*.json` file in the repo.
 
 ## The fiber rule
 
@@ -70,6 +80,29 @@ requests. Only try with name pre-filtering (WOOL, CASHMERE, LINEN, SILK,
 LEATHER, COTTON, POPLIN) and one request every 6 seconds, and stop at the first
 403.
 
+**Shopify brand stores. Reliable, the preferred source.** From any open tab,
+`fetch('https://<domain>/products.json?limit=250&page=N')` works across
+origins. Composition sits in `body_html` text ("Composition: 100% silk",
+"Shell ... Lining ..."); parse it strictly, map every fiber name to the site's
+spelling, require the shell to sum to 100, and drop anything that does not
+parse rather than guess. Use `variants[].available`, `variants[0].price`,
+`images[0].src` + `?width=600`, and `https://<domain>/products/<handle>`.
+Exclude men's (`mens-` in the handle), kids, home, shoes, bags and
+accessories. Multi-brand stores (Jenni Kayne, Lisa Says Gah) carry other
+labels: use the `vendor` field as the brand. Verified 2026-10-22 with fiber
+content in the data: White + Warren (whiteandwarren.com), Guest In Residence
+(guestinresidence.com), Naadam (naadam.co), Brochu Walker (brochuwalker.com),
+Sea New York (sea-ny.com), Ulla Johnson (ullajohnson.com), St. Agni
+(st-agni.com), Gabriela Hearst (gabrielahearst.com), Tibi (tibi.com), Christy
+Dawn (christydawn.com), Jenni Kayne (jennikayne.com), Faherty
+(fahertybrand.com, women's only), Anine Bing (aninebing.com), Kotn (kotn.com),
+Lisa Says Gah (lisasaysgah.com). Shopify, but composition missing from the
+data: Khaite, Toteme, Nili Lotan, Citizens of Humanity, Cuyana, Lauren
+Manoogian, Nanushka, Ronny Kobo, Frame, Rachel Comey, Staud, Simkhai, Matteau.
+Arch4 is Shopify but prices in GBP, skip. Could not be read: Vince, Pact,
+Pansy, Doen, Jesse Kamm, Rag & Bone, Reformation, Sezane, Rouje, Ganni, A Piece
+Apart, Lisa Yang, LaPointe, Les et Moi, Posse.
+
 **Mango.** 403 on category pages fetched by script. Not automated yet.
 **Neiman Marcus.** Serves a CAPTCHA. Do not attempt to get past it. Manual or
 affiliate feed only.
@@ -80,30 +113,35 @@ carry composition in `copyFeatures`. Not automated yet.
 
 1. Read `data/catalog.json` and every `data/review/round-*.json` so nothing
    already listed or already offered comes back.
-2. Pull from Massimo Dutti, then Revolve within its pacing. Apply the fiber
-   rule. Pick about 40 across all seven categories, favouring what is in
-   season, a mix of fibers within each category, and nothing near-identical to
-   a piece already live.
+2. Pull from the Shopify brand stores first, then Massimo Dutti, then Revolve
+   within its pacing. Apply the fiber rule. Pick about 60 across all seven
+   categories, at most 8 per brand and 3 per category per brand, favouring what
+   is new and in season, a mix of fibers, and nothing near-identical to a piece
+   already live or already in the queue.
 3. Write `data/review/round-<YYYY-MM-DD>.json` in catalog format (see an
-   existing round file) and commit it.
-4. Thumbnails. In a retailer tab, fetch each image with `mode: 'cors'`, draw
-   it to a 360 pixel wide canvas, `toDataURL('image/jpeg', 0.74)`, and save one
-   JSON object `{id: dataUrl}` as `matter-thumbnails.json` through an anchor
-   download. Read it from Downloads, write `img/<id>.jpg` files.
+   existing round file), audit it against a temporary merged copy, and commit
+   it.
+4. Photo file. In a retailer tab, fetch each image, draw it to a 360 pixel
+   wide canvas, `toDataURL('image/jpeg', 0.74)`, and save one JSON file to
+   Downloads through an anchor download. Read it from Downloads and write
+   `img/<id>.jpg` files.
 5. Review page. Read the artifact first, then republish
-   `tools/review-page/index.html` to the same URL with the new `img/` files.
-   Delete the previous round's `candidates` docs, write the new ones (fields:
-   retailer, brand, name, price, url, img, category, colour, shell and lining
-   as `[{fiber, pct}]`, round, order, skip false), and set `meta/round` with the
-   deadline Wednesday 11:00 AM Central.
-6. Tell Natalie how many pieces are waiting and when the window closes.
+   `tools/review-page/index.html` to the same URL, passing only the new
+   `img/` files (earlier ones are kept). Keep every existing `candidates` doc.
+   Add one doc per new piece with `status: "pending"`, `skip: false` and no
+   `seenAt`.
+6. Tell Natalie how many new pieces are waiting.
 
-## Wednesday publish, step by step
+## Publish, step by step
 
-1. Query the review page database for `candidates` where `skip == true`.
-2. Write their ids as a JSON array to `data/review/<round>.skips.json`.
-3. `node scripts/merge-review.mjs <round>` then `node scripts/audit.mjs`.
-   Fix any audit error before going further.
+Used by "MATTER publish now" and the Wednesday backstop.
+
+1. Query `candidates` where `status == "approved"`. If none, stop.
+2. Write their ids as a JSON array to `data/review/publish-<YYYY-MM-DD-HHMM>.json`.
+3. `node scripts/merge-review.mjs --ids <that file>` then
+   `node scripts/audit.mjs`. Stop on any audit error or missing id.
 4. Commit, then push with GitHub Desktop (Repository, Push). If the Mac is
    locked or GitHub Desktop will not respond, leave the commit in place and
    tell Natalie one click is waiting.
+5. Set every approved doc to `status: "published"` with `publishedAt`, and
+   every `pending` doc with a `seenAt` and `skip: true` to `status: "rejected"`.
