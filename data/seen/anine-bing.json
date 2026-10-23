@@ -30,5 +30,2138 @@
  "aninebing.com/products/scott-shirt-white-and-black-stripe": {
   "outcome": "catalog",
   "date": "2026-10-22"
+ },
+ "aninebing.com/products/small-signature-link-belt-black-with-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/luca-jacket-camel-cashmere-blend-1": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-sport-colorblock-heather-grey": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nina-boots-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nina-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/aretha-blazer-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/tall-tania-soft-boots-smooth-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/imane-sweater-fig": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/amoc-loafer-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/ava-scarf-camel-cashmere-blend": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/oslo-cropped-puffer-dark-brown": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/oslo-long-puffer-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sandy-jacket-burgundy-leather": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-anine-bing-ny-army-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-ab-corduroy-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-tote-embossed-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-bucket-bag-embossed-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/calli-card-holder-embossed-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/anine-wallet-embossed-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/billy-pant-black-recycled-leather": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/roy-jean-34-baltic-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/kate-jean-stretch-29-baltic-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/paola-trouser-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nora-tweed-cardigan-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/zeina-top-black-recycled-leather": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cyrus-jacket-burgundy-recycled-leather": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/tessa-tweed-cardigan-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sali-maxi-coat-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/fran-top-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/fran-dress-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-new-era-of-me-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/benedict-mini-skirt-black-recycled-leather": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-collegiate-burgundy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/kacey-sweatpant-burgundy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-los-angeles-vintage-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/cade-tee-los-angeles-vintage-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-collegiate-burgundy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/quinn-blazer-burgundy-cashmere-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/mia-sweater-charcoal": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/leonor-dress-black-lace": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sana-coat-camel-cashmere-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/zeina-top-black-lace": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-los-angeles-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/alma-turtleneck-sweater-beige": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/anine-bag-black-embossed-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/venus-visor-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cabana-bucket-hat-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/augustina-scarf-grey-wool": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/flora-dress-black-and-brown-leopard": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/kate-jean-stretch-29-vintage-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lilou-tee-ecru": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/ab-umbrella-multi": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/hugh-jean-32-dark-indigo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/lace-bra-with-trim-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sarita-bomber-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/luca-padded-jacket-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cyrus-jacket-beige": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/rtl-dylan-coat-black-cashmere-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/rtl-dylan-coat-camel-cashmere-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-wool-grey-wool": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nelly-slingback-metal-toe-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/hugh-jean-34-unwashed-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/hugh-jean-32-unwashed-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sandy-jacket-black-leather": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/nell-tee-sport-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-sport-club-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sporty-cropped-sweatshirt-heather-grey": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-leo-muse-deep-emerald": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/harry-shrunken-signet-sweatshirt-ecru": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/harry-shrunken-signet-sweatshirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/shelley-tee-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-studio-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/harvey-sweatshirt-collegiate-green": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/karter-sweatpant-grey": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-collegiate-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/quinn-blazer-dark-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/lou-trouser-dark-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/alma-turtleneck-sweater-charcoal": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/june-trucker-collar-sweater-deep-emerald": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/harvey-sweatshirt-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/rory-jacket-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/barbara-bodysuit-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/eve-bra-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/eve-bra-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nono-bra-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elina-bra-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elina-bra-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sari-jogger-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/eva-short-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/eva-short-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/dan-biker-short-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/fuse-legging-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/gabrielle-legging-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/gabrielle-legging-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/dave-legging-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/dave-legging-burgundy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sully-sporty-socks-black-and-white-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sully-sporty-socks-white-and-black-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sully-sporty-socks-burgundy-and-white-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/juna-sneakers-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/juna-sneakers-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/stevie-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nelly-slingback-buckle-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-canvas-tote-washed-black-and-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-canvas-tote-tango-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/anine-clutch-braided-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-tote-grained-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-tote-grained-leather-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lili-tote-braided-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/ava-scarf-black-cashmere-blend": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-collegiate-deep-emerald": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-belt-smooth-leather-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/double-elly-belt-smooth-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lee-crew-sweater-green": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/tina-tank-top-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/june-trucker-collar-sweater-ecru": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/dany-cropped-hoodie-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/shelley-tee-ecru": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/shelley-tee-studio-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/shelley-tee-studio-vintage-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/samy-shirt-unwashed-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/scott-cropped-shirt-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/samy-shirt-abstract-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/samson-top-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/blanca-top-navy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/scott-shirt-cloud-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/brie-jean-33-vintage-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/gavin-jean-29-dark-indigo": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/brie-jean-33-dark-indigo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/kate-jean-29-unwashed-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/hugh-jean-34-abstract-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/tina-short-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/bar-maxi-skirt-navy": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/livy-skirt-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/karter-sweatpant-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/june-trucker-collar-dress-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/judy-dress-navy-and-black-lace": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/zelie-dress-black-recycled-leather": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/camden-jacket-golden-beige": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cyrus-jacket-black-recycled-leather": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sana-coat-black-cashmere-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leon-bomber-deep-emerald": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/rory-jacket-dark-grey": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sali-coat-dark-grey": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-sport-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/brie-jean-33-reservoir-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/reza-jacket-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/harvey-sweatshirt-tango-red": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/anine-bag-smooth-leather-tango-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-tiger-bing-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-tiger-bing-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/cade-tee-leo-muse-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/roy-jean-31-baltic-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/maha-pant-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-belt-smooth-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-belt-studs-smooth-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/anine-clutch-tango-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/anine-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sahara-jacket-army-green": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/iva-sandal-smooth-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/livia-chelsea-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/ana-flats-studs-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leon-small-waist-bag-nylon-tango-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leonie-coated-canvas-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-coated-canvas-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-coated-canvas-tote-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-collegiate-cream": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-anine-bing-paris-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-ab-corduroy-beige": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/york-scarf-anine-bing-tango-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/york-scarf-leopard-pearl-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/anine-wallet-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lee-sweater-tango-red": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/tiana-sweater-ecru": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/tiana-sweater-tango-red": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/tiana-sweater-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-collegiate-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-leo-muse-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/shelley-tee-tango-red": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/fran-dress-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/fran-top-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nell-tee-mesh-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sixtine-tank-top-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sixtine-tank-top-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sixtine-tee-short-sleeve-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sixtine-tee-short-sleeve-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/samy-shirt-snow-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/blanca-top-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/blanca-top-golden-beige": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/scott-cropped-shirt-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/scott-shirt-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/gavin-jean-29-blue-reservoir": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/roy-jean-31-vintage-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/hugh-jean-32-vintage-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/hugh-jean-32-baltic-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/kate-jean-29-snow-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/malou-skirt-black-and-black-lace": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/thomas-trouser-golden-beige-leopard": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/amal-trouser-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/thomas-trouser-black-and-white-pinstripe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/thomas-trouser-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/judy-dress-golden-beige-and-black-lace": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/blanca-midi-dress-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/laika-blazer-golden-beige-leopard": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/pascale-trench-clean-indigo": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leon-bomber-tango-red": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elga-blazer-black-and-white-pinstripe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elga-blazer-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/pascale-maxi-trench-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/assan-jacket-black-recycled-leather": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/calli-card-holder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/calli-card-holder-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lace-bra-with-trim-blush": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-ab-los-angeles-sea-foam-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/ana-flats-smooth-leather-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/anine-bag-smooth-leather-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/spencer-sweatshirt-leopard-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/leon-small-waist-bag-nylon-army-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-canvas-tote-collegiate-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-los-angeles-university-washed-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-collegiate-cap-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-ab-nylon-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-ab-nylon-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-ab-nylon-army-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-melrose-stencil-navy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/cade-tee-leopard-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/cade-tee-los-angeles-university-earth-red": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-los-angeles-university-earth-red": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-new-york-university-cilantro": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/johnny-cropped-tee-cream": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/harvey-sweatshirt-melrose-stencil-navy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/jaylin-tee-collegiate-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/jaylin-tee-collegiate-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-letterman-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/harvey-sweatshirt-paris-stencil-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/leon-bomber-fig": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/amoc-loafer-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/ellen-top-black-and-brown-leopard": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leon-small-waist-bag-nylon-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leon-small-waist-bag-nylon-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-canvas-tote-new-york-university-cilantro": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-canvas-tote-los-angeles-university-washed-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-canvas-tote-los-angeles-university-earth-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-medium-bucket-bag-grained-leather-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-bucket-bag-grained-leather-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-new-york-university-cilantro": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-paris-university-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-los-angeles-university-earth-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/york-scarf-ab-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/york-scarf-ab-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/signature-link-belt-braided-fig": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/joye-cardigan-stone-melange": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lee-polo-sweater-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/cade-tee-los-angeles-university-washed-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/cade-tee-new-york-university-cilantro": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-los-angeles-university-washed-grey": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/ivan-long-sleeve-new-york-stencil-ivory": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/imane-sweater-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sylvie-long-sleeve-tee-fig": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sylvie-tee-fig": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lincoln-shirt-ink-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/bridget-shirt-fig": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lea-top-fig": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/brie-jean-33-cabana-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/tierra-skirt-beige-and-navy-checks": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/clementine-skirt-fig": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/roslyn-pant-black-and-brown-leopard": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lou-trouser-ink-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/brice-chino-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/paola-trouser-navy-pinstripe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/imane-dress-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/beth-mini-dress-leopard-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/yuma-jacket-cabana-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/rickie-maxi-trench-cabana-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/camden-jacket-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/rory-jacket-black-recycled-leather": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/huda-blazer-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/rickie-cropped-trench-beige": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/quinn-blazer-beige-and-navy-checks": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/aretha-blazer-navy-pinstripe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/pure-noir-eau-de-parfum-100-ml": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/rose-wood-eau-de-parfum-100-ml": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/mid-biker-boots-tobacco": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/mid-biker-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-washed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-canvas-tote-washed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/beth-mini-dress-palm-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/clementine-dress-fig": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-new-york-university-butter-yellow": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/moni-crop-cardigan-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/ana-flats-calf-hair-zebra": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/aneka-babouche-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/ana-flats-smooth-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/ria-slides-braided-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-denim-tote-ink-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lili-pouch-white-and-black-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lara-tote-white-and-black-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/medium-rio-tote-zebra": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/small-double-signature-link-belt-braided-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/signature-link-belt-braided-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nicks-bucket-hat-ink-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-ab-ink-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nicks-bucket-hat-white-and-black-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nicola-belt-zebra": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/moni-crop-tank-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lee-sweater-storm-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-anine-bing-leopard-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/cade-tee-wave-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/shelley-tee-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/shelley-tee-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-palm-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/cade-tee-palm-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-waves-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/mael-camisole-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/essie-shirt-blue-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/bridget-shirt-white-and-black-mini-stripe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/plaza-shirt-lavanda-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/shayna-top-black-lace": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lea-top-storm-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/roy-jean-31-pacific-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/wyatt-jean-34-freshwater-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/kam-short-black-lace": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/bar-silk-skirt-storm-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/shelby-skirt-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/brice-short-taupe-and-blue-pinstripe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/noemi-dress-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/arie-long-dress-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cole-dress-white-and-black-mini-stripe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/mary-dress-long-sleeve-freshwater-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/magnolia-dress-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/quinn-blazer-taupe-and-blue-pinstripe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/odin-jacket-beige": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/banini": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/matcha-croissant": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/abs-mint-chip-whole-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/abs-mint-chip-almond-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/abs-mint-chip-oat-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/the-melrose-whole-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/the-melrose-almond-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/the-melrose-oat-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/frozen-palmer": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/frozen-matcha-whole-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/frozen-matcha-almond-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/frozen-matcha-oat-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/frozen-coffee-almond-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/frozen-coffee-oat-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/frozen-coffee-whole-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lili-tote-raffia-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lili-tote-raffia-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/tyla-dress-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/tyla-top-cream": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/meredith-skirt-cream": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/bryson-short-sea-foam-green": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/bryson-short-cream": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sara-vest-sea-foam-green": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sara-vest-cream": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-los-angeles-university-butter-yellow": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-dark-camel": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/isla-slides-camel-monogram": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sylvie-tee-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sylvie-long-sleeve-tee-midnight-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leah-stripes-hobo-raffia-natural-and-brown-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-melrose-stencil-washed-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/juliann-tank-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-collegiate-vintage-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/wyatt-jean-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/delaney-short-arbor-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/yuma-jacket-army-green": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/grayson-pant-army-green": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/iva-sandal-smooth-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/isla-slides-red-terracotta": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/isla-slides-blush": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/isla-slides-sea-foam-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-canvas-tote-collegiate-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leah-logo-hobo-raffia-red-terracotta": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leah-logo-hobo-raffia-blush": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leah-logo-hobo-raffia-sea-foam-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leah-logo-hobo-raffia-storm-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cabana-bucket-hat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-wave-washed-seafoam": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-smiley-washed-grey": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cade-tee-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/harry-shrunken-sweatshirt-surfer-washed-buttercream": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/harvey-sweatshirt-anine-bing-coral-pink": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-washed-seafoam": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/ivan-long-sleeve-melrose-stencil-washed-blushed": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/shelley-tee-surfer-washed-buttercream": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/mael-camisole-blush": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/plaza-shirt-green-and-white-mini-stripe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/edith-shirt-ivory": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/edith-shirt-black-linen-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jamey-skirt-arbor-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/kate-jean-arbor-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jasper-short-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/kam-short-washed-seafoam": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jasper-short-pacific-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/roslyn-pant-ivory": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lou-trouser-black-linen-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/noemi-dress-green-and-white-mini-stripe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/arie-tank-ivory": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/arie-tank-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/arie-dress-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/carissa-dress-blush": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/quincy-jacket-cascade-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/noelle-thong-sandals-embossed-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/noelle-thong-heels-embossed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/noelle-thong-sandals-embossed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/brie-jean-pale-azure": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/luca-jacket-black-recycled-leather": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/stevie-boots-calf-hair-leopard": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jayden-mule-sandals-bone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leah-hobo-bag-plain-raffia-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cole-tank-cream": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cole-tank-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jane-jean-cascade-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-medium-bucket-bag-suede-tobacco": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-bucket-bag-suede-tobacco": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lille-sunglasses-tortoise": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leah-logo-hobo-raffia-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leah-stripes-hobo-raffia-black-and-natural-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-medium-bucket-bag-grained-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/elly-bucket-bag-grained-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jayden-mule-sandals-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lace-bralette-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/quincy-jacket-vintage-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jane-jean-vintage-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-collegiate-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/harvey-sweatshirt-new-classic-medium-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-collegiate-dark-navy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/jaylin-tee-collegiate-washed-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/miles-sweatshirt-new-classic-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/anine-bag-smooth-leather-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/roy-jean-31-blue-glow": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/cyrus-jacket-olive": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leon-bomber-black-recycled-leather": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sylvie-tee-midnight-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/hugh-jean-baltic-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-black-wool": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/augustina-scarf-black-wool": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lee-crew-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/roy-jean-34-vintage-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/aretha-blazer-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sylvie-long-sleeve-tee-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sylvie-long-sleeve-tee-black-and-brown-leopard": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/sylvie-tee-black-and-brown-leopard": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-anine-bing-leopard-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/luca-jacket-black-cashmere-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-black-and-brown-leopard": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/beth-mini-dress-black-and-brown-leopard": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/lee-crew-sweater-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/jackson-sweater-medium-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-washed-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/link-drop-earrings": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/roy-jean-31-clean-indigo-denim": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/double-link-chain-bracelet-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leo-canvas-tote-black-and-brown-leopard": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-ab-bleached-blue-denim": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/kate-jean-clean-indigo": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/paris-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/essie-shirt-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/chunky-chain-bracelet-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-black-and-brown-leopard": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/avi-tee-black-and-brown-leopard": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/jackson-sweater-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/jackson-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/quinn-blazer-heather-grey-cashmere-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nicola-belt-black-with-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lee-crew-sweater-medium-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/bruno-pant-black-recycled-leather": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lou-trouser-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/luca-jacket-camel-cashmere-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/gwp-hide-product": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/hugh-jean-dark-indigo": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lili-tote-black-pebbled": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/monogram-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/miles-sweatshirt-letterman-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/small-signature-link-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/nicola-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/hilda-boots-high-shine-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/delicate-pinky-ring-14k-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/large-rio-tote-black-recycled-leather": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/hugh-jean-vintage-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/indio-sunglasses-dark-tortoise": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leon-bomber-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/hilda-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/quinn-blazer-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/rose-wood-candle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/hugh-jean-panama-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/signature-link-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/triple-knot-earrings-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/leon-bomber-army-green": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/harvey-sweatshirt-dark-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/roy-jean-34-nordic-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/small-bold-link-hoops-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/quinn-blazer-black-cashmere-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/link-necklace-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/large-rio-tote-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/classic-pearl-choker-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/quinn-blazer-camel-cashmere-blend": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/tall-tania-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/gavin-jean-28-blue-reservoir": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/jeremy-baseball-cap-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/beaded-necklace": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lace-bra-with-trim-ivory": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/spiral-necklace": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/pure-noir-candle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/rory-jacket-vintage-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/bar-silk-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly4.json"
+ },
+ "aninebing.com/products/indio-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/chain-link-bracelet": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/lace-bra-with-trim-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "aninebing.com/products/gift-card": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
  }
 }
