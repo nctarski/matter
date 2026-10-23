@@ -30,5 +30,1941 @@
  "naadam.co/products/super-luxe-cashmere-oversized-cardigan": {
   "outcome": "catalog",
   "date": "2026-10-22"
+ },
+ "naadam.co/products/digital-gift-card": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/ultra-luxe-cashmere-high-neck-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-cashmere-oversized-crewneck-sweater-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-cashmere-collared-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-luxe-cashmere-crossover-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-one-shoulder-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmino-plaid-scarf-with-pockets": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-oversized-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-goat-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-cable-pillow-cover": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-pillow-cover": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-double-faced-utility-jacket": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-long-sleeve-polo": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wool-cotton-dog-jacquard-crewneck-sweater-1": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmino-fisherman-rib-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-quarter-button-down-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/wool-cotton-dog-jacquard-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-quarter-zip-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmino-belted-turtleneck-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-crewneck-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-straight-leg-pant-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/womens-texas-a-m-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-texas-a-m-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-cinched-waist-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/long-sleeve-pajama-tee-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/short-sleeve-pajama-tee-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lofty-cashmere-blanket": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-original-cashmere-crewneck-sweater-mens-2": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-boxy-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-luxe-cashmino-fisherman-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-luxe-cashmere-relaxed-henley-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmino-pocket-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-luxe-cashmino-double-faced-jacket-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-cashmere-crewneck-sweater-1": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-split-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-cashmino-milano-utility-jacket": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-voop-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-luxe-cashmere-crossover-v-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-cashmere-scoop-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmino-jumpsuit": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-ribbed-striped-socks": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-short-sleeve-turtleneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-henley-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmino-v-neck-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/featherweight-cashmere-slim-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/womens-university-of-pittsburgh-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-michigan-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-pittsburgh-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-university-of-michigan-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-quarter-zip-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-cashmino-twill-jacquard-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmino-twill-jacquard-quarter-zip-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-triangle-scarf": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-scoop-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-polo-sweater-womens": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-color-blocked-full-zip-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/featherweight-cashmere-v-neck-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/merino-cashmere-ribbed-button-down-turtleneck": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/free-returns-package-protection": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/shipped-shield-package-assurance-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-yale-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-yale-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-university-of-alabama-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-alabama-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-columbia-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-columbia-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-indiana-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-stanford-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-southern-methodist-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-rutgers-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-university-of-missouri-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-kansas-state-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-cornell-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-florida-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-missouri-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-mississippi-state-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-auburn-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-penn-state-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-pennsylvania-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-san-diego-state-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-new-york-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-louisiana-state-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-kansas-state-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-florida-state-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-cornell-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-clemson-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-brown-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-arizona-state-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-purdue-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-west-virginia-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-stanford-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-southern-methodist-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-rutgers-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-pepperdine-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-michigan-state-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-lehigh-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-iowa-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-dartmouth-college-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-university-of-pennsylvania-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-pepperdine-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-michigan-state-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-lehigh-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-florida-state-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-dartmouth-college-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-brown-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-colorado-boulder-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-oklahoma-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-harvard-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-louisiana-state-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-university-of-iowa-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-indiana-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-clemson-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-minnesota-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-vanderbilt-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-university-of-oklahoma-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-harvard-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-auburn-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-purdue-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-west-virginia-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-penn-state-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-mississippi-state-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-new-york-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-vanderbilt-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-san-diego-state-university-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-university-of-minnesota-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-university-of-florida-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-university-of-tennessee-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-university-of-colorado-boulder-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-university-of-tennessee-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-arizona-state-university-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/2-pack-womens-try-it-t-shirts-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/2-pack-womens-try-it-t-shirts-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/3-pack-lightweight-brushed-relaxed-tee-white-navy-pink": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/3-pack-lightweight-brushed-relaxed-tee-pack-white-black-navy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-cable-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-airy-cashmere-fisherman-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-airy-cashmere-fisherman-open-front-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-cable-oversized-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-fisherman-cinched-waist-zip-up-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-fisherman-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-belted-tank": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-fisherman-full-zip-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-fisherman-raglan-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-henley-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-high-neck-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/organic-cotton-relaxed-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/organic-cotton-relaxed-rollneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/organic-cotton-v-neck-sweater-womens": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/womens-rose-cashmere-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/shipped-shield-package-assurance": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/organic-cotton-button-down-shirt-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/3-pack-lightweight-brushed-cotton-tee-black-grey-navy": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/3-pack-lightweight-brushed-cotton-tee-white-black-navy": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-brushed-cotton-tee-1": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/3-pack-lightweight-brushed-slim-tee": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/womens-tennis-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/womens-seashell-cashmere-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/womens-palm-tree-lightweight-cashmere-short-sleeve-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/mens-soccer-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mens-tennis-cashmere-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/order-protection": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-relaxed-ribbed-turtleneck": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-silk-pointelle-skirt": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-cashmere-sleeveless-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-open-stitch-boatneck-tunic": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-open-stitch-tank-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/chunky-cotton-crewneck-sweater-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-cashmere-mixed-media-tunic": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-smocked-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-smocked-tee": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-cashmere-mixed-media-barn-jacket": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/coastal-cashmere-mixed-media-vest": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-slip-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cotton-t-shirt-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-brushed-relaxed-tee": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-brushed-slim-tee": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-brushed-cotton-tee": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wool-silk-plaited-polo-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/wool-silk-reversible-twist-top": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/silk-cashmere-midi-tank-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/modal-cashmere-hoodie": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/merino-cashmere-puffer-jacket": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/silk-blend-pointelle-cropped-pant": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-crossover-sweater": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/woven-button-up-with-embroidery-detail": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/woven-cotton-slip-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/ribbed-cut-out-cardigan": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/organic-cotton-drawstring-shorts": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-classic-turtleneck": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cotton-pointelle-stitch-polo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/twill-oversized-jacket": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-ribbed-tube-top": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-cashmere-mixed-media-mini-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/color-plaited-tank-dress": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/silk-cashmere-polo-mini-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/silk-cashmere-cutout-turtleneck": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/biodegradable-puffer-coat-women": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/merino-cashmere-cable-short": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/modal-cashmere-sleeveless-mockneck-bodysuit": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-saddle-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-luxe-cashmere-fisherman-v-neck-sweater-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmino-ribbed-beanie": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmino-ribbed-scarf": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-fine-cashmere-tank": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-classic-v-neck": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-cashmere-double-faced-jacket": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-fine-cashmere-t-shirt": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-striped-crewneck": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/baby-rib-pant": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/baby-rib-racer-tank": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/baby-rib-cardigan": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-striped-high-v-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-cable-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-polo": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-wrap-top-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-open-front-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-off-the-shoulder-tank": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-high-v-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/featherweight-cashmere-relaxed-polo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/basic-cashmere-v-neck-sweater-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/basic-cashmere-turtleneck-sweater-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-high-neck-tank": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-short-sleeve-polo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-three-quarter-sleeve-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-boxy-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/basic-cashmere-short-sleeve-sweater-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-short-sleeve-sweater-2": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/the-original-cashmere-crewneck-sweater-mens-1": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-zip-up-hoodie-1": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-quarter-button-down-sweater-with-contrast-trim": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-v-neck-sweater-with-contrast-trim": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-novelty-trouser": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-cashmere-waffle-hoodie": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-hoodie": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/long-sleeve-cropped-pullover": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/utility-belted-trousers": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/textured-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/superbowl-lx-cashmere-sweater-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/superbowl-lx-cashmere-ribbed-scarf": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/superbowl-lx-cashmere-sweater-womens": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/superbowl-lx-cashmere-ribbed-beanie": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-donegal-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/brushed-cotton-shirt-jacket": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-cashmere-polo": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/modal-cashmere-sleeveless-bodysuit": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/modal-cashmere-bike-shorts": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/modal-cashmere-leggings": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lofty-alpaca-crewneck": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-apres-crewneck": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-ski-crewneck-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-boxy-turtleneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-zip-hoodie": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-turtleneck-dress-with-slits": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/wicked-yellow-brick-road-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wicked-slippers-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wicked-all-roads-lead-to-oz-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wicked-dorothys-companions-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-cable-crewneck": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-relaxed-boatneck": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-zip-up-hoodie": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-zip-up-hoodie": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wicked-defying-gravity-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wicked-glinda-elphaba-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wicked-elphaba-hat-and-broomstick-cashmere-sweater": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wicked-changed-for-good-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wicked-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wicked-glindas-charm-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/wicked-the-girl-in-bubble-cashmere-sweater": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lofty-alpaca-turtleneck-sweater": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-double-faced-shawl-collar-jacket": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-luxe-cashmino-toggle-jacket": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-luxe-cashmino-double-faced-jacket": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lofty-alpaca-crewneck-1": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lofty-alpaca-cardigan": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-scarf": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-ribbed-socks": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-shawl-collared-cardigan": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-cropped-pant-with-pintucks": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/off-duty-cashmere-hoodie": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/off-duty-cashmere-jogger": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/nfl-luxe-cashmere-crewneck-sweater-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/nfl-luxe-cashmere-hoodie": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/nfl-signature-cashmere-color-blocked-quarter-zip": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/nfl-luxe-cashmere-crewneck-sweater-womens": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-polo-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-tie-waist-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/fancy-cashmere-long-sleeve-polo": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-fine-cashmere-classic-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-fine-cashmere-classic-turtleneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-fine-cashmere-sleeveless-turtleneck-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/organic-cotton-sleeveless-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-boyfriend-cardigan": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-striped-short-sleeve-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-v-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-cashmere-double-faced-quarter-zip": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-double-sided-crewneck": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-v-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmino-waffle-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmino-waffle-v-neck-cardigan": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-v-neck-bomber-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-cashmere-turtleneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-cashmere-oversized-turtleneck": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-cable-oversized-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-straight-leg-pant": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-crewneck-sweater-with-pintucks": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-trouser": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lofty-alpaca-beanie": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lofty-alpaca-scarf": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/long-sleeve-pajama-tee-womens": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/pajama-shorts-womens": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/short-sleeve-pajama-top-womens": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/button-up-pajama-shirt-womens": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/pajama-pant-womens": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-original-cashmere-crewneck-sweater-womens-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/the-original-cashmere-crewneck-sweater-womens": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-short-sleeve-v-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-boatneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-v-neck-sweater-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-ribbed-mockneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-cable-short-sleeve-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/basic-cashmere-turtleneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/basic-cashmere-v-neck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/basic-cashmere-short-sleeve-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/basic-cashmere-mockneck-sweater": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-fine-cashmere-long-sleeve-polo-womens": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/super-fine-cashmere-shrunken-t-shirt": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/the-original-cashmere-sweater-womens-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/the-original-cashmere-sweater-mens-3": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-original-cashmere-sweater-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-original-cashmere-crewneck-sweater-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-original-cashmere-sweater-v-neck-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-original-cashmere-sweater-mens-2": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-original-sweater-womens": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/chunky-cotton-polo-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/baby-rib-short-sleeve-top": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/organic-cotton-relaxed-cardigan-womens": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/organic-cotton-relaxed-cardigan-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/organic-cotton-relaxed-v-neck-sweater-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/organic-cotton-relaxed-quarter-zip-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/organic-cotton-button-down-shirt-womens": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/baby-rib-cropped-tank": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-tee": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-cashmere-oversized-sweatshirt": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-cashmere-ankle-trouser": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/soft-shine-easy-tank-dress": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/ultra-fine-cashmere-long-sleeve-crewneck": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/fancy-cashmere-t-shirt": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/ultra-fine-cashmere-t-shirt": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/fancy-cashmere-short-sleeve-polo-1": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/fancy-cashmere-short-sleeve-polo": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/rib-modal-crew-dress": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/featherweight-cashmere-polo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-contrast-trim-crewneck": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-short-sleeve-button-down": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-cropped-zip-up-hoodie": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-full-zip-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-quarter-zip": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-color-blocked-quarter-zip": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-off-duty-cashmere-hoodie": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/the-off-duty-cashmere-jogger": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-classic-tee-womens": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-ribbed-cashmere-scarf": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-fair-isle-crewneck": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-cable-crewneck-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/fancy-cashmere-quarter-zip": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/fancy-cashmere-zip-up": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-cashmere-wrap-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/fancy-cashmere-sleeveless-turtleneck": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-rollneck": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/twill-wide-leg-pant": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/twill-jacket": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-long-sleeve-tee": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-cashmere-textured-quarter-zip": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-cashmere-textured-crewneck": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/luxe-cashmere-dip-dye-tank": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/luxe-wool-double-breasted-coat": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-ribbed-sweater-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/the-pocket-tee-mens": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/textured-cable-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/textured-quarter-zip": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/fancy-cashmere-hoodie": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cotton-baseball-hat": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/baby-rib-midi-dress": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/baby-rib-cardigan-dress": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/baby-rib-tank-mini-dress": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-waffle-crewneck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/recycled-cashmere-jogger": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/mixed-media-puffer-vest": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-ribbed-v-neck-tank": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-short-sleeve-polo": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-zip-up-sweater-jacket": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/reversible-cashmere-v-neck-sweater": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-halter-top": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-one-shoulder-sweater": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-rugby-polo": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-short-sleeve-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/lightweight-cashmere-short-sleeve-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/long-cashmere-robe": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/baby-rib-cropped-long-sleeve": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/monogramming-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/lightweight-cashmere-relaxed-polo": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-fitted-asymmetrical-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-field-shirt-jacket": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-button-loop-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/featherweight-cashmere-crewneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/signature-cashmere-gloves-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/signature-ribbed-cashmere-beanie": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/ultra-fine-cashmere-long-sleeve-v-neck": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/ultra-fine-cashmere-cardigan-men": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/fancy-cashmere-cropped-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/ultra-fine-cashmere-crewneck": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/ultra-fine-cashmere-v-neck": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-paperbag-wide-leg-pants": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/gift-card": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/nori-trim-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/super-luxe-cashmere-fisherman-sweater": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-essential-cashmere-sweatpants": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-essential-cashmere-hoodie-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-classic-cardigan": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-cropped-zip-up-hoodie": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/kids-cashmere-cropped-pant": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-turtleneck-dress": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/ultra-fine-cashmere-tank-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/ultra-fine-cashmere-tank": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/ultra-fine-cashmere-t-shirt-dress": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-shorts-men": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-polo-sweater": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-essential-cashmere-hoodie": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-duster-cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-v-neck-dress": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-ribbed-cropped-sweater": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/kilo-throw": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/the-essential-cashmere-hoodie-women": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/the-essential-cashmere-sweatpants-women": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-boatneck-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-cropped-tank-top": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-ribbed-sweater": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly6.json"
+ },
+ "naadam.co/products/cashmere-turtleneck": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-sweatpants-men": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "naadam.co/products/cashmere-comb": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
  }
 }

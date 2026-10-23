@@ -50,6 +50,10 @@ that carry words or graphics in the ledger as `rejected` instead of staging them
 Names such as Collegiate, University, Los Angeles, Stencil, Letterman, Sport
 Club, New Era and any brand wordmark are the usual signal, and the photo is the
 final word.
+The same goes for sweaters and knitwear with words or logos (Naadam's
+university, NFL, Wicked, Ski and Apres sweaters, rejected 2026-10-23). Small
+embroidered motifs with no words, such as a rose or a palm tree, are fine:
+Natalie has approved pieces like White + Warren's lobster and horse crewnecks.
 
 ## Curated edits on the homepage
 

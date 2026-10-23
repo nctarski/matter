@@ -62,11 +62,11 @@
       "brand": "Naadam",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
+      "lastSweep": "2026-10-23",
       "lastDelta": null,
-      "note": ""
+      "note": "Full sweep 2026-10-23 from naadam.co (naadam.com is parked). 458 products read, 160 staged (nightly6). products.json omits composition for about a third of women's pieces; it was read from each product page instead. 55 rejected under the words and graphics rule (university, NFL, Super Bowl, Wicked, GOAT, Ski, Apres, Tennis sweaters). 139 men's, 42 out of scope, 16 under the fiber rule (modal blends), 32 with unreadable or partial composition. Mixed media pieces show their second fabric as 'Contrast fabric'. 6 passing pieces were sold out and are not recorded."
     },
     {
       "order": 7,
