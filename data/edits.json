@@ -12,14 +12,16 @@
         "note": "One hundred percent wool and unlined, so what you feel against you is the wool itself."
       },
       {
-        "id": "guest-in-residence-felted-zip-jacket",
-        "note": "Ninety percent wool, ten percent cashmere, felted so it blocks wind without a lining."
+        "id": "christy-dawn-the-eleanor-coat",
+        "note": "One hundred percent virgin wool in a yarn dyed plaid, cut and sewn in Los Angeles."
       },
       {
         "id": "massimo-dutti-high-neck-suede-jacket",
-        "note": "Full suede and unlined. It will soften and darken where you wear it most."
+        "note": "Full suede and unlined. It will soften and darken where you wear it most.",
+        "image": "https://static.massimodutti.net/assets/public/c9ae/0455/c3af493cbfb0/53dba5013dca/04716675505-o7/04716675505-o7.jpg?w=1000"
       }
-    ]
+    ],
+    "photos": "model"
   },
   {
     "type": "strip",
@@ -28,23 +30,29 @@
   },
   {
     "type": "edit",
-    "title": "Wedding Guest, Read Properly",
-    "by": "What survives the filter",
-    "note": "Wedding guest is where composition gets worst, because beading and structure usually mean polyester doing the work underneath. These three do not.",
-    "cta": "Shop wedding guest",
-    "apply": "weddingGuest",
+    "title": "Low, Mid, High",
+    "by": "The polo sweater, three ways",
+    "photos": "garment",
+    "note": "A collar, a short button placket and a close fit. The same idea at three prices, so you can see where the money goes. Mostly it goes to the fiber.",
+    "cta": "Shop every polo",
+    "apply": "polo",
     "picks": [
       {
-        "id": "ulla-johnson-ethel-dress",
-        "note": "One hundred percent silk, unlined. The color and the movement are the silk doing the work."
+        "id": "white-warren-cotton-cashmere-ribbed-polo-navy-ivory",
+        "label": "Low",
+        "note": "Seventy percent cotton, thirty percent cashmere, in a rib with contrast tipping.",
+        "image": "https://cdn.shopify.com/s/files/1/0052/8200/5085/files/21932_CottonCashmereRibbedPolo_Navy.jpg?width=900"
       },
       {
-        "id": "christy-dawn-the-josette-dress",
-        "note": "Silk and nothing else, at a little over five hundred dollars."
+        "id": "guest-in-residence-ls-shrunken-polo-in-cashmere-black",
+        "label": "Mid",
+        "note": "One hundred percent cashmere, cut close through the body and the sleeve."
       },
       {
-        "id": "st-agni-silk-wool-jacquard-strapless-dress",
-        "note": "Wool and silk jacquard with a lyocell lining. Structure without polyester underneath."
+        "id": "anine-bing-lee-polo-sweater",
+        "label": "High",
+        "note": "One hundred percent cashmere in a softer, easier shape.",
+        "image": "https://cdn.shopify.com/s/files/1/0150/1528/files/LEE_POLO_SWEATER_-_NAVY_A-09-12289-NYA1_PACKSHOT_01.jpg?width=900"
       }
     ]
   },
@@ -52,6 +60,30 @@
     "type": "strip",
     "heading": "The lining is where it hides.",
     "body": "A wool crepe dress with a polyester lining breathes like polyester. Most sites fold the lining into one composition line, or leave it off entirely. We show it separately on every card, and you can filter on it."
+  },
+  {
+    "type": "edit",
+    "title": "This Moment: Fringe",
+    "by": "What is moving this fall",
+    "photos": "model",
+    "note": "Fringe is back on knits, coats and skirts. These are leather, wool and cashmere all the way through, so the movement comes from the material itself.",
+    "cta": "Shop all fringe",
+    "apply": "fringe",
+    "picks": [
+      {
+        "id": "white-warren-cashmere-blend-luxe-fringe-crewneck-ivory",
+        "note": "Seventy percent wool, thirty percent cashmere, with fringe across the back and down the sleeves.",
+        "image": "https://cdn.shopify.com/s/files/1/0052/8200/5085/files/21576_CashmereBlendLuxeFringeCrewneck_Ivory_AT_03.jpg?width=900"
+      },
+      {
+        "id": "st-agni-leather-fringe-skirt",
+        "note": "One hundred percent leather, fringe included. The lining is lyocell, and it says so below."
+      },
+      {
+        "id": "white-warren-cashmere-blend-fringe-coat-black",
+        "note": "Wool and cashmere and unlined, with fringe that moves when you walk."
+      }
+    ]
   },
   {
     "type": "edit",
@@ -73,7 +105,8 @@
         "id": "massimo-dutti-100-wool-flannel-suit-blazer",
         "note": "A third answer. Wool flannel lined in acetate and modal, both plant derived, at three hundred fifty dollars."
       }
-    ]
+    ],
+    "photos": "model"
   },
   {
     "type": "edit",
@@ -95,7 +128,8 @@
         "id": "brochu-walker-carina-blouse",
         "note": "One hundred percent silk, unlined, in ivory."
       }
-    ]
+    ],
+    "photos": "model"
   },
   {
     "type": "strip",

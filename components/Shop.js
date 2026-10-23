@@ -1,9 +1,11 @@
 'use client';
 
 import { useMemo, useRef, useState } from 'react';
+import { subMenus, subOf } from '@/lib/subcats';
 import { catalog, imageAllowed, isSoldOut } from '@/lib/catalog';
 import edits from '@/data/edits.json';
 import ProductCard from './ProductCard';
+import Statement from './Statement';
 import {
   COLOURS, DEFAULTS, EXCLUDABLE, FILTERABLE_FIBERS, NAV, PRICE_CEILING,
   formatPrice, passes, sortItems,
@@ -11,11 +13,13 @@ import {
 
 const byId = Object.fromEntries(catalog.map((i) => [i.id, i]));
 const RETAILERS = [...new Set(catalog.map((i) => i.retailer))].sort();
+const MENUS = subMenus(catalog);
 
 /** The filter state each curated edit drops you into when you click through. */
 const EDIT_FILTERS = {
   outerwear: { nav: 'Outerwear', category: 'Outerwear' },
-  weddingGuest: { nav: 'Wedding guest', tag: 'wedding-guest' },
+  polo: { nameHas: { words: ['polo', 'henley'], label: 'polos' } },
+  fringe: { nameHas: { words: ['fringe'], label: 'fringe' } },
   pure: { threshold: 100, allowStretch: false },
   under300: { maxPrice: 300 },
   cashmere: { fibers: ['Cashmere'] },
@@ -34,6 +38,8 @@ const initial = (brand) => ({
   nav: 'All',      // which top bar entry is active
   category: null,  // set when that entry is a garment category
   tag: null,       // set when that entry is an occasion
+  sub: null,       // sub-category label inside the category, see lib/subcats.js
+  nameHas: null,   // words in the name, used by edits like fringe that cut across categories
   colours: [],
   fibers: [],
   excluded: [],
@@ -41,9 +47,21 @@ const initial = (brand) => ({
   brands: brand ? [brand] : [],
 });
 
+/* Filters that live here rather than in passes(), because they only exist on
+ * the shop page: a sub-category inside the chosen category, and the name match
+ * a cross-category edit uses. */
+const extra = (i, f) =>
+  (!f.sub || subOf(i) === f.sub) &&
+  (!f.nameHas || f.nameHas.words.some((w) => i.name.toLowerCase().includes(w)));
+const ok = (i, f) => passes(i, f) && extra(i, f);
+
 export default function Shop({ brand = null }) {
   const [f, setF] = useState(() => initial(brand));
   const fullRef = useRef(null);
+  const barRef = useRef(null);
+  const closeTimer = useRef(null);
+  // The hover menu: which top bar entry it belongs to and where it sits.
+  const [menu, setMenu] = useState(null);
   const brandPieces = brand ? catalog.filter((i) => i.brand === brand) : catalog;
 
   const set = (patch) => setF((prev) => ({ ...prev, ...patch }));
@@ -54,6 +72,36 @@ export default function Shop({ brand = null }) {
         ? prev[key].filter((x) => x !== value)
         : [...prev[key], value],
     }));
+
+  /** Pick a top bar entry, and optionally one of its sub-categories. */
+  const choose = (entry, sub = null) => {
+    set({
+      nav: entry.label,
+      category: entry.category || null,
+      tag: entry.tag || null,
+      sub,
+      nameHas: null,
+    });
+    setMenu(null);
+    fullRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  };
+
+  const openMenu = (entry, el) => {
+    clearTimeout(closeTimer.current);
+    if (!entry.category || !MENUS[entry.category]?.subs.length) return setMenu(null);
+    const bar = barRef.current.getBoundingClientRect();
+    const btn = el.getBoundingClientRect();
+    // Sit under the word, but never hang off the right edge of the page.
+    setMenu({ label: entry.label, entry, left: Math.max(0, Math.min(btn.left - bar.left - 16, bar.width - 240)) });
+  };
+  // A short delay, so moving the pointer from the word down into the menu
+  // does not close it on the way.
+  const closeSoon = () => {
+    clearTimeout(closeTimer.current);
+    closeTimer.current = setTimeout(() => setMenu(null), 180);
+  };
+
+  const activeSubs = f.category && MENUS[f.category]?.subs.length ? MENUS[f.category].subs : null;
 
   const applyEdit = (key) => {
     setF({ ...initial(brand), ...(EDIT_FILTERS[key] || {}) });
@@ -71,7 +119,7 @@ export default function Shop({ brand = null }) {
    * so the order is: photographed in stock, photographed sold out, colour tile
    * in stock, colour tile sold out. Both splits keep the chosen sort. */
   const results = useMemo(() => {
-    const kept = sortItems(catalog.filter((i) => passes(i, f)), f.sort);
+    const kept = sortItems(catalog.filter((i) => ok(i, f)), f.sort);
     const inStockFirst = (list) => [...list.filter((i) => !isSoldOut(i)), ...list.filter(isSoldOut)];
     const withImage = kept.filter((i) => imageAllowed(i) && i.image);
     return withImage.length
@@ -86,7 +134,7 @@ export default function Shop({ brand = null }) {
   const relax = useMemo(() => {
     if (results.length) return null;
     for (let t = f.threshold - 5; t >= 50; t -= 5) {
-      const count = catalog.filter((i) => passes(i, { ...f, threshold: t })).length;
+      const count = catalog.filter((i) => ok(i, { ...f, threshold: t })).length;
       if (count) return { threshold: t, count };
     }
     return null;
@@ -99,33 +147,60 @@ export default function Shop({ brand = null }) {
 
   return (
     <>
-      <div className="catbar">
+      {/* The top bar. Hovering a category that has sub-categories opens a small
+          menu under it; clicking the category itself still shows everything in
+          it. On touch screens there is no hover, so the sub-categories also
+          show as a row under the bar once a category is chosen. */}
+      <div className="catbar" ref={barRef} onMouseLeave={closeSoon} onKeyDown={(e) => e.key === 'Escape' && setMenu(null)}>
         <div className="wrap">
           <div className="cats" role="group" aria-label="Category">
-            {NAV.map((entry) => (
+            {NAV.map((entry) => {
+              const hasSubs = Boolean(entry.category && MENUS[entry.category]?.subs.length);
+              return (
+                <button
+                  key={entry.label}
+                  type="button"
+                  aria-pressed={f.nav === entry.label}
+                  aria-haspopup={hasSubs ? 'true' : undefined}
+                  aria-expanded={hasSubs ? menu?.label === entry.label : undefined}
+                  onMouseEnter={(e) => openMenu(entry, e.currentTarget)}
+                  onFocus={(e) => openMenu(entry, e.currentTarget)}
+                  onClick={() => choose(entry)}
+                >
+                  {entry.label}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+        {menu && (
+          <div
+            className="submenu"
+            style={{ left: menu.left }}
+            onMouseEnter={() => clearTimeout(closeTimer.current)}
+            onMouseLeave={closeSoon}
+          >
+            <button type="button" onClick={() => choose(menu.entry)}>
+              All {menu.entry.label.toLowerCase()}
+            </button>
+            {MENUS[menu.entry.category].subs.map((sub) => (
               <button
-                key={entry.label}
+                key={sub.label}
                 type="button"
-                aria-pressed={f.nav === entry.label}
-                onClick={() => {
-                  set({
-                    nav: entry.label,
-                    category: entry.category || null,
-                    tag: entry.tag || null,
-                  });
-                  fullRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                }}
+                aria-pressed={f.category === menu.entry.category && f.sub === sub.label}
+                onClick={() => choose(menu.entry, sub.label)}
               >
-                {entry.label}
+                {sub.label}
               </button>
             ))}
           </div>
-        </div>
+        )}
       </div>
 
       <main id="main" className="wrap">
         {/* Curated edits and explainer strips, in the order set in data/edits.json.
             A brand page skips straight to that brand's grid. */}
+        {!brand && <Statement />}
         {!brand && edits.map((block, i) =>
           block.type === 'strip' ? (
             <section className="strip" key={`strip-${i}`}>
@@ -136,7 +211,11 @@ export default function Shop({ brand = null }) {
                  render as a heading above nothing. Drop the whole block
                  instead, so the homepage never has a hole in it. */
           block.picks.filter((p) => byId[p.id]).length === 0 ? null : (
-            <section className="edit-sec" key={`edit-${i}`} aria-labelledby={`edit-h-${i}`}>
+            <section
+              className={`edit-sec photos-${block.photos || 'model'}`}
+              key={`edit-${i}`}
+              aria-labelledby={`edit-h-${i}`}
+            >
               <div className="ehead">
                 <h2 id={`edit-h-${i}`}>{block.title}</h2>
                 <span className="by">{block.by}</span>
@@ -145,7 +224,9 @@ export default function Shop({ brand = null }) {
               <div className="trio">
                 {block.picks
                   .filter((p) => byId[p.id])
-                  .map((p) => <ProductCard key={p.id} item={byId[p.id]} note={p.note} />)}
+                  .map((p) => (
+                    <ProductCard key={p.id} item={byId[p.id]} note={p.note} image={p.image} label={p.label} />
+                  ))}
               </div>
               <div className="emore">
                 <button type="button" className="linkbtn" onClick={() => applyEdit(block.apply)}>
@@ -186,6 +267,30 @@ export default function Shop({ brand = null }) {
           </p>
         </div>
 
+        {/* The chosen category's sub-categories, above the filters and pieces.
+            The hover menu does the same job on a desktop; this is how a phone
+            reaches them, and it shows anyone where they are. */}
+        {activeSubs && (
+          <div className="subs" role="group" aria-label={`${f.nav} by type`}>
+            <button
+              type="button"
+              aria-pressed={!f.sub}
+              onClick={() => choose(NAV.find((n) => n.label === f.nav))}
+            >
+              All {f.nav.toLowerCase()}
+            </button>
+            {activeSubs.map((sub) => (
+              <button
+                key={sub.label}
+                type="button"
+                aria-pressed={f.sub === sub.label}
+                onClick={() => choose(NAV.find((n) => n.label === f.nav), sub.label)}
+              >
+                {sub.label}
+              </button>
+            ))}
+          </div>
+        )}
         <div className="shop">
           <aside className="rail" aria-label="Filters">
             <div className="fgroup">
@@ -317,6 +422,15 @@ export default function Shop({ brand = null }) {
             <div className="rhead">
               <span className="count">
                 {results.length} {results.length === 1 ? 'piece' : 'pieces'}
+                {f.sub && <> in {f.sub.toLowerCase()}</>}
+                {f.nameHas && (
+                  <>
+                    , {f.nameHas.label}{' '}
+                    <button type="button" className="linkbtn clearname" onClick={() => set({ nameHas: null })}>
+                      Clear
+                    </button>
+                  </>
+                )}
               </span>
               <div className="sortwrap">
                 <label htmlFor="sort">Sort</label>

@@ -51,6 +51,29 @@ Names such as Collegiate, University, Los Angeles, Stencil, Letterman, Sport
 Club, New Era and any brand wordmark are the usual signal, and the photo is the
 final word.
 
+## Curated edits on the homepage
+
+The homepage sections live in `data/edits.json`, in the order they show. The
+brand statement above them is `components/Statement.js`.
+
+- Each edit sets `"photos"` to `"model"` or `"garment"`, and every pick in it
+  must show that kind of photo, so a section reads as one set. Mood sections
+  (the Fall Edit, This Moment) are on the model. Side by side sections
+  (Low, Mid, High) are the garment alone.
+- When the catalog photo is the wrong kind, a pick can carry its own `"image"`,
+  another photo of the same product from the retailer's own product page.
+  Guest In Residence publishes only flat shots, so its pieces fit garment
+  sections and not model ones.
+- A pick can carry a `"label"`, shown above the card. Low, Mid, High uses it
+  for the tiers, ordered by price.
+- "This Moment" is the name for a trend section. Never call it a trend.
+- Seasonal occasions rest off the top bar out of season. Wedding guest rested
+  on 2026-10-23; its tag stays on the pieces and lives in `RESTING_TAGS` in
+  `lib/fibers.js` until it comes back.
+- Sub-categories (`lib/subcats.js`) are read from product names for Sweaters,
+  Tops and Outerwear only. Dresses, pants and skirts need a tagging pass from
+  the photo before they can be split.
+
 ## Retailers, and what works
 
 Use Claude in Chrome on Natalie's Mac. Pace requests. Several retailers block

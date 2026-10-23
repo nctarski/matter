@@ -116,6 +116,55 @@ button, input, select { font-family: inherit; }
 .cats button[aria-pressed='true'] { color: var(--oxblood); }
 .cats button:hover { color: var(--charcoal); }
 
+/* The hover menu under a category. It hangs from the bar rather than from the
+   scrolling row of words, so the row's overflow cannot clip it. */
+.catbar { position: relative; }
+.submenu {
+  position: absolute; top: 100%; z-index: 30; min-width: 220px;
+  display: grid; padding: var(--s2) 0; background: var(--surface);
+  border: 1px solid var(--hairline); box-shadow: 0 10px 24px rgba(31, 32, 32, .07);
+}
+@media (hover: none) { .submenu { display: none; } }
+.submenu button {
+  background: none; border: 0; text-align: left; cursor: pointer;
+  padding: 9px var(--s3); font-size: 13px; color: var(--muted);
+}
+.submenu button:first-child { color: var(--charcoal); border-bottom: 1px solid var(--hairline); margin-bottom: var(--s1); }
+.submenu button:hover, .submenu button[aria-pressed='true'] { color: var(--oxblood); }
+
+/* The same sub-categories as a row above the results, once a category is
+   chosen. This is how a phone reaches them. */
+.subs { display: flex; gap: var(--s2); overflow-x: auto; padding-bottom: var(--s3); scrollbar-width: none; }
+.subs::-webkit-scrollbar { display: none; }
+@media (min-width: 860px) { .subs { flex-wrap: wrap; overflow: visible; } }
+.subs button {
+  background: none; border: 1px solid var(--hairline); border-radius: 999px; cursor: pointer;
+  padding: 5px 12px; font-size: 12px; color: var(--muted); white-space: nowrap;
+}
+.subs button[aria-pressed='true'] { border-color: var(--oxblood); color: var(--oxblood); }
+.subs button:hover { color: var(--charcoal); }
+
+/* ---------- Brand statement ---------- */
+.statement {
+  display: grid; gap: var(--s5); align-items: center;
+  padding-block: var(--s5);
+}
+@media (min-width: 860px) { .statement { grid-template-columns: 1fr 240px; gap: var(--s6); padding-block: var(--s6) var(--s5); } }
+.statement-copy { display: grid; gap: var(--s3); max-width: 62ch; }
+.statement h2 {
+  font-family: var(--display); font-weight: 500; font-size: clamp(26px, 3.8vw, 38px);
+  line-height: 1.18; text-wrap: balance;
+}
+.statement-copy > p:last-child { color: var(--muted); max-width: 54ch; }
+.statement-label { width: 100%; max-width: 260px; height: auto; justify-self: center; }
+/* On a phone the label would push the first edit below the fold, so the words carry it alone. */
+@media (max-width: 859px) { .statement-label { display: none; } }
+.lbl-cloth { fill: var(--surface); stroke: var(--rule); }
+.lbl-stitch { fill: none; stroke: var(--oxblood); stroke-width: 1; stroke-dasharray: 3 3; opacity: .55; }
+.lbl-mark { font-family: var(--display); font-weight: 600; font-size: 26px; letter-spacing: .2em; fill: var(--charcoal); }
+.lbl-rule { stroke: var(--hairline); }
+.lbl-line { font-family: var(--ui); font-size: 10px; letter-spacing: .18em; fill: var(--muted); }
+
 /* ---------- Curated edits ---------- */
 .edit-sec { padding-block: var(--s6); border-top: 1px solid var(--hairline); }
 .edit-sec:first-child { border-top: 0; padding-top: var(--s5); }
@@ -141,6 +190,15 @@ button, input, select { font-family: inherit; }
   }
 }
 .trio .card { scroll-snap-align: start; }
+/* Each edit is one photo style. On the model for the mood sections, the
+   garment alone for the side by side ones, shown whole rather than cropped so
+   three pieces can be compared like for like. Set by "photos" in edits.json. */
+.photos-garment .shot.has-img { background: #f1efea; }
+.photos-garment .shot img { object-position: center; }
+.tier {
+  font-family: var(--display); font-style: italic; font-size: 19px; color: var(--oxblood);
+  border-bottom: 1px solid var(--hairline); padding-bottom: 6px;
+}
 .ednote {
   font-family: var(--display); font-style: italic; font-size: 15px; line-height: 1.45;
   color: var(--muted); border-left: 1.5px solid var(--oxblood); padding-left: 11px;

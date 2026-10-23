@@ -14,7 +14,7 @@ const HeartIcon = () => (
   </svg>
 );
 
-export default function ProductCard({ item, note }) {
+export default function ProductCard({ item, note, image: override, label }) {
   const { hearts, toggle } = useHearts();
   const on = hearts.includes(item.id);
   const dark = DARK_COLOURS.includes(item.colour);
@@ -27,7 +27,10 @@ export default function ProductCard({ item, note }) {
   // Never item.image directly. licensedImage returns nothing unless this
   // retailer's program is approved, so an image can sit in the catalog ready
   // to go and still not render until we have the right to show it.
-  const image = licensedImage(item);
+  // An edit can pick a different photo of the same piece (on the model, or the
+  // garment alone) so a section reads as one set. It goes through the same
+  // licence check as the catalog photo.
+  const image = licensedImage(item) && override ? override : licensedImage(item);
 
   const Shot = (
     <div
@@ -42,6 +45,7 @@ export default function ProductCard({ item, note }) {
 
   return (
     <article className="card">
+      {label && <p className="tier">{label}</p>}
       <div className={`shotwrap${dark ? ' dark' : ''}`}>
         {item.url
           ? <a className="shotlink" href={item.url} target="_blank" rel="nofollow sponsored noopener">{Shot}</a>
