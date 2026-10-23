@@ -84,11 +84,11 @@
       "brand": "St. Agni",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": ""
+      "lastSweep": "2026-10-23",
+      "lastDelta": 244,
+      "note": "Sweep int.st-agni.com, the USD store. www.st-agni.com serves AUD. 244 staged in round 2026-10-23-nightly8. Lining fiber does not count against the shell rule."
     },
     {
       "order": 9,

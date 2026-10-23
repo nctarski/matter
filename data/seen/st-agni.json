@@ -30,5 +30,3737 @@
  "st-agni.com/products/silk-wool-jacquard-strapless-dress-black": {
   "outcome": "catalog",
   "date": "2026-10-22"
+ },
+ "int.st-agni.com/products/origami-tote-black_pebble": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-urchin-bag-parchment": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-urchin-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/jelly-ballet-flat-transparent": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/jelly-ballet-flat-smoke": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/material-dialogue-tee": {
+  "outcome": "rejected",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-bagu-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-halter-one-piece-python": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/almond-bikini-top-python": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/mid-bikini-brief-python": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/longline-triangle-bikini-top-python": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/high-cut-bikini-brief-python": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/balloon-ballet-top-magnet": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/balloon-ballet-top-talco": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-wool-jacquard-cami-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/strapless-balloon-top-magnet": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-balloon-top-talco": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/balloon-skirt-magnet": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/balloon-skirt-talco": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/knit-bodice-sheer-drape-dress-magnet": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fringe-midi-skirt-talco": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/leather-cocoon-funnel-neck-jacket-chocolate": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/leather-cinch-jacket-chocolate": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/raw-silk-minimal-bodice-cloud_cream": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/raw-silk-pencil-skirt-cloud_cream": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/raw-silk-draped-bodice-cloud_cream": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/high-cut-bikini-brief-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/almond-bikini-top-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/longline-triangle-bikini-top-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-halter-one-piece-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/slim-shoulder-bag-croc_embossed_black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/superfine-merino-wool-tank-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/superfine-merino-wool-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/deep-v-knit-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/superfine-merino-wool-long-sleeve-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/superfine-merino-wool-long-sleeve-top-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-halter-top-elmwood": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-halter-top-smoked_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/superfine-merino-wool-cardigan-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/soft-oval-shoulder-bag-black_suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-oval-shoulder-bag-coffee_suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/triangle-hobo-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/triangle-hobo-bag-parchment": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/oma-loafer-coffee_suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-flip-flop-croc_embossed_coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-flip-flop-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-flip-flop-pewter_metallic": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-flip-flop-python_embossed": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/everyday-thong-parchment": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/everyday-thong-croc_embossed_black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/everyday-thong-python_embossed": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/everyday-thong-coffee_suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/everyday-thong-heel-50-python_embossed": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/micro-wedge-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/everyday-thong-heel-50-croc_embossed_black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/everyday-thong-heel-50-coffee_suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/urchin-slide-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/urchin-slide-parchment": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/micro-wedge-slipper-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/oma-loafer-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/oma-loafer-pecan": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-belt-detail-wedge-70-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-belt-detail-wedge-70-pecan": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/urchin-heel-50-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/urchin-heel-50-parchment": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-wide-belt-coffee_suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/minimal-slim-belt-python_embossed": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/connolo-shoulder-bag-coffee_suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-origami-bag-black_jacquard": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-origami-bag-talco": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-mini-bon-bon-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-mini-bon-bon-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/croc-pocket-belt-croc_embossed_black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/croc-pocket-belt-croc_embossed_coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-round-toe-ballet-flat-pewter_metallic": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-round-toe-ballet-flat-croc_embossed_coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bunto-woven-loafer-ganache_suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bow-ballet-flat-python_embossed": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bow-ballet-flat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bow-ballet-flat-parchment": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/connolo-shoulder-bag-croc_embossed_black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/connolo-shoulder-bag-python_embossed": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-bow-ballet-flat-black_woven": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-bow-ballet-flat-coffee_woven": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/duet-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/duet-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-origami-bag-python_embossed": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-detachable-belt-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-detachable-belt-bag-python_embossed": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/grande-bon-bon-bag-coffee_suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-petite-shorts-dark_vetiver": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/asymm-bow-top-magnet": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/structured-veil-top-talco": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/peplum-pants-magnet": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/peplum-pants-talco": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-strapless-drawstring-top-dark_vetiver": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-wool-jacquard-minimal-pants-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-wool-jacquard-strapless-dress-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fringe-tie-top-talco": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/layered-bermuda-shorts-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/90s-pocket-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/layered-waist-column-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cummerbund-carter-trouser-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/layered-waist-balloon-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/raw-silk-asymm-balloon-dress-cloud_cream": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/mid-bikini-brief-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/slim-shoulder-bag-croc_embossed_coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/carryall-tote-croc_embossed_black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/carryall-tote-croc_embossed_coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/oversized-carryall-tote-croc_embossed_coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/superfine-merino-wool-tank-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-v-sweater-elmwood": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-v-sweater-smoked_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-scooped-ballerina-top-dark_moss": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-scooped-ballerina-top-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-scooped-ballerina-top-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/grande-bon-bon-bag-rock_suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/grande-bon-bon-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-hobo-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-hobo-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-strapless-drawstring-top-fog": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-draped-bodice-cobblestone": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/relaxed-balloon-pants-cobblestone": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-drawstring-skirt-dark_vetiver": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-drawstring-skirt-fog": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/circle-hem-gathered-skirt-magnet": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/circle-hem-gathered-skirt-talco": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/sculpted-balloon-dress-magnet": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pleat-slouch-pants-cobblestone": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-petticoat-dress-fog": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/panelled-bustier-dress-magnet": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/panelled-bustier-dress-talco": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-parka-dark_vetiver": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-parka-fog": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/balloon-jacket-magnet": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/balloon-jacket-talco": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/connolo-shoulder-bag-croc_embossed_coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-origami-bag-pewter_metallic": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-90s-strapless-top-dark_moss": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-90s-strapless-top-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-90s-strapless-top-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-90s-top-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-90s-top-dark_moss": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-baby-tee-dark_moss": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-baby-tee-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/petit-bagu-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/origami-tote-black_smooth": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/origami-tote-coffee_smooth": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/minimal-slim-belt-croc_embossed_coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/minimal-slim-belt-croc_embossed_black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/rock-choker-by-dinosaur-designs-cocoa": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/frida-earrings-by-corali-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/simbleme-grande-earrings-by-corali-onyx": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/utility-skirt-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-wide-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cashmere-relaxed-cropped-cardigan-doe": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wide-classic-belt-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-messenger-tote-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/two-piece-jumper-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/scoop-one-piece-cocoa": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pointelle-cami-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/pointelle-cami-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/pointelle-cami-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/pointelle-bralette-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/pointelle-bralette-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/pointelle-bralette-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/pointelle-skirt-talco": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/pointelle-skirt-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/pointelle-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cotton-socks-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cotton-socks-pearl": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cotton-socks-cocoa": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cotton-socks-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cotton-socks-grey_marle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/slim-wonton-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-belt-bag-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-low-rise-jeans-washed_black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/relaxed-pleat-pants-iron_glaze": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/asymm-drape-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/asymm-drape-skirt-light_grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cotton-jersey-halter-top-light_grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cotton-jersey-halter-top-off_white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cotton-jersey-split-back-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cotton-jersey-split-back-tee-light_grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cotton-jersey-split-back-tee-off_white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/layered-tee-mini-dress-light_grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/layered-tee-mini-dress-off_white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/strapless-cotton-jersey-dress-light_grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/canvas-large-crossbody-bag-ash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/button-detail-cocoon-leather-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/suede-moto-jacket-steel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/suede-woven-envelope-mini-tote-steel": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-woven-envelope-mini-tote-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-origami-tote-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-origami-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-origami-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/mesh-crescent-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/mesh-crescent-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/mesh-crescent-bag-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-woven-hobo-bag-washed_black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-belt-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-strapless-top-iron_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wool-strapless-top-light_steel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/plunge-rouleau-knit-tie-top-iron_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/plunge-rouleau-knit-tie-top-light_steel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-jersey-circle-hem-dress-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-jersey-circle-hem-dress-soft_ash": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/relaxed-bateau-jumper-off_white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/relaxed-bateau-top-off_white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/detachable-belt-asymm-skirt-iron_glaze": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/detachable-belt-asymm-skirt-off_white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-wrap-top-iron_glaze": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-wrap-top-off_white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pillow-wool-wrap-jacket-dark_graphite": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-sarong-pants-dark_graphite": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-wrap-dress-dark_graphite": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-rouleau-tie-top-dark_graphite": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-v-neck-long-sleeve-top-charcoal_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-v-neck-long-sleeve-top-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-jersey-off-shoulder-dress-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-jersey-off-shoulder-dress-soft_ash": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-jersey-off-shoulder-top-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-jersey-off-shoulder-top-soft_ash": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-jersey-wrap-halter-top-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-jersey-wrap-halter-top-soft_ash": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-everyday-relaxed-shorts-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-everyday-relaxed-shorts-tofu": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-drape-back-midi-dress-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/gathered-strapless-minimal-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cropped-drawstring-pants-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/transparent-midi-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/transparent-wrap-halter-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-wide-waistband-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/90s-rouleau-minimal-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/button-detail-halter-top-off_white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cotton-hybrid-wide-leg-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cotton-hybrid-wide-leg-pants-off_white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-wrap-dress-soft_ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-wrap-dress-washed_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-adjustable-balloon-pants-soft_ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-adjustable-balloon-pants-washed_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-halter-wrap-top-soft_ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-halter-wrap-top-washed_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/woven-check-drawstring-cami-iron_glaze": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/woven-check-drawstring-cami-soft_ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/woven-check-relaxed-pants-iron_glaze": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/woven-check-relaxed-pants-soft_ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/woven-check-halter-dress-iron_glaze": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/woven-check-halter-dress-soft_ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fluid-jersey-skirt-soft_ash": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fluid-jersey-skirt-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/oupa-pintuck-pants-doe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-grid-halter-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/bubble-hoops-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wishbone-pendant-ivory-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-astrid-ring-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/turner-ring-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/small-celia-hoops-silver-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-chain-bracelet-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-donut-studs-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/jean-cuff-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/everyday-relaxed-pants-sky": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-tie-back-top-sky": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/eclipse-earrings-by-nina-gordon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/figure-hoops-by-nina-gordon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cusp-onyx-earrings-by-nina-gordon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/versus-collar-necklace-by-nina-gordon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/square-mini-earrings-by-nina-gordon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/arc-belt-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/belt-detail-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wool-button-front-pleat-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wrap-rouleau-pants-umber": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/moto-jacket-umber": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-cap-sleeve-top-umber": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/taxi-bag-coffee_ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/taxi-top-coffee_ecru": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/taxi-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bead-belt-detail-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-ballerina-top-shell_pink": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/bunto-woven-loafer-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bunto-woven-loafer-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bunto-woven-loafer-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-mesh-mini-dress-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wide-boulder-bangle-by-dinosaur-designs": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-crescent-earrings-by-dinosaur-designs-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-crescent-earrings-by-dinosaur-designs": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/small-crescent-earrings-by-dinosaur-designs-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/small-crescent-earrings-by-dinosaur-designs": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/rock-choker-by-dinosaur-designs-cream": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wide-bagu-woven-tote-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wide-bagu-woven-tote-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wide-bagu-woven-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/st-agni-x-vermeer-brooklyn-keychain-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/backless-circle-hem-dress-khaki": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/backless-circle-hem-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-blend-studio-pants-dark_graphite": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/genevieve-necklace-by-vermeer": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/dora-necklace-by-ayllon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/flight-jacket-kalamata": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/utility-wrap-skirt-kalamata": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/manuela-ring-by-ayllon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-tie-up-sandal-almond": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/textured-petit-bagu-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/utility-crescent-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-crossbody-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/savannah-hobo-bag-savannah": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-soft-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-soft-bag-papyrus": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-soft-bag-pebble": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-crew-neck-jumper-dark_charcoal_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wool-crew-neck-jumper-taupe_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wool-cardigan-dark_charcoal_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wool-cardigan-taupe_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/merino-wool-slim-tank-charcoal_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-merino-wool-baby-tee-charcoal_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-merino-wool-long-sleeve-top-charcoal_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-asymm-cardigan-charcoal_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-asymm-cardigan-vapor": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-asymm-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-asymm-top-charcoal_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-wrap-cardigan-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-wrap-cardigan-vapor": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/pinstripe-cami-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pinstripe-relaxed-cocoon-dress-straw": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pinstripe-relaxed-cocoon-dress-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pinstripe-halter-wrap-top-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-rouleau-crop-pants-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-rouleau-crop-pants-off_white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/halter-circle-hem-dress-iron_glaze": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/halter-circle-hem-dress-off_white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-wool-rouleau-minimal-pants-light_taupe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-cowl-backless-top-light_taupe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pillow-wrap-coat-wood": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/modular-dress-wood": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/studio-cami-porcelain": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/studio-cami-wood": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/studio-pants-wood": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/halter-wrap-backless-dress-porcelain": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/halter-wrap-backless-dress-wood": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cami-dress-porcelain": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cami-dress-wood": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-twill-poncho-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/tailored-barrel-pants-light_taupe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-longline-bomber-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/beaded-detail-sandal-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/ballerina-flat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/ballerina-flat-off_white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/multi-strap-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/multi-strap-heel-off_white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-ballerina-flat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-ballerina-flat-off_white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-mule-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-boot-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/high-wedge-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/high-wedge-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/thong-wedge-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/thong-wedge-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-square-neck-cami-charcoal_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-square-neck-cami-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-square-neck-cami-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-square-neck-cami-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-racer-singlet-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-racer-singlet-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/baby-wool-scoop-cami-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/baby-wool-scoop-cami-soft_ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/savannah-silk-cami-sand": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/savannah-silk-wrap-skirt-sand": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/savannah-silk-scarf-sand": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stretch-silk-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stretch-silk-cami-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stretch-silk-cami-cedar": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stretch-silk-bateau-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stretch-silk-bateau-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-balloon-hem-dress-cedar": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-balloon-hem-dress-porcelain": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/baby-wool-wrap-top-soft_ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/baby-wool-long-sleeve-top-soft_ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-baby-tee-clay": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-baby-tee-charcoal_melange": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-ballerina-top-clay": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fringe-belt-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/bagu-woven-tote-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bagu-woven-tote-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/baby-wool-wrap-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/suede-large-bon-bon-bag-toffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/carpenter-jeans-dark_indigo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/canvas-carpenter-jeans-bark": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/classic-mid-rise-jeans-dark_indigo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/canvas-classic-mid-rise-jeans-bark": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/canvas-classic-mid-rise-jeans-ecru": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cocoon-zip-leather-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cocoon-zip-leather-jacket-chocolate": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/four-pocket-leather-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/suede-low-back-tie-top-earth": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/suede-circle-skirt-earth": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/soft-strap-slide-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-soft-strap-slide-toffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-tie-up-sandal-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/asymmetric-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-tie-belt-almond": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-tie-belt-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-asymmetric-belt-almond": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/textured-petit-bagu-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bagu-sling-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bagu-sling-bag-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-opanka-slide-black_coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-opanka-slide-papyrus": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/opanka-slide-savannah": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/opanka-heel-savannah": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/utility-crescent-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-crossbody-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/merino-wool-slim-tank-vapor": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-90s-top-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-merino-wool-long-sleeve-top-vapor": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-merino-wool-baby-tee-vapor": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/petit-dual-zip-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/limestone-marble-soap-dish-by-binu-binu": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/somni-ring-nero-by-ayllon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/frama-gift-box-st-pauls-scented-candle-170g-snuffer-by-frama": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/beratan-eau-de-parfum-50ml-by-frama": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/no-64-by-rhiannon-smith-moonstone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/no-64-by-rhiannon-smith": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/momento-mini-hoops-by-nina-gordon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/boulder-bangle-by-dinosaur-designs-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/slim-woven-tote-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/slim-woven-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-tailored-fisherman-pants-mulch": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-drift-bangle-by-dinosaur-designs-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/oxford-wrap-top-ciel_blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/reverse-shirt-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/suede-column-skirt-khaki": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/slim-square-neck-knit-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/oxford-strapless-asymm-dress-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/oxford-wrap-top-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/apron-dress-moss": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/apron-dress-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/knit-halter-backless-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/utility-backless-top-pebble_melange": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-pintuck-pants-pebble_melange": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-band-balloon-pants-pebble_melange": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fluid-circle-hem-skirt-silver": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fluid-circle-hem-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/drawstring-waist-blazer-pebble_melange": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fluid-tank-dress-silver": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fluid-tank-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/hybrid-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/textured-weave-cami-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/textured-weave-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-pinstripe-deconstructed-jumpsuit-fine_pinstripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-pinstripe-pocket-pants-fine_pinstripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/textured-weave-halter-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cropped-sweater-concrete": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cropped-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wool-pinstripe-strapless-bodice-fine_pinstripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-pinstripe-pintuck-pants-fine_pinstripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-merino-halter-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-merino-v-neck-sweater-mulch": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-merino-v-neck-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-merino-tie-waist-top-mulch": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-merino-tie-waist-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-merino-halter-top-mulch": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cylinder-sling-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-blend-mock-neck-sweater-concrete": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wool-blend-mock-neck-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/stitch-detail-thong-wedge-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-dual-zip-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cylinder-sling-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pointed-mule-heel-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/clog-cylinder-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stitch-detail-thong-wedge-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-tie-back-top-ecru_stripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-mini-tote-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-utility-cocoon-bomber-khaki": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/canvas-pleat-cocoon-dress-shell": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/canvas-pleat-cocoon-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/canvas-pleat-cocoon-skirt-shell": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/canvas-pleat-cocoon-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/apron-top-moss": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/apron-top-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/canvas-flight-jacket-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/canvas-flight-jacket-shell": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/everyday-cotton-pleat-dress-ecru_stripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/everyday-relaxed-pants-ecru_stripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-pleat-loop-shorts-mulch": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-everyday-skirt-mulch": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-cami-mulch": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-everyday-pants-mulch": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-stitched-pillow-jacket-mulch": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-halter-plunge-dress-mulch": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-apron-top-khaki": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/dual-zip-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/dual-zip-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pocket-detail-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-large-tote-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-envelope-slim-tote-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stitch-pillow-sneaker-dark_olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stitch-pillow-sneaker-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-stitch-detail-thong-slide-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-mule-rock": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-mule-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-mule-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-stitch-detail-thong-slide-rock": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-slip-on-flat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-minimal-slide-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-minimal-slide-blk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-cross-strap-flatform-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cross-strap-flatform-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/minimal-strap-heel-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/minimal-strap-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/breton-earrings-by-corali-cloud": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/teddy-coat-ecru": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/teddy-heel-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/kamma-earrings-by-corali-onyx": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-leather-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/woven-large-bon-bon-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-large-bon-bon-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-slim-satchel-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-slim-satchel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-slim-bateau-tote-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-slim-bateau-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-bateau-tote-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-bateau-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-large-tote-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-large-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-large-tote-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/shaman-charcoal-soap-by-binu-binu": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/white-onyx-marble-soap-dish-by-binu-binu": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/memoria-ring-by-ayllon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/twist-back-knit-top-shell": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/twist-back-knit-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-layered-long-sleeve-top-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-layered-long-sleeve-top-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-layered-long-sleeve-top-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/90s-belt-minimal-pants-concrete": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/square-side-tie-top-concrete": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/tailored-fold-pants-concrete": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-rouleau-tie-top-ink_stripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-rouleau-tie-top-bark": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-rouleau-dress-ink_stripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-rouleau-dress-bark": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/relaxed-pleat-pants-bark": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/relaxed-pleat-dress-off_white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/relaxed-pleat-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stripe-relaxed-pleat-pants-ink_stripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/leather-minimal-coat-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fawn-minimal-jacket-almond": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fawn-pencil-skirt-almond": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/leather-wrap-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/leather-minimal-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/suede-large-bon-bon-bag-rock": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-large-bon-bon-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/minimal-slim-belt-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/minimal-slim-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/arc-belt-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/adjustable-slim-crescent-bag-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/adjustable-slim-crescent-bag-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/adjustable-slim-crescent-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-slim-satchel-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-slim-satchel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-bon-bon-bag-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fawn-bateau-tote-almond": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cocoon-blazer-concrete": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/upside-down-halter-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-band-90s-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/low-scoop-ballet-flat-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/low-scoop-ballet-flat-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/low-scoop-ballet-flat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stitch-detail-slide-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-minimal-flat-loafer-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-cylinder-pump-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-stitch-detail-heel-rock": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-stitch-detail-slide-rock": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-woven-flip-flop-rock": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-flip-flop-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-flip-flop-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/minimal-flat-loafer-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/minimal-flat-loafer-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bandeau-slide-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-thong-heel-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-thong-heel-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-thong-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-cylinder-pump-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/stitch-detail-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bandeau-wedge-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-bandeau-wedge-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cowl-halter-knit-top-shell": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cowl-halter-knit-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-off-shoulder-top-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-off-shoulder-top-soot": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-off-shoulder-top-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-off-shoulder-top-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-v-neck-tee-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-v-neck-tee-soot": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-v-neck-tee-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-v-neck-tee-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-jersey-asymm-top-soot": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-jersey-asymm-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fluid-jersey-skirt-soot": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fluid-jersey-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fluid-jersey-halter-dress-soot": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fluid-jersey-halter-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-jersey-relaxed-tee-soot": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-lace-skirt-stone": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-baby-tee-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-baby-tee-soot": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/halter-plunge-dress-bark": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fine-lace-skirt-bark": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-rouleau-tie-top-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-drawstring-relaxed-pants-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/pleat-loop-pants-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-handkerchief-halter-dress-stone": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-handkerchief-halter-dress-bark": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/canvas-90s-low-rise-jeans-ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/canvas-mid-rise-barrel-jeans-ash": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/90s-straight-leg-jeans-dark_indigo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/mid-rise-pleat-barrel-jeans-dark_indigo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/drawstring-long-sleeve-top-off_white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/drawstring-long-sleeve-top-light_grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/relaxed-pleat-pants-off_white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/relaxed-pleat-pants-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/drawstring-long-sleeve-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/homme-tee-off_white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/homme-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-canvas-cami-mud": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-canvas-carter-trousers-mud": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-canvas-wrap-skirt-mud": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-canvas-90s-minimal-pants-mud": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-band-balloon-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/tailored-wrap-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-ballerina-top-soot": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-ballerina-top-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wide-classic-belt-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/medium-rock-bangle-by-dinosaur-designs-cappuccino": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/medium-rock-bangle-by-dinosaur-designs-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/boulder-bangle-by-dinosaur-designs-cream": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-drift-bangle-by-dinosaur-designs-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/boricha-tea-soap-by-binu-binu": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/daija-bangle-by-nina-gordon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/puff-ring-by-nina-gordon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/fringe-belt-skirt-tofu": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/black-marquina-marble-soap-dish-by-binu-binu": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-envelope-slim-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-envelope-slim-tote-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-utility-cocoon-bomber-coffee": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/everyday-pants-mist": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/minimal-tailored-vest-mist": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/strapless-asymm-drape-top-mist": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-pintuck-pants-mist": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-twill-halter-dress-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-twill-relaxed-slip-dress-brick": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/90s-silk-twill-cami-brick": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/90s-silk-twill-cami-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-grid-relaxed-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/st-agni-x-vermeer-edna-belt-dark_brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/st-agni-x-vermeer-edna-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/st-agni-x-vermeer-fabion-keychain-dark_brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/st-agni-x-vermeer-fabion-keychain-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/st-agni-x-vermeer-leighton-necklace-beige": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/clasico-sunglasses-black_brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/clasico-sunglasses-black_grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/linea-oversized-sunglasses-black_brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/linea-oversized-sunglasses-black_grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/clasico-sunglasses-tortoiseshell_grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-hybrid-skirt-pants-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/fine-band-carter-trouser-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/linea-oversized-sunglasses-tortoiseshell_grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wool-sleeveless-split-blazer-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/90s-wool-blazer-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wool-strapless-cocoon-dress-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/wool-tailored-mini-short-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/oxford-halter-tie-back-top-ciel_blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/oxford-shirt-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/oxford-shirt-ciel_blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/knit-bodice-asymm-dress-ecru": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/knit-bodice-asymm-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/oxford-halter-tie-back-top-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/paper-taffeta-cocoon-top-pink_salt": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-glass-beaded-cami-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-glass-beaded-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/sheer-silk-slip-dress-liqueur": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/sheer-silk-slip-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/tailored-bustier-top-mousse": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-cocoon-top-mocha": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-relaxed-trench-mocha": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/sheer-silk-circle-hem-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-drape-dress-pink_salt": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pleat-loop-pants-mousse": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/slim-scoop-one-piece-graphite": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/slim-scoop-one-piece-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-drape-dress-mocha": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/sheer-silk-circle-hem-dress-liqueur": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/triangle-bikini-top-graphite": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/triangle-bikini-top-blk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/adjustable-petite-bikini-briefs-graphite": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/adjustable-petite-bikini-briefs-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/oupa-tailored-coat-doe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/balconette-bikini-top-graphite": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/balconette-bikini-top-blk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-wool-blazer-doe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/oupa-flight-jacket-doe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/crushed-halter-top-petite_pinstripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/relaxed-crushed-pant-petite_pinstripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/high-waisted-briefs-graphite": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-ballerina-top-fudge": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cloud-asymm-drape-top-off_white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-silk-twill-slip-dress-brick": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/thong-detail-slide-soft_gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-twill-relaxed-trench-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-twill-halter-dress-brick": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-twill-relaxed-slip-dress-milk": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-twill-relaxed-slip-dress-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/merino-wool-oupa-vest-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/square-neck-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/merino-wool-slit-sleeve-sweater-light_grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/merino-wool-slit-sleeve-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/merino-wool-oupa-vest-light_grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/soft-jersey-halter-top-jet_black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/square-neck-top-off_white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-jersey-slim-scoop-tank-jet_black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-jersey-halter-top-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-jersey-halter-top-liqueur": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-jersey-ballerina-top-liqueur": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-jersey-ballerina-top-jet_black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-jersey-slim-scoop-tank-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-jersey-slim-scoop-tank-liqueur": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/perforated-slim-bateau-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soft-jersey-ballerina-top-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-ballet-flat-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-ballet-flat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-ballet-heel-patent_liqueur": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-ballet-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-square-toe-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/perforated-square-toe-flat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-belt-sling-back-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-square-toe-heel-patent_liqueur": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-belt-sling-back-heel-pink_salt": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-belt-detail-wedge-mocha": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/petit-belt-detail-wedge-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-square-toe-flat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/ballet-boot-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/linea-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-square-toe-flat-patent_liqueur": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/plie-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/linea-heel-pink_salt": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/plie-flat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/plie-heel-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-thong-slide-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/utility-slide-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/utility-slide-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/plie-flat-pink_salt": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/lattice-weave-ballet-sneaker-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-thong-slide-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-ballet-boot-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/brushed-miro-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-classic-ballet-heel-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/jelly-flip-flop-transparent": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/jelly-flip-flop-smoke": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-ballet-flat-soft_gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/pool-towel-mahogany": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/wide-classic-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/lattice-weave-thong-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/lattice-weave-thong-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/lattice-weave-ballet-flat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/suede-tailored-coat-coffee": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/suede-column-skirt-coffee": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/lattice-weave-ballet-flat-coffee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/homme-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/brushed-leather-belted-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/halter-wrap-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cashmere-relaxed-cropped-cardigan-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/adjustable-palazzo-pants-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/adjustable-palazzo-pants-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/halter-wrap-top-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/halter-wrap-top-liqueur": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/ballerina-wrap-knit-top-off_white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/ballerina-wrap-knit-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/gathered-strapless-longline-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-90s-top-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/merino-wool-slit-sleeve-sweater-powder": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/gathered-strapless-longline-dress-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/gathered-strapless-longline-dress-liqueur": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-90s-top-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/halter-wrap-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/tassel-tie-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/leather-column-skirt-rum": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cotton-circle-hem-skirt-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/halter-wrap-dress-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/halter-wrap-dress-liqueur": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-baby-tee-fudge": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/eje-single-hair-pin-by-belen-krol": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/curva-spiral-earring-by-belen-krol": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/routeins": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-cami-liqueur": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-cami-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/silk-slip-dress-smokey_olive": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cotton-check-relaxed-pant-check": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/mid-rise-balloon-jeans-dark_indigo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/sculpted-knit-top-silver": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/sculpted-knit-top-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/jersey-baby-tee-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/satin-ballet-flat-rosso": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/satin-ballet-flat-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/paper-taffeta-short-silver_off_white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-cupro-top-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/jordan-button-up-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/90s-cupro-top-silver": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/relaxed-tee-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/jordan-button-up-top-milk": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/jordan-button-up-dress-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/silk-twill-pants-milk": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/everyday-drawstring-pants-silver": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/tie-back-shirt-off_white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/utility-pocket-mini-khaki": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/relaxed-splice-pants-khaki_pinstripe": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-ballerina-top-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/baby-wool-cami-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-ballerina-top-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/baby-wool-long-sleeve-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-bateau-dress-khaki": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/cashmere-sweater-grey_marle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/woven-mini-tote-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/small-astrid-ring-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soap-duo-gift-set-the-magic-woman-by-binu-binu": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/soap-duo-gift-set-the-bathhouse-ritual-by-binu-binu": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-slim-oval-sunglasses-black_brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-slim-oval-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/90s-slim-oval-sunglasses-tortoiseshell": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/connolo-shoulder-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/connolo-shoulder-bag-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/cocoon-leather-jacket-chocolate": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/rib-cami-white": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/rib-cami-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/feathered-silk-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-slim-scoop-tank-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/organic-cotton-baby-tee-jet_black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/origami-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/horizontal-spoon-pendant-by-annika-inez": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/leather-column-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/old-is-new-lars-muller-publishers": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/super-normal-lars-muller-publishers": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/thinking-with-your-hands-lars-muller-publishers": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-baby-tee-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/small-astrid-cuff-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/12-brown-by-chimi": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/small-gia-studs-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-astrid-cuff-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bow-tortoise-by-chimi": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/bow-black-by-chimi": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/field-dark-grey-by-chimi": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/large-wishbone-pendant-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/katrin-ring-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/domed-ring-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/organic-cotton-slim-scoop-tank-white": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly8.json"
+ },
+ "int.st-agni.com/products/herbarium-body-lotion-90ml-by-frama": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/apothecary-body-lotion-90ml-by-frama": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/st-pauls-eau-de-parfum-50ml-by-frama": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/deep-forest-oil-perfume-huile-de-parfum-10ml-by-frama": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/1917-oil-perfume-huile-de-parfum-10ml-by-frama": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-mini-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/woven-mini-tote-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/somni-ring-ivory-by-ayllon": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/daria-ring-silver-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/rae-pendant-black-cord-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/06-brown-by-chimi": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/10-2-black-by-chimi": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/ae-gi-super-mild-soap-by-binu-binu": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/sculpted-heart-pendant-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/gertrude-pendant-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/classic-chain-necklace-by-agmes": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/medium-celia-hoops-by-agmes-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/gift-card": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
  }
 }
