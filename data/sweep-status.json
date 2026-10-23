@@ -106,11 +106,11 @@
       "order": 11,
       "brand": "Christy Dawn",
       "method": "shopify-json",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
+      "lastSweep": "2026-10-22",
       "lastDelta": null,
-      "note": ""
+      "note": "Full products.json sweep, 67 staged. Skipped tencel/lyocell pieces, Unisex, Petite and Extended duplicates."
     },
     {
       "order": 12,
