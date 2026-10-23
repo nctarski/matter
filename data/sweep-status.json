@@ -1,816 +1,816 @@
 {
- "sweepComplete": false,
- "startedOn": "2026-10-22",
- "retailers": [
-  {
-   "order": 1,
-   "brand": "Massimo Dutti",
-   "method": "api",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 2,
-   "brand": "White + Warren",
-   "method": "shopify-json",
-   "status": "done",
-   "cursor": null,
-   "lastSweep": "2026-10-22",
-   "lastDelta": null,
-   "note": "Full products.json sweep, 220 staged. Skipped Menswear, Hats & Gloves, Scarves, Travel Wraps."
-  },
-  {
-   "order": 3,
-   "brand": "Faherty",
-   "method": "shopify-json",
-   "status": "done",
-   "cursor": null,
-   "lastSweep": "2026-10-23",
-   "lastDelta": null,
-   "note": "Full sweep 2026-10-23. 1,750 products read. 359 staged (nightly3), 115 under the fiber rule, sold-out pieces not recorded so a delta run picks up restocks."
-  },
-  {
-   "order": 4,
-   "brand": "Anine Bing",
-   "method": "shopify-json",
-   "status": "done",
-   "cursor": null,
-   "lastSweep": "2026-10-23",
-   "lastDelta": null,
-   "note": "Full sweep 2026-10-23. 520 products read. 85 staged (nightly4). 240 clothing pieces list no composition on the site, so they are recorded as no-composition for a delta run to recheck. Polyester and regenerated leather pieces recorded under fiber."
-  },
-  {
-   "order": 5,
-   "brand": "Guest In Residence",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 6,
-   "brand": "Naadam",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 7,
-   "brand": "Brochu Walker",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 8,
-   "brand": "St. Agni",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 9,
-   "brand": "Sea New York",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 10,
-   "brand": "Ulla Johnson",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 11,
-   "brand": "Christy Dawn",
-   "method": "shopify-json",
-   "status": "done",
-   "cursor": null,
-   "lastSweep": "2026-10-22",
-   "lastDelta": null,
-   "note": "Full products.json sweep, 67 staged. Skipped tencel/lyocell pieces, Unisex, Petite and Extended duplicates."
-  },
-  {
-   "order": 12,
-   "brand": "Tibi",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 13,
-   "brand": "Gabriela Hearst",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 14,
-   "brand": "Kotn",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 15,
-   "brand": "Jenni Kayne",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 16,
-   "brand": "Lisa Says Gah",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 17,
-   "brand": "SAME Los Angeles",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 18,
-   "brand": "Retrofete",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 19,
-   "brand": "WeWoreWhat",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 20,
-   "brand": "Naked Wardrobe",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 21,
-   "brand": "Princess Polly",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 22,
-   "brand": "The Frankie Shop",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 23,
-   "brand": "Few Moda",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 24,
-   "brand": "Vrg Grl",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 25,
-   "brand": "DISSH",
-   "method": "shopify-json",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 26,
-   "brand": "Khaite",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 27,
-   "brand": "The Row",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 28,
-   "brand": "Toteme",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 29,
-   "brand": "Staud",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 30,
-   "brand": "Simkhai",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 31,
-   "brand": "Frame",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 32,
-   "brand": "Rachel Comey",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 33,
-   "brand": "Ronny Kobo",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 34,
-   "brand": "Citizens of Humanity",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 35,
-   "brand": "Nanushka",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 36,
-   "brand": "Another Tomorrow",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 37,
-   "brand": "Enza Costa",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 38,
-   "brand": "The Elder Statesman",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 39,
-   "brand": "Hanro",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 40,
-   "brand": "Doen",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 41,
-   "brand": "Rouje",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 42,
-   "brand": "Matteau",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 43,
-   "brand": "With Jean",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 44,
-   "brand": "Atoir",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 45,
-   "brand": "Nili Lotan",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 46,
-   "brand": "Lauren Manoogian",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 47,
-   "brand": "Cuyana",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 48,
-   "brand": "Pansy",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 49,
-   "brand": "Pact",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 50,
-   "brand": "Everlane",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 51,
-   "brand": "Quince",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 52,
-   "brand": "A Piece Apart",
-   "method": "shopify-page",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 53,
-   "brand": "Nordstrom",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 54,
-   "brand": "Revolve",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 55,
-   "brand": "Bloomingdale's",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 56,
-   "brand": "Saks Fifth Avenue",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 57,
-   "brand": "Mytheresa",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 58,
-   "brand": "Falconeri",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 59,
-   "brand": "Banana Republic",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 60,
-   "brand": "Vince",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 61,
-   "brand": "Rag & Bone",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 62,
-   "brand": "Free People",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 63,
-   "brand": "Reformation",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 64,
-   "brand": "Gap",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 65,
-   "brand": "COS",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 66,
-   "brand": "& Other Stories",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 67,
-   "brand": "H&M",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 68,
-   "brand": "J.Crew",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 69,
-   "brand": "Anthropologie",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 70,
-   "brand": "Aritzia",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 71,
-   "brand": "Ganni",
-   "method": "filtered-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 72,
-   "brand": "Net-a-Porter",
-   "method": "browse-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 73,
-   "brand": "Shopbop",
-   "method": "browse-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 74,
-   "brand": "FWRD",
-   "method": "browse-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 75,
-   "brand": "S\u00e9zane",
-   "method": "browse-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 76,
-   "brand": "ASOS",
-   "method": "browse-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 77,
-   "brand": "AllSaints",
-   "method": "browse-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 78,
-   "brand": "Abercrombie & Fitch",
-   "method": "browse-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 79,
-   "brand": "Lisa Yang",
-   "method": "browse-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 80,
-   "brand": "LaPointe",
-   "method": "browse-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  },
-  {
-   "order": 81,
-   "brand": "Lioness",
-   "method": "browse-listing",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
-   "lastDelta": null,
-   "note": ""
-  }
- ]
+  "sweepComplete": false,
+  "startedOn": "2026-10-22",
+  "retailers": [
+    {
+      "order": 1,
+      "brand": "Massimo Dutti",
+      "method": "api",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 2,
+      "brand": "White + Warren",
+      "method": "shopify-json",
+      "status": "done",
+      "cursor": null,
+      "lastSweep": "2026-10-22",
+      "lastDelta": null,
+      "note": "Full products.json sweep, 220 staged. Skipped Menswear, Hats & Gloves, Scarves, Travel Wraps."
+    },
+    {
+      "order": 3,
+      "brand": "Faherty",
+      "method": "shopify-json",
+      "status": "done",
+      "cursor": null,
+      "lastSweep": "2026-10-23",
+      "lastDelta": null,
+      "note": "Full sweep 2026-10-23. 1,750 products read. 359 staged (nightly3), 115 under the fiber rule, sold-out pieces not recorded so a delta run picks up restocks."
+    },
+    {
+      "order": 4,
+      "brand": "Anine Bing",
+      "method": "shopify-json",
+      "status": "done",
+      "cursor": null,
+      "lastSweep": "2026-10-23",
+      "lastDelta": null,
+      "note": "Full sweep 2026-10-23. 520 products read. 85 staged (nightly4). 240 clothing pieces list no composition on the site, so they are recorded as no-composition for a delta run to recheck. Polyester and regenerated leather pieces recorded under fiber."
+    },
+    {
+      "order": 5,
+      "brand": "Guest In Residence",
+      "method": "shopify-json",
+      "status": "done",
+      "cursor": null,
+      "lastSweep": "2026-10-23",
+      "lastDelta": null,
+      "note": "Full sweep 2026-10-23. 397 products read. 294 staged (nightly5). 9 denim pieces under the fiber rule (cotton lyocell). 5 felted pieces list only \"cashmere wool blend\", recorded as no-composition. Accessories out of scope. Pieces tagged for him or unisex only skipped. Sold-out pieces not recorded so a delta run picks up restocks."
+    },
+    {
+      "order": 6,
+      "brand": "Naadam",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 7,
+      "brand": "Brochu Walker",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 8,
+      "brand": "St. Agni",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 9,
+      "brand": "Sea New York",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 10,
+      "brand": "Ulla Johnson",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 11,
+      "brand": "Christy Dawn",
+      "method": "shopify-json",
+      "status": "done",
+      "cursor": null,
+      "lastSweep": "2026-10-22",
+      "lastDelta": null,
+      "note": "Full products.json sweep, 67 staged. Skipped tencel/lyocell pieces, Unisex, Petite and Extended duplicates."
+    },
+    {
+      "order": 12,
+      "brand": "Tibi",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 13,
+      "brand": "Gabriela Hearst",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 14,
+      "brand": "Kotn",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 15,
+      "brand": "Jenni Kayne",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 16,
+      "brand": "Lisa Says Gah",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 17,
+      "brand": "SAME Los Angeles",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 18,
+      "brand": "Retrofete",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 19,
+      "brand": "WeWoreWhat",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 20,
+      "brand": "Naked Wardrobe",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 21,
+      "brand": "Princess Polly",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 22,
+      "brand": "The Frankie Shop",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 23,
+      "brand": "Few Moda",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 24,
+      "brand": "Vrg Grl",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 25,
+      "brand": "DISSH",
+      "method": "shopify-json",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 26,
+      "brand": "Khaite",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 27,
+      "brand": "The Row",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 28,
+      "brand": "Toteme",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 29,
+      "brand": "Staud",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 30,
+      "brand": "Simkhai",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 31,
+      "brand": "Frame",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 32,
+      "brand": "Rachel Comey",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 33,
+      "brand": "Ronny Kobo",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 34,
+      "brand": "Citizens of Humanity",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 35,
+      "brand": "Nanushka",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 36,
+      "brand": "Another Tomorrow",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 37,
+      "brand": "Enza Costa",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 38,
+      "brand": "The Elder Statesman",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 39,
+      "brand": "Hanro",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 40,
+      "brand": "Doen",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 41,
+      "brand": "Rouje",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 42,
+      "brand": "Matteau",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 43,
+      "brand": "With Jean",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 44,
+      "brand": "Atoir",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 45,
+      "brand": "Nili Lotan",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 46,
+      "brand": "Lauren Manoogian",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 47,
+      "brand": "Cuyana",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 48,
+      "brand": "Pansy",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 49,
+      "brand": "Pact",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 50,
+      "brand": "Everlane",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 51,
+      "brand": "Quince",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 52,
+      "brand": "A Piece Apart",
+      "method": "shopify-page",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 53,
+      "brand": "Nordstrom",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 54,
+      "brand": "Revolve",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 55,
+      "brand": "Bloomingdale's",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 56,
+      "brand": "Saks Fifth Avenue",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 57,
+      "brand": "Mytheresa",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 58,
+      "brand": "Falconeri",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 59,
+      "brand": "Banana Republic",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 60,
+      "brand": "Vince",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 61,
+      "brand": "Rag & Bone",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 62,
+      "brand": "Free People",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 63,
+      "brand": "Reformation",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 64,
+      "brand": "Gap",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 65,
+      "brand": "COS",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 66,
+      "brand": "& Other Stories",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 67,
+      "brand": "H&M",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 68,
+      "brand": "J.Crew",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 69,
+      "brand": "Anthropologie",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 70,
+      "brand": "Aritzia",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 71,
+      "brand": "Ganni",
+      "method": "filtered-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 72,
+      "brand": "Net-a-Porter",
+      "method": "browse-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 73,
+      "brand": "Shopbop",
+      "method": "browse-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 74,
+      "brand": "FWRD",
+      "method": "browse-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 75,
+      "brand": "S\u00e9zane",
+      "method": "browse-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 76,
+      "brand": "ASOS",
+      "method": "browse-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 77,
+      "brand": "AllSaints",
+      "method": "browse-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 78,
+      "brand": "Abercrombie & Fitch",
+      "method": "browse-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 79,
+      "brand": "Lisa Yang",
+      "method": "browse-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 80,
+      "brand": "LaPointe",
+      "method": "browse-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    },
+    {
+      "order": 81,
+      "brand": "Lioness",
+      "method": "browse-listing",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": ""
+    }
+  ]
 }

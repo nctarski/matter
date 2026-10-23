@@ -1,0 +1,6358 @@
+[
+  {
+    "id": "guest-in-residence-stealth-cardigan-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Stealth Cardigan",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/stealth-cardigan-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Stealth_Cardigan_BURNT_SIENNA_BURNT_SIENNA_05.jpg?v=1785856344",
+    "category": "Sweaters",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-everywear-pant-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Everywear Pant",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/everywear-pant-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Everywear_Pant_BURNT_SIENNA_BURNT_SIENNA_05.jpg?v=1785856344",
+    "category": "Pants",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-super-cloud-t-neck-sprinkle",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Super Cloud Turtleneck",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/super-cloud-t-neck-sprinkle",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SuperCloud_Tnk_SPRINKLE_SPRINKLE_05.jpg?v=1785856344",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        90
+      ],
+      [
+        "Silk",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-super-cloud-t-neck-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Super Cloud Turtleneck",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/super-cloud-t-neck-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SuperCloud_Tnk_FIG_FIG_05.jpg?v=1785856343",
+    "category": "Sweaters",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        90
+      ],
+      [
+        "Silk",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-super-cloud-t-neck-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Super Cloud Turtleneck",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/super-cloud-t-neck-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SuperCloud_Tnk_CREAM_CREAM_05.jpg?v=1785856343",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        90
+      ],
+      [
+        "Silk",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-felted-zip-jacket-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Felted Zip Jacket",
+    "price": 575,
+    "url": "https://guestinresidence.com/products/felted-zip-jacket-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Felted_Zip_Jacket_CARMINE_CARMINE_05.jpg?v=1785856343",
+    "category": "Outerwear",
+    "colour": "Red",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-felted-zip-jacket-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Felted Zip Jacket",
+    "price": 575,
+    "url": "https://guestinresidence.com/products/felted-zip-jacket-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Felted_Zip_Jacket_BUTTER_BUTTER_05.jpg?v=1785856344",
+    "category": "Outerwear",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-felted-bomber-jacket-burnt-cocoa",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Felted Bomber Jacket",
+    "price": 995,
+    "url": "https://guestinresidence.com/products/felted-bomber-jacket-burnt-cocoa",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Felted_Bomber_Jacket_BURNT_COCOA_BURNT_COCOA_05.jpg?v=1785856344",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-felted-barrel-pant-charcoal",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Felted Barrel Pant",
+    "price": 525,
+    "url": "https://guestinresidence.com/products/felted-barrel-pant-charcoal",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Felted_Barrel_Pant_CHARCOAL_CHARCOAL_05.jpg?v=1785856345",
+    "category": "Pants",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-felted-crew-charcoal",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Felted Crew",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/felted-crew-charcoal",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Felted_Crew_CHARCOAL_BLACK_TRIM_CHARCOAL_BLACK_TRIM_05.jpg?v=1785856343",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-wrap-skirt-sprinkle-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Wrap Skirt",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/tartan-wrap-skirt-sprinkle-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Tartan_Midi_Wrap_Skirt_SPRINKLE_COMBO_SPRINKLE_COMBO_05.jpg?v=1785856345",
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-wrap-skirt-reservoir-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Wrap Skirt",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/tartan-wrap-skirt-reservoir-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Tartan_Midi_Wrap_Skirt_RESERVOIR_COMBO_RESERVOIR_COMBO_05.jpg?v=1785856345",
+    "category": "Skirts",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-wrap-skirt-butter-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Wrap Skirt",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/tartan-wrap-skirt-butter-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Tartan_Midi_Wrap_Skirt_BUTTER_COMBO_BUTTER_COMBO_05.jpg?v=1785856345",
+    "category": "Skirts",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-stripe-pant-midnight-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Stripe Pant",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/western-stripe-pant-midnight-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Western_Stripe_Pant_MIDNIGHT_COMBO_MIDNIGHT_COMBO_05.jpg?v=1785856345",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-stripe-pant-butter-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Stripe Pant",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/western-stripe-pant-butter-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Western_Stripe_Pant_BUTTER_COMBO_BUTTER_COMBO_05.jpg?v=1785856345",
+    "category": "Pants",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-stripe-crew-butter-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Stripe Crew",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/western-stripe-crew-butter-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Western_Stripe_Crew_BUTTER_COMBO_BUTTER_COMBO_05.jpg?v=1785856344",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-sculpted-cardigan-sprinkle-1",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Sculpted Cardigan",
+    "price": 695,
+    "url": "https://guestinresidence.com/products/grizzly-sculpted-cardigan-sprinkle-1",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Sculpted_Cardigan_SPRINKLE_SPRINKLE_05.jpg?v=1785856343",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-sculpted-cardigan-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Sculpted Cardigan",
+    "price": 695,
+    "url": "https://guestinresidence.com/products/grizzly-sculpted-cardigan-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Sculpted_Cardigan_CREAM_CREAM_05.jpg?v=1785856342",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-sculpted-cardigan-charcoal",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Sculpted Cardigan",
+    "price": 695,
+    "url": "https://guestinresidence.com/products/grizzly-sculpted-cardigan-charcoal",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Sculpted_Cardigan_CHARCOAL_CHARCOAL_05.jpg?v=1785856343",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-cropped-rugby-sprinkle-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Cropped Rugby",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/grizzly-cropped-rugby-sprinkle-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Cropped_Rugby_SPRINKLE_COMBO_SPRINKLE_COMBO_05.jpg?v=1785856344",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-cropped-rugby-reservoir-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Cropped Rugby",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/grizzly-cropped-rugby-reservoir-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Cropped_Rugby_RESERVOIR_COMBO_RESERVOIR_COMBO_05.jpg?v=1785856345",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-cowhide-jacket-cream-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Cowhide Jacket",
+    "price": 995,
+    "url": "https://guestinresidence.com/products/grizzly-cowhide-jacket-cream-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Cowhide_Jacket_CREAM_BURNT_SIENNA_CREAM_BURNT_SIENNA_05.jpg?v=1785856345",
+    "category": "Outerwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-wrangler-vest-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Wrangler Vest",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/grizzly-wrangler-vest-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Wrangler_Vest_CAMEL_CAMEL_05.jpg?v=1785856345",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-wrangler-vest-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Wrangler Vest",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/grizzly-wrangler-vest-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/GrizzlyWranglerVest_Black_05_1.jpg?v=1785939531",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-flight-suit-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Flight Suit",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/flight-suit-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Flight_Suit_FIG_FIG_05.jpg?v=1785856342",
+    "category": "Sets & jumpsuits",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-flight-suit-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Flight Suit",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/flight-suit-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/LoungeCoverall_BLACK_BLACK_05.jpg?v=1785866910",
+    "category": "Sets & jumpsuits",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-dylan-plaid-shirt-reservoir-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Dylan Plaid Shirt",
+    "price": 645,
+    "url": "https://guestinresidence.com/products/dylan-plaid-shirt-reservoir-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Wide_Plaid_Dylan_Shirt_RESERVOIR_COMBO_RESERVOIR_COMBO_05.jpg?v=1790264293",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-dylan-plaid-shirt-highland-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Dylan Plaid Shirt",
+    "price": 645,
+    "url": "https://guestinresidence.com/products/dylan-plaid-shirt-highland-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Wide_Plaid_Dylan_Shirt_HIGHLAND_COMBO_HIGHLAND_COMBO_05.jpg?v=1790264293",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-dylan-plaid-shirt-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Dylan Plaid Shirt",
+    "price": 645,
+    "url": "https://guestinresidence.com/products/dylan-plaid-shirt-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/plaidshirt.png?v=1790264293",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-jane-checker-cardigan-sprinkle-burnt-sienna-3",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Jane Checker Cardigan",
+    "price": 365,
+    "url": "https://guestinresidence.com/products/jane-checker-cardigan-sprinkle-burnt-sienna-3",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Jane_Checker_Cardigan_BURNT_SIENNA_SPRINKLE_BURNT_SIENNA_SPRINKLE_05.jpg?v=1785856345",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-jane-checker-cardigan-reservoir-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Jane Checker Cardigan",
+    "price": 365,
+    "url": "https://guestinresidence.com/products/jane-checker-cardigan-reservoir-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Jane_Checker_Cardigan_RESERVOIR_BUTTER_RESERVOIR_BUTTER_05.jpg?v=1785856344",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-l-s-shrunken-waffle-polo-reservoir",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "L/S Shrunken Waffle Polo",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/l-s-shrunken-waffle-polo-reservoir",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/L_S_Shrunken_Polo_RESERVOIR_RESERVOIR_05.jpg?v=1785856344",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-l-s-shrunken-waffle-polo-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "L/S Shrunken Waffle Polo",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/l-s-shrunken-waffle-polo-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/L_S_Shrunken_Polo_CARMINE_CARMINE_05.jpg?v=1785856344",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-l-s-shrunken-waffle-polo-burnt-cocoa",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "L/S Shrunken Waffle Polo",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/l-s-shrunken-waffle-polo-burnt-cocoa",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/L_S_Shrunken_Polo_BURNT_COCOA_BURNT_COCOA_05.jpg?v=1785856343",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-waffle-polo-carmine-burnt-cocoa",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Waffle Polo",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-waffle-polo-carmine-burnt-cocoa",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Shrunken_Polo_CARMINE_BURNT_COCOA_CARMINE_BURNT_COCOA_05.jpg?v=1785856344",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-frankie-jacket-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Frankie Jacket",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/grizzly-frankie-jacket-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Frankie_Jacket_CAMEL_CAMEL_05.jpg?v=1785856344",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-frankie-jacket-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Frankie Jacket",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/grizzly-frankie-jacket-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Frankie_Jacket_BURNT_SIENNA_BURNT_SIENNA_05.jpg?v=1785856344",
+    "category": "Outerwear",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-frankie-jacket-burnt-cocoa",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Frankie Jacket",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/grizzly-frankie-jacket-burnt-cocoa",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Frankie_Jacket_BURNT_COCOA_BURNT_COCOA_05.jpg?v=1785856343",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-fisherman-henley-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Fisherman Henley",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/fisherman-henley-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FishermanHenley_BUTTER_BUTTER_05.jpg?v=1785792762",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-double-v-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Double V",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/grizzly-double-v-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/GrizzlyDoubleV_CARMINE_CARMINE_05.jpg?v=1785793022",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-checker-crew-heather-grey-sprinkle",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Checker Crew",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/shrunken-checker-crew-heather-grey-sprinkle",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenCheckerCrew_HEATHERGREY_SPRINKLE_HEATHERGREY_SPRINKLE_05.jpg?v=1785794056",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-checker-crew-carmine-burnt-cocoa",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Checker Crew",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/shrunken-checker-crew-carmine-burnt-cocoa",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenCheckerCrew_CARMINE_BURNTCOCOA_CARMINE_BURNTCOCOA_05.jpg?v=1785856283",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-stripe-crew-midnight-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Stripe Crew",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/western-stripe-crew-midnight-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternStripeCrew_MIDNIGHTCOMBO_MIDNIGHTCOMBO_05.jpg?v=1790099711",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-gingham-polo-dress-scarlet-mist",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Gingham Polo Dress",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/gingham-polo-dress-scarlet-mist",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/GINGHAMPOLODRESS_SCARLET_MIST.jpg?v=1771525300",
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Linen",
+        54
+      ],
+      [
+        "Silk",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-weekender-jean-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Weekender Jean",
+    "price": 285,
+    "url": "https://guestinresidence.com/products/weekender-jean-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/jeans19_unknown_color_05.jpg?v=1788989410",
+    "category": "Denim",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-weekender-jean-burnt-cocoa",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Weekender Jean",
+    "price": 285,
+    "url": "https://guestinresidence.com/products/weekender-jean-burnt-cocoa",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/jeans20_unknown_color_05.jpg?v=1788989238",
+    "category": "Denim",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-workday-jean-rust-flock",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Workday Jean",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/workday-jean-rust-flock",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WorkdayJeanRustFlock.jpg?v=1789352887",
+    "category": "Denim",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-workday-jean-paris",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Workday Jean",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/workday-jean-paris",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/jeans15_unknown_color_05.jpg?v=1788990698",
+    "category": "Denim",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-weekender-jean-paris",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Weekender Jean",
+    "price": 265,
+    "url": "https://guestinresidence.com/products/weekender-jean-paris",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/jeans14_unknown_color_05.jpg?v=1788990203",
+    "category": "Denim",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-allday-crew-in-linen-blend-sandstone",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Allday Crew",
+    "price": 375,
+    "url": "https://guestinresidence.com/products/allday-crew-in-linen-blend-sandstone",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CopyofALLDAYCREWINLINENBLEND_SANDSTONE_05_1.jpg?v=1769112060",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Linen",
+        54
+      ],
+      [
+        "Silk",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-allday-crew-in-linen-blend-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Allday Crew",
+    "price": 375,
+    "url": "https://guestinresidence.com/products/allday-crew-in-linen-blend-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CopyofALLDAYCREWINLINENBLEND_BLACK_05.jpg?v=1769112170",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        54
+      ],
+      [
+        "Silk",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-half-zip-turtleneck-in-cashmere-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Half Zip Turtleneck",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/half-zip-turtleneck-in-cashmere-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/HalfZipTurtleneckInCashmereBUTTER_BUTTER_05_4f8b464e-bedc-4380-9413-d8adfe654351.jpg?v=1785856395",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-half-zip-turtleneck-in-cashmere-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Half Zip Turtleneck",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/half-zip-turtleneck-in-cashmere-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/HalfZipTurtleneckInCashmereBURNTSIENNA_BURNTSIENNA_05_f5065d86-2146-4c46-affa-0903c6fb4b04.jpg?v=1785856395",
+    "category": "Sweaters",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-half-zip-turtleneck-in-cashmere-delft-blue",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Half Zip Turtleneck",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/half-zip-turtleneck-in-cashmere-delft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/HalfZipTurtleneckInCashmereDELFTBLUE_DELFTBLUE_05_df788821-4b49-4161-a7a5-7cabbcb358df.jpg?v=1785856396",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-fringe-jacket-burnt-cocoa-1",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Fringe Jacket",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/western-fringe-jacket-burnt-cocoa-1",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WESTERNFRINGEJACKET_BURNTCOCOA_BURNTCOCOA_05.jpg?v=1787861227",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-fringe-jacket",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Fringe Jacket",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/western-fringe-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternFringeJacket_BLACK_BLACK_05.jpg?v=1787597708",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-w10210cs-2",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Quinn Tee",
+    "price": 165,
+    "url": "https://guestinresidence.com/products/w10210cs-2",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/blut-shirt3copia.jpg?v=1787861227",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-w10210cs-1",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Quinn Tee",
+    "price": 165,
+    "url": "https://guestinresidence.com/products/w10210cs-1",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/whitet-shirt3copia.jpg?v=1787861227",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-w10210cs",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Quinn Tee",
+    "price": 165,
+    "url": "https://guestinresidence.com/products/w10210cs",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/blackt-shirt3.jpg?v=1787861228",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-w10110cs-2",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Lani Tee",
+    "price": 145,
+    "url": "https://guestinresidence.com/products/w10110cs-2",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/blut-shirt2copia.jpg?v=1787861227",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-w10010cs-2",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Frankie Tee",
+    "price": 125,
+    "url": "https://guestinresidence.com/products/w10010cs-2",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/blut-shirt1copia.jpg?v=1787861227",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cozy-cardigan-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cozy Cardigan",
+    "price": 775,
+    "url": "https://guestinresidence.com/products/cozy-cardigan-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Cozy_Cardigan_CAMEL_CAMEL_05.jpg?v=1785856345",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cozy-cardigan-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cozy Cardigan",
+    "price": 775,
+    "url": "https://guestinresidence.com/products/cozy-cardigan-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Cozy_Cardigan_CARMINE_CARMINE_05.jpg?v=1785856345",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rodeo-cardigan-butter-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rodeo Cardigan",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/rodeo-cardigan-butter-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/RODEOCARDIGAN_BUTTER_05_d183e500-24a0-4868-bb05-a70b542ba676.jpg?v=1787703851",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cozy-crew-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cozy Crew",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/cozy-crew-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Cozy_Crew_FIG_FIG_05.jpg?v=1785856345",
+    "category": "Sweaters",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cozy-crew-highland",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cozy Crew",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/cozy-crew-highland",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Cozy_Crew_HIGHLAND_HIGHLAND_05.jpg?v=1785856345",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-oversized-crew-canopy",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Oversized Crew",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/oversized-crew-canopy",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/OversizedCrewCANOPY_CANOPY_05_6f685ec4-f5e6-4921-a2e4-8518a8cd4d80.jpg?v=1785856396",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-oversized-crew-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Oversized Crew",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/oversized-crew-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/OversizedCrewFIG_FIG_05.jpg?v=1785856369",
+    "category": "Sweaters",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-oversized-crew-delft-blue",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Oversized Crew",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/oversized-crew-delft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/OversizedCrewDELFTBLUE_DELFTBLUE_05_813cb96a-ed90-4fcc-90de-60ebd18ed4f7.jpg?v=1785856395",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-cropped-rugby-highland-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Cropped Rugby",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/grizzly-cropped-rugby-highland-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Cropped_Rugby_HIGHLAND_COMBO_HIGHLAND_COMBO_05.jpg?v=1785856344",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-cropped-rugby-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Cropped Rugby",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/grizzly-cropped-rugby-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Grizzly_Cropped_Rugby_CARMINE_COMBO_CARMINE_COMBO_05.jpg?v=1785856344",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-jane-checker-cardigan-burnt-sienna-sprinkle",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Jane Checker Cardigan",
+    "price": 365,
+    "url": "https://guestinresidence.com/products/jane-checker-cardigan-burnt-sienna-sprinkle",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Jane_Checker_Cardigan_SPRINKLE_BURNT_SIENNA_SPRINKLE_BURNT_SIENNA_05.jpg?v=1785856345",
+    "category": "Sweaters",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-jane-checker-cardigan-burnt-cocoa-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Jane Checker Cardigan",
+    "price": 365,
+    "url": "https://guestinresidence.com/products/jane-checker-cardigan-burnt-cocoa-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Jane_Checker_Cardigan_BURNT_COCOA_CARMINE_BURNT_COCOA_CARMINE_05.jpg?v=1785856345",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-waffle-polo-burnt-sienna-sandstone",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Waffle Polo",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-waffle-polo-burnt-sienna-sandstone",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Shrunken_Polo_BURNT_SIENNA_SANDSTONE_BURNT_SIENNA_SANDSTONE_05.jpg?v=1785856344",
+    "category": "Tops",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-mini-skirt-sprinkle-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Mini Skirt",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/tartan-mini-skirt-sprinkle-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TartanMiniSkirt_SPRINKLECOMBO_SPRINKLECOMBO_05.jpg?v=1785792073",
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-mini-skirt-highland-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Mini Skirt",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/tartan-mini-skirt-highland-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TartanMiniSkirt_HIGHLANDCOMBO_HIGHLANDCOMBO_05.jpg?v=1787861227",
+    "category": "Skirts",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-mini-skirt-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Mini Skirt",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/tartan-mini-skirt-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TartanMiniSkirt_CARMINECOMBO_CARMINECOMBO_05.jpg?v=1785792168",
+    "category": "Skirts",
+    "colour": "Red",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-fringe-jacket-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Fringe Jacket",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/western-fringe-jacket-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternFringeJacket_BUTTER_BUTTER_05.jpg?v=1785792203",
+    "category": "Outerwear",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-fringe-jacket-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Fringe Jacket",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/western-fringe-jacket-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternFringeJacket_BURNTSIENNA_BURNTSIENNA_05.jpg?v=1785792244",
+    "category": "Outerwear",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cable-mini-skirt-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cable Mini Skirt",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/cable-mini-skirt-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CableMiniSkirt_FIG_FIG_05.jpg?v=1785792581",
+    "category": "Skirts",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cable-mini-skirt-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cable Mini Skirt",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/cable-mini-skirt-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CableMiniSkirt_BUTTER_BUTTER_05.jpg?v=1785792609",
+    "category": "Skirts",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cable-mini-skirt-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cable Mini Skirt",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/cable-mini-skirt-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CableMiniSkirt_BURNTSIENNA_BURNTSIENNA_05.jpg?v=1787861227",
+    "category": "Skirts",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cable-sculpted-cardigan-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cable Sculpted Cardigan",
+    "price": 475,
+    "url": "https://guestinresidence.com/products/cable-sculpted-cardigan-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SculptedCableCrew_FIG_FIG_05.jpg?v=1785792663",
+    "category": "Sweaters",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cable-sculpted-cardigan-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cable Sculpted Cardigan",
+    "price": 475,
+    "url": "https://guestinresidence.com/products/cable-sculpted-cardigan-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SculptedCableCrew_BUTTER_BUTTER_05.jpg?v=1785792688",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cable-sculpted-cardigan-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cable Sculpted Cardigan",
+    "price": 475,
+    "url": "https://guestinresidence.com/products/cable-sculpted-cardigan-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SculptedCableCrew_BURNTSIENNA_BURNTSIENNA_05.jpg?v=1785792713",
+    "category": "Sweaters",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-saddle-up-jacket-fig-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Saddle Up! Jacket",
+    "price": 645,
+    "url": "https://guestinresidence.com/products/saddle-up-jacket-fig-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SaddleUp_Jacket_FIG_BURNTSIENNA_FIG_BURNTSIENNA_05.jpg?v=1785792899",
+    "category": "Outerwear",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-saddle-up-jacket-butter-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Saddle Up! Jacket",
+    "price": 645,
+    "url": "https://guestinresidence.com/products/saddle-up-jacket-butter-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SaddleUp_Jacket_BUTTER_CAMEL_BUTTER_CAMEL_05.jpg?v=1785792957",
+    "category": "Outerwear",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-double-v-highland",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Double V",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/grizzly-double-v-highland",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/GrizzlyDoubleV_HIGHLAND_HIGHLAND_05.jpg?v=1785792994",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-double-v-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Double V",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/grizzly-double-v-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/GrizzlyDoubleV_BUTTER_BUTTER_05.jpg?v=1785793046",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cropped-western-shirt-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cropped Western Shirt",
+    "price": 475,
+    "url": "https://guestinresidence.com/products/cropped-western-shirt-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternCroppedShirt_MIDNIGHT_MIDNIGHT_05.jpg?v=1785793087",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cropped-western-shirt-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cropped Western Shirt",
+    "price": 475,
+    "url": "https://guestinresidence.com/products/cropped-western-shirt-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternCroppedShirt_BURNTSIENNA_BURNTSIENNA_05.jpg?v=1785793122",
+    "category": "Tops",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cropped-western-shirt-burnt-cocoa",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cropped Western Shirt",
+    "price": 475,
+    "url": "https://guestinresidence.com/products/cropped-western-shirt-burnt-cocoa",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternCroppedShirt_BURNTCOCOA_BURNTCOCOA_05.jpg?v=1785793148",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-industry-mini-dress-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Industry Mini Dress",
+    "price": 675,
+    "url": "https://guestinresidence.com/products/industry-mini-dress-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/IndustryMiniDress_MIDNIGHT_MIDNIGHT_05.jpg?v=1785793190",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-industry-mini-dress-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Industry Mini Dress",
+    "price": 675,
+    "url": "https://guestinresidence.com/products/industry-mini-dress-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/IndustryMiniDress_FIG_FIG_05.jpg?v=1785793217",
+    "category": "Dresses",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-industry-mini-dress-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Industry Mini Dress",
+    "price": 675,
+    "url": "https://guestinresidence.com/products/industry-mini-dress-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/IndustryMiniDress_CAMEL_CAMEL_05.jpg?v=1785793247",
+    "category": "Dresses",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-marquise-pant-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Marquise Pant",
+    "price": 525,
+    "url": "https://guestinresidence.com/products/marquise-pant-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/MarquisePant_CARMINECOMBO_CARMINECOMBO_05.jpg?v=1787861287",
+    "category": "Pants",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-marquise-pant-burnt-cocoa-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Marquise Pant",
+    "price": 525,
+    "url": "https://guestinresidence.com/products/marquise-pant-burnt-cocoa-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/MarquisePant_BURNTCOCOACOMBO_BURNTCOCOACOMBO_05.jpg?v=1787861287",
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-dylan-marquise-shirt-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Dylan Marquise Shirt",
+    "price": 595,
+    "url": "https://guestinresidence.com/products/dylan-marquise-shirt-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/DylanMarquiseShirt_CARMINECOMBO.jpg?v=1787861287",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-dylan-marquise-shirt-burnt-cocoa-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Dylan Marquise Shirt",
+    "price": 595,
+    "url": "https://guestinresidence.com/products/dylan-marquise-shirt-burnt-cocoa-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/DylanMarquiseShirt_BURNTCOCOACOMBO_BURNTCOCOACOMBO_05.jpg?v=1785793378",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tailored-crew-vest-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tailored Crew Vest",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/tailored-crew-vest-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TailoredVest_CREAM_CREAM_05.jpg?v=1785793749",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-track-polo-highland-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Track Polo",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/track-polo-highland-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TrackZipPolo_HIGHLANDCOMBO_HIGHLANDCOMBO_05.jpg?v=1785793969",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-track-polo-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Track Polo",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/track-polo-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TrackZipPolo_CARMINECOMBO_CARMINECOMBO_05.jpg?v=1785793939",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-checker-crew-butter-almond",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Checker Crew",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/shrunken-checker-crew-butter-almond",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Shrunken_Checker_Crew_BUTTER_ALMOND_BUTTER_ALMOND_05.jpg?v=1785856344",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-handloom-cardigan-sandstone-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Handloom Cardigan",
+    "price": 625,
+    "url": "https://guestinresidence.com/products/handloom-cardigan-sandstone-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/HandloomCardigan_SANDSTONECOMBO_SANDSTONECOMBO_05.jpg?v=1785856447",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-handloom-cardigan-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Handloom Cardigan",
+    "price": 625,
+    "url": "https://guestinresidence.com/products/handloom-cardigan-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Handloom_Cardigan_CARMINE_COMBO_CARMINE_COMBO_05.jpg?v=1787861288",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-collegiate-stripe-polo-highland-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Collegiate Stripe Polo",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/collegiate-stripe-polo-highland-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Collegiate_Stripe_Polo_HIGHLAND_COMBO_HIGHLAND_COMBO_05.jpg?v=1785856344",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-collegiate-stripe-polo-fig-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Collegiate Stripe Polo",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/collegiate-stripe-polo-fig-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Collegiate_Stripe_Polo_FIG_COMBO_FIG_COMBO_05.jpg?v=1785856345",
+    "category": "Tops",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-collegiate-stripe-polo-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Collegiate Stripe Polo",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/collegiate-stripe-polo-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Collegiate_Stripe_Polo_CARMINE_COMBO_CARMINE_COMBO_05.jpg?v=1785856345",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-ringer-tee-highland-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Ringer Tee",
+    "price": 265,
+    "url": "https://guestinresidence.com/products/rib-ringer-tee-highland-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Rib_Ringer_Tee_HIGHLAND_FIG_HIGHLAND_FIG_05.jpg?v=1785856344",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-ringer-tee-carmine-charcoal-1",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Ringer Tee",
+    "price": 265,
+    "url": "https://guestinresidence.com/products/rib-ringer-tee-carmine-charcoal-1",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Rib_Ringer_Tee_CARMINE_CHARCOAL_CARMINE_CHARCOAL_05.jpg?v=1785856345",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-ringer-tee-butter-delft-blue",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Ringer Tee",
+    "price": 265,
+    "url": "https://guestinresidence.com/products/rib-ringer-tee-butter-delft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Rib_Ringer_Tee_BUTTER_DELFT_BLUE_BUTTER_DELFT_BLUE_05.jpg?v=1785856344",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-industry-jacket-highland-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Industry Jacket",
+    "price": 795,
+    "url": "https://guestinresidence.com/products/tartan-industry-jacket-highland-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Tartan_Industry_Jacket_HIGHLAND_COMBO_HIGHLAND_COMBO_05.jpg?v=1787861287",
+    "category": "Outerwear",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-industry-jacket-camel-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Industry Jacket",
+    "price": 795,
+    "url": "https://guestinresidence.com/products/tartan-industry-jacket-camel-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Tartan_Industry_Jacket_CAMEL_COMBO_CAMEL_COMBO_05.jpg?v=1785856345",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-allday-crew-heather-grey",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Allday Crew",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/rib-allday-crew-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/RibAlldayCrewHeatherGrey_HeatherGrey_05_65a58f9f-4412-41ff-9f21-cacd2bafa43b.jpg?v=1785856396",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-allday-crew-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Allday Crew",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/rib-allday-crew-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/RibAlldayCrewBurntSienna_BurntSienna_05_07956fed-6075-4499-ad2f-3186203592f4.jpg?v=1785856396",
+    "category": "Sweaters",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-bomber-canopy-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Bomber",
+    "price": 795,
+    "url": "https://guestinresidence.com/products/tartan-bomber-canopy-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TartanBomberCANOPYCOMBO_CANOPYCOMBO_05_42437a82-87d2-418e-a0a9-9c8e2d2d6caa.jpg?v=1785856395",
+    "category": "Outerwear",
+    "colour": "Green",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-bomber-camel-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Bomber",
+    "price": 795,
+    "url": "https://guestinresidence.com/products/tartan-bomber-camel-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TartanBomberCAMELCOMBO_CAMELCOMBO_05_3293729d-64fb-4580-8e88-7a75360ad016.jpg?v=1787861287",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tartan-bomber-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tartan Bomber",
+    "price": 795,
+    "url": "https://guestinresidence.com/products/tartan-bomber-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TartanBomberCARMINECOMBO_CARMINECOMBO_05_3aafd635-e278-4fb3-aabe-95ae108acbfa.jpg?v=1787861288",
+    "category": "Outerwear",
+    "colour": "Red",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-industry-jacket-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Industry Jacket",
+    "price": 795,
+    "url": "https://guestinresidence.com/products/western-industry-jacket-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternIndustryJacket_DELFTBLUECOMBO_unknown_color_05_b9b623d3-b1d3-4c7f-90bd-efa9df7e8ab7.jpg?v=1787861288",
+    "category": "Outerwear",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-industry-jacket-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Industry Jacket",
+    "price": 795,
+    "url": "https://guestinresidence.com/products/western-industry-jacket-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternIndustryJacket_CARMINECOMBO_unknown_color_05_3f5f6d48-86f2-4acc-856e-b6a259199785.jpg?v=1787861288",
+    "category": "Outerwear",
+    "colour": "Red",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-industry-jacket-canopy-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Industry Jacket",
+    "price": 795,
+    "url": "https://guestinresidence.com/products/western-industry-jacket-canopy-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WESTERNINDUSTRYJACKETCOMBO_CANOPYCOMBO_06_60919196-402b-4ebf-a7f8-6483c989fc99.jpg?v=1787861288",
+    "category": "Outerwear",
+    "colour": "Green",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-wild-rag-work-shirt-sole",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Wild Rag Work Shirt",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/wild-rag-work-shirt-sole",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WildRagWorkShirtSOLE_SOLE_05_65b3390a-7728-476b-ba24-ca95fba45642.jpg?v=1787861288",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-wild-rag-work-shirt-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Wild Rag Work Shirt",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/wild-rag-work-shirt-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WildRagWorkShirtMIDNIGHT_MIDNIGHT_05_d2c6cf93-db6f-4403-b2b1-bf3c009b20e2.jpg?v=1785858022",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-wild-rag-work-shirt-canopy",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Wild Rag Work Shirt",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/wild-rag-work-shirt-canopy",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WildRagWorkShirtCANOPY_CANOPY_05_1c5ee7c2-5b57-4a5d-8b7c-d2deb49d3be8.jpg?v=1787861288",
+    "category": "Tops",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-wild-rag-work-shirt-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Wild Rag Work Shirt",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/wild-rag-work-shirt-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WildRagWorkShirtCARMINE_CARMINE_05_ea3ac3ca-5914-4670-96f8-f6012736e9f0.jpg?v=1787861288",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-work-shirt-heather-grey-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Work Shirt",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/plaid-work-shirt-heather-grey-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PlaidWorkShirtHEATHERGREYCOMBO_HEATHERGREYCOMBO_05_b098ffd8-26ed-4e3d-bf64-02ff33be0cbd.jpg?v=1785856396",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-work-shirt-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Work Shirt",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/plaid-work-shirt-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PlaidWorkShirtDELFTBLUECOMBO_DELFTBLUECOMBO_05_0231b0cc-68c5-4a73-abf7-eff07851fd70.jpg?v=1787861288",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-work-shirt-canopy-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Work Shirt",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/plaid-work-shirt-canopy-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PlaidWorkShirtCANOPYCOMBO_CANOPYCOMBO_05_a2388bd7-73d5-4c01-ae62-cc93d57a00b2.jpg?v=1787861287",
+    "category": "Tops",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-work-shirt-camel-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Work Shirt",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/plaid-work-shirt-camel-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PlaidWorkShirtCAMELCOMBO_CAMELCOMBO_05_7d75080a-d60a-43c3-b1fc-719f5078939a.jpg?v=1787861288",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-work-shirt-carmine-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Work Shirt",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/plaid-work-shirt-carmine-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PlaidWorkShirtCARMINECOMBO_CARMINECOMBO_05_9e2dbf95-100a-4ab8-9e28-4de35161f4fb.jpg?v=1787861289",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-stripe-crew-midnight-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Stripe Crew",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/stripe-crew-midnight-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/StripeCrewMIDNIGHTCOMBO_MIDNIGHTCOMBO_05_21437d2e-0b5e-44e6-b6c0-b84db25365f2.jpg?v=1785856396",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-stripe-crew-fig-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Stripe Crew",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/stripe-crew-fig-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/StripeCrewFIGCOMBO_FIGCOMBO_05_b9358dd5-0478-4092-9d3c-51695bed89f8.jpg?v=1785856395",
+    "category": "Sweaters",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-stripe-crew-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Stripe Crew",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/stripe-crew-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/StripeCrewDELFTBLUECOMBO_DELFTBLUECOMBO_05_0f9f1832-1f57-40d3-8aad-a3e295129012.jpg?v=1785856395",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-argyle-plaza-shirt-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Argyle Plaza Shirt",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/argyle-plaza-shirt-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ArgylePlazaShirtMIDNIGHT_MIDNIGHT_05_0eb4f2d7-137c-4d2c-b81c-bb7a783e11db.jpg?v=1785856395",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-argyle-plaza-shirt-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Argyle Plaza Shirt",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/argyle-plaza-shirt-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ArgylePlazaShirtFIG_FIG_05_7b316a31-0b13-42c4-b121-6b83c39f05cb.jpg?v=1785856395",
+    "category": "Tops",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-checker-allday-polo-midnight-delft-blue",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Checker Allday Polo",
+    "price": 525,
+    "url": "https://guestinresidence.com/products/checker-allday-polo-midnight-delft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CheckerAlldayPoloMIDNIGHT_DELFTBLUE_37321492-698b-4399-b6aa-7b546528f598.jpg?v=1787861409",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-checker-allday-polo-carmine-burnt-cocoa",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Checker Allday Polo",
+    "price": 525,
+    "url": "https://guestinresidence.com/products/checker-allday-polo-carmine-burnt-cocoa",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CheckerAlldayPoloCARMNE_BURNTCOCOA_CARMNE_BURNTCOCOA_05_e8bf6d0a-e802-465c-8691-66e38b5180b7.jpg?v=1785856396",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-color-block-rugby-midnight-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Color Block Rugby",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/color-block-rugby-midnight-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ColorblockRugbyMIDNIGHTCOMBO_MIDNIGHTCOMBO_05_83c3f477-e490-41f7-a2b2-68d6b20eda88.jpg?v=1785856395",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-color-block-rugby-canopy-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Color Block Rugby",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/color-block-rugby-canopy-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ColorblockRugbyCANOPYCOMBO_CANOPYCOMBO_05_7bf79aaf-c1da-4fdb-85b9-dee0a3cbe94e.jpg?v=1785856395",
+    "category": "Tops",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-color-block-rugby-burnt-cocoa-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Color Block Rugby",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/color-block-rugby-burnt-cocoa-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ColorblockRugbyBURNTCOCOACOMBO_BURNTCOCOACOMBO_05_9d97fa7e-d1b9-4923-bf48-007be1c12f3e.jpg?v=1785856395",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-baja-everywear-cardigan-midnight-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Baja Everywear Cardigan",
+    "price": 645,
+    "url": "https://guestinresidence.com/products/baja-everywear-cardigan-midnight-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/BajaEverywearCardiganMIDNIGHTCOMBO_MIDNIGHTCOMBO_05_468a23b0-878c-4a55-830a-2b47955296eb.jpg?v=1785856396",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-baja-everywear-cardigan-fig-combo-1",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Baja Everywear Cardigan",
+    "price": 645,
+    "url": "https://guestinresidence.com/products/baja-everywear-cardigan-fig-combo-1",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/BajaEverywearCardiganFIGCOMBO_FIGCOMBO_05.jpg?v=1785856370",
+    "category": "Sweaters",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-button-up-shirt-camel-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Button Up! Shirt",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/western-button-up-shirt-camel-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternButtonUp_ShirtCAMEL_BURNTSIENNA_CAMEL_BURNTSIENNA_05_3f56bf08-a8e4-4fdb-9785-ea245ad8d086.jpg?v=1785856395",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-button-up-shirt-carmine-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Button Up! Shirt",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/western-button-up-shirt-carmine-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternButtonUp_ShirtCARMINE_BURNTCOCOA_CARMINE_BURNTCOCOA_05_5fab8ef1-3975-4634-a3ad-939be6050fbc.jpg?v=1785856395",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-button-up-shirt-butter-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Button Up! Shirt",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/western-button-up-shirt-butter-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternButtonUp_ShirtBUTTER_CAMEL_BUTTER_CAMEL_05_292518dc-a80f-4fc6-85a0-10ed1be1b2ba.jpg?v=1785856395",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-western-button-up-shirt-black-fig",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Western Button Up! Shirt",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/western-button-up-shirt-black-fig",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WesternButtonUp_ShirtBLACK_FIG_BLACK_FIG_05_8d6dbb76-2ee8-4232-a44c-ede163c7c317.jpg?v=1785856395",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rodeo-cardigan-camel-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rodeo Cardigan",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/rodeo-cardigan-camel-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/RodeoCardiganCAMELCOMBO_CAMELCOMBO_05_7004a794-6036-45a3-b72f-ee717020c21b.jpg?v=1785856395",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tailored-trouser-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tailored Trouser",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/tailored-trouser-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Tailored_Trouser_CARMINE_CARMINE_05.jpg?v=1785856344",
+    "category": "Pants",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-everywear-cardigan-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Everywear Cardigan",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/everywear-cardigan-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/EverywearCardiganBUTTER_BUTTER_05.jpg?v=1776372022",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-everywear-cardigan-sprinkle",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Everywear Cardigan",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/everywear-cardigan-sprinkle",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/EverywearCardiganSPRINKLE_SPRINKLE_05.jpg?v=1776371959",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-everywear-cardigan-sage-brush",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Everywear Cardigan",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/everywear-cardigan-sage-brush",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/EverywearCardiganSAGEBRUSH_SAGEBRUSH_05.jpg?v=1776371989",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-collegiate-stripe-polo-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Collegiate Stripe Polo",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/collegiate-stripe-polo-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CollegiateStripePoloDELFTBLUECOMBO_DELFTBLUECOMBO_05.jpg?v=1783635367",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-collegiate-stripe-polo-sandstone-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Collegiate Stripe Polo",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/collegiate-stripe-polo-sandstone-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CollegiateStripePoloSANDSTONECOMBO_SANDSTONECOMBO_05.jpg?v=1776282804",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-the-airy-v-butter-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "The Airy V",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/the-airy-v-butter-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TheAiryVBUTTER_CAMEL_BUTTER_CAMEL_05.jpg?v=1776282897",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-the-airy-v-camel-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "The Airy V",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/the-airy-v-camel-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TheAiryVCAMEL_CREAM_CAMEL_CREAM_05.jpg?v=1776282930",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-the-airy-v-delft-blue-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "The Airy V",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/the-airy-v-delft-blue-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TheAiryVDELFTBLUE_CREAM_DELFTBLUE_CREAM_05.jpg?v=1776282954",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-smocked-l-s-shrunken-polo-butter-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Smocked L/S Shrunken Polo",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/smocked-l-s-shrunken-polo-butter-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SmockedL_SShrunkenPoloBUTTER_CAMEL_BUTTER_CAMEL_05.jpg?v=1776282988",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-smocked-l-s-shrunken-polo-delft-blue-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Smocked L/S Shrunken Polo",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/smocked-l-s-shrunken-polo-delft-blue-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SmockedL_SShrunkenPoloDELFTBLUE_CREAM_DELFTBLUE_CREAM_05.jpg?v=1783635367",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-smocked-l-s-shrunken-polo-sprinkle-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Smocked L/S Shrunken Polo",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/smocked-l-s-shrunken-polo-sprinkle-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SmockedL_SShrunkenPoloSPRINKLE_BURNTSIENNA_SPRINKLE_BURNTSIENNA_05.jpg?v=1776283678",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-sunwash-cozy-crew-sage-brush",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Sunwash Cozy Crew",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/sunwash-cozy-crew-sage-brush",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SunwashCozyCrew_gmtdye_acidwash_SAGEBRUSH_SAGEBRUSH_05.jpg?v=1776283722",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-sunwash-cozy-crew-delft-blue",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Sunwash Cozy Crew",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/sunwash-cozy-crew-delft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SunwashCozyCrew_gmtdye_acidwash_DELFTBLUE_DELFTBLUE.jpg?v=1776283891",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-sunwash-cozy-crew-sprinkle",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Sunwash Cozy Crew",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/sunwash-cozy-crew-sprinkle",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SunwashCozyCrew_gmtdye_acidwash_SPRINKLE_SPRINKLE_05.jpg?v=1776283916",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cotton",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-sunwash-shrunken-crew-delft-blue",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Sunwash Shrunken Crew",
+    "price": 225,
+    "url": "https://guestinresidence.com/products/sunwash-shrunken-crew-delft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SunwashShrunkenCrew_gmtdye_acidwash_DELFTBLUE_DELFTBLUE_05.jpg?v=1776283988",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-sunwash-shrunken-crew-sprinkle",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Sunwash Shrunken Crew",
+    "price": 225,
+    "url": "https://guestinresidence.com/products/sunwash-shrunken-crew-sprinkle",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SunwashShrunkenCrew_gmtdye_acidwash_SPRINKLE_SPRINKLE_05.jpg?v=1776284056",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-baseball-oversized-crew-butter-navy",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Baseball Oversized Crew",
+    "price": 465,
+    "url": "https://guestinresidence.com/products/baseball-oversized-crew-butter-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/BaseballOversizedCrewButter_Navy_Butter_Navy_05.jpg?v=1776284184",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-baseball-oversized-crew-cream-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Baseball Oversized Crew",
+    "price": 465,
+    "url": "https://guestinresidence.com/products/baseball-oversized-crew-cream-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/BaseballOversizedCrewCream_Carmine_Cream_Carmine_05.jpg?v=1776284311",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-baseball-oversized-crew-sage-brush-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Baseball Oversized Crew",
+    "price": 465,
+    "url": "https://guestinresidence.com/products/baseball-oversized-crew-sage-brush-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/BaseballOversizedCrewSageBrush_Camel_SageBrush_Camel_05.jpg?v=1776284508",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-baseball-oversized-crew-sprinkle-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Baseball Oversized Crew",
+    "price": 465,
+    "url": "https://guestinresidence.com/products/baseball-oversized-crew-sprinkle-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/BaseballOversizedCrewSprinkle_BurntSienna_Sprinkle_BurntSienna_05.jpg?v=1776284813",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pebble-stripe-shrunken-crew-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pebble Stripe Shrunken Crew",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/pebble-stripe-shrunken-crew-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PebbleStripeShrunkenCrewDELFTBLUECOMBO_DELFTBLUECOMBO_05.jpg?v=1783635367",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pebble-stripe-shrunken-crew-sandstone-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pebble Stripe Shrunken Crew",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/pebble-stripe-shrunken-crew-sandstone-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PebbleStripeShrunkenCrewSANDSTONECOMBO_SANDSTONECOMBO_05.jpg?v=1776286381",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-waffle-work-pant-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Waffle Work Pant",
+    "price": 575,
+    "url": "https://guestinresidence.com/products/waffle-work-pant-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WaffleWorkPantCREAM_CREAM_05.jpg?v=1776286425",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        54
+      ],
+      [
+        "Silk",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-waffle-work-pant-delft-blue",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Waffle Work Pant",
+    "price": 575,
+    "url": "https://guestinresidence.com/products/waffle-work-pant-delft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WaffleWorkPantDELFTBLUE_DELFTBLUE_05.jpg?v=1783635367",
+    "category": "Pants",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        54
+      ],
+      [
+        "Silk",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-waffle-work-pant-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Waffle Work Pant",
+    "price": 575,
+    "url": "https://guestinresidence.com/products/waffle-work-pant-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WaffleWorkPantBLACK_BLACK_05.jpg?v=1776286684",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        54
+      ],
+      [
+        "Silk",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-waffle-jacket-cream-sandstone",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Waffle Jacket",
+    "price": 675,
+    "url": "https://guestinresidence.com/products/waffle-jacket-cream-sandstone",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WaffleJacketCREAM_SANDSTONE_CREAM_SANDSTONE_05.jpg?v=1776286713",
+    "category": "Outerwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        54
+      ],
+      [
+        "Silk",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-waffle-jacket-delft-blue-sandstone",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Waffle Jacket",
+    "price": 675,
+    "url": "https://guestinresidence.com/products/waffle-jacket-delft-blue-sandstone",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WaffleJacketDELFTBLUE_SANDSTONE_DELFTBLUE_SANDSTONE_05.jpg?v=1783635367",
+    "category": "Outerwear",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        54
+      ],
+      [
+        "Silk",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-waffle-jacket-black-sandstone",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Waffle Jacket",
+    "price": 675,
+    "url": "https://guestinresidence.com/products/waffle-jacket-black-sandstone",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WaffleJacketBLACK_SANDSTONE_BLACK_SANDSTONE_05.jpg?v=1776286773",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        54
+      ],
+      [
+        "Silk",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-elle-shirt-delft-blue-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Elle Shirt",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/plaid-elle-shirt-delft-blue-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FringePlaidElleShirtDELFTBLUE_BUTTER_DELFTBLUE_BUTTER_05.jpg?v=1776287623",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Silk",
+        70
+      ],
+      [
+        "Linen",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-elle-shirt-burnt-sienna-sandstone",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Elle Shirt",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/plaid-elle-shirt-burnt-sienna-sandstone",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FringePlaidElleShirtBURNTSIENNA_SANDSTONE_BURNTSIENNA_SANDSTONE_05.jpg?v=1776287651",
+    "category": "Tops",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Silk",
+        70
+      ],
+      [
+        "Linen",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-mini-skirt-delft-blue-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Mini Skirt",
+    "price": 225,
+    "url": "https://guestinresidence.com/products/plaid-mini-skirt-delft-blue-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FringePlaidSkirtDELFTBLUE_BUTTER_DELFTBLUE_BUTTER_05.jpg?v=1783635367",
+    "category": "Skirts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Silk",
+        70
+      ],
+      [
+        "Linen",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-mini-skirt-burnt-sienna-sandstone",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Mini Skirt",
+    "price": 225,
+    "url": "https://guestinresidence.com/products/plaid-mini-skirt-burnt-sienna-sandstone",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FringePlaidSkirtBURNTSIENNA_SANDSTONE_BURNTSIENNA_SANDSTONE_05.jpg?v=1776287899",
+    "category": "Skirts",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Silk",
+        70
+      ],
+      [
+        "Linen",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-track-polo-sprinkle-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Track Polo",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/track-polo-sprinkle-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TrackStripePoloSPRINKLECOMBO_SPRINKLECOMBO_05.jpg?v=1776288273",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Silk",
+        70
+      ],
+      [
+        "Linen",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-track-polo-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Track Polo",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/track-polo-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TrackStripePoloDELFTBLUECOMBO_DELFTBLUECOMBO_05.jpg?v=1783635367",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Silk",
+        70
+      ],
+      [
+        "Linen",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pinstripe-work-shirt-camel-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pinstripe Work Shirt",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/pinstripe-work-shirt-camel-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PinstripeWorkShirtCAMEL_BURNTSIENNA_CAMEL_BURNTSIENNA_05.jpg?v=1776288421",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Silk",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pinstripe-work-shirt-sage-brush-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pinstripe Work Shirt",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/pinstripe-work-shirt-sage-brush-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PinstripeWorkShirtSAGEBRUSH_CAMEL_SAGEBRUSH_CAMEL_05.jpg?v=1783635367",
+    "category": "Tops",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Silk",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pinstripe-work-shirt-navy-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pinstripe Work Shirt",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/pinstripe-work-shirt-navy-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PinstripeWorkShirtNAVY_BUTTER_NAVY_BUTTER_05_1.jpg?v=1776288553",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Silk",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pinstripe-carpenter-pant-camel-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pinstripe Carpenter Pant",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/pinstripe-carpenter-pant-camel-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PinstripeCarpenterPantCAMEL_BURNTSIENNA_CAMEL_BURNTSIENNA_05.jpg?v=1776354482",
+    "category": "Pants",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Silk",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pinstripe-carpenter-pant-sage-brush-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pinstripe Carpenter Pant",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/pinstripe-carpenter-pant-sage-brush-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PinstripeCarpenterPantSAGEBRUSH_CAMEL_SAGEBRUSH_CAMEL_05.jpg?v=1783635366",
+    "category": "Pants",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Silk",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pinstripe-carpenter-pant-navy-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pinstripe Carpenter Pant",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/pinstripe-carpenter-pant-navy-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PinstripeCarpenterPantNAVY_BUTTER_NAVY_BUTTER_05.jpg?v=1776354547",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Silk",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-windbreaker-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Windbreaker",
+    "price": 475,
+    "url": "https://guestinresidence.com/products/windbreaker-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WindbreakerBUTTER_BUTTER_05.jpg?v=1776354579",
+    "category": "Outerwear",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Silk",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-windbreaker-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Windbreaker",
+    "price": 475,
+    "url": "https://guestinresidence.com/products/windbreaker-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/WindbreakerCAMEL_CAMEL_05.jpg?v=1776354605",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Silk",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-windbreaker-navy",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Windbreaker",
+    "price": 475,
+    "url": "https://guestinresidence.com/products/windbreaker-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Windbreaker_NAVY_unknown_color_05.jpg?v=1776354881",
+    "category": "Outerwear",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Silk",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cable-mock-neck-top-sage-brush",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cable Mock Neck Top",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/cable-mock-neck-top-sage-brush",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CableMockNeckTopSageBrush_SageBrush_05.jpg?v=1776355003",
+    "category": "Tops",
+    "colour": "Green",
+    "shell": [
+      [
+        "Merino wool",
+        54
+      ],
+      [
+        "Cashmere",
+        23
+      ],
+      [
+        "Silk",
+        23
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cable-mock-neck-top-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cable Mock Neck Top",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/cable-mock-neck-top-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CableMockNeckTopButter_Butter_05.jpg?v=1783635367",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Merino wool",
+        54
+      ],
+      [
+        "Cashmere",
+        23
+      ],
+      [
+        "Silk",
+        23
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-open-stripe-crew-sage-brush",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Open Stripe Crew",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/open-stripe-crew-sage-brush",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/OpenStripeCrewSageBrush_SageBrush_05_5f74b6c9-7880-470a-a988-8d585b832616.jpg?v=1776355201",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Merino wool",
+        54
+      ],
+      [
+        "Cashmere",
+        23
+      ],
+      [
+        "Silk",
+        23
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-open-stripe-crew-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Open Stripe Crew",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/open-stripe-crew-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/OpenStripeCrewButter_Butter_05.jpg?v=1783635367",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Merino wool",
+        54
+      ],
+      [
+        "Cashmere",
+        23
+      ],
+      [
+        "Silk",
+        23
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-track-polo-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Track Polo",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/track-polo-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TrackStripePoloMIDNIGHTCOMBO_MIDNIGHTCOMBO_05.jpg?v=1776370179",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Silk",
+        70
+      ],
+      [
+        "Linen",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-collegiate-stripe-polo-sprinkle-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Collegiate Stripe Polo",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/collegiate-stripe-polo-sprinkle-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CollegiateStripePoloSPRINKLECOMBO_SPRINKLECOMBO_05.jpg?v=1776282596",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pebble-stripe-jane-cardigan-evoo-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pebble Stripe Jane Cardigan",
+    "price": 365,
+    "url": "https://guestinresidence.com/products/pebble-stripe-jane-cardigan-evoo-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PebbleStripeJaneCardiganEVOOCOMBO_EVOOCOMBO_05.jpg?v=1776282558",
+    "category": "Sweaters",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pebble-stripe-jane-cardigan-sage-brush-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pebble Stripe Jane Cardigan",
+    "price": 365,
+    "url": "https://guestinresidence.com/products/pebble-stripe-jane-cardigan-sage-brush-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PebbleStripeJaneCardiganSAGEBRUSHCOMBO_SAGEBRUSHCOMBO_05.jpg?v=1776282533",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-pebble-stripe-jane-cardigan-butter-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Pebble Stripe Jane Cardigan",
+    "price": 365,
+    "url": "https://guestinresidence.com/products/pebble-stripe-jane-cardigan-butter-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PebbleStripeJaneCardiganBUTTERCOMBO_BUTTERCOMBO_05.jpg?v=1778663767",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-layer-tee-sprinkle-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Layer Tee",
+    "price": 265,
+    "url": "https://guestinresidence.com/products/layer-tee-sprinkle-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/LayerTeeSPRINKLE_CARMINE_SPRINKLE_CARMINE_05.jpg?v=1776282446",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        85
+      ],
+      [
+        "Cashmere",
+        15
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-layer-tee-cream-sage-brush",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Layer Tee",
+    "price": 265,
+    "url": "https://guestinresidence.com/products/layer-tee-cream-sage-brush",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/LayerTeeCREAM_SAGEBRUSH_CREAM_SAGEBRUSH_05.jpg?v=1776282392",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        85
+      ],
+      [
+        "Cashmere",
+        15
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-short-sleeve-stripe-rugby-nectar-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Short Sleeve Stripe Rugby",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/short-sleeve-stripe-rugby-nectar-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/S_SStripeRugbyNECTARCOMBO_NECTARCOMBO_05.jpg?v=1776282346",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cotton",
+        85
+      ],
+      [
+        "Cashmere",
+        15
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-short-sleeve-stripe-rugby-evoo-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Short Sleeve Stripe Rugby",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/short-sleeve-stripe-rugby-evoo-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/S_SStripeRugbyEVOOCOMBO_EVOOCOMBO_05.jpg?v=1776282322",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        85
+      ],
+      [
+        "Cashmere",
+        15
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-short-sleeve-stripe-rugby-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Short Sleeve Stripe Rugby",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/short-sleeve-stripe-rugby-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/S_SStripeRugbyDELFTBLUECOMBO_DELFTBLUECOMBO_05.jpg?v=1776282295",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        85
+      ],
+      [
+        "Cashmere",
+        15
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-palazzo-dress-burnt-sienna-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Palazzo Dress",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/palazzo-dress-burnt-sienna-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PalazzoDressBURNTSIENNACOMBO_BURNTSIENNACOMBO_05.jpg?v=1778663767",
+    "category": "Dresses",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-palazzo-dress-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Palazzo Dress",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/palazzo-dress-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PalazzoDressDELFTBLUECOMBO_DELFTBLUECOMBO_05_15979a29-bc26-4382-8ae9-1ee1029df8da.jpg?v=1776282227",
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-palazzo-dress-nectar-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Palazzo Dress",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/palazzo-dress-nectar-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PalazzoDressNECTARCOMBO_NECTARCOMBO_05.jpg?v=1776282192",
+    "category": "Dresses",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-palazzo-pant-burnt-sienna-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Palazzo Pant",
+    "price": 375,
+    "url": "https://guestinresidence.com/products/palazzo-pant-burnt-sienna-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PalazzoPantBURNTSIENNACOMBO_BURNTSIENNACOMBO_05.jpg?v=1778663767",
+    "category": "Pants",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-palazzo-pant-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Palazzo Pant",
+    "price": 375,
+    "url": "https://guestinresidence.com/products/palazzo-pant-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PalazzoPantDELFTBLUECOMBO_DELFTBLUECOMBO_05.jpg?v=1778663767",
+    "category": "Pants",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-palazzo-pant-nectar-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Palazzo Pant",
+    "price": 375,
+    "url": "https://guestinresidence.com/products/palazzo-pant-nectar-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PalazzoPantNECTARCOMBO_NECTARCOMBO_05.jpg?v=1778663767",
+    "category": "Pants",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-palazzo-top-burnt-sienna-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Palazzo Top",
+    "price": 265,
+    "url": "https://guestinresidence.com/products/palazzo-top-burnt-sienna-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PalazzoTopBURNTSIENNACOMBO_BURNTSIENNACOMBO_05.jpg?v=1778663767",
+    "category": "Tops",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-palazzo-top-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Palazzo Top",
+    "price": 265,
+    "url": "https://guestinresidence.com/products/palazzo-top-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PalazzoTopDELFTBLUECOMBO_DELFTBLUECOMBO_05.jpg?v=1778663767",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-palazzo-top-nectar-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Palazzo Top",
+    "price": 265,
+    "url": "https://guestinresidence.com/products/palazzo-top-nectar-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PalazzoTopNECTARCOMBO_NECTARCOMBO_05.jpg?v=1776282037",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaited-rib-dress-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaited Rib Skirt",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/plaited-rib-dress-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Striped_Dress_DELFT_BLUE_COMBO_DELFT_BLUE_COMBO_05.jpg?v=1779294374",
+    "category": "Skirts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaited-rib-dress-sandstone-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaited Rib Skirt",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/plaited-rib-dress-sandstone-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Striped_Dress_SANDSTONE_COMBO_SANDSTONE_COMBO_05_1.jpg?v=1779294374",
+    "category": "Skirts",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaited-rib-tank-delft-blue-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaited Rib Tank",
+    "price": 225,
+    "url": "https://guestinresidence.com/products/plaited-rib-tank-delft-blue-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PlaitedRibTankDELFTBLUECOMBO_DELFTBLUECOMBO_05.jpg?v=1776281886",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaited-rib-tank-sandstone-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaited Rib Tank",
+    "price": 225,
+    "url": "https://guestinresidence.com/products/plaited-rib-tank-sandstone-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PlaitedRibTankSANDSTONECOMBO_SANDSTONECOMBO_05.jpg?v=1776281867",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Linen",
+        70
+      ],
+      [
+        "Silk",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-short-butter-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Short",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/plaid-short-butter-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PlaidShortBUTTER_CAMEL_BUTTER_CAMEL_05.jpg?v=1776281802",
+    "category": "Shorts",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-short-delft-blue-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Short",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/plaid-short-delft-blue-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PlaidShortDELFTBLUE_CREAMBUTTER_DELFTBLUE_CREAMBUTTER_05.jpg?v=1778663767",
+    "category": "Shorts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-plaid-short-sprinkle-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Plaid Short",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/plaid-short-sprinkle-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/PlaidShortSPRINKLE_BURNTSIENNA_SPRINKLE_BURNTSIENNA_05.jpg?v=1776281750",
+    "category": "Shorts",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-dylan-plaid-shirt-butter-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Dylan Plaid Shirt",
+    "price": 575,
+    "url": "https://guestinresidence.com/products/dylan-plaid-shirt-butter-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/DylanPlaidShirtBUTTER_CAMEL_BUTTER_CAMEL_05.jpg?v=1778663767",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-dylan-plaid-shirt-delft-blue-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Dylan Plaid Shirt",
+    "price": 575,
+    "url": "https://guestinresidence.com/products/dylan-plaid-shirt-delft-blue-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/DylanPlaidShirtDELFTBLUE_CREAMBUTTER_DELFTBLUE_CREAMBUTTER_05.jpg?v=1778663768",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-dylan-plaid-shirt-sprinkle-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Dylan Plaid Shirt",
+    "price": 575,
+    "url": "https://guestinresidence.com/products/dylan-plaid-shirt-sprinkle-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/DylanPlaidShirtSPRINKLE_BURNTSIENNA_SPRINKLE_BURNTSIENNA_05.jpg?v=1778663767",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-stealth-cardigan-sage-brush",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Stealth Cardigan",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/rib-stealth-cardigan-sage-brush",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/RibStealthCardiganSAGEBRUSH_SAGEBRUSH_05.jpg?v=1776276538",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-stealth-cardigan-delft-blue",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Stealth Cardigan",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/rib-stealth-cardigan-delft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/RibStealthCardiganDELFTBLUE_DELFTBLUE_05.jpg?v=1778663767",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-stealth-cardigan-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Stealth Cardigan",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/rib-stealth-cardigan-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/RibStealthCardiganBUTTER_BUTTER_05.jpg?v=1776276488",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-breezy-rib-tank-sage-brush",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Breezy Rib Tank",
+    "price": 165,
+    "url": "https://guestinresidence.com/products/breezy-rib-tank-sage-brush",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/BreezyRibTankSAGEBRUSH_SAGEBRUSH_05.jpg?v=1776276413",
+    "category": "Tops",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-breezy-rib-tank-delft-blue",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Breezy Rib Tank",
+    "price": 165,
+    "url": "https://guestinresidence.com/products/breezy-rib-tank-delft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/BreezyRibTankDELFTBLUE_DELFTBLUE_05.jpg?v=1778663767",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-breezy-rib-tank-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Breezy Rib Tank",
+    "price": 165,
+    "url": "https://guestinresidence.com/products/breezy-rib-tank-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/BreezyRibTankBUTTER_BUTTER_05_16b6513b-43b3-494a-8d51-e4659ead736f.jpg?v=1776276325",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-everywear-pant-sage-brush",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Everywear Pant",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/rib-everywear-pant-sage-brush",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/RibEverywearPantSAGEBRUSH_SAGEBRUSH_05.jpg?v=1776276257",
+    "category": "Pants",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-everywear-pant-delft-blue",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Everywear Pant",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/rib-everywear-pant-delft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/RibEverywearPantDELFTBLUE_DELFTBLUE_05.jpg?v=1778663767",
+    "category": "Pants",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-rib-everywear-pant-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Rib Everywear Pant",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/rib-everywear-pant-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/RibEverywearPantBUTTER_BUTTER_05_e8159302-957e-47f4-b754-13d4b7fc940e.jpg?v=1778663767",
+    "category": "Pants",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        58
+      ],
+      [
+        "Linen",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-smocked-shrunken-polo-sprinkle-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Smocked Shrunken Polo",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/smocked-shrunken-polo-sprinkle-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SmockedShrunkenPoloSPRINKLE_BURNTSIENNA_SPRINKLE_BURNTSIENNA_05.jpg?v=1776275444",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-smocked-shrunken-polo-nectar-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Smocked Shrunken Polo",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/smocked-shrunken-polo-nectar-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SmockedShrunkenPoloNECTAR_BUTTER_NECTAR_BUTTER_05.jpg?v=1776275289",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-smocked-shrunken-polo-evoo-butter",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Smocked Shrunken Polo",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/smocked-shrunken-polo-evoo-butter",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SmockedShrunkenPoloEVOO_BUTTER_EVOO_BUTTER_05.jpg?v=1776275265",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-smocked-shrunken-polo-butter-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Smocked Shrunken Polo",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/smocked-shrunken-polo-butter-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/SmockedShrunkenPoloBUTTER_CAMEL_BUTTER_CAMEL_05.jpg?v=1776275027",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-airy-ringer-tee-navy-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Airy Ringer Tee",
+    "price": 245,
+    "url": "https://guestinresidence.com/products/airy-ringer-tee-navy-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/AiryRingerTeeNAVY_CARMINE_NAVY_CARMINE_05.jpg?v=1776274980",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-airy-ringer-tee-sprinkle-camel",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Airy Ringer Tee",
+    "price": 245,
+    "url": "https://guestinresidence.com/products/airy-ringer-tee-sprinkle-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/AiryRingerTeeSPRINKLE_CAMEL_SPRINKLE_CAMEL_05.jpg?v=1776274957",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-airy-ringer-tee-evoo-burnt-sienna",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Airy Ringer Tee",
+    "price": 245,
+    "url": "https://guestinresidence.com/products/airy-ringer-tee-evoo-burnt-sienna",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/AiryRingerTeeEVOO_BURNTSIENNA_EVOO_BURNTSIENNA_05.jpg?v=1776274932",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-airy-ringer-tee-cream-carmine",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Airy Ringer Tee",
+    "price": 245,
+    "url": "https://guestinresidence.com/products/airy-ringer-tee-cream-carmine",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/AiryRingerTeeCREAM_CARMINE_CREAM_CARMINE_05.jpg?v=1776274905",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-fine-stripe-tank-sprinkle-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Fine Stripe Tank",
+    "price": 225,
+    "url": "https://guestinresidence.com/products/fine-stripe-tank-sprinkle-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FineStripeTankSPRINKLECOMBO_SPRINKLECOMBO_05.jpg?v=1778665087",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-fine-stripe-tank-evoo-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Fine Stripe Tank",
+    "price": 225,
+    "url": "https://guestinresidence.com/products/fine-stripe-tank-evoo-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FineStripeTankEVOOCOMBO_EVOOCOMBO_05.jpg?v=1778665086",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-fine-stripe-tank-butter-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Fine Stripe Tank",
+    "price": 225,
+    "url": "https://guestinresidence.com/products/fine-stripe-tank-butter-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FineStripeTankBUTTERCOMBO_BUTTERCOMBO_05.jpg?v=1778665087",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-fine-stripe-showtime-shirt-sprinkle-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Fine Stripe Showtime Shirt",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/fine-stripe-showtime-shirt-sprinkle-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FineStripeShowtimeShirtSPRINKLECOMBO_SPRINKLECOMBO_05.jpg?v=1778665087",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-fine-stripe-showtime-shirt-evoo-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Fine Stripe Showtime Shirt",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/fine-stripe-showtime-shirt-evoo-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FineStripeShowtimeShirtEVOOCOMBO_EVOOCOMBO_05.jpg?v=1778665087",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-fine-stripe-showtime-shirt-butter-combo",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Fine Stripe Showtime Shirt",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/fine-stripe-showtime-shirt-butter-combo",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/FineStripeShowtimeShirtBUTTERCOMBO_BUTTERCOMBO_05.jpg?v=1778665087",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-collegiate-stripe-polo-french-blue-combo-2",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Collegiate Stripe Polo",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/collegiate-stripe-polo-french-blue-combo-2",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CollegiateStripePoloSTONECOMBO_STONECOMBO_05.jpg?v=1776372374",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-airy-true-crew-stone",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Airy True Crew",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/airy-true-crew-stone",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/AIRYTRUECREW_STONE_031.jpg?v=1749054116",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-louis-jacket-heather-grey",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Louis Jacket",
+    "price": 695,
+    "url": "https://guestinresidence.com/products/louis-jacket-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CopyofLOUISJACKET_HEATHERGREY_05.jpg?v=1769113669",
+    "category": "Outerwear",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-airy-polo-midnight-4",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Airy Polo",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/airy-polo-midnight-4",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/AiryPolo_STONE_STONE_05_8cb4ee35-fb42-44e8-96a7-5f199b200cad.jpg?v=1769113906",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-airy-polo-midnight-3",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Airy Polo",
+    "price": 445,
+    "url": "https://guestinresidence.com/products/airy-polo-midnight-3",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/AiryPolo_BLACK_BLACK_05.jpg?v=1769113937",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-airy-true-crew-powder-pink-1",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Airy True Crew",
+    "price": 395,
+    "url": "https://guestinresidence.com/products/airy-true-crew-powder-pink-1",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/AiryTrueCrew_BLACK_BLACK_05.jpg?v=1769463267",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tailored-skirt-burnt-cocoa",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tailored Skirt",
+    "price": 595,
+    "url": "https://guestinresidence.com/products/tailored-skirt-burnt-cocoa",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/W30910IM_Chocolate_1.jpg?v=1752775208",
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-the-cardigan-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "The Cardigan",
+    "price": 645,
+    "url": "https://guestinresidence.com/products/the-cardigan-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TheCardigan_CREAM_05.jpg?v=1750282088",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-frankie-jacket-charcoal-oatmeal",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Frankie Jacket",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/grizzly-frankie-jacket-charcoal-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CopyofGRIZZLYFRANKIEJACKET_CHARCOAL_OATMEAL_05.jpg?v=1760460549",
+    "category": "Outerwear",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-grizzly-frankie-jacket-black-oatmeal",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Grizzly Frankie Jacket",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/grizzly-frankie-jacket-black-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CopyofGRIZZLYFRANKIEJACKET_BLACK_OATMEAL_05.jpg?v=1760460665",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-industry-jacket-charcoal-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Industry Jacket",
+    "price": 895,
+    "url": "https://guestinresidence.com/products/industry-jacket-charcoal-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CopyofINDUSTRYJACKET_CHARCOAL_BLACK_05.jpg?v=1760463683",
+    "category": "Outerwear",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-allday-polo-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Allday Polo",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/allday-polo-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ALLDAYPOLOINCASHMERE_BLACK_05.jpg?v=1754598474",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-ls-shrunken-polo-in-cashmere-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Ls Shrunken Polo",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/ls-shrunken-polo-in-cashmere-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/LsShrunkenPolo_CREAM_05.jpg?v=1750276461",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-ls-shrunken-polo-in-cashmere-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Ls Shrunken Polo",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/ls-shrunken-polo-in-cashmere-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/LsShrunkenPolo_BLACK_05.jpg?v=1750276379",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-oversized-crew-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Oversized Crew",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/oversized-crew-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/OversizedCrew_CREAM_05.jpg?v=1750277006",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-elle-shirt-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Elle Shirt",
+    "price": 365,
+    "url": "https://guestinresidence.com/products/elle-shirt-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ELLESHIRT_MIDNIGHT_05.jpg?v=1750274930",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-stealth-cardigan-heather-grey",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Stealth Cardigan",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/stealth-cardigan-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/StealthCardigan_HEATHERGREY_05.jpg?v=1750280920",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-everywear-pant-heather-grey",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Everywear Pant",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/everywear-pant-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Everywearpant_HEATHERGREY_05.jpg?v=1750276109",
+    "category": "Pants",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-ls-shrunken-polo-in-cashmere-heather-grey",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Ls Shrunken Polo",
+    "price": 345,
+    "url": "https://guestinresidence.com/products/ls-shrunken-polo-in-cashmere-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/LsShrunkenPolo_HEATHERGREY_05.jpg?v=1750276579",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cozy-crew-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cozy Crew",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/cozy-crew-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CozyCrew_MIDNIGHT_05.jpg?v=1750274347",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-allday-crew-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Allday Crew",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/allday-crew-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/AlldayCrew_MIDNIGHT_05_1.jpg?v=1750272696",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-allday-crew-heather-grey",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Allday Crew",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/allday-crew-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/AlldayCrew_HEATHERGREY_05_1.jpg?v=1750305346",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-polo-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Polo",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-polo-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenPolo_CREAM_05.jpg?v=1781883514",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-crew-in-cashmere-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Crew",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-crew-in-cashmere-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenCrew_MIDNIGHT_05.jpg?v=1750279760",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-crew-in-cashmere-heather-grey",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Crew",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-crew-in-cashmere-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenCrew_HEATHERGREY_05.jpg?v=1750279625",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-crew-in-cashmere-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Crew",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-crew-in-cashmere-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenCrew_CREAM_05.jpg?v=1750279493",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-crew-in-cashmere-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Crew",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-crew-in-cashmere-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenCrew_BLACK_05.jpg?v=1750279405",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-crew-in-cashmere-almond",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Crew",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-crew-in-cashmere-almond",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenCrew_ALMOND_05.jpg?v=1750279325",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-the-cardigan-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "The Cardigan",
+    "price": 645,
+    "url": "https://guestinresidence.com/products/the-cardigan-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TheCardigan_BLACK_05.jpg?v=1750281754",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cozy-crew-heather-grey",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cozy Crew",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/cozy-crew-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CozyCrew_HEATHERGREY_05.jpg?v=1750274269",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cozy-crew-almond",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cozy Crew",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/cozy-crew-almond",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CozyCrew_ALMOND_05.jpg?v=1750273953",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-oversized-crew-heather-grey",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Oversized Crew",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/oversized-crew-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/OversizedCrew_HEATHERGREY_05.jpg?v=1750277130",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-oversized-crew-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Oversized Crew",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/oversized-crew-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/OversizedCrew_MIDNIGHT_05.jpg?v=1750277305",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cozy-crew-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cozy Crew",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/cozy-crew-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CozyCrew_CREAM_05.jpg?v=1750274177",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-cozy-crew-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Cozy Crew",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/cozy-crew-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/CozyCrew_BLACK_05.jpg?v=1750274054",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tailored-vest-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tailored Vest",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/tailored-vest-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TailoredVest_CREAM_05.jpg?v=1750281269",
+    "category": "Tailoring",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tailored-vest-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tailored Vest",
+    "price": 425,
+    "url": "https://guestinresidence.com/products/tailored-vest-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/TailoredVest_BLACK_05.jpg?v=1750281180",
+    "category": "Tailoring",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tailored-trouser-cream",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tailored Trouser",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/tailored-trouser-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Tailored_Trouser_CREAM_CREAM_05.jpg?v=1785856343",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-tailored-trouser-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Tailored Trouser",
+    "price": 745,
+    "url": "https://guestinresidence.com/products/tailored-trouser-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/Tailored_Trouser_BLACK_BLACK_05.jpg?v=1785856343",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-polo-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Polo",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-polo-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenPolo_BLACK_05.jpg?v=1750279933",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-everywear-pant-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Everywear Pant",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/everywear-pant-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/EverywearPant_BLACK_05.jpg?v=1750275929",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-everywear-pant-almond",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Everywear Pant",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/everywear-pant-almond",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/EverywearPant_ALMOND_05.jpg?v=1750275849",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-everywear-cardigan-almond",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Everywear Cardigan",
+    "price": 495,
+    "url": "https://guestinresidence.com/products/everywear-cardigan-almond",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/EverywearCardigan_ALMOND_05.jpg?v=1750275410",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-polo-almond",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Polo",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-polo-almond",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenPolo_ALMOND_05.jpg?v=1750279844",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-stealth-cardigan-black",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Stealth Cardigan",
+    "price": 325,
+    "url": "https://guestinresidence.com/products/stealth-cardigan-black",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/StealthCardigan_BLACK_05.jpg?v=1750280670",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-shrunken-polo-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Shrunken Polo",
+    "price": 295,
+    "url": "https://guestinresidence.com/products/shrunken-polo-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/ShrunkenPolo_MIDNIGHT_05_1.jpg?v=1750280137",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "guest-in-residence-everywear-pant-midnight",
+    "retailer": "Guest In Residence",
+    "brand": "Guest In Residence",
+    "name": "Everywear Pant",
+    "price": 545,
+    "url": "https://guestinresidence.com/products/everywear-pant-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0641/5613/9760/files/EverywearPant_MIDNIGHT_05.jpg?v=1750276193",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  }
+]

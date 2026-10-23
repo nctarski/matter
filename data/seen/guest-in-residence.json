@@ -30,5 +30,1775 @@
  "guestinresidence.com/products/stealth-cardigan-reservoir": {
   "outcome": "catalog",
   "date": "2026-10-22"
+ },
+ "guestinresidence.com/products/stealth-cardigan-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/everywear-pant-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/super-cloud-t-neck-sprinkle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/super-cloud-t-neck-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/super-cloud-t-neck-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/felted-zip-jacket-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/felted-zip-jacket-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/felted-bomber-jacket-burnt-cocoa": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/felted-barrel-pant-charcoal": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/felted-crew-charcoal": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tartan-wrap-skirt-sprinkle-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tartan-wrap-skirt-reservoir-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tartan-wrap-skirt-butter-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-stripe-pant-midnight-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-stripe-pant-butter-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-stripe-crew-butter-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-sculpted-cardigan-sprinkle-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-sculpted-cardigan-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-sculpted-cardigan-charcoal": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-cropped-rugby-sprinkle-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-cropped-rugby-reservoir-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-cowhide-jacket-cream-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-wrangler-vest-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-wrangler-vest-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/flight-suit-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/flight-suit-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/dylan-plaid-shirt-reservoir-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/dylan-plaid-shirt-highland-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/dylan-plaid-shirt-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/jane-checker-cardigan-sprinkle-burnt-sienna-3": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/jane-checker-cardigan-reservoir-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/l-s-shrunken-waffle-polo-reservoir": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/l-s-shrunken-waffle-polo-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/l-s-shrunken-waffle-polo-burnt-cocoa": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-waffle-polo-carmine-burnt-cocoa": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-frankie-jacket-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-frankie-jacket-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-frankie-jacket-burnt-cocoa": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/a30010rm-3": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/a30010rm-2": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/a30010rm-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/a30010rm": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/fisherman-henley-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-double-v-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-checker-crew-heather-grey-sprinkle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-checker-crew-carmine-burnt-cocoa": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-stripe-crew-midnight-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/gingham-polo-dress-scarlet-mist": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/weekender-jean-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/weekender-jean-burnt-cocoa": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/weekender-jean-summerland": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/workday-jean-carmine": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/workday-jean-rust-flock": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/workday-jean-paris": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/workday-jean-pacific": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/weekender-jean-pacific": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/weekender-jean-paris": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/traveler-jean-summerland": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/traveler-jean-pacific": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/everyday-jean-aspen": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/everyday-jean-summerland": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/everyday-jean-pacific": {
+  "outcome": "fiber",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/allday-crew-in-linen-blend-sandstone": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/allday-crew-in-linen-blend-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-wild-rag-black-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/half-zip-turtleneck-in-cashmere-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/half-zip-turtleneck-in-cashmere-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/half-zip-turtleneck-in-cashmere-black": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/half-zip-turtleneck-in-cashmere-delft-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-fringe-jacket-burnt-cocoa-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-fringe-jacket": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/w10210cs-2": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/w10210cs-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/w10210cs": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/w10110cs-2": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/w10010cs-2": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-baseball-cap-carmine-burnt-cocoa": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/cozy-cardigan-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cozy-cardigan-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rodeo-cardigan-butter-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cozy-crew-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cozy-crew-highland": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/oversized-crew-canopy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/oversized-crew-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/oversized-crew-delft-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-cropped-rugby-highland-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-cropped-rugby-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/jane-checker-cardigan-burnt-sienna-sprinkle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/jane-checker-cardigan-burnt-cocoa-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-waffle-polo-burnt-sienna-sandstone": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-checker-soft-sock-reservoir-combo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-checker-soft-sock-butter-combo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-checker-soft-sock-burnt-cocoa-combo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-baseball-cap-camel-butter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-baseball-cap-burnt-cocoa-burnt-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/bandana-bowtie-scarf-midnight-butter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/bandana-bowtie-scarf-highland-burnt-cocoa": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/bandana-bowtie-scarf-carmine-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/argyle-bowtie-scarf-midnight-combo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/argyle-bowtie-scarf-cream-combo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/argyle-bowtie-scarf-carmine-combo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/grizzly-cowhide-wild-rag-oatmeal-burnt-cocoa": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/grizzly-cowhide-wild-rag-cream-burnt-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/grizzly-cowhide-hat-oatmeal-burnt-cocoa": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/grizzly-cowhide-hat-cream-burnt-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/tartan-mini-skirt-sprinkle-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tartan-mini-skirt-highland-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tartan-mini-skirt-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-fringe-jacket-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-fringe-jacket-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cable-mini-skirt-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cable-mini-skirt-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cable-mini-skirt-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cable-sculpted-cardigan-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cable-sculpted-cardigan-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cable-sculpted-cardigan-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/saddle-up-jacket-fig-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/saddle-up-jacket-butter-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-double-v-highland": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-double-v-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cropped-western-shirt-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cropped-western-shirt-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cropped-western-shirt-burnt-cocoa": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/industry-mini-dress-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/industry-mini-dress-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/industry-mini-dress-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/marquise-pant-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/marquise-pant-burnt-cocoa-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/dylan-marquise-shirt-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/dylan-marquise-shirt-burnt-cocoa-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tailored-crew-vest-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/track-polo-highland-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/track-polo-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-checker-crew-butter-almond": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/handloom-cardigan-sandstone-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/handloom-cardigan-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/collegiate-stripe-polo-highland-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/collegiate-stripe-polo-fig-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/collegiate-stripe-polo-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-ringer-tee-highland-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-ringer-tee-carmine-charcoal-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-ringer-tee-butter-delft-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tartan-industry-jacket-highland-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tartan-industry-jacket-camel-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-allday-crew-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-allday-crew-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tartan-bomber-canopy-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tartan-bomber-camel-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tartan-bomber-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-industry-jacket-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-industry-jacket-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-industry-jacket-canopy-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/wild-rag-work-shirt-sole": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/wild-rag-work-shirt-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/wild-rag-work-shirt-canopy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/wild-rag-work-shirt-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-work-shirt-heather-grey-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-work-shirt-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-work-shirt-canopy-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-work-shirt-camel-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-work-shirt-carmine-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/stripe-crew-midnight-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/stripe-crew-fig-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/stripe-crew-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/argyle-plaza-shirt-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/argyle-plaza-shirt-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/checker-allday-polo-midnight-delft-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/checker-allday-polo-carmine-burnt-cocoa": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/color-block-rugby-midnight-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/color-block-rugby-canopy-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/color-block-rugby-burnt-cocoa-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/baja-everywear-cardigan-midnight-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/baja-everywear-cardigan-fig-combo-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/felted-louis-jacket-midnight": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/felted-louis-jacket-camel": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/felted-louis-jacket-charcoal": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/felted-plaza-shirt-camel": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/felted-plaza-shirt-charcoal": {
+  "outcome": "no-composition",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/western-button-up-shirt-camel-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-button-up-shirt-carmine-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-button-up-shirt-butter-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/western-button-up-shirt-black-fig": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rodeo-cardigan-camel-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-cuff-beanie-carmine": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/rib-cuff-beanie-reservoir": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/rib-cuff-beanie-sprinkle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/rib-cuff-beanie-highland": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/tailored-trouser-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-wild-rag-fig-camel": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-wild-rag-carmine-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-wild-rag-highland-burnt-cocoa": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-wild-rag-sprinkle-midnight": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-wild-rag-midnight-butter-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-wild-rag-midnight-butter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/everywear-cardigan-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/everywear-cardigan-sprinkle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/everywear-cardigan-sage-brush": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/collegiate-stripe-polo-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/collegiate-stripe-polo-sandstone-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-airy-v-butter-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-airy-v-camel-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-airy-v-delft-blue-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/smocked-l-s-shrunken-polo-butter-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/smocked-l-s-shrunken-polo-delft-blue-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/smocked-l-s-shrunken-polo-sprinkle-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/sunwash-cozy-crew-sage-brush": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/sunwash-cozy-crew-delft-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/sunwash-cozy-crew-sprinkle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/sunwash-shrunken-crew-delft-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/sunwash-shrunken-crew-sprinkle": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/baseball-oversized-crew-butter-navy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/baseball-oversized-crew-cream-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/baseball-oversized-crew-sage-brush-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/baseball-oversized-crew-sprinkle-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pebble-stripe-shrunken-crew-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pebble-stripe-shrunken-crew-sandstone-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/waffle-work-pant-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/waffle-work-pant-delft-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/waffle-work-pant-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/waffle-jacket-cream-sandstone": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/waffle-jacket-delft-blue-sandstone": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/waffle-jacket-black-sandstone": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-elle-shirt-delft-blue-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-elle-shirt-burnt-sienna-sandstone": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-mini-skirt-delft-blue-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-mini-skirt-burnt-sienna-sandstone": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/track-polo-sprinkle-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/track-polo-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pinstripe-work-shirt-camel-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pinstripe-work-shirt-sage-brush-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pinstripe-work-shirt-navy-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pinstripe-carpenter-pant-camel-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pinstripe-carpenter-pant-sage-brush-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pinstripe-carpenter-pant-navy-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/windbreaker-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/windbreaker-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/windbreaker-navy": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-wild-rag-carmine-butter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-wild-rag-navy-camel": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-wild-rag-sage-brush-burnt-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/cable-mock-neck-top-sage-brush": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cable-mock-neck-top-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/open-stripe-crew-sage-brush": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/open-stripe-crew-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/track-polo-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/collegiate-stripe-polo-sprinkle-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pebble-stripe-jane-cardigan-evoo-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pebble-stripe-jane-cardigan-sage-brush-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pebble-stripe-jane-cardigan-butter-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/layer-tee-sprinkle-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/layer-tee-cream-sage-brush": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/short-sleeve-stripe-rugby-nectar-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/short-sleeve-stripe-rugby-evoo-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/short-sleeve-stripe-rugby-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/palazzo-dress-burnt-sienna-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/palazzo-dress-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/palazzo-dress-nectar-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/palazzo-pant-burnt-sienna-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/palazzo-pant-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/palazzo-pant-nectar-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/palazzo-top-burnt-sienna-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/palazzo-top-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/palazzo-top-nectar-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaited-rib-dress-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaited-rib-dress-sandstone-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaited-rib-tank-delft-blue-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaited-rib-tank-sandstone-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-short-butter-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-short-delft-blue-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/plaid-short-sprinkle-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/dylan-plaid-shirt-butter-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/dylan-plaid-shirt-delft-blue-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/dylan-plaid-shirt-sprinkle-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-stealth-cardigan-sage-brush": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-stealth-cardigan-delft-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-stealth-cardigan-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/breezy-rib-tank-sage-brush": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/breezy-rib-tank-delft-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/breezy-rib-tank-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-everywear-pant-sage-brush": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-everywear-pant-delft-blue": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-everywear-pant-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/smocked-shrunken-polo-sprinkle-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/smocked-shrunken-polo-nectar-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/smocked-shrunken-polo-evoo-butter": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/smocked-shrunken-polo-butter-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/airy-ringer-tee-navy-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/airy-ringer-tee-sprinkle-camel": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/airy-ringer-tee-evoo-burnt-sienna": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/airy-ringer-tee-cream-carmine": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/fine-stripe-tank-sprinkle-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/fine-stripe-tank-evoo-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/fine-stripe-tank-butter-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/fine-stripe-showtime-shirt-sprinkle-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/fine-stripe-showtime-shirt-evoo-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/fine-stripe-showtime-shirt-butter-combo": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/collegiate-stripe-polo-french-blue-combo-2": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/airy-true-crew-stone": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/louis-jacket-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/airy-polo-midnight-4": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/airy-polo-midnight-3": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/airy-true-crew-powder-pink-1": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/allday-crew-cream": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/tailored-skirt-burnt-cocoa": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-blanket-scarf-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-blanket-scarf-cream": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-blanket-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-cardigan-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-big-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-big-scarf-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/gift-wrapping-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-blanket-scarf-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/the-big-scarf-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/grizzly-frankie-jacket-charcoal-oatmeal": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/grizzly-frankie-jacket-black-oatmeal": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-cuff-beanie-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/industry-jacket-charcoal-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/rib-cuff-beanie-in-cashmere-chestnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/allday-polo-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/pullover-hoodie-in-cashmere-black": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/rib-cuff-beanie-in-cashmere-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/ls-shrunken-polo-in-cashmere-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/ls-shrunken-polo-in-cashmere-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/allday-polo-in-cashmere-heather-grey": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/oversized-crew-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/elle-shirt-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/airy-true-crew-heather-grey": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/stealth-cardigan-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/everywear-pant-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/ls-shrunken-polo-in-cashmere-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cozy-crew-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/allday-crew-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/allday-crew-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/allday-crew-black": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/oversized-crew-black": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/shrunken-polo-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cable-blanket-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/shrunken-crew-in-cashmere-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-crew-in-cashmere-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-crew-in-cashmere-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-crew-in-cashmere-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-crew-in-cashmere-almond": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-cardigan-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cozy-crew-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cozy-crew-almond": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/oversized-crew-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/oversized-crew-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/the-cardigan-midnight": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/cozy-crew-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cozy-crew-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tailored-vest-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tailored-vest-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tailored-trouser-cream": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/tailored-trouser-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-polo-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/everywear-pant-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/everywear-pant-almond": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/everywear-cardigan-black": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/everywear-cardigan-almond": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/oversized-crew-almond": {
+  "outcome": "not-womens",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/narvardeliveryprotection": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/gift-card-3": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/shrunken-polo-almond": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/cable-blanket-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/cable-blanket-cream": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/cable-blanket-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "guestinresidence.com/products/stealth-cardigan-black": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/shrunken-polo-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
+ },
+ "guestinresidence.com/products/everywear-pant-midnight": {
+  "outcome": "staged",
+  "date": "2026-10-23",
+  "round": "round-2026-10-23-nightly5.json"
  }
 }
