@@ -222,6 +222,23 @@ status (todo, partial, done), a `cursor` for where a partial sweep stopped
 (category, material filter value, page), `lastSweep` and `lastDelta` dates.
 `sweepComplete` flips to true when every retailer is done.
 
+**Sift brands.** Added 2026-10-23, Natalie's call. Some brands are mostly
+synthetic or viscose but still carry the odd linen shirt or wool coat, and
+finding those is work a shopper will not do themselves. These have `"cadence":
+"sift"` in the queue (Pretty Little Thing, Princess Polly, Naked Wardrobe,
+WeWoreWhat, Retrofete, Atoir, With Jean, H&M, ASOS). Every other retailer is
+`"regular"`. Sift brands differ in three ways:
+- Order. In SWEEP, skip sift brands until no regular brand is todo or partial.
+- Frequency. In DELTA, run a sift brand only when its `lastDelta` is 28 or more
+  days old. Regular brands run every night as before.
+- Method. Never page the whole catalogue. Shortlist by material first: the
+  site's material filter if it has one, otherwise its search or keyword pages
+  for linen, cotton, silk, wool, cashmere, merino, alpaca, mohair, hemp,
+  leather, suede and shearling. Drop names that say "look", "faux", "vegan",
+  "satin" or "effect" without reading them, and record them as `fiber`. Read up
+  to 150 compositions per sift brand per run, then mark it partial with a
+  cursor.
+
 **Each night.**
 1. Read this file, `data/sweep-status.json`, `git status`, and the review page. Query the review page's candidates for status "rejected" or "published" and record those in the ledger (rejected, catalog), so vetoes are never staged again.
    Work on top of whatever is committed.
@@ -238,7 +255,8 @@ status (todo, partial, done), a `cursor` for where a partial sweep stopped
    newest first order (Shopify: all products.json pages, diffing against the
    ledger; listings: sort by Newest and stop paging after a full page of
    products already in the ledger; Massimo Dutti: diff category id lists).
-   Read only products not in the ledger. Set `lastDelta`.
+   Read only products not in the ledger. Set `lastDelta`. Sift brands only every 28
+   days, see Sift brands above.
 4. Budget for one night: stop starting new retailers after about 4 hours of
    work, or after about 400 compositions read, whichever comes first. Finish
    the retailer in progress or mark it partial with a cursor. Never skip a
