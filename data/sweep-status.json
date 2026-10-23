@@ -95,11 +95,11 @@
       "brand": "Sea New York",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": ""
+      "lastSweep": "2026-10-23",
+      "lastDelta": 132,
+      "note": "Sea lists every part of a garment (self, lining, combo, lace, embroidery). Self and every fabric part must pass the fiber rule; any lining is shown as listed. Synthetic embroidery, decoration or bead thread is allowed and shown as a trim note (Natalie, 2026-10-23). 132 staged in round 2026-10-23-nightly9."
     },
     {
       "order": 10,

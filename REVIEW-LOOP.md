@@ -418,3 +418,13 @@ Used by "MATTER publish now" and the Wednesday backstop.
    tell Natalie one click is waiting.
 5. Set every approved doc to `status: "published"` with `publishedAt`, and
    every `pending` doc with a `seenAt` and `skip: true` to `status: "rejected"`.
+
+## Garment parts beyond shell and lining
+
+Some brands (Sea New York first) list every part of a garment: self, lining,
+combo, lace, padding, slip, embroidery. The self fabric and every other fabric
+part (combo, lace, mesh, tulle, padding, slip, rib, collar) must each pass the
+fiber rule on their own. A lining of any fiber is fine and is shown exactly as
+listed. Embroidery, decoration and bead thread may be synthetic: Natalie
+approved staging those on 2026-10-23, with the thread shown in the item's
+`trim` note so shoppers see it (for example "Embroidery 100% polyester").

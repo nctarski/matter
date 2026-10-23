@@ -9083,7 +9083,8 @@
           "available": true
         }
       ]
-    }
+    },
+    "trim": "Combo 70% polyester / 30% wool"
   },
   {
     "id": "sea-new-york-kayla-polo",
@@ -9181,7 +9182,8 @@
           "available": true
         }
       ]
-    }
+    },
+    "trim": "Embroidery 100% polyester"
   },
   {
     "id": "sea-new-york-michaela-coat",
@@ -9239,7 +9241,8 @@
           "available": true
         }
       ]
-    }
+    },
+    "trim": "Collar 100% lambskin"
   },
   {
     "id": "sea-new-york-michaela-wool-cape",
@@ -9322,7 +9325,8 @@
           "available": true
         }
       ]
-    }
+    },
+    "trim": "Feather 100% ostrich feather"
   },
   {
     "id": "st-agni-leather-cinch-jacket",
