@@ -39,6 +39,18 @@ Colour must be a key of `COLOURS` in `lib/fibers.js`. Map the retailer's colour
 name to the nearest swatch (mole brown and brown marl to Chocolate, beige and
 sand to Cream, khaki to Olive, ink or indigo blue to Navy, and so on).
 
+## The brand rule: no words or graphics on tees
+
+Natalie's call on 2026-10-23: MATTER does not carry tees, sweatshirts or tanks
+with words, slogans, logos, university or city names, team or varsity lettering,
+or pictorial graphics on them. Plain, striped, ringer, tonal and colour-blocked
+pieces are fine, and so is a small tonal or tag-level logo. When staging, look at
+the product photo for any tee, sweatshirt, hoodie or tank, and record the ones
+that carry words or graphics in the ledger as `rejected` instead of staging them.
+Names such as Collegiate, University, Los Angeles, Stencil, Letterman, Sport
+Club, New Era and any brand wordmark are the usual signal, and the photo is the
+final word.
+
 ## Retailers, and what works
 
 Use Claude in Chrome on Natalie's Mac. Pace requests. Several retailers block

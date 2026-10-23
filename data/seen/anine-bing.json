@@ -1,7 +1,7 @@
 {
  "aninebing.com/products/cade-tee-sport-club-washed-black": {
-  "outcome": "catalog",
-  "date": "2026-10-22"
+  "outcome": "rejected",
+  "date": "2026-10-23"
  },
  "aninebing.com/products/jamila-top-black": {
   "outcome": "catalog",
@@ -2162,6 +2162,10 @@
  },
  "aninebing.com/products/gift-card": {
   "outcome": "out-of-scope",
+  "date": "2026-10-23"
+ },
+ "www.aninebing.com/products/cade-tee-new-era-of-me-white": {
+  "outcome": "rejected",
   "date": "2026-10-23"
  }
 }

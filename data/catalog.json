@@ -2174,51 +2174,6 @@
     ]
   },
   {
-    "id": "anine-bing-cade-tee-sport-club-washed-black",
-    "retailer": "Anine Bing",
-    "brand": "Anine Bing",
-    "name": "Cade Tee Sport Club - Washed Black",
-    "price": 120,
-    "url": "https://aninebing.com/products/cade-tee-sport-club-washed-black",
-    "image": "https://cdn.shopify.com/s/files/1/0150/1528/files/AB-CADE_TEE_SPORT_CLUB_-_WASHED_BLACK_A-23-13093-WBL1_1634.jpg?width=600",
-    "category": "Tops",
-    "colour": "Black",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "XS",
-          "available": true
-        },
-        {
-          "size": "S",
-          "available": true
-        },
-        {
-          "size": "M",
-          "available": true
-        },
-        {
-          "size": "L",
-          "available": true
-        },
-        {
-          "size": "XL",
-          "available": false
-        }
-      ]
-    }
-  },
-  {
     "id": "anine-bing-jamila-top",
     "retailer": "Anine Bing",
     "brand": "Anine Bing",
@@ -4862,59 +4817,6 @@
         },
         {
           "size": "S",
-          "available": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "lisa-says-gah-alex-tee",
-    "retailer": "Lisa Says Gah",
-    "brand": "Lisa Says Gah",
-    "name": "Alex Tee",
-    "price": 78,
-    "url": "https://lisasaysgah.com/products/lsg0114-g-24",
-    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_alex_tee_horses_1.jpg?width=600",
-    "category": "Tops",
-    "colour": "Black",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "XS",
-          "available": true
-        },
-        {
-          "size": "S",
-          "available": true
-        },
-        {
-          "size": "M",
-          "available": false
-        },
-        {
-          "size": "L",
-          "available": true
-        },
-        {
-          "size": "XL",
-          "available": true
-        },
-        {
-          "size": "2XL",
-          "available": true
-        },
-        {
-          "size": "3XL",
           "available": true
         }
       ]
@@ -8782,26 +8684,6 @@
     }
   },
   {
-    "id": "revolve-adanola-core-oversized-sweatshirt",
-    "retailer": "Revolve",
-    "brand": "Adanola",
-    "name": "Core oversized sweatshirt",
-    "price": 95,
-    "url": "https://www.revolve.com/adanola-core-oversized-sweatshirt-in-denim-blue/dp/ANOL-WK9/",
-    "image": "https://is4.revolveassets.com/images/p4/n/z/ANOL-WK9_V1.jpg",
-    "category": "Sweaters",
-    "colour": "Blue",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "revolve-amir-taghi-jaime-sweater",
     "retailer": "Revolve",
     "brand": "Amir Taghi",
@@ -8822,26 +8704,6 @@
       ]
     ],
     "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "revolve-anine-bing-harvey-sweatshirt",
-    "retailer": "Revolve",
-    "brand": "ANINE BING",
-    "name": "Harvey sweatshirt",
-    "price": 220,
-    "url": "https://www.revolve.com/anine-bing-harvey-sweatshirt-in-grey/dp/ANIN-WK271/",
-    "image": "https://is4.revolveassets.com/images/p4/n/z/ANIN-WK271_V1.jpg",
-    "category": "Sweaters",
-    "colour": "Grey",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": "undisclosed",
     "isNew": false,
     "tags": []
   },
@@ -26318,26 +26180,6 @@
     ],
     "lining": null,
     "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "anine-bing-cade-tee-new-era-of-me-white",
-    "retailer": "Anine Bing",
-    "brand": "Anine Bing",
-    "name": "Cade Tee New Era Of Me",
-    "price": 120,
-    "url": "https://www.aninebing.com/products/cade-tee-new-era-of-me-white",
-    "image": "https://cdn.shopify.com/s/files/1/0150/1528/files/AB-CADE_TEE_NEW_ERA_OF_ME_-_WHITE_A-08-12856-WTI1_0373_copy.jpg?v=1790186908",
-    "category": "Tops",
-    "colour": "White",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": true,
     "tags": []
   },
   {
