@@ -4,7 +4,7 @@ import {
   COLOURS, DARK_COLOURS, LINING_UNDISCLOSED,
   cellulosicPct, formatComposition, formatPrice,
 } from '@/lib/fibers';
-import { licensedImage } from '@/lib/catalog';
+import { availableSizes, isSoldOut, licensedImage } from '@/lib/catalog';
 import { SITE } from '@/lib/site';
 import { useHearts } from './HeartsProvider';
 
@@ -19,6 +19,8 @@ export default function ProductCard({ item, note }) {
   const on = hearts.includes(item.id);
   const dark = DARK_COLOURS.includes(item.colour);
   const cellulosic = cellulosicPct(item.shell);
+  const soldOut = isSoldOut(item);
+  const sizes = availableSizes(item);
 
   // Until you are approved and have real links, the card does not pretend to
   // be clickable. Fill item.url in the catalog and it becomes an outbound link.
@@ -44,7 +46,11 @@ export default function ProductCard({ item, note }) {
         {item.url
           ? <a className="shotlink" href={item.url} target="_blank" rel="nofollow sponsored noopener">{Shot}</a>
           : Shot}
-        {item.isNew && <span className="tagnew">New</span>}
+        {/* Sold out takes the corner the New tag uses. A piece that has just
+            sold out is not news a shopper can act on. */}
+        {soldOut
+          ? <span className="tagnew tagsold">Sold out</span>
+          : item.isNew && <span className="tagnew">New</span>}
         <button
           type="button"
           className="heart"
@@ -66,6 +72,9 @@ export default function ProductCard({ item, note }) {
           <h3 className="name">{item.name}</h3>
         )}
         <span className="price">{formatPrice(item.price)}</span>
+        {/* Only what the retailer says it has, in its own size order. No stock
+            data, no line, rather than a guess. */}
+        {sizes && sizes.length > 0 && <span className="sizes">In stock: {sizes.join(', ')}</span>}
         {note && <p className="ednote">{note}</p>}
         <span className="comp">
           {formatComposition(item.shell)}

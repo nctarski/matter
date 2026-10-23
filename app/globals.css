@@ -281,6 +281,8 @@ select {
   position: absolute; top: 9px; left: 9px; background: var(--ivory); color: var(--charcoal);
   font-size: 9px; letter-spacing: .16em; text-transform: uppercase; padding: 3px 7px;
 }
+/* Same tag, quieter ink, so it reads as a status rather than a promotion. */
+.tagsold { color: var(--muted); }
 .heart {
   position: absolute; top: 7px; right: 7px; width: 30px; height: 30px; border: 0;
   background: none; cursor: pointer; display: grid; place-items: center;
@@ -298,6 +300,7 @@ select {
 .brand { font-size: 10px; letter-spacing: .17em; text-transform: uppercase; color: var(--faint); }
 .name { font-family: var(--ui); font-weight: 400; font-size: 14px; line-height: 1.4; }
 .price { font-size: 13px; font-variant-numeric: tabular-nums; margin-top: 2px; }
+.sizes { font-size: 11px; color: var(--faint); margin-top: 1px; }
 .comp {
   font-size: 12px; color: var(--charcoal); margin-top: 7px; padding-top: 7px;
   border-top: 1px solid var(--hairline);

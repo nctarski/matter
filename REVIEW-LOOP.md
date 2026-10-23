@@ -254,6 +254,100 @@ no longer apply.
    `seenAt`.
 6. Tell Natalie how many new pieces are waiting.
 
+## Stock check, step by step
+
+Added October 23, 2026. Keeps the site honest about what can still be bought.
+Every live piece is checked; only a clear answer from the retailer changes
+anything.
+
+**What the catalog stores.**
+- `stock`: `{ "checkedAt": "YYYY-MM-DD", "sizes": [{ "size": "S", "available": true }, ...] }`,
+  sizes in the retailer's own order.
+- `soldOutSince`: `"YYYY-MM-DD"`, present only while no size is available. Set
+  on the first sold out check, kept on later ones, removed as soon as any size
+  is back.
+- On the site: a sold out piece shows a "Sold out" tag on the photo (the "New"
+  tag's style) and sorts after every in stock piece inside the shopper's sort,
+  below the photographed-first rule. Sold out for more than 14 days, it is
+  hidden by `lib/catalog.js` but stays in `catalog.json`. Cards with stock
+  data show "In stock: XS, S, M" under the price.
+
+**Methods** (all in `scripts/stock-check.browser.js`):
+- Shopify stores (the Shopify retailers above that are in the catalog, plus
+  Another Tomorrow and Hanro at shop.hanrousa.com): the store must answer
+  `products.json?limit=1` first. Then `https://<host>/products/<handle>.js`.
+  Sizes come from the option named Size (or the only option; no size option
+  means "One size"), and a size is available when any variant in it has
+  `available: true`. A 404 means sold out. If the `.js` request fails, the
+  full `products.json` is paged: present means read its variants, missing
+  from a complete listing means sold out.
+- Massimo Dutti: the catalog has the product page URL (`...-l05608565`, the
+  8 digit reference) and the image path, whose 11 digit code is reference
+  plus 3 digit colour (`05608565420` is colour `420`). The product page HTML
+  carries `"iProductId":61854977` near the top (fetched with cookies, from a
+  massimodutti.com tab; without cookies it returns a short bot page). Then
+  `productsArray`, 20 ids per call. Fields used, checked on 2026-10-23:
+  `detail.reference` must start with the reference; the colour is
+  `detail.colors[]` with `id` equal to the colour code; its `sizes[]` give
+  `name`, `position`, `isBuyable` and `visibilityValue`. Available means
+  `visibilityValue: "SHOW"` and `isBuyable: true`. `"SOLD_OUT"` and
+  `"COMING_SOON"` mean not available. Any other value fails the piece. Spot
+  checks against `/itxrest/2/catalog/store/34009527/30359506/product/<id>/stock`
+  matched: SOLD_OUT sizes are `out_of_stock` there. `backSoon` was `"0"`
+  everywhere and is not used. A colour no longer in `colors[]` is an error,
+  not sold out.
+- Every other retailer (Revolve, Vince, Falconeri, Net-a-Porter, FWRD, Pact,
+  Pansy and the rest): not checked, left unchanged.
+
+**Pacing and safety.** At most 4 requests in flight, one at a time per store,
+300 ms pause after each. A store stops at its first 403 or 429, or after 3
+network failures in a row (a 429 without CORS headers shows up only as
+"Failed to fetch"; White + Warren did this after about 130 fast requests on
+the first run). Timeouts, network errors and answers that do not parse go in
+`errors` and never change stock.
+
+**Steps.**
+1. In Chrome on Natalie's Mac, open any `https://www.massimodutti.com/us/`
+   page.
+2. Paste the whole of `scripts/stock-check.browser.js` into the page with the
+   JavaScript tool. Load the live pieces and start the run in the background:
+   ```js
+   const cat = await fetch('https://raw.githubusercontent.com/nctarski/matter/<HEAD sha>/data/catalog.json').then(r => r.json());
+   window.matterPieces = cat
+     .filter(i => i.url && typeof i.price === 'number' && i.price > 0 && i.colour)
+     .map(i => ({ id: i.id, retailer: i.retailer, url: i.url, image: i.image }));
+   window.matterStockRun = matterStockCheck(matterPieces);
+   ```
+   Use the commit sha that matches local `git log -1` (pushed), so the list is
+   the catalog on disk. Include sold out pieces that are hidden: they are still
+   in the list above, which is how a restock is noticed.
+3. Poll `matterStockCheck.progress` until `finished` is true (about 10
+   minutes for 500 pieces). Read `matterStockCheck.last.counts`, `.blocked`
+   and the errors grouped by reason.
+4. The results file lands in Downloads as `matter-stock-<date>.json`
+   (standing approval for MATTER runs to save to Downloads). Chrome lets a
+   site save only one file automatically and silently drops the next, so a
+   rerun needs a tab on a site that has not downloaded yet: a Shopify brand's
+   homepage works for Shopify pieces (Massimo Dutti pieces only work from a
+   massimodutti.com tab). Chrome names later files
+   `matter-stock-<date> (1).json` and so on.
+   If a store blocked or errored, wait a few minutes and rerun only the pieces
+   that still have no answer. White + Warren (215 pieces) stops answering
+   after roughly 130 to 145 requests in a few minutes whatever the pace, so it
+   always takes two or three passes.
+5. Apply each file in the order it was made:
+   `node scripts/apply-stock.mjs ~/Downloads/matter-stock-<date>.json`
+6. `node scripts/audit.mjs` (must say No errors) and `npm run build`.
+7. Commit `data/catalog.json` with the attribution lines the environment
+   specifies, then push with GitHub Desktop (Repository, Push; Fetch first if
+   Push is disabled). If the Mac is locked or GitHub Desktop will not respond,
+   leave the commit and say one click on Push origin is waiting.
+8. Tell Natalie: pieces checked, sold out (and how many newly), low size
+   availability (in stock with fewer than half of its sizes available),
+   pieces back in stock, pieces hidden after 14 days, how many could not be
+   checked and from which retailers, any store that blocked, and whether the
+   push went through.
+
 ## Publish, step by step
 
 Used by "MATTER publish now" and the Wednesday backstop.

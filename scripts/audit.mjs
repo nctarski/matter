@@ -53,6 +53,16 @@ const warn = (id, msg) => warnings.push(`${id}: ${msg}`);
 
 const seen = new Set();
 
+const pad2 = (n) => String(n).padStart(2, '0');
+const now = new Date();
+const TODAY = `${now.getFullYear()}-${pad2(now.getMonth() + 1)}-${pad2(now.getDate())}`;
+/** A real calendar date written YYYY-MM-DD. */
+const isDate = (v) => {
+  if (typeof v !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(v)) return false;
+  const d = new Date(`${v}T00:00:00Z`);
+  return !Number.isNaN(d.getTime()) && d.toISOString().slice(0, 10) === v;
+};
+
 for (const item of catalog) {
   const id = item.id || '(missing id)';
 
@@ -115,6 +125,48 @@ for (const item of catalog) {
     if (total !== 100) fail(id, `${label} percentages sum to ${total}, not 100`);
   }
 
+  /* Stock, written by scripts/apply-stock.mjs. Optional, but when present it
+   * has to be exactly this shape, because the card prints it word for word:
+   *   stock        { checkedAt: "YYYY-MM-DD", sizes: [{ size, available }] }
+   *   soldOutSince "YYYY-MM-DD", present exactly when no size is available */
+  if (item.stock !== undefined) {
+    const st = item.stock;
+    if (!st || typeof st !== 'object' || Array.isArray(st)) {
+      fail(id, 'stock is not an object');
+    } else {
+      for (const k of Object.keys(st)) {
+        if (!['checkedAt', 'sizes'].includes(k)) fail(id, `stock has unknown field "${k}"`);
+      }
+      if (!isDate(st.checkedAt)) fail(id, `stock.checkedAt "${st.checkedAt}" is not a YYYY-MM-DD date`);
+      else if (st.checkedAt > TODAY) fail(id, `stock.checkedAt ${st.checkedAt} is in the future`);
+      if (!Array.isArray(st.sizes)) {
+        fail(id, 'stock.sizes is not an array');
+      } else {
+        const names = new Set();
+        for (const z of st.sizes) {
+          if (!z || typeof z !== 'object' || Array.isArray(z)) { fail(id, `stock size ${JSON.stringify(z)} is not an object`); continue; }
+          for (const k of Object.keys(z)) {
+            if (!['size', 'available'].includes(k)) fail(id, `stock size has unknown field "${k}"`);
+          }
+          if (typeof z.size !== 'string' || !z.size.trim()) fail(id, `stock size name ${JSON.stringify(z.size)} is not a non-empty string`);
+          else if (names.has(z.size)) fail(id, `stock lists size "${z.size}" twice`);
+          else names.add(z.size);
+          if (typeof z.available !== 'boolean') fail(id, `stock size "${z.size}" has available ${JSON.stringify(z.available)}, not true or false`);
+        }
+        const anyAvailable = st.sizes.some((z) => z && z.available === true);
+        if (!anyAvailable && item.soldOutSince === undefined) fail(id, 'no size available but no soldOutSince');
+        if (anyAvailable && item.soldOutSince !== undefined) fail(id, 'soldOutSince set but a size is available');
+      }
+    }
+  }
+  if (item.soldOutSince !== undefined) {
+    if (item.stock === undefined) fail(id, 'soldOutSince without stock');
+    if (!isDate(item.soldOutSince)) fail(id, `soldOutSince "${item.soldOutSince}" is not a YYYY-MM-DD date`);
+    else if (isDate(item.stock?.checkedAt) && item.soldOutSince > item.stock.checkedAt) {
+      fail(id, `soldOutSince ${item.soldOutSince} is after the last check ${item.stock.checkedAt}`);
+    }
+  }
+
   // Not an error, just the thing most worth a second look before publishing.
   if (item.shell && naturalPct(item.shell) === 0) {
     warn(id, `nothing natural in the shell (${formatComposition(item.shell)})`);
@@ -143,14 +195,21 @@ const missingFields = (item) => {
   return missing;
 };
 
-const live = catalog.filter((i) => missingFields(i).length === 0);
+/* Mirrors lib/catalog.js: sold out for more than 14 days is hidden from the
+ * site but stays in the catalog. Report only, never an error. */
+const SOLD_OUT_HIDE_DAYS = 14;
+const daysSince = (date) => Math.floor((Date.parse(`${TODAY}T00:00:00Z`) - Date.parse(`${date}T00:00:00Z`)) / 86400000);
+const hiddenSoldOut = (i) => isDate(i.soldOutSince) && daysSince(i.soldOutSince) > SOLD_OUT_HIDE_DAYS;
+
+const live = catalog.filter((i) => missingFields(i).length === 0 && !hiddenSoldOut(i));
+const soldOut = catalog.filter((i) => missingFields(i).length === 0 && i.soldOutSince !== undefined);
 const pending = catalog.filter((i) => missingFields(i).length > 0);
 
 /* ---------- report ---------- */
 
 const pct = (item) => `${effectiveNatural(item.shell, true)}%`;
 
-console.log(`\nCatalog  ${catalog.length} pieces  ${live.length} live  ${pending.length} pending\n`);
+console.log(`\nCatalog  ${catalog.length} pieces  ${live.length} live  ${pending.length} pending  ${soldOut.length} sold out\n`);
 
 if (live.length) {
   console.log('LIVE');
@@ -168,6 +227,14 @@ if (pending.length) {
   console.log('PENDING');
   for (const i of pending) {
     console.log(`  ${pct(i).padStart(5)}  ${i.brand} ${i.name}  needs ${missingFields(i).join(', ')}`);
+  }
+  console.log('');
+}
+
+if (soldOut.length) {
+  console.log('SOLD OUT');
+  for (const i of soldOut) {
+    console.log(`  since ${i.soldOutSince}${hiddenSoldOut(i) ? '  hidden' : ''}  ${i.brand} ${i.name}`);
   }
   console.log('');
 }

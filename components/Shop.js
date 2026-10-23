@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo, useRef, useState } from 'react';
-import { catalog, imageAllowed } from '@/lib/catalog';
+import { catalog, imageAllowed, isSoldOut } from '@/lib/catalog';
 import edits from '@/data/edits.json';
 import ProductCard from './ProductCard';
 import {
@@ -67,10 +67,16 @@ export default function Shop({ brand = null }) {
    * broken rather than partial. It needs no upkeep: adding a retailer to
    * IMAGE_LICENSED_RETAILERS promotes all of its pieces automatically, and
    * once everything is approved the rule stops having any effect. */
+  /* Sold out pieces go after everything in stock, inside the same two groups,
+   * so the order is: photographed in stock, photographed sold out, colour tile
+   * in stock, colour tile sold out. Both splits keep the chosen sort. */
   const results = useMemo(() => {
     const kept = sortItems(catalog.filter((i) => passes(i, f)), f.sort);
+    const inStockFirst = (list) => [...list.filter((i) => !isSoldOut(i)), ...list.filter(isSoldOut)];
     const withImage = kept.filter((i) => imageAllowed(i) && i.image);
-    return withImage.length ? [...withImage, ...kept.filter((i) => !(imageAllowed(i) && i.image))] : kept;
+    return withImage.length
+      ? [...inStockFirst(withImage), ...inStockFirst(kept.filter((i) => !(imageAllowed(i) && i.image)))]
+      : inStockFirst(kept);
   }, [f]);
 
   /* When a filter set returns nothing, find the nearest lower threshold that
