@@ -1,6 +1,6 @@
 {
   "sweepComplete": false,
-  "startedOn": null,
+  "startedOn": "2026-10-22",
   "retailers": [
     {
       "order": 1,
@@ -16,11 +16,11 @@
       "order": 2,
       "brand": "White + Warren",
       "method": "shopify-json",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
+      "lastSweep": "2026-10-22",
       "lastDelta": null,
-      "note": ""
+      "note": "Full products.json sweep, 220 staged. Skipped Menswear, Hats & Gloves, Scarves, Travel Wraps."
     },
     {
       "order": 3,
