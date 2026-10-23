@@ -1,0 +1,2519 @@
+[
+  {
+    "id": "brochu-walker-rimy-cashmere-cardigan-sandstone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Rimy Cashmere Cardigan",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/rimy-cashmere-cardigan-sandstone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/BW_holiday_campaign.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-cashmere-top-crimson",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-cashmere-top-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_MORTENFUNNELNECKCASHMERETOP_CRIMSON_LUX4328-CRMSN_01_158fd5b6-629b-4ff7-9461-bba3bab7614f.jpg?width=600",
+    "category": "Tops",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-astrid-cashmere-pullover-sterling",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Astrid Wrap Cashmere Pullover",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/astrid-cashmere-pullover-sterling",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_ASTRIDWRAPCASHMEREPULLOVER_STERLINGGREYMELANGE_LUX5066-STRGY_04_3cf4fb5d-53ac-4b05-9c9e-be878f8c1bf8.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-brushed-cashmere-rhea-cardigan-carob",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Brushed Cashmere Rhea Cardigan",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/brushed-cashmere-rhea-cardigan-carob",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_BRUSHEDCASHMERERHEACARDIGAN_CAROB_LUX5152-CAROB_03_copy.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-brushed-cashmere-rhea-cardigan-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Brushed Cashmere Rhea Cardigan",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/brushed-cashmere-rhea-cardigan-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/brushed_rhea_black_onyx.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-blake-coat-cashew",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Blake Coat",
+    "price": 628,
+    "url": "https://brochuwalker.com/products/blake-coat-cashew",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/blake_coat_cashew.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-cashmere-pullover-black",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Pullover",
+    "price": 448,
+    "url": "https://brochuwalker.com/products/morten-cashmere-pullover-black",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/260521BWEcom_MortenFunnelNeckCashmerePullover_LUX5078_BlackOnyx_0721_2_ff1504ad-fa29-46cb-977a-f16d49282950.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-eden-blouse-kalahari-combo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Eden Blouse",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/eden-blouse-kalahari-combo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_EDENBLOUSE_KALAHARICOMBO_LPD4678-KALAC_03_fd0eb28a-b260-4235-9225-140626ce7d7c.jpg?width=600",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-joseph-top-rose",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Joseph Top",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/joseph-top-rose",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/JosephinRose.jpg?width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-fio-cashmere-top-stone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Fio Cashmere Top",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/fio-cashmere-top-stone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_FIOCASHMERETOP_STONEMELANGE_LUX1028-STOML_06.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-keifer-cardigan-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Keifer Cardigan",
+    "price": 548,
+    "url": "https://brochuwalker.com/products/keifer-cardigan-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/KeiferCardigan.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-aaron-cashmere-crewneck-stone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Aaron Cashmere Crewneck",
+    "price": 588,
+    "url": "https://brochuwalker.com/products/aaron-cashmere-crewneck-stone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_AARONCASHMERECREWNECK_STONEMELANGE_LUX4650-STOML_04_a0f81bd4-22e1-4d5a-88cd-2fea14d2a4dc.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-bright-crew-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/everyday-bright-crew-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/everyday_cashmere_3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-eden-blouse-deco",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Eden Blouse",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/eden-blouse-deco",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_EDENBLOUSE_DECO_CDC4678-DECO_04.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-funnel-neck-cashmere-top-java-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-funnel-neck-cashmere-top-java-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/morten_935d83c2-4c1e-4976-b631-a6c057bf87d2.jpg?width=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-siena-wrap-neck-cashmere-pullover-stone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Siena Wrap Neck Cashmere Pullover",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/siena-wrap-neck-cashmere-pullover-stone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_SIENAWRAPNECKCASHMEREPULLOVER_STONEMELANGE_LUX4070-STOML_05_17409aa7-da1e-44bb-8605-8250a1021aad.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ren-sweater-vest-otter-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ren Sweater Vest",
+    "price": 328,
+    "url": "https://brochuwalker.com/products/ren-sweater-vest-otter-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_RENSWEATERVEST_OTTERMELANGE_26WC5077-OTRML_03_4961241c-6039-4df6-a66f-1b42f880ef89.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-finley-coat-canyon-orange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Finley Coat",
+    "price": 598,
+    "url": "https://brochuwalker.com/products/finley-coat-canyon-orange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/finley_coat.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-funnel-neck-cashmere-top-canyon-orange-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-funnel-neck-cashmere-top-canyon-orange-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/morten_sweater_2.jpg?width=600",
+    "category": "Tops",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-archie-layered-cardigan-gravel-stone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Archie Layered Cardigan",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/archie-layered-cardigan-gravel-stone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/archie_cardigan_9.23_9b7db369-5561-4898-969f-a6d06426ab46.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-pia-denim-shirt-indigo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Pia Denim Shirt",
+    "price": 388,
+    "url": "https://brochuwalker.com/products/pia-denim-shirt-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_PIADENIMSHIRT_INDIGO_DNM4495-INDGO_04_d4c3aff8-38ad-4ead-8b44-87316f0c9e85.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-villa-denim-dress-indigo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Villa Denim Dress",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/villa-denim-dress-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_VILLADENIMDRESS_INDIGO_DNM5007-INDGO_02.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-suvi-denim-dress-indigo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Suvi Denim Dress",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/suvi-denim-dress-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Suvi_Denim_Dress_-_Campaign.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ciara-polo-sweater-mineral-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ciara Polo Sweater",
+    "price": 328,
+    "url": "https://brochuwalker.com/products/ciara-polo-sweater-mineral-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/11_72af0081-37d4-4290-8408-f3689dde2f8b.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        80
+      ],
+      [
+        "Silk",
+        10
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ivy-cashmere-vee-air-blue-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ivy Cashmere Vee",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/ivy-cashmere-vee-air-blue-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026__IVY_CASHMERE_VEE_AIR_BLUE_MELANGE_LUX4956-ARBML_02.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-marlow-cashmere-polo-sweater-sandstone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Marlow Cashmere Polo Sweater",
+    "price": 448,
+    "url": "https://brochuwalker.com/products/marlow-cashmere-polo-sweater-sandstone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_SIENAWRAPNECKCASHMEREPULLOVER_STONEMELANGE_LUX4070-STOML_01.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-yara-top-pebble",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Yara Top",
+    "price": 148,
+    "url": "https://brochuwalker.com/products/yara-top-pebble",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_LotiEyeletBubbleSkirt_BlackOnyx_JCP4427E-BKONX_03_1.jpg?width=600",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-marah-dress-pebble",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Marah Dress",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/marah-dress-pebble",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_Marah-Dress_Pebble-Grey-Melange_HJK4838-PGRML_03.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-loti-eyelet-bubble-skirt-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Loti Eyelet Bubble Skirt",
+    "price": 328,
+    "url": "https://brochuwalker.com/products/loti-eyelet-bubble-skirt-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_LotiEyeletBubbleSkirt_JCP4427E_BlackOnyx_02.jpg?width=600",
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-louie-printed-top-estara-combo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Louie Printed Top",
+    "price": 258,
+    "url": "https://brochuwalker.com/products/louie-printed-top-estara-combo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_LouiPrintedShirt_JCC4858P-EstaraCombo_06f.jpg?width=600",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-pia-shirt-hampton-stripe",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Pia Shirt",
+    "price": 278,
+    "url": "https://brochuwalker.com/products/pia-shirt-hampton-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/0052_2026_PiaShirt_HamptonStripe_JCP4495-HMPST_03.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-koda-tee-salt-white",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Koda Tee",
+    "price": 148,
+    "url": "https://brochuwalker.com/products/koda-tee-salt-white",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/KodaTee_LVK4041_SaltWhite_3.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Cotton",
+        45
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-marah-dress-ivory",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Marah Dress",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/marah-dress-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/0075_2026_MarahDress_Ivory_HJK4838-IVORY_01.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-yara-top-ivory",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Yara Top",
+    "price": 148,
+    "url": "https://brochuwalker.com/products/yara-top-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/YaraTop_HJK4837_Ivory_1240_49668c1f-f928-418f-ae25-b1eff2edb9f9.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-manon-cover-up-dress-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Manon Cover Up Dress",
+    "price": 368,
+    "url": "https://brochuwalker.com/products/manon-cover-up-dress-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/0079_2026_ManonCoverUpDress_Ecru_BLL4875-ECRU_09_bc8e4109-ccfb-47f2-b754-9423ec257fbd.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-aida-petite-shrug-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Aida Petite Shrug",
+    "price": 328,
+    "url": "https://brochuwalker.com/products/aida-petite-shrug-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_AidaPetiteShrug_Ecru_FMC4594-ECRU_04.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-pointelle-bright-crew-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Pointelle Bright Crew",
+    "price": 348,
+    "url": "https://brochuwalker.com/products/everyday-pointelle-bright-crew-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/0157_2026_EverydayPointelleBrightCrew_Ecru_FMC3990-ECRU_02_53b4bf5d-2f74-45a0-ae62-f7452ad01de0.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-havana-mini-dress-estara-combo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Havana Mini Dress",
+    "price": 318,
+    "url": "https://brochuwalker.com/products/havana-mini-dress-estara-combo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_HavanaMiniDress_EstaraCombo_JCC3622P-ESTCM_02.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-indira-skirt-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Indira Skirt",
+    "price": 368,
+    "url": "https://brochuwalker.com/products/indira-skirt-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/IndiraSkirt_CCN4889_Ecru_0872.jpg?width=600",
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-arno-tank-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Arno Tank",
+    "price": 328,
+    "url": "https://brochuwalker.com/products/arno-tank-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/ArnoTank_CCN4907_Ecru_0848.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-bright-crew-anis",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/everyday-bright-crew-anis",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EverydayBright1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ellis-skirt-ivory",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ellis Skirt",
+    "price": 368,
+    "url": "https://brochuwalker.com/products/ellis-skirt-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Ellis-Skirt_NAR4898_Ivory_0196.jpg?width=600",
+    "category": "Skirts",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-nico-pant-ivory",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Nico Pant",
+    "price": 388,
+    "url": "https://brochuwalker.com/products/nico-pant-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_NicoPant_Ivory_02.jpg?width=600",
+    "category": "Pants",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-leia-vee-sweater-anis",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Leia Vee Cashmere Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/leia-vee-sweater-anis",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Leia_65cb22a9-de24-44b8-8351-dafdd1ed41ad.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ophi-vee-stone",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ophi Cashmere Vee",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/ophi-vee-stone",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Ophi-Vee_LUX-4035_Stone_0381.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-fida-handknit-shrug-mocha",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Fida Handknit Shrug",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/fida-handknit-shrug-mocha",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_HavanaDress_Terra_JCP3622-TERRA_12.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-hume-cardigan-rose",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Hume Handknit Cardigan",
+    "price": 598,
+    "url": "https://brochuwalker.com/products/hume-cardigan-rose",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_HumeCardigan_FMC4798_Rose_03.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ophi-vee-rose-quartz",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ophi Cashmere Vee",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/ophi-vee-rose-quartz",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/0164_260112BrochuContent0157.jpg?width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-leia-vee-sweater-cali-blue-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Leia Vee Cashmere Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/leia-vee-sweater-cali-blue-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/0131_260112BrochuContent0484.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-parker-jacket-rye",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Parker Jacket",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/parker-jacket-rye",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Parker-Jacket_LDF4890_Rye_1043.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-iona-cashmere-sweater-navy-stripe",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Iona Cashmere Sweater",
+    "price": 598,
+    "url": "https://brochuwalker.com/products/iona-cashmere-sweater-navy-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Iona2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-jen-cardigan-rosen-pink",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Jen Cardigan",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/jen-cardigan-rosen-pink",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Jencardi_FMC3494_Rosenpink_3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-edda-printed-skirt-java-combo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Edda Printed Skirt",
+    "price": 328,
+    "url": "https://brochuwalker.com/products/edda-printed-skirt-java-combo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EddaPrintedSkirt_JCC4525_JavaCombo_0078_2.jpg?width=600",
+    "category": "Skirts",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-kate-printed-maxi-dress-java-combo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Kate Printed Maxi Dress",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/kate-printed-maxi-dress-java-combo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/250321BrochuWalkerContentShoot4333.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-havana-dress-indigo-blue",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Havana Indigo Dress",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/havana-dress-indigo-blue",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/HavanaIndigo2.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        70
+      ],
+      [
+        "Linen",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ennes-ruched-sweater-toffee-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ennes Ruched Cashmere Sweater",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/ennes-ruched-sweater-toffee-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EnnesToffeeMelange.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-finley-coat-cashew",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Finley Coat",
+    "price": 598,
+    "url": "https://brochuwalker.com/products/finley-coat-cashew",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/FinleyCoat_DFW4349_Cashew1089_2.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-vida-coat-camel",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Vida Coat",
+    "price": 698,
+    "url": "https://brochuwalker.com/products/vida-coat-camel",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/VidaCoat_DFW4659_Camel0264_1.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-brushed-cashmere-bright-crew-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Brushed Cashmere Bright Crew",
+    "price": 688,
+    "url": "https://brochuwalker.com/products/brushed-cashmere-bright-crew-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/13BrushedCashmere.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-cashmere-off-shoulder-mist-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Cashmere Off Shoulder",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/lori-cashmere-off-shoulder-mist-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025Holiday_TheLoriCashmereOffShoulder_LUX3016_MistMelange_1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-sleeveless-dress-crimson",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Sleeveless Cashmere Dress",
+    "price": 628,
+    "url": "https://brochuwalker.com/products/lori-sleeveless-dress-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/lori_cashmere_crimson.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-siena-wrap-neck-pullover-java-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Siena Wrap Neck Cashmere Pullover",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/siena-wrap-neck-pullover-java-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_SienaWrapNeckPullover_LUX4070_JavaMelange_3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-cashmere-shirt-bisque-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Shirt",
+    "price": 598,
+    "url": "https://brochuwalker.com/products/everyday-cashmere-shirt-bisque-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/250815BrochuWalkerContentShootAugust20250983cropped.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-eden-blouse-claret",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Eden Blouse",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/eden-blouse-claret",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Eden.jpg?width=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-eden-blouse-echo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Eden Blouse",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/eden-blouse-echo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EdenBlouse_CDC4678_Echo0428_1.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-rhea-cardigan-walnut-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Rhea Cashmere Cardigan",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/rhea-cardigan-walnut-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/rhea-cardigan-walnut_d771ba66-5923-4614-80aa-571842649663.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ennes-ruched-sweater-otter-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ennes Ruched Cashmere Sweater",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/ennes-ruched-sweater-otter-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_EnnesRuchesSweater_OtterMelange_4.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-greys-wrap-sweater-navy",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Greys Wrap Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/greys-wrap-sweater-navy",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/GraysWrap3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-danner-cardigan-travertine-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Danner Cardigan",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/danner-cardigan-travertine-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Danner1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-isben-pant-travertine-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Isben Pant",
+    "price": 358,
+    "url": "https://brochuwalker.com/products/isben-pant-travertine-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Isben-Pant_26WC4591_Travertine-Melange_1.jpg?width=600",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-jude-cardigan-camel",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Jude Cardigan",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/jude-cardigan-camel",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Jude_Cardigan_APO4651_Camel_2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        65
+      ],
+      [
+        "Yak",
+        25
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-sleeveless-mini-dress-dark-charcoal",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Sleeveless Cashmere Mini",
+    "price": 588,
+    "url": "https://brochuwalker.com/products/lori-sleeveless-mini-dress-dark-charcoal",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Lori-Sleeveless-Mini_LUX4652_Dk.-Charcoal-Melange_1.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-fida-shrug-shadow-grey",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Fida Handknit Shrug",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/fida-shrug-shadow-grey",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/250117-BW-ECOM_FidaShrug_FMC4050_ShadowGrey_1343_2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-denim-shirt-washed-black",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Denim Shirt",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/everyday-denim-shirt-washed-black",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_EverydayDenimShirt_WashedBlack_BDC3888_5.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morrow-looker-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morrow Layered Looker",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/morrow-looker-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/250321BrochuWalkerContentShoot2287.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Hemp",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": [],
+    "liningLabel": "Underlayer"
+  },
+  {
+    "id": "brochu-walker-morten-funnel-neck-top-bisque-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-funnel-neck-top-bisque-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/morten_new.jpg?width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-dante-shrug-ivory",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Dante Shrug",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/dante-shrug-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Dante-Shurg_CTW4601_Ivory_3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        70
+      ],
+      [
+        "Wool",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-funnel-neck-top-air-blue",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-funnel-neck-top-air-blue",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Morten-Funnel-Neck-Top_LUX4328_AirBlueMelange_7.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-pippa-cuffed-short-flax",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Pippa Cuffed Short",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/pippa-cuffed-short-flax",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/pippacuffedshort_DNM4295_Flax_0276_2.jpg?width=600",
+    "category": "Shorts",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ramona-halter-top-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ramona Halter Top",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/ramona-halter-top-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/250321BrochuWalkerContentShoot2557.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-fida-shrug-almond",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Fida Handknit Shrug",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/fida-shrug-almond",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_SUVIDENIMDRESS_INDIGO_DNM5030-INDGO_05_7157f9b8-cc3d-4bf7-9188-d5f18c142f66.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ramona-halter-top-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ramona Halter Top",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/ramona-halter-top-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/opt-4.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-talia-pant-flax",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Talia Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/talia-pant-flax",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/TaliaPant_DNM3779_Flax_1367_2_d5c761db-eb70-4c40-a90e-4d7d73d99b82.jpg?width=600",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-joseph-top-salt-white",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Joseph Top",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/joseph-top-salt-white",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_JosephTop_SaltWhite_1_1.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-cashmere-bright-crew-crimson",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/everyday-cashmere-bright-crew-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EverydayCashmereBrightCrew_LUX3990_Crimson_EsmeSkirt_PUL4056_Fawn_01.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-westport-pant-flax",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Westport Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/westport-pant-flax",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/WestportPant_DNM3900_flax_0948_2.jpg?width=600",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morrow-looker-white",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morrow Layered Looker",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/morrow-looker-white",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/MorrowLayeredLooker-PEARLWHITE_HMP4256_WestportPant-SALTWHITE_DNM3900_1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Hemp",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": [],
+    "liningLabel": "Underlayer"
+  },
+  {
+    "id": "brochu-walker-lori-sleeveless-dress-camel",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Sleeveless Cashmere Dress",
+    "price": 628,
+    "url": "https://brochuwalker.com/products/lori-sleeveless-dress-camel",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2024_LoriSleevelessDress_LUX3931_CamelMelange0214_1_content.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-off-shoulder-crimson",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Cashmere Off Shoulder",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/lori-off-shoulder-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/LoriOffShoulder_LUX3016_Crimson_EsmeSkirt_PUL4056_Fawn_2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-cashmere-bright-crew-rose-quartz",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/everyday-cashmere-bright-crew-rose-quartz",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/UNKNOWNCREWNECK_RoseQuartz-01.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-top-mist-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-top-mist-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2024_Morten-Funnel-Neck-Top_Mist-Melange_LUX4328-01_contentresized.jpg?width=600",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-leia-vee-sweater-rose-quartz",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Leia Vee Cashmere Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/leia-vee-sweater-rose-quartz",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/LeiaVeeSweater_RoseQuartz_LUX4201-02.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-sleeveless-dress-otter-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Sleeveless Cashmere Dress",
+    "price": 628,
+    "url": "https://brochuwalker.com/products/lori-sleeveless-dress-otter-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/lori_cashmere_dress.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-top-navy",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-top-navy",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/morten_navy_bbfc19aa-a7cc-4df6-bbb8-fe54ef6bc188.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-leia-vee-sweater-camel-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Leia Vee Cashmere Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/leia-vee-sweater-camel-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/leiaveesweater_LUX4201_camelmelange_8_cropped.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-leia-vee-sweater-almond",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Leia Vee Cashmere Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/leia-vee-sweater-almond",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/LeiaVeeSweater_LUX4201_Almond_042.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-cashmere-bright-crew-camel",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/everyday-cashmere-bright-crew-camel",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Cashmerenecksquare_LUX0003_Camel_EverydayCashmereBrightCrew_LUX3990_CAMELMELANGE_3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-the-everyday-cashmere-bright-crew-carob",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/the-everyday-cashmere-bright-crew-carob",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_TheEverydayCashmereBrightCrew_CarobMelange_6.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-sleeveless-dress-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Sleeveless Cashmere Dress",
+    "price": 628,
+    "url": "https://brochuwalker.com/products/lori-sleeveless-dress-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/260923BWContent73893.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-bright-crew-sweater",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/bright-crew-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EverydayBrightCrew_STYLENUMBER_bisque._5.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-havana-dress-tropical-combo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Havana Dress",
+    "price": 368,
+    "url": "https://brochuwalker.com/products/havana-dress-tropical-combo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Tropical.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-jolie-fringe-vee-black",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Jolie Fringe Cashmere Vee",
+    "price": 448,
+    "url": "https://brochuwalker.com/products/jolie-fringe-vee-black",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Jolie-Fringe-Vee_LUX4078_blackonyx_2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-bright-crew-sweater-navy",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/bright-crew-sweater-navy",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/BrightCrewNavy.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-jen-cardigan-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Jen Cardigan",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/jen-cardigan-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/products/jencardigan_ecru_1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        77
+      ],
+      [
+        "Linen",
+        23
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-siena-wrap-neck-pullover-otter-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Siena Wrap Neck Cashmere Pullover",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/siena-wrap-neck-pullover-otter-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Siena_e78e29a1-2d50-4567-9a34-9ad7309ecfc2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-odele-denim-pant-indigo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Odele Denim Pant",
+    "price": 348,
+    "url": "https://brochuwalker.com/products/odele-denim-pant-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Odele-Denim-Pant_DMG4055_Indigo__0461.jpg?width=600",
+    "category": "Denim",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        64
+      ],
+      [
+        "Linen",
+        36
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-talia-pant-indigo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Talia Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/talia-pant-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/taliapant_DNM3779_indigo_5_cropped.jpg?width=600",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ophi-vee-otter-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ophi Cashmere Vee",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/ophi-vee-otter-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Ophi-Vee_LUX4035_Otter-Melange_Lara-Vegan-Leather-Pant_TPU4434_Brume_01.jpg.2.jpg?width=600",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-westport-indigo-pant",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Westport Indigo Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/westport-indigo-pant",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Westport-Pull-On-Pant_DNM_Indigo_2966.jpg?width=600",
+    "category": "Denim",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-westport-pant-white",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Westport Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/westport-pant-white",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/51_Westport-Pant_DNM3900_saltwhite_1873.jpg?width=600",
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ophi-vee-buff",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ophi Cashmere Vee",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/ophi-vee-buff",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/OPHIE.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-andre-luxe-cashmere-shacket-camel-tan",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Andre Luxe Cashmere Shacket",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/andre-luxe-cashmere-shacket-camel-tan",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/N54rUaJK.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-off-shoulder-carob-brown",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Cashmere Off Shoulder",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/lori-off-shoulder-carob-brown",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/LoriCarob.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-the-lori-off-shoulder-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Cashmere Off Shoulder",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/the-lori-off-shoulder-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/lori-cashmere-off-shoulder-black-sweater-front-view-1amm4o.webp?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-fida-shrug-salt-white",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Fida Handknit Shrug",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/fida-shrug-salt-white",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_ToriVoileDress_Creme_VCN4963-CREME_02.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-talia-pant-white",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Talia Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/talia-pant-white",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/TaliaPant_SaltWhite_1804_2.jpg?width=600",
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-bright-crew-sweater-dark-charcoal",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/bright-crew-sweater-dark-charcoal",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/products/220912BW0652.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-the-lori-off-shoulder-bisque-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Cashmere Off Shoulder",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/the-lori-off-shoulder-bisque-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/lori-cashmere-ivory-off-shoulder-sweater-front-view-1fce3t.webp?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  }
+]

@@ -73,11 +73,11 @@
       "brand": "Brochu Walker",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
+      "lastSweep": "2026-10-23",
       "lastDelta": null,
-      "note": ""
+      "note": "Full sweep 2026-10-23. 635 products read, 118 staged (nightly7). products.json leaves out the underlayer on most Looker and layered pieces; the product page Materials section names it (usually polyester georgette or 65/35 poly-cotton shirting), so every candidate was checked against its page. Lookers with a polyester underlayer recorded as fiber; layered pieces whose underlayer is undisclosed, and lace trims of unknown fiber, as no-composition. 369 under the fiber rule (Lookers, poly blends), 99 out of scope (accessories, shoes, jewelry, wraps). 6 passing pieces were sold out and are not recorded. Pieces are per colour, so each colourway is its own card."
     },
     {
       "order": 8,
@@ -125,6 +125,72 @@
     },
     {
       "order": 12,
+      "brand": "Olivia von Halle",
+      "method": "shopify-json",
+      "cadence": "regular",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": "Added 2026-10-23 for Sleep and lounge. oliviavonhalle.com. Nearly all silk, some cashmere. UK brand: confirm the US price in USD on the product page (Shopify base currency may be GBP)."
+    },
+    {
+      "order": 13,
+      "brand": "Pour Les Femmes",
+      "method": "shopify-json",
+      "cadence": "regular",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": "Added 2026-10-23 for Sleep and lounge. pourlesfemmes.com. Cotton, linen and silk sleep and lounge. No modal or polyester seen in the first 200 products."
+    },
+    {
+      "order": 14,
+      "brand": "Skin",
+      "method": "shopify-json",
+      "cadence": "regular",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": "Added 2026-10-23 for Sleep and lounge. skinworldwide.com. Pima and organic cotton basics, small range."
+    },
+    {
+      "order": 15,
+      "brand": "Araks",
+      "method": "shopify-json",
+      "cadence": "regular",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": "Added 2026-10-23 for Sleep and lounge. araks.com. Organic cotton and silk sleep and underwear. Skip gift cards (price 0)."
+    },
+    {
+      "order": 16,
+      "brand": "Desmond & Dempsey",
+      "method": "shopify-json",
+      "cadence": "regular",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": "Added 2026-10-23 for Sleep and lounge. desmondanddempsey.com. Cotton pajamas, a few Tencel pieces. UK brand: confirm the US price in USD."
+    },
+    {
+      "order": 17,
+      "brand": "Lake Pajamas",
+      "method": "shopify-json",
+      "cadence": "regular",
+      "status": "todo",
+      "cursor": null,
+      "lastSweep": null,
+      "lastDelta": null,
+      "note": "Added 2026-10-23 for Sleep and lounge. lakepajamas.com. Mostly pima cotton, some modal."
+    },
+    {
+      "order": 18,
       "brand": "Christy Dawn",
       "method": "shopify-json",
       "cadence": "regular",
@@ -135,7 +201,7 @@
       "note": "Full products.json sweep, 67 staged. Skipped tencel/lyocell pieces, Unisex, Petite and Extended duplicates."
     },
     {
-      "order": 13,
+      "order": 19,
       "brand": "Tibi",
       "method": "shopify-json",
       "cadence": "regular",
@@ -146,7 +212,7 @@
       "note": ""
     },
     {
-      "order": 14,
+      "order": 20,
       "brand": "Gabriela Hearst",
       "method": "shopify-json",
       "cadence": "regular",
@@ -157,7 +223,7 @@
       "note": ""
     },
     {
-      "order": 15,
+      "order": 21,
       "brand": "Kotn",
       "method": "shopify-json",
       "cadence": "regular",
@@ -168,7 +234,7 @@
       "note": ""
     },
     {
-      "order": 16,
+      "order": 22,
       "brand": "Jenni Kayne",
       "method": "shopify-json",
       "cadence": "regular",
@@ -179,7 +245,7 @@
       "note": ""
     },
     {
-      "order": 17,
+      "order": 23,
       "brand": "Lisa Says Gah",
       "method": "shopify-json",
       "cadence": "regular",
@@ -190,7 +256,7 @@
       "note": ""
     },
     {
-      "order": 18,
+      "order": 24,
       "brand": "SAME Los Angeles",
       "method": "shopify-json",
       "cadence": "regular",
@@ -201,7 +267,7 @@
       "note": ""
     },
     {
-      "order": 19,
+      "order": 25,
       "brand": "Retrofete",
       "method": "shopify-json",
       "cadence": "sift",
@@ -212,7 +278,7 @@
       "note": ""
     },
     {
-      "order": 20,
+      "order": 26,
       "brand": "WeWoreWhat",
       "method": "shopify-json",
       "cadence": "sift",
@@ -223,7 +289,7 @@
       "note": ""
     },
     {
-      "order": 21,
+      "order": 27,
       "brand": "Naked Wardrobe",
       "method": "shopify-json",
       "cadence": "sift",
@@ -234,7 +300,7 @@
       "note": ""
     },
     {
-      "order": 22,
+      "order": 28,
       "brand": "Princess Polly",
       "method": "shopify-json",
       "cadence": "sift",
@@ -245,7 +311,7 @@
       "note": ""
     },
     {
-      "order": 23,
+      "order": 29,
       "brand": "The Frankie Shop",
       "method": "shopify-json",
       "cadence": "regular",
@@ -256,7 +322,7 @@
       "note": ""
     },
     {
-      "order": 24,
+      "order": 30,
       "brand": "Few Moda",
       "method": "shopify-json",
       "cadence": "regular",
@@ -267,7 +333,7 @@
       "note": ""
     },
     {
-      "order": 25,
+      "order": 31,
       "brand": "Vrg Grl",
       "method": "shopify-json",
       "cadence": "regular",
@@ -278,7 +344,7 @@
       "note": ""
     },
     {
-      "order": 26,
+      "order": 32,
       "brand": "DISSH",
       "method": "shopify-json",
       "cadence": "regular",
@@ -289,7 +355,7 @@
       "note": ""
     },
     {
-      "order": 27,
+      "order": 33,
       "brand": "Khaite",
       "method": "shopify-page",
       "cadence": "regular",
@@ -300,7 +366,7 @@
       "note": ""
     },
     {
-      "order": 28,
+      "order": 34,
       "brand": "The Row",
       "method": "shopify-page",
       "cadence": "regular",
@@ -311,7 +377,7 @@
       "note": ""
     },
     {
-      "order": 29,
+      "order": 35,
       "brand": "Toteme",
       "method": "shopify-page",
       "cadence": "regular",
@@ -322,7 +388,7 @@
       "note": ""
     },
     {
-      "order": 30,
+      "order": 36,
       "brand": "Staud",
       "method": "shopify-page",
       "cadence": "regular",
@@ -333,7 +399,7 @@
       "note": ""
     },
     {
-      "order": 31,
+      "order": 37,
       "brand": "Simkhai",
       "method": "shopify-page",
       "cadence": "regular",
@@ -344,7 +410,7 @@
       "note": ""
     },
     {
-      "order": 32,
+      "order": 38,
       "brand": "Frame",
       "method": "shopify-page",
       "cadence": "regular",
@@ -355,7 +421,7 @@
       "note": ""
     },
     {
-      "order": 33,
+      "order": 39,
       "brand": "Rachel Comey",
       "method": "shopify-page",
       "cadence": "regular",
@@ -366,7 +432,7 @@
       "note": ""
     },
     {
-      "order": 34,
+      "order": 40,
       "brand": "Ronny Kobo",
       "method": "shopify-page",
       "cadence": "regular",
@@ -377,7 +443,7 @@
       "note": ""
     },
     {
-      "order": 35,
+      "order": 41,
       "brand": "Citizens of Humanity",
       "method": "shopify-page",
       "cadence": "regular",
@@ -388,7 +454,7 @@
       "note": ""
     },
     {
-      "order": 36,
+      "order": 42,
       "brand": "Nanushka",
       "method": "shopify-page",
       "cadence": "regular",
@@ -399,7 +465,7 @@
       "note": ""
     },
     {
-      "order": 37,
+      "order": 43,
       "brand": "Another Tomorrow",
       "method": "shopify-page",
       "cadence": "regular",
@@ -410,7 +476,7 @@
       "note": ""
     },
     {
-      "order": 38,
+      "order": 44,
       "brand": "Enza Costa",
       "method": "shopify-page",
       "cadence": "regular",
@@ -421,7 +487,7 @@
       "note": ""
     },
     {
-      "order": 39,
+      "order": 45,
       "brand": "The Elder Statesman",
       "method": "shopify-page",
       "cadence": "regular",
@@ -432,7 +498,7 @@
       "note": ""
     },
     {
-      "order": 40,
+      "order": 46,
       "brand": "Hanro",
       "method": "shopify-page",
       "cadence": "regular",
@@ -443,7 +509,7 @@
       "note": ""
     },
     {
-      "order": 41,
+      "order": 47,
       "brand": "Doen",
       "method": "shopify-page",
       "cadence": "regular",
@@ -454,7 +520,7 @@
       "note": ""
     },
     {
-      "order": 42,
+      "order": 48,
       "brand": "Rouje",
       "method": "shopify-page",
       "cadence": "regular",
@@ -465,7 +531,7 @@
       "note": ""
     },
     {
-      "order": 43,
+      "order": 49,
       "brand": "Matteau",
       "method": "shopify-page",
       "cadence": "regular",
@@ -476,7 +542,7 @@
       "note": ""
     },
     {
-      "order": 44,
+      "order": 50,
       "brand": "With Jean",
       "method": "shopify-page",
       "cadence": "sift",
@@ -487,7 +553,7 @@
       "note": ""
     },
     {
-      "order": 45,
+      "order": 51,
       "brand": "Atoir",
       "method": "shopify-page",
       "cadence": "sift",
@@ -498,7 +564,7 @@
       "note": ""
     },
     {
-      "order": 46,
+      "order": 52,
       "brand": "Nili Lotan",
       "method": "shopify-page",
       "cadence": "regular",
@@ -509,7 +575,7 @@
       "note": ""
     },
     {
-      "order": 47,
+      "order": 53,
       "brand": "Lauren Manoogian",
       "method": "shopify-page",
       "cadence": "regular",
@@ -520,7 +586,7 @@
       "note": ""
     },
     {
-      "order": 48,
+      "order": 54,
       "brand": "Cuyana",
       "method": "shopify-page",
       "cadence": "regular",
@@ -531,7 +597,7 @@
       "note": ""
     },
     {
-      "order": 49,
+      "order": 55,
       "brand": "Pansy",
       "method": "shopify-page",
       "cadence": "regular",
@@ -542,7 +608,7 @@
       "note": ""
     },
     {
-      "order": 50,
+      "order": 56,
       "brand": "Pact",
       "method": "shopify-page",
       "cadence": "regular",
@@ -553,7 +619,7 @@
       "note": ""
     },
     {
-      "order": 51,
+      "order": 57,
       "brand": "Everlane",
       "method": "shopify-page",
       "cadence": "regular",
@@ -564,7 +630,7 @@
       "note": ""
     },
     {
-      "order": 52,
+      "order": 58,
       "brand": "Quince",
       "method": "shopify-page",
       "cadence": "regular",
@@ -575,7 +641,7 @@
       "note": ""
     },
     {
-      "order": 53,
+      "order": 59,
       "brand": "A Piece Apart",
       "method": "shopify-page",
       "cadence": "regular",
@@ -586,7 +652,7 @@
       "note": ""
     },
     {
-      "order": 54,
+      "order": 60,
       "brand": "Nordstrom",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -597,7 +663,7 @@
       "note": ""
     },
     {
-      "order": 55,
+      "order": 61,
       "brand": "Revolve",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -608,7 +674,7 @@
       "note": ""
     },
     {
-      "order": 56,
+      "order": 62,
       "brand": "Bloomingdale's",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -619,7 +685,7 @@
       "note": ""
     },
     {
-      "order": 57,
+      "order": 63,
       "brand": "Saks Fifth Avenue",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -630,7 +696,7 @@
       "note": ""
     },
     {
-      "order": 58,
+      "order": 64,
       "brand": "Mytheresa",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -641,7 +707,7 @@
       "note": ""
     },
     {
-      "order": 59,
+      "order": 65,
       "brand": "Falconeri",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -652,7 +718,7 @@
       "note": ""
     },
     {
-      "order": 60,
+      "order": 66,
       "brand": "Banana Republic",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -663,7 +729,7 @@
       "note": ""
     },
     {
-      "order": 61,
+      "order": 67,
       "brand": "Vince",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -674,7 +740,7 @@
       "note": ""
     },
     {
-      "order": 62,
+      "order": 68,
       "brand": "Rag & Bone",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -685,7 +751,7 @@
       "note": ""
     },
     {
-      "order": 63,
+      "order": 69,
       "brand": "Free People",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -696,7 +762,7 @@
       "note": ""
     },
     {
-      "order": 64,
+      "order": 70,
       "brand": "Reformation",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -707,7 +773,7 @@
       "note": ""
     },
     {
-      "order": 65,
+      "order": 71,
       "brand": "Gap",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -718,7 +784,7 @@
       "note": ""
     },
     {
-      "order": 66,
+      "order": 72,
       "brand": "COS",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -729,7 +795,7 @@
       "note": ""
     },
     {
-      "order": 67,
+      "order": 73,
       "brand": "& Other Stories",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -740,7 +806,7 @@
       "note": ""
     },
     {
-      "order": 68,
+      "order": 74,
       "brand": "H&M",
       "method": "filtered-listing",
       "cadence": "sift",
@@ -751,7 +817,7 @@
       "note": ""
     },
     {
-      "order": 69,
+      "order": 75,
       "brand": "J.Crew",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -762,7 +828,7 @@
       "note": ""
     },
     {
-      "order": 70,
+      "order": 76,
       "brand": "Anthropologie",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -773,7 +839,7 @@
       "note": ""
     },
     {
-      "order": 71,
+      "order": 77,
       "brand": "Aritzia",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -784,7 +850,7 @@
       "note": ""
     },
     {
-      "order": 72,
+      "order": 78,
       "brand": "Ganni",
       "method": "filtered-listing",
       "cadence": "regular",
@@ -795,7 +861,7 @@
       "note": ""
     },
     {
-      "order": 73,
+      "order": 79,
       "brand": "Net-a-Porter",
       "method": "browse-listing",
       "cadence": "regular",
@@ -806,7 +872,7 @@
       "note": ""
     },
     {
-      "order": 74,
+      "order": 80,
       "brand": "Shopbop",
       "method": "browse-listing",
       "cadence": "regular",
@@ -817,7 +883,7 @@
       "note": ""
     },
     {
-      "order": 75,
+      "order": 81,
       "brand": "FWRD",
       "method": "browse-listing",
       "cadence": "regular",
@@ -828,7 +894,7 @@
       "note": ""
     },
     {
-      "order": 76,
+      "order": 82,
       "brand": "Sézane",
       "method": "browse-listing",
       "cadence": "regular",
@@ -839,7 +905,7 @@
       "note": ""
     },
     {
-      "order": 77,
+      "order": 83,
       "brand": "ASOS",
       "method": "browse-listing",
       "cadence": "sift",
@@ -850,7 +916,7 @@
       "note": ""
     },
     {
-      "order": 78,
+      "order": 84,
       "brand": "AllSaints",
       "method": "browse-listing",
       "cadence": "regular",
@@ -861,7 +927,7 @@
       "note": ""
     },
     {
-      "order": 79,
+      "order": 85,
       "brand": "Abercrombie & Fitch",
       "method": "browse-listing",
       "cadence": "regular",
@@ -872,7 +938,7 @@
       "note": ""
     },
     {
-      "order": 80,
+      "order": 86,
       "brand": "Lisa Yang",
       "method": "browse-listing",
       "cadence": "regular",
@@ -883,7 +949,7 @@
       "note": ""
     },
     {
-      "order": 81,
+      "order": 87,
       "brand": "LaPointe",
       "method": "browse-listing",
       "cadence": "regular",
@@ -894,7 +960,7 @@
       "note": ""
     },
     {
-      "order": 82,
+      "order": 88,
       "brand": "Lioness",
       "method": "browse-listing",
       "cadence": "regular",
@@ -905,7 +971,7 @@
       "note": ""
     },
     {
-      "order": 83,
+      "order": 89,
       "brand": "Pretty Little Thing",
       "method": "keyword-search",
       "cadence": "sift",
