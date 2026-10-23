@@ -31685,5 +31685,4864 @@
     "lining": null,
     "isNew": false,
     "tags": []
+  },
+  {
+    "id": "brochu-walker-aaron-cashmere-crewneck-stone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Aaron Cashmere Crewneck",
+    "price": 588,
+    "url": "https://brochuwalker.com/products/aaron-cashmere-crewneck-stone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_AARONCASHMERECREWNECK_STONEMELANGE_LUX4650-STOML_04_a0f81bd4-22e1-4d5a-88cd-2fea14d2a4dc.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-andre-luxe-cashmere-shacket-camel-tan",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Andre Luxe Cashmere Shacket",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/andre-luxe-cashmere-shacket-camel-tan",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/N54rUaJK.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-archie-layered-cardigan-gravel-stone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Archie Layered Cardigan",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/archie-layered-cardigan-gravel-stone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/archie_cardigan_9.23_9b7db369-5561-4898-969f-a6d06426ab46.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-arno-tank-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Arno Tank",
+    "price": 328,
+    "url": "https://brochuwalker.com/products/arno-tank-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/ArnoTank_CCN4907_Ecru_0848.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-astrid-cashmere-pullover-sterling",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Astrid Wrap Cashmere Pullover",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/astrid-cashmere-pullover-sterling",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_ASTRIDWRAPCASHMEREPULLOVER_STERLINGGREYMELANGE_LUX5066-STRGY_04_3cf4fb5d-53ac-4b05-9c9e-be878f8c1bf8.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-blake-coat-cashew",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Blake Coat",
+    "price": 628,
+    "url": "https://brochuwalker.com/products/blake-coat-cashew",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/blake_coat_cashew.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-bright-crew-sweater",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/bright-crew-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EverydayBrightCrew_STYLENUMBER_bisque._5.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-bright-crew-sweater-dark-charcoal",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/bright-crew-sweater-dark-charcoal",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/products/220912BW0652.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-bright-crew-sweater-navy",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/bright-crew-sweater-navy",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/BrightCrewNavy.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-brushed-cashmere-bright-crew-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Brushed Cashmere Bright Crew",
+    "price": 688,
+    "url": "https://brochuwalker.com/products/brushed-cashmere-bright-crew-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/13BrushedCashmere.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-brushed-cashmere-rhea-cardigan-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Brushed Cashmere Rhea Cardigan",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/brushed-cashmere-rhea-cardigan-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/brushed_rhea_black_onyx.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-brushed-cashmere-rhea-cardigan-carob",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Brushed Cashmere Rhea Cardigan",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/brushed-cashmere-rhea-cardigan-carob",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_BRUSHEDCASHMERERHEACARDIGAN_CAROB_LUX5152-CAROB_03_copy.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ciara-polo-sweater-mineral-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ciara Polo Sweater",
+    "price": 328,
+    "url": "https://brochuwalker.com/products/ciara-polo-sweater-mineral-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/11_72af0081-37d4-4290-8408-f3689dde2f8b.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        80
+      ],
+      [
+        "Silk",
+        10
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-danner-cardigan-travertine-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Danner Cardigan",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/danner-cardigan-travertine-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Danner1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-dante-shrug-ivory",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Dante Shrug",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/dante-shrug-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Dante-Shurg_CTW4601_Ivory_3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        70
+      ],
+      [
+        "Wool",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-eden-blouse-deco",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Eden Blouse",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/eden-blouse-deco",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_EDENBLOUSE_DECO_CDC4678-DECO_04.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-eden-blouse-echo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Eden Blouse",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/eden-blouse-echo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EdenBlouse_CDC4678_Echo0428_1.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-eden-blouse-kalahari-combo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Eden Blouse",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/eden-blouse-kalahari-combo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_EDENBLOUSE_KALAHARICOMBO_LPD4678-KALAC_03_fd0eb28a-b260-4235-9225-140626ce7d7c.jpg?width=600",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ennes-ruched-sweater-otter-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ennes Ruched Cashmere Sweater",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/ennes-ruched-sweater-otter-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_EnnesRuchesSweater_OtterMelange_4.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ennes-ruched-sweater-toffee-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ennes Ruched Cashmere Sweater",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/ennes-ruched-sweater-toffee-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EnnesToffeeMelange.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-bright-crew-anis",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/everyday-bright-crew-anis",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EverydayBright1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-bright-crew-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/everyday-bright-crew-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/everyday_cashmere_3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-cashmere-bright-crew-camel",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/everyday-cashmere-bright-crew-camel",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Cashmerenecksquare_LUX0003_Camel_EverydayCashmereBrightCrew_LUX3990_CAMELMELANGE_3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-cashmere-bright-crew-crimson",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/everyday-cashmere-bright-crew-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/EverydayCashmereBrightCrew_LUX3990_Crimson_EsmeSkirt_PUL4056_Fawn_01.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-cashmere-bright-crew-rose-quartz",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/everyday-cashmere-bright-crew-rose-quartz",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/UNKNOWNCREWNECK_RoseQuartz-01.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-cashmere-shirt-bisque-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Shirt",
+    "price": 598,
+    "url": "https://brochuwalker.com/products/everyday-cashmere-shirt-bisque-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/250815BrochuWalkerContentShootAugust20250983cropped.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-denim-shirt-washed-black",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Denim Shirt",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/everyday-denim-shirt-washed-black",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_EverydayDenimShirt_WashedBlack_BDC3888_5.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-everyday-pointelle-bright-crew-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Pointelle Bright Crew",
+    "price": 348,
+    "url": "https://brochuwalker.com/products/everyday-pointelle-bright-crew-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/0157_2026_EverydayPointelleBrightCrew_Ecru_FMC3990-ECRU_02_53b4bf5d-2f74-45a0-ae62-f7452ad01de0.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-finley-coat-canyon-orange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Finley Coat",
+    "price": 598,
+    "url": "https://brochuwalker.com/products/finley-coat-canyon-orange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/finley_coat.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-finley-coat-cashew",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Finley Coat",
+    "price": 598,
+    "url": "https://brochuwalker.com/products/finley-coat-cashew",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/FinleyCoat_DFW4349_Cashew1089_2.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-fio-cashmere-top-stone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Fio Cashmere Top",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/fio-cashmere-top-stone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_FIOCASHMERETOP_STONEMELANGE_LUX1028-STOML_06.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-greys-wrap-sweater-navy",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Greys Wrap Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/greys-wrap-sweater-navy",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/GraysWrap3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-indira-skirt-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Indira Skirt",
+    "price": 368,
+    "url": "https://brochuwalker.com/products/indira-skirt-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/IndiraSkirt_CCN4889_Ecru_0872.jpg?width=600",
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-isben-pant-travertine-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Isben Pant",
+    "price": 358,
+    "url": "https://brochuwalker.com/products/isben-pant-travertine-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Isben-Pant_26WC4591_Travertine-Melange_1.jpg?width=600",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ivy-cashmere-vee-air-blue-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ivy Cashmere Vee",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/ivy-cashmere-vee-air-blue-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026__IVY_CASHMERE_VEE_AIR_BLUE_MELANGE_LUX4956-ARBML_02.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-jen-cardigan-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Jen Cardigan",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/jen-cardigan-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/products/jencardigan_ecru_1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        77
+      ],
+      [
+        "Linen",
+        23
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-jolie-fringe-vee-black",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Jolie Fringe Cashmere Vee",
+    "price": 448,
+    "url": "https://brochuwalker.com/products/jolie-fringe-vee-black",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Jolie-Fringe-Vee_LUX4078_blackonyx_2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-joseph-top-rose",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Joseph Top",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/joseph-top-rose",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/JosephinRose.jpg?width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-joseph-top-salt-white",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Joseph Top",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/joseph-top-salt-white",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_JosephTop_SaltWhite_1_1.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-leia-vee-sweater-almond",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Leia Vee Cashmere Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/leia-vee-sweater-almond",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/LeiaVeeSweater_LUX4201_Almond_042.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-leia-vee-sweater-anis",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Leia Vee Cashmere Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/leia-vee-sweater-anis",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Leia_65cb22a9-de24-44b8-8351-dafdd1ed41ad.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-leia-vee-sweater-camel-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Leia Vee Cashmere Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/leia-vee-sweater-camel-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/leiaveesweater_LUX4201_camelmelange_8_cropped.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-leia-vee-sweater-rose-quartz",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Leia Vee Cashmere Sweater",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/leia-vee-sweater-rose-quartz",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/LeiaVeeSweater_RoseQuartz_LUX4201-02.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-cashmere-off-shoulder-mist-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Cashmere Off Shoulder",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/lori-cashmere-off-shoulder-mist-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025Holiday_TheLoriCashmereOffShoulder_LUX3016_MistMelange_1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-off-shoulder-carob-brown",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Cashmere Off Shoulder",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/lori-off-shoulder-carob-brown",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/LoriCarob.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-off-shoulder-crimson",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Cashmere Off Shoulder",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/lori-off-shoulder-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/LoriOffShoulder_LUX3016_Crimson_EsmeSkirt_PUL4056_Fawn_2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-sleeveless-dress-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Sleeveless Cashmere Dress",
+    "price": 628,
+    "url": "https://brochuwalker.com/products/lori-sleeveless-dress-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/260923BWContent73893.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-sleeveless-dress-camel",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Sleeveless Cashmere Dress",
+    "price": 628,
+    "url": "https://brochuwalker.com/products/lori-sleeveless-dress-camel",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2024_LoriSleevelessDress_LUX3931_CamelMelange0214_1_content.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-sleeveless-dress-crimson",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Sleeveless Cashmere Dress",
+    "price": 628,
+    "url": "https://brochuwalker.com/products/lori-sleeveless-dress-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/lori_cashmere_crimson.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-sleeveless-dress-otter-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Sleeveless Cashmere Dress",
+    "price": 628,
+    "url": "https://brochuwalker.com/products/lori-sleeveless-dress-otter-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/lori_cashmere_dress.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-lori-sleeveless-mini-dress-dark-charcoal",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Sleeveless Cashmere Mini",
+    "price": 588,
+    "url": "https://brochuwalker.com/products/lori-sleeveless-mini-dress-dark-charcoal",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Lori-Sleeveless-Mini_LUX4652_Dk.-Charcoal-Melange_1.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-manon-cover-up-dress-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Manon Cover Up Dress",
+    "price": 368,
+    "url": "https://brochuwalker.com/products/manon-cover-up-dress-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/0079_2026_ManonCoverUpDress_Ecru_BLL4875-ECRU_09_bc8e4109-ccfb-47f2-b754-9423ec257fbd.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-marlow-cashmere-polo-sweater-sandstone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Marlow Cashmere Polo Sweater",
+    "price": 448,
+    "url": "https://brochuwalker.com/products/marlow-cashmere-polo-sweater-sandstone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_SIENAWRAPNECKCASHMEREPULLOVER_STONEMELANGE_LUX4070-STOML_01.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morrow-looker-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morrow Layered Looker",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/morrow-looker-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/250321BrochuWalkerContentShoot2287.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Hemp",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": [],
+    "liningLabel": "Underlayer"
+  },
+  {
+    "id": "brochu-walker-morrow-looker-white",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morrow Layered Looker",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/morrow-looker-white",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/MorrowLayeredLooker-PEARLWHITE_HMP4256_WestportPant-SALTWHITE_DNM3900_1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Hemp",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": [],
+    "liningLabel": "Underlayer"
+  },
+  {
+    "id": "brochu-walker-morten-cashmere-pullover-black",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Pullover",
+    "price": 448,
+    "url": "https://brochuwalker.com/products/morten-cashmere-pullover-black",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/260521BWEcom_MortenFunnelNeckCashmerePullover_LUX5078_BlackOnyx_0721_2_ff1504ad-fa29-46cb-977a-f16d49282950.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-cashmere-top-crimson",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-cashmere-top-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_MORTENFUNNELNECKCASHMERETOP_CRIMSON_LUX4328-CRMSN_01_158fd5b6-629b-4ff7-9461-bba3bab7614f.jpg?width=600",
+    "category": "Tops",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-funnel-neck-cashmere-top-canyon-orange-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-funnel-neck-cashmere-top-canyon-orange-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/morten_sweater_2.jpg?width=600",
+    "category": "Tops",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-funnel-neck-cashmere-top-java-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-funnel-neck-cashmere-top-java-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/morten_935d83c2-4c1e-4976-b631-a6c057bf87d2.jpg?width=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-funnel-neck-top-air-blue",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-funnel-neck-top-air-blue",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_Morten-Funnel-Neck-Top_LUX4328_AirBlueMelange_7.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-funnel-neck-top-bisque-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-funnel-neck-top-bisque-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/morten_new.jpg?width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-top-mist-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-top-mist-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2024_Morten-Funnel-Neck-Top_Mist-Melange_LUX4328-01_contentresized.jpg?width=600",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-morten-top-navy",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Morten Funnel Neck Cashmere Top",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/morten-top-navy",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/morten_navy_bbfc19aa-a7cc-4df6-bbb8-fe54ef6bc188.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-nico-pant-ivory",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Nico Pant",
+    "price": 388,
+    "url": "https://brochuwalker.com/products/nico-pant-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_NicoPant_Ivory_02.jpg?width=600",
+    "category": "Pants",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-odele-denim-pant-indigo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Odele Denim Pant",
+    "price": 348,
+    "url": "https://brochuwalker.com/products/odele-denim-pant-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Odele-Denim-Pant_DMG4055_Indigo__0461.jpg?width=600",
+    "category": "Denim",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        64
+      ],
+      [
+        "Linen",
+        36
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ophi-vee-buff",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ophi Cashmere Vee",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/ophi-vee-buff",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/OPHIE.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ophi-vee-otter-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ophi Cashmere Vee",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/ophi-vee-otter-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Ophi-Vee_LUX4035_Otter-Melange_Lara-Vegan-Leather-Pant_TPU4434_Brume_01.jpg.2.jpg?width=600",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ophi-vee-stone",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ophi Cashmere Vee",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/ophi-vee-stone",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Ophi-Vee_LUX-4035_Stone_0381.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-parker-jacket-rye",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Parker Jacket",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/parker-jacket-rye",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Parker-Jacket_LDF4890_Rye_1043.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-pia-denim-shirt-indigo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Pia Denim Shirt",
+    "price": 388,
+    "url": "https://brochuwalker.com/products/pia-denim-shirt-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_PIADENIMSHIRT_INDIGO_DNM4495-INDGO_04_d4c3aff8-38ad-4ead-8b44-87316f0c9e85.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-pippa-cuffed-short-flax",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Pippa Cuffed Short",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/pippa-cuffed-short-flax",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/pippacuffedshort_DNM4295_Flax_0276_2.jpg?width=600",
+    "category": "Shorts",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ramona-halter-top-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ramona Halter Top",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/ramona-halter-top-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/opt-4.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ramona-halter-top-ecru",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ramona Halter Top",
+    "price": 298,
+    "url": "https://brochuwalker.com/products/ramona-halter-top-ecru",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/250321BrochuWalkerContentShoot2557.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-ren-sweater-vest-otter-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Ren Sweater Vest",
+    "price": 328,
+    "url": "https://brochuwalker.com/products/ren-sweater-vest-otter-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_RENSWEATERVEST_OTTERMELANGE_26WC5077-OTRML_03_4961241c-6039-4df6-a66f-1b42f880ef89.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-rhea-cardigan-walnut-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Rhea Cashmere Cardigan",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/rhea-cardigan-walnut-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/rhea-cardigan-walnut_d771ba66-5923-4614-80aa-571842649663.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-rimy-cashmere-cardigan-sandstone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Rimy Cashmere Cardigan",
+    "price": 498,
+    "url": "https://brochuwalker.com/products/rimy-cashmere-cardigan-sandstone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/BW_holiday_campaign.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-siena-wrap-neck-cashmere-pullover-stone-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Siena Wrap Neck Cashmere Pullover",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/siena-wrap-neck-cashmere-pullover-stone-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_SIENAWRAPNECKCASHMEREPULLOVER_STONEMELANGE_LUX4070-STOML_05_17409aa7-da1e-44bb-8605-8250a1021aad.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-siena-wrap-neck-pullover-java-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Siena Wrap Neck Cashmere Pullover",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/siena-wrap-neck-pullover-java-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_SienaWrapNeckPullover_LUX4070_JavaMelange_3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-siena-wrap-neck-pullover-otter-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Siena Wrap Neck Cashmere Pullover",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/siena-wrap-neck-pullover-otter-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Siena_e78e29a1-2d50-4567-9a34-9ad7309ecfc2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-suvi-denim-dress-indigo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Suvi Denim Dress",
+    "price": 488,
+    "url": "https://brochuwalker.com/products/suvi-denim-dress-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Suvi_Denim_Dress_-_Campaign.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-talia-pant-flax",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Talia Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/talia-pant-flax",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/TaliaPant_DNM3779_Flax_1367_2_d5c761db-eb70-4c40-a90e-4d7d73d99b82.jpg?width=600",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-talia-pant-indigo",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Talia Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/talia-pant-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/taliapant_DNM3779_indigo_5_cropped.jpg?width=600",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-talia-pant-white",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Talia Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/talia-pant-white",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/TaliaPant_SaltWhite_1804_2.jpg?width=600",
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-the-everyday-cashmere-bright-crew-carob",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Everyday Cashmere Bright Crew",
+    "price": 428,
+    "url": "https://brochuwalker.com/products/the-everyday-cashmere-bright-crew-carob",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2025_TheEverydayCashmereBrightCrew_CarobMelange_6.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-the-lori-off-shoulder-bisque-melange",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Cashmere Off Shoulder",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/the-lori-off-shoulder-bisque-melange",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/lori-cashmere-ivory-off-shoulder-sweater-front-view-1fce3t.webp?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-the-lori-off-shoulder-black-onyx",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Lori Cashmere Off Shoulder",
+    "price": 468,
+    "url": "https://brochuwalker.com/products/the-lori-off-shoulder-black-onyx",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/lori-cashmere-off-shoulder-black-sweater-front-view-1amm4o.webp?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-westport-indigo-pant",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Westport Indigo Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/westport-indigo-pant",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/Westport-Pull-On-Pant_DNM_Indigo_2966.jpg?width=600",
+    "category": "Denim",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-westport-pant-flax",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Westport Pant",
+    "price": 398,
+    "url": "https://brochuwalker.com/products/westport-pant-flax",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/WestportPant_DNM3900_flax_0948_2.jpg?width=600",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Linen",
+        49
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-yara-top-ivory",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Yara Top",
+    "price": 148,
+    "url": "https://brochuwalker.com/products/yara-top-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/YaraTop_HJK4837_Ivory_1240_49668c1f-f928-418f-ae25-b1eff2edb9f9.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "brochu-walker-yara-top-pebble",
+    "retailer": "Brochu Walker",
+    "brand": "Brochu Walker",
+    "name": "Yara Top",
+    "price": 148,
+    "url": "https://brochuwalker.com/products/yara-top-pebble",
+    "image": "https://cdn.shopify.com/s/files/1/1041/6836/files/2026_LotiEyeletBubbleSkirt_BlackOnyx_JCP4427E-BKONX_03_1.jpg?width=600",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-2-pack-womens-try-it-t-shirts-black",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "2-Pack Lightweight Brushed Cotton Relaxed Tee & Slim Tee",
+    "price": 106,
+    "url": "https://naadam.co/products/2-pack-womens-try-it-t-shirts-black",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET006844-NWEt006843_LightweightBrushedRelaxedTeeandSlimTeePack_BlackBlack.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-2-pack-womens-try-it-t-shirts-white",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "2-Pack Lightweight Brushed Cotton Relaxed Tee & Slim Tee",
+    "price": 106,
+    "url": "https://naadam.co/products/2-pack-womens-try-it-t-shirts-white",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET006844-NWEt006843_LightweightBrushedRelaxedTeeandSlimTeePack_WhiteWhite_f326f12e-e3eb-46cb-aa1b-d6bcd8cbf8f3.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-3-pack-lightweight-brushed-relaxed-tee-pack-white-black-navy",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "3-pack Lightweight Brushed Cotton Relaxed Tee",
+    "price": 174,
+    "url": "https://naadam.co/products/3-pack-lightweight-brushed-relaxed-tee-pack-white-black-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET006844_LightweightBrushedRelaxedTeePack_WhiteBLackWashedNavy_e1561841-e8f5-4db5-81df-34ac680ff678.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-3-pack-lightweight-brushed-relaxed-tee-white-navy-pink",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "3-Pack Lightweight Brushed Cotton Relaxed Tee",
+    "price": 174,
+    "url": "https://naadam.co/products/3-pack-lightweight-brushed-relaxed-tee-white-navy-pink",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET006844_LightweightBrushedRelaxedTeePack_WhiteWashedNavyPink_9598182b-bd6b-483e-997e-a245f7b69076.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-3-pack-lightweight-brushed-slim-tee",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "3-Pack Lightweight Brushed Cotton Slim Tee",
+    "price": 144,
+    "url": "https://naadam.co/products/3-pack-lightweight-brushed-slim-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET006843_LightweightBrushedSlimTeePack_WhiteBLackSteelGrey_87094f2c-eb25-4962-b9e5-84b59330ab4b.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-basic-cashmere-short-sleeve-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Basic Cashmere Short Sleeve Sweater",
+    "price": 78,
+    "url": "https://naadam.co/products/basic-cashmere-short-sleeve-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/CORE-BASIC-SHORT-SLEEVE-CROPPED-PULL-OVER---OXFORD-NAVY_114.png?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-basic-cashmere-short-sleeve-sweater-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Basic Cashmere Short Sleeve Sweater",
+    "price": 78,
+    "url": "https://naadam.co/products/basic-cashmere-short-sleeve-sweater-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/CORE-BASIC-SHORT-SLEEVE-CROPPED-PULL-OVER--YELLOW_103.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-basic-cashmere-turtleneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Basic Cashmere Turtleneck Sweater",
+    "price": 88,
+    "url": "https://naadam.co/products/basic-cashmere-turtleneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/BASIC-TURTLENECK---HEATHER-GREY_054.png?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-basic-cashmere-turtleneck-sweater-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Basic Cashmere Turtleneck Sweater",
+    "price": 88,
+    "url": "https://naadam.co/products/basic-cashmere-turtleneck-sweater-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/BASIC-TURTLENECK---BROWN_058_61576100-a8d7-4604-a1e1-7a43974e4061.png?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-basic-cashmere-v-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Basic Cashmere V-Neck Sweater",
+    "price": 88,
+    "url": "https://naadam.co/products/basic-cashmere-v-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/BASIC-V-NECK---WHITE_067.png?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-basic-cashmere-v-neck-sweater-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Basic Cashmere V-Neck Sweater",
+    "price": 88,
+    "url": "https://naadam.co/products/basic-cashmere-v-neck-sweater-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/BASIC-V-NECK---LIGHT-PINK_064-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cashmere-boatneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Boatneck Sweater",
+    "price": 111,
+    "url": "https://naadam.co/products/cashmere-boatneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight-Cashmere-Boatneck-Sweater-_CO__Cement-_CO__0040.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cashmere-button-loop-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Button-Loop Cardigan",
+    "price": 149,
+    "url": "https://naadam.co/products/cashmere-button-loop-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET004635_CASHMERE_BUTTON-LOOP_CARDIGAN_OATMEAL_016.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cashmere-fitted-asymmetrical-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Fitted Asymmetrical Sweater",
+    "price": 134,
+    "url": "https://naadam.co/products/cashmere-fitted-asymmetrical-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET004636_CASHMERE_FITTED_ASYMMETRICAL_SWEATER_HEATHERED_BROWN_1621.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cashmere-ribbed-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Ribbed Sweater",
+    "price": 119,
+    "url": "https://naadam.co/products/cashmere-ribbed-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/products/WE92129_CASHMERE_RIBBED_SWEATER_BLACK_003.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cashmere-ribbed-sweater-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Ribbed Sweater",
+    "price": 119,
+    "url": "https://naadam.co/products/cashmere-ribbed-sweater-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight-Cashmere-Ribbed-Sweater-_CO_---Sky-Blue_055.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cashmere-turtleneck-dress-with-slits",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Turtleneck Dress with Slits",
+    "price": 298,
+    "url": "https://naadam.co/products/cashmere-turtleneck-dress-with-slits",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Turtleneck-Dress-with-Slit-_CO_---Black_003.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-chunky-cotton-polo-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Chunky Cotton Polo Sweater",
+    "price": 111,
+    "url": "https://naadam.co/products/chunky-cotton-polo-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Chunky_Cotton_Polo_Sweater_Bright_White_4063.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-coastal-cashmere-mixed-media-vest",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Coastal Cashmere Mixed Media Vest",
+    "price": 187,
+    "url": "https://naadam.co/products/coastal-cashmere-mixed-media-vest",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Coastal_Cashmere_Dual_Sided_Mixed_Media_Vest-Raffia_045.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": [],
+    "liningLabel": "Contrast fabric"
+  },
+  {
+    "id": "naadam-cotton-belted-tank",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Belted Tank",
+    "price": 74,
+    "url": "https://naadam.co/products/cotton-belted-tank",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_Belted_Tank-Ivory_079.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cotton-cashmere-mixed-media-barn-jacket",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Cashmere Mixed Media Barn Jacket",
+    "price": 247,
+    "url": "https://naadam.co/products/cotton-cashmere-mixed-media-barn-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_Cashmere_Mixed_Media_Barn_Jacket-Warm_Taupe_059.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "isNew": false,
+    "tags": [],
+    "liningLabel": "Contrast fabric"
+  },
+  {
+    "id": "naadam-cotton-cashmere-mixed-media-tunic",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Cashmere Mixed Media Tunic",
+    "price": 375,
+    "url": "https://naadam.co/products/cotton-cashmere-mixed-media-tunic",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_Cashmere_Mixed_Media_Tunic-White_066.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "isNew": false,
+    "tags": [],
+    "liningLabel": "Contrast fabric"
+  },
+  {
+    "id": "naadam-cotton-fisherman-cinched-waist-zip-up-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Fisherman Cinched Waist Zip Up Sweater",
+    "price": 134,
+    "url": "https://naadam.co/products/cotton-fisherman-cinched-waist-zip-up-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton-Fisherman-Cinched-Waist-Zip-Up-Sweater---Garnet-Red_1228.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cotton-fisherman-crewneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Fisherman Crewneck Sweater",
+    "price": 111,
+    "url": "https://naadam.co/products/cotton-fisherman-crewneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton-Fisherman-Crewneck-Sweater---Bubblegum-Pink_0675.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cotton-open-stitch-boatneck-tunic",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Open Stitch Boatneck Tunic",
+    "price": 125,
+    "url": "https://naadam.co/products/cotton-open-stitch-boatneck-tunic",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_Open_Stitch_Boatneck_Tunic-Ivory_033.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cotton-open-stitch-tank-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Open Stitch Tank Dress",
+    "price": 118,
+    "url": "https://naadam.co/products/cotton-open-stitch-tank-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_Open_Stitch_Tank_Dress-Black_018.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cotton-slip-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Brushed Cotton Slip Dress",
+    "price": 98,
+    "url": "https://naadam.co/products/cotton-slip-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_Slip_Dress-Steel_Gray_034.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cotton-smocked-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Smocked Dress",
+    "price": 395,
+    "url": "https://naadam.co/products/cotton-smocked-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_Smocked_Dress-Powder_Blue_032.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cotton-smocked-tee",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Smocked Tee",
+    "price": 158,
+    "url": "https://naadam.co/products/cotton-smocked-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_Smocked_Tee-Powder_blue_077.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-cotton-t-shirt-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Brushed Cotton T-Shirt Dress",
+    "price": 98,
+    "url": "https://naadam.co/products/cotton-t-shirt-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_T-Shirt_Dress-Black_010.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-fancy-cashmere-cropped-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere Cropped Cardigan",
+    "price": 158,
+    "url": "https://naadam.co/products/fancy-cashmere-cropped-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Fancy_Cashmere_Cropped_Cardigan__CO_White__CO__032.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-fancy-cashmere-sleeveless-turtleneck",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere Sleeveless Turtleneck",
+    "price": 128,
+    "url": "https://naadam.co/products/fancy-cashmere-sleeveless-turtleneck",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Fancy_Cashmere_Sleeveless_Turtleneck-White_048.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-featherweight-cashmere-polo",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Featherweight Cashmere Polo Sweater",
+    "price": 134,
+    "url": "https://naadam.co/products/featherweight-cashmere-polo",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Featherweight_Cashmere_Relaxed_Polo__CO__Peony_0264.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-featherweight-cashmere-relaxed-polo",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Featherweight Cashmere Relaxed Polo",
+    "price": 149,
+    "url": "https://naadam.co/products/featherweight-cashmere-relaxed-polo",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Featherweight_Cashmere_Relaxed_Polo-White_087.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-featherweight-cashmere-slim-crewneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Featherweight Cashmere Slim Crewneck Sweater",
+    "price": 119,
+    "url": "https://naadam.co/products/featherweight-cashmere-slim-crewneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Featherweight_Cashmere_Slim_Crewneck_Sweater-Black_067.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-featherweight-cashmere-v-neck-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Featherweight Cashmere V-Neck Cardigan",
+    "price": 134,
+    "url": "https://naadam.co/products/featherweight-cashmere-v-neck-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Featherweight-Cashmere-V-Neck-Cardigan_Black_0119.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-brushed-relaxed-tee",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Brushed Relaxed Tee",
+    "price": 58,
+    "url": "https://naadam.co/products/lightweight-brushed-relaxed-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Brushed_Relaxed_Tee-Washed_Navy_133.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-brushed-slim-tee",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Brushed Cotton Slim Tee",
+    "price": 48,
+    "url": "https://naadam.co/products/lightweight-brushed-slim-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Brushed_Slim_Tee-White_030.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-boatneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Boatneck Sweater",
+    "price": 111,
+    "url": "https://naadam.co/products/lightweight-cashmere-boatneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Cashmere_Boatneck_Sweater__CO__Scarlet_Red_0078_68f50cea-b1cd-4988-8902-894a57b5151e.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-cable-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Cable Cardigan",
+    "price": 171,
+    "url": "https://naadam.co/products/lightweight-cashmere-cable-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Featherweight_Cashmere_Cable_Cardigan_Granite_0047.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-cable-short-sleeve-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Cable Short Sleeve Cardigan",
+    "price": 134,
+    "url": "https://naadam.co/products/lightweight-cashmere-cable-short-sleeve-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight-Cashmere-Cable-Short-Sleeve-Cardigan---White_063.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-henley-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Henley Sweater",
+    "price": 134,
+    "url": "https://naadam.co/products/lightweight-cashmere-henley-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight-Cashmere-Henley-Sweater_Granite_0079.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-high-v-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere High V-Neck Sweater",
+    "price": 141,
+    "url": "https://naadam.co/products/lightweight-cashmere-high-v-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Cashmere_High_V-Neck_Sweater-Granite_078.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-off-the-shoulder-tank",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Off The Shoulder Tank",
+    "price": 111,
+    "url": "https://naadam.co/products/lightweight-cashmere-off-the-shoulder-tank",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Cashmere_Off_The_Shoulder_Tank-White_103.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-open-front-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Open Front Cardigan",
+    "price": 149,
+    "url": "https://naadam.co/products/lightweight-cashmere-open-front-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Cashmere_Open_Front_Cardigan-Granite_096.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-quarter-zip-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Quarter Zip Sweater",
+    "price": 198,
+    "url": "https://naadam.co/products/lightweight-cashmere-quarter-zip-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight-Cashmere-Quarter-Zip-Sweater_Ruby-Red_0096.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-relaxed-boatneck",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Relaxed Boatneck Sweater",
+    "price": 134,
+    "url": "https://naadam.co/products/lightweight-cashmere-relaxed-boatneck",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight-Cashmere-Relaxed-Boatneck-Sweater-_CO_---Butter-Yellow_047.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-ribbed-mockneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Ribbed Mockneck Sweater",
+    "price": 126,
+    "url": "https://naadam.co/products/lightweight-cashmere-ribbed-mockneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight-Cashmere-Ribbed-Mockneck-Sweater---Navy_086.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-short-sleeve-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Short Sleeve Cardigan",
+    "price": 119,
+    "url": "https://naadam.co/products/lightweight-cashmere-short-sleeve-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET005400_LIGHTWEIGHT_CASHMERE_SHORT_SLEEVE_CARDIGAN_BLACK_028.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-short-sleeve-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Short Sleeve Sweater",
+    "price": 111,
+    "url": "https://naadam.co/products/lightweight-cashmere-short-sleeve-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Cashmere_Short_Sleeve_Sweater__CO__White_0809.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-short-sleeve-sweater-2",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Short Sleeve Sweater",
+    "price": 111,
+    "url": "https://naadam.co/products/lightweight-cashmere-short-sleeve-sweater-2",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Cashmere_Short_Sleeve_Sweater_CO-Pink_Mist_096.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-short-sleeve-turtleneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Short Sleeve Turtleneck Sweater",
+    "price": 119,
+    "url": "https://naadam.co/products/lightweight-cashmere-short-sleeve-turtleneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight-Cashmere-Short-Sleeve-Turtleneck-Sweater_Black_0088.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-short-sleeve-v-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Short Sleeve V-Neck Sweater",
+    "price": 111,
+    "url": "https://naadam.co/products/lightweight-cashmere-short-sleeve-v-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Cashmere_Short_Sleeve_V-Neck_Sweater__CO__Cement_0028.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-striped-high-v-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Striped High V-Neck Sweater",
+    "price": 141,
+    "url": "https://naadam.co/products/lightweight-cashmere-striped-high-v-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Cashmere_Striped_High_V-Neck_Sweater_CO-Navy_Combo_087.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-v-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere V-Neck Sweater",
+    "price": 119,
+    "url": "https://naadam.co/products/lightweight-cashmere-v-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight-Cashmere-V-Neck-Sweater-_CO__Black-_CO__0081.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-v-neck-sweater-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere V-Neck Sweater",
+    "price": 119,
+    "url": "https://naadam.co/products/lightweight-cashmere-v-neck-sweater-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight-Cashmere-V-Neck-Sweater-_CO__Wine_0038.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-lightweight-cashmere-wrap-top-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Lightweight Cashmere Wrap Top",
+    "price": 186,
+    "url": "https://naadam.co/products/lightweight-cashmere-wrap-top-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Lightweight_Cashmere_Wrap_Top-Black_076.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-long-sleeve-cropped-pullover",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cashmere Long Sleeve Cropped Pullover",
+    "price": 127,
+    "url": "https://naadam.co/products/long-sleeve-cropped-pullover",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Pullover_black-1.png?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-airy-cashmere-fisherman-crewneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Airy Cashmere Fisherman Crewneck Sweater",
+    "price": 171,
+    "url": "https://naadam.co/products/luxe-airy-cashmere-fisherman-crewneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Featherweight_Fisherman_Crewneck_White_0092.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-boxy-crewneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Boxy Crewneck Sweater",
+    "price": 268,
+    "url": "https://naadam.co/products/luxe-cashmere-boxy-crewneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe_Cashmere_Boxy_Crewneck_Sweater_Rose_Pink_0084.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-cable-crewneck-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Cable Crewneck",
+    "price": 328,
+    "url": "https://naadam.co/products/luxe-cashmere-cable-crewneck-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe_Cashmere_Cable_CrewneckGranite_055.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-collared-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Collared Cashmere Cardigan",
+    "price": 338,
+    "url": "https://naadam.co/products/luxe-cashmere-collared-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe-Cashmere-Collared-Cardigan---Chocolate_061.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-dip-dye-tank",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Novelty Cashmere Dip Dye Cable Tank",
+    "price": 146,
+    "url": "https://naadam.co/products/luxe-cashmere-dip-dye-tank",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe_Cashmere_Dip_Dye_TankTan_Combo_051.jpg?width=600",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-oversized-crewneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Oversized Crewneck Sweater",
+    "price": 298,
+    "url": "https://naadam.co/products/luxe-cashmere-oversized-crewneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe-Cashmere-Oversized-Crewneck-Sweater-_CO_---Black_2235.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-oversized-crewneck-sweater-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Oversized Crewneck Sweater",
+    "price": 298,
+    "url": "https://naadam.co/products/luxe-cashmere-oversized-crewneck-sweater-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cashmere-Crewneck-and-Pant-Dark_Camel_6674.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-oversized-turtleneck",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Oversized Turtleneck",
+    "price": 378,
+    "url": "https://naadam.co/products/luxe-cashmere-oversized-turtleneck",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Luxe-Cashmere-Oversized-Turtleneck-Sweater-_CO_---Wine_069.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-quarter-zip-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Quarter Zip Sweater",
+    "price": 348,
+    "url": "https://naadam.co/products/luxe-cashmere-quarter-zip-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe_Cashmere_Quarter_Zip_Sweater_Rose_Pink_0022.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-saddle-crewneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Saddle Cashmere Crewneck Sweater",
+    "price": 139,
+    "url": "https://naadam.co/products/luxe-cashmere-saddle-crewneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe-Cashmere-Saddle-Crewneck-Sweater---Maroon_058.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-scoop-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Scoop Neck Sweater",
+    "price": 298,
+    "url": "https://naadam.co/products/luxe-cashmere-scoop-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe_Cashmere_Scoop_Neck_Sweater_Rich_Brown_0067.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-split-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Split Neck Sweater",
+    "price": 298,
+    "url": "https://naadam.co/products/luxe-cashmere-split-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe-Cashmere-Split-Neck-Sweater_Cacao_0063.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-turtleneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Turtleneck Sweater",
+    "price": 298,
+    "url": "https://naadam.co/products/luxe-cashmere-turtleneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe-Cashmere-Turtleneck-Sweater---Oat_496.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-v-neck-bomber-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere V-Neck Bomber Cardigan",
+    "price": 328,
+    "url": "https://naadam.co/products/luxe-cashmere-v-neck-bomber-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe-Cashmere-V-Neck-Bomber-Cardigan---Navy_1767.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmere-voop-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Voop Neck Sweater",
+    "price": 338,
+    "url": "https://naadam.co/products/luxe-cashmere-voop-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe-Cashmere-Voop-Neck-Sweater_Navy_0079.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cashmino-pocket-crewneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmino Pocket Crewneck Sweater",
+    "price": 228,
+    "url": "https://naadam.co/products/luxe-cashmino-pocket-crewneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe-Cashmino-Pocket-Crewneck-Sweater_Oat_0067.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-luxe-cotton-pointelle-stitch-polo",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Chunky Cotton Pointelle Stitch Polo",
+    "price": 124,
+    "url": "https://naadam.co/products/luxe-cotton-pointelle-stitch-polo",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Luxe_Cotton_Pointelle_Stitch_PoloSand_059.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-merino-cashmere-cable-short",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cashmino Cable Short",
+    "price": 49,
+    "url": "https://naadam.co/products/merino-cashmere-cable-short",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/products/NWET003061_MERINO_CASHMERE_CABLE_SHORT_BLACK_015.jpg?width=600",
+    "category": "Shorts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-merino-cashmere-ribbed-button-down-turtleneck",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cashmino Half Button Sweater",
+    "price": 149,
+    "url": "https://naadam.co/products/merino-cashmere-ribbed-button-down-turtleneck",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWCT003569_MERINO_CASHMERE_RIBBED_BUTTON_DOWN_TURTLENECK_BLACK_191.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-organic-cotton-button-down-shirt-womens",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Organic Cotton Button Down Shirt",
+    "price": 96,
+    "url": "https://naadam.co/products/organic-cotton-button-down-shirt-womens",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_Button_Down_Shirt__CO_Light_Blue_037.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-organic-cotton-drawstring-shorts",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Organic Cotton Drawstring Shorts",
+    "price": 30,
+    "url": "https://naadam.co/products/organic-cotton-drawstring-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET004311-Organic-Cotton-Drawstring-Shorts-Navy_1263.jpg?width=600",
+    "category": "Shorts",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-organic-cotton-relaxed-crewneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Relaxed Crewneck Sweater",
+    "price": 96,
+    "url": "https://naadam.co/products/organic-cotton-relaxed-crewneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton-Relaxed-Crewneck-Sweater-_CO__Ballet-Pink_0063.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-organic-cotton-sleeveless-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton Sleeveless Cardigan",
+    "price": 104,
+    "url": "https://naadam.co/products/organic-cotton-sleeveless-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton_Sleeveless_Cardigan_pure_white_160.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-organic-cotton-v-neck-sweater-womens",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cotton V-Neck Sweater",
+    "price": 96,
+    "url": "https://naadam.co/products/organic-cotton-v-neck-sweater-womens",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Cotton-V-Neck-Sweater-_CO__Ivory_0075.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-boxy-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Boxy Cardigan",
+    "price": 194,
+    "url": "https://naadam.co/products/signature-cashmere-boxy-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Boxy-Cardigan-_CO__Rich-Brown_0118.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-boxy-turtleneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Boxy Turtleneck Sweater",
+    "price": 186,
+    "url": "https://naadam.co/products/signature-cashmere-boxy-turtleneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmere_Boxy_Turtleneck__CO__Scarlet_Red_5676.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-cinched-waist-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Cinched Waist Cardigan",
+    "price": 186,
+    "url": "https://naadam.co/products/signature-cashmere-cinched-waist-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Cinched-Waist-Cardigan_Oatmeal_0057.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-classic-v-neck",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Classic V-Neck Sweater",
+    "price": 164,
+    "url": "https://naadam.co/products/signature-cashmere-classic-v-neck",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-V-Neck_Black_4850.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-crewneck-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Crewneck Cardigan",
+    "price": 238,
+    "url": "https://naadam.co/products/signature-cashmere-crewneck-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmere_Crewneck_Cardigan_Deep_Blue_0105_3147584e-6309-4449-b2f4-d2f605241359.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-crewneck-sweater-with-pintucks",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Crewneck Sweater with Pintucks",
+    "price": 160,
+    "url": "https://naadam.co/products/signature-cashmere-crewneck-sweater-with-pintucks",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Crewneck-Sweater-with-Pintucks---Oatmeal_037.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-cropped-pant-with-pintucks",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Cropped Pant with Pintucks",
+    "price": 198,
+    "url": "https://naadam.co/products/signature-cashmere-cropped-pant-with-pintucks",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Cropped-Pant-with-Pintucks-_CO__Granite_0003_c2f14890-8825-4b06-b0bd-d7e2fd8c4768.jpg?width=600",
+    "category": "Pants",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-high-neck-tank",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere High Neck Tank",
+    "price": 74,
+    "url": "https://naadam.co/products/signature-cashmere-high-neck-tank",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmere_High_Neck_Tank_CO-Granite_092.jpg?width=600",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-one-shoulder-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere One Shoulder Dress",
+    "price": 224,
+    "url": "https://naadam.co/products/signature-cashmere-one-shoulder-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-One-Shoulder-Dress---Black_019.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-polo-sweater-womens",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Polo Sweater",
+    "price": 149,
+    "url": "https://naadam.co/products/signature-cashmere-polo-sweater-womens",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Polo-Sweater_Black_0080.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-scoop-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Scoop Neck Sweater",
+    "price": 179,
+    "url": "https://naadam.co/products/signature-cashmere-scoop-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmere_Oversized_Scoop_Neck_Sweater-Oatmeal_075_3cf88ecf-1fe6-451b-a76f-aeb962f81575.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-short-sleeve-polo",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Short Sleeve Polo",
+    "price": 134,
+    "url": "https://naadam.co/products/signature-cashmere-short-sleeve-polo",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmere_Short_Sleeve_Polo-Navy_067.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-straight-leg-pant",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Straight Leg Pant",
+    "price": 228,
+    "url": "https://naadam.co/products/signature-cashmere-straight-leg-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Crewneck-Cardigan_Navy_0009.jpg?width=600",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-straight-leg-pant-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Straight Leg Pant",
+    "price": 228,
+    "url": "https://naadam.co/products/signature-cashmere-straight-leg-pant-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmere_Straight_Leg_Pant_CO_Dark_Purple_0072.jpg?width=600",
+    "category": "Pants",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-three-quarter-sleeve-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Three-Quarter Sleeve Cardigan",
+    "price": 171,
+    "url": "https://naadam.co/products/signature-cashmere-three-quarter-sleeve-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmere_Three-Quarter_Sleeve_Cardigan-Brown_Sugar_083.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmere-wrap-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Wrap Dress",
+    "price": 261,
+    "url": "https://naadam.co/products/signature-cashmere-wrap-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature-Cashmere-Wrap-Dress-_CO_---Dark-Camel_041.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmino-belted-turtleneck-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmino Belted Turtleneck Dress",
+    "price": 298,
+    "url": "https://naadam.co/products/signature-cashmino-belted-turtleneck-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmino_Belted_Turtleneck_Dress_Black_0075.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmino-jumpsuit",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmino Jumpsuit",
+    "price": 224,
+    "url": "https://naadam.co/products/signature-cashmino-jumpsuit",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmino_Jumpsuit_Black_0032.jpg?width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-signature-cashmino-v-neck-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmino V Neck Dress",
+    "price": 209,
+    "url": "https://naadam.co/products/signature-cashmino-v-neck-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmino_V_Neck_Dress_Cacao_0039.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-silk-blend-pointelle-cropped-pant",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Silk Blend Pointelle Cropped Pant",
+    "price": 98,
+    "url": "https://naadam.co/products/silk-blend-pointelle-cropped-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWCT005335_Silk-Blend-Pointelle-Cropped-Pant_Black_4025.jpg?width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        70
+      ],
+      [
+        "Silk",
+        20
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-silk-cashmere-cutout-turtleneck",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Silk Cashmere Cutout Turtleneck",
+    "price": 59,
+    "url": "https://naadam.co/products/silk-cashmere-cutout-turtleneck",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET004810_SILK_CASHMERE_CUTOUT_TURTLENECK_CEMENT_842.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Silk",
+        85
+      ],
+      [
+        "Cashmere",
+        15
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-silk-cashmere-midi-tank-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Silk Cashmere Midi Tank Dress",
+    "price": 80,
+    "url": "https://naadam.co/products/silk-cashmere-midi-tank-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET004817_SILK_CASHMERE_MIDI_TANK_DRESS_CEMENT_442.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Silk",
+        85
+      ],
+      [
+        "Cashmere",
+        15
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-fine-cashmere-classic-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere Classic Cardigan",
+    "price": 228,
+    "url": "https://naadam.co/products/super-fine-cashmere-classic-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Fancy-Cashmere-Cardigan_Bright_Navy_015.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-fine-cashmere-classic-turtleneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere Classic Turtleneck Sweater",
+    "price": 198,
+    "url": "https://naadam.co/products/super-fine-cashmere-classic-turtleneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super_Fine_Cashmere_Classic_Turtleneck_Sweater_CO_Rich_Brown_0068.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-fine-cashmere-long-sleeve-polo-womens",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere Long Sleeve Polo",
+    "price": 198,
+    "url": "https://naadam.co/products/super-fine-cashmere-long-sleeve-polo-womens",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Fancy-Cashmere-Long-Sleeve-Polo---White_1009.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-fine-cashmere-shrunken-t-shirt",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere Shrunken T-Shirt",
+    "price": 118,
+    "url": "https://naadam.co/products/super-fine-cashmere-shrunken-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Fancy-Cashmere-Shrunken-T-Shirt---White_132-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-fine-cashmere-sleeveless-turtleneck-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere Sleeveless Turtleneck Dress",
+    "price": 268,
+    "url": "https://naadam.co/products/super-fine-cashmere-sleeveless-turtleneck-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Fine-Cashmere-Sleeveless-Turtleneck-Dress---granite_2755.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-fine-cashmere-t-shirt",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere T-Shirt",
+    "price": 148,
+    "url": "https://naadam.co/products/super-fine-cashmere-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super_Fine_Cashmere_T-Shirt__CO_-Bright_Navy_083_568df667-b0ba-4e57-a18f-fdf905a9da9b.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-fine-cashmere-tank",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere Tank",
+    "price": 118,
+    "url": "https://naadam.co/products/super-fine-cashmere-tank",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super_Fine_Cashmere_Tank__CO_-Granite_044.jpg?width=600",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-luxe-cashmere-crewneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Luxe Cashmere Crewneck Sweater",
+    "price": 378,
+    "url": "https://naadam.co/products/super-luxe-cashmere-crewneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Luxe-Cashmere-Crewneck-Sweater-_CO__Ruby-Red_0032.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-luxe-cashmere-crossover-v-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Luxe Cashmere Crossover V-Neck Sweater",
+    "price": 358,
+    "url": "https://naadam.co/products/super-luxe-cashmere-crossover-v-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Luxe-Cashmere-Crossover-V-Neck-Sweater_Granite_0056.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-luxe-cashmere-double-faced-shawl-collar-jacket",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Luxe Cashmere Double Faced Shawl Collar Jacket",
+    "price": 426,
+    "url": "https://naadam.co/products/super-luxe-cashmere-double-faced-shawl-collar-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Luxe-Cashmere-Double-Faced-Shawl-Collar-Jacket---Black_3430.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-luxe-cashmere-fisherman-v-neck-sweater-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Luxe Cashmere Fisherman V-Neck Sweater",
+    "price": 398,
+    "url": "https://naadam.co/products/super-luxe-cashmere-fisherman-v-neck-sweater-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Luxe-Cashmere-Fisherman-V-Neck-Sweater---Scarlet-Red_066.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-luxe-cashmere-quarter-button-down-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Luxe Cashmere Quarter Button Down Sweater",
+    "price": 298,
+    "url": "https://naadam.co/products/super-luxe-cashmere-quarter-button-down-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Luxe-Cashmere-Quarter-Button-Down-Sweater_Ruby-Red_0086.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-luxe-cashmere-tie-waist-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Luxe Cashmere Tie Waist Cardigan",
+    "price": 468,
+    "url": "https://naadam.co/products/super-luxe-cashmere-tie-waist-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Luxe-Cashmere-Tie-Waist-Cardigan---Oat_1078.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-luxe-cashmere-v-neck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Luxe Cashmere V-Neck Sweater",
+    "price": 358,
+    "url": "https://naadam.co/products/super-luxe-cashmere-v-neck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Luxe-Cashmere-V-Neck-Sweater-_CO_---Bubblegum-Pink_1325.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-luxe-cashmino-double-faced-jacket-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Luxe Cashmino Double Faced Jacket",
+    "price": 448,
+    "url": "https://naadam.co/products/super-luxe-cashmino-double-faced-jacket-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Luxe-Cashmino-Double-Faced-Jacket_Dark-Camel_0067.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-super-luxe-cashmino-toggle-jacket",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Luxe Cashmino Toggle Jacket",
+    "price": 299,
+    "url": "https://naadam.co/products/super-luxe-cashmino-toggle-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super-Luxe-Cashmino-Toggle-Jacket---Oat_062.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-textured-crewneck-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Cashmino Textured Crewneck Sweater",
+    "price": 130,
+    "url": "https://naadam.co/products/textured-crewneck-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/products/WE02127_TEXTURED_CREWNECK_SWEATER_BLACK_02.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-the-classic-tee-womens",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "The Classic Tee",
+    "price": 48,
+    "url": "https://naadam.co/products/the-classic-tee-womens",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/The_Shrunken_Tee_Women_s__CO_Navy__CO__082.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-the-essential-cashmere-hoodie-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Hoodie",
+    "price": 171,
+    "url": "https://naadam.co/products/the-essential-cashmere-hoodie-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/The-Off-Duty-Cashmere-Hoodie-_CO__Navy-_CO__W_0044.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-the-essential-cashmere-hoodie-women",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Hoodie",
+    "price": 171,
+    "url": "https://naadam.co/products/the-essential-cashmere-hoodie-women",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/The-Off-Duty-Cashmere-Hoodie-_CO_---Oatmeal_066.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-the-off-duty-cashmere-hoodie",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Signature Cashmere Hoodie",
+    "price": 171,
+    "url": "https://naadam.co/products/the-off-duty-cashmere-hoodie",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmere_Hoodie_CO_Heathered_Sea_Teal_0071.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-the-original-cashmere-crewneck-sweater-womens-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "The Original Cashmere Sweater Women's",
+    "price": 98,
+    "url": "https://naadam.co/products/the-original-cashmere-crewneck-sweater-womens-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/The_Original_Cashmere_Sweater_Womens__CO__Powder_Blue_2925.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-the-original-cashmere-sweater-womens-1",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "The Original Cashmere Sweater Women's",
+    "price": 98,
+    "url": "https://naadam.co/products/the-original-cashmere-sweater-womens-1",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/The_Original_Cashmere_Sweater_Womens__CO__Granite_3728.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-the-original-sweater-womens",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "The Original Cashmere Crewneck Sweater Women's",
+    "price": 98,
+    "url": "https://naadam.co/products/the-original-sweater-womens",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/The_Original_Cashmere_Sweater_Womens__CO__Olive_3727.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-twill-oversized-jacket",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Soft Denim Oversized Jacket",
+    "price": 74,
+    "url": "https://naadam.co/products/twill-oversized-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET004966_TWILL_OVERSIZED_JACKET_NAVY_040.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-twill-wide-leg-pant",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Soft Denim Wide Leg Pant",
+    "price": 96,
+    "url": "https://naadam.co/products/twill-wide-leg-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/TwillWideLegPant_-Milk_4.jpg?width=600",
+    "category": "Denim",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-ultra-fine-cashmere-t-shirt",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere T-Shirt",
+    "price": 148,
+    "url": "https://naadam.co/products/ultra-fine-cashmere-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/FancyCashmereShortSleeve_White_159.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-ultra-fine-cashmere-t-shirt-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere T-Shirt Dress",
+    "price": 198,
+    "url": "https://naadam.co/products/ultra-fine-cashmere-t-shirt-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWED000356_FANCY_CASHMERE_T_SHIRT_DRESS_BLACK_4069-retouched.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-ultra-fine-cashmere-tank",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere Tank",
+    "price": 118,
+    "url": "https://naadam.co/products/ultra-fine-cashmere-tank",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Super_Fine_Cashmere_Tank-White_006.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-ultra-fine-cashmere-tank-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Super Fine Cashmere Tank Dress",
+    "price": 188,
+    "url": "https://naadam.co/products/ultra-fine-cashmere-tank-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/products/NWED000357_FANCY_CASHMERE_TANK_DRESS_BLACK_010.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-ultra-luxe-cashmere-high-neck-cardigan",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Ultra Luxe Cashmere High Neck Cardigan",
+    "price": 528,
+    "url": "https://naadam.co/products/ultra-luxe-cashmere-high-neck-cardigan",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET006417_ULTRA_LUXE_CASHMERE_HIGH_NECK_CARDIGAN_NAVY.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "naadam-utility-belted-trousers",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Utility Belted Trousers",
+    "price": 146,
+    "url": "https://naadam.co/products/utility-belted-trousers",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWCT003339-Sand-3.jpg?width=600",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-womens-palm-tree-lightweight-cashmere-short-sleeve-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Women's Palm Tree Lightweight Cashmere Short Sleeve Sweater",
+    "price": 158,
+    "url": "https://naadam.co/products/womens-palm-tree-lightweight-cashmere-short-sleeve-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET007505_Women_sPalmTreeLightweightCashmereShortSleeveSweater_01.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-womens-rose-cashmere-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Women's Rose Cashmere Sweater",
+    "price": 99,
+    "url": "https://naadam.co/products/womens-rose-cashmere-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET007323_The_Original_Cashmere_Sweater_Womens__CO__Cement_4406.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-womens-seashell-cashmere-sweater",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Women's Seashell Cashmere Sweater",
+    "price": 148,
+    "url": "https://naadam.co/products/womens-seashell-cashmere-sweater",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWET007506_Women_sSeashellCashmereSweater_03.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-wool-silk-reversible-twist-top",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Wool Silk Reversible Twist Top",
+    "price": 50,
+    "url": "https://naadam.co/products/wool-silk-reversible-twist-top",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/NWCT002936_REVERSIBLE_TWIST_TOP_RED_APPLE_1859.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Merino wool",
+        75
+      ],
+      [
+        "Silk",
+        25
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-woven-button-up-with-embroidery-detail",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Woven Button Up Dress with Embroidery Detail",
+    "price": 80,
+    "url": "https://naadam.co/products/woven-button-up-with-embroidery-detail",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Woven-Button-Up-with-Embroidery-Detail--Blue-Denim_051.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "naadam-woven-cotton-slip-dress",
+    "retailer": "Naadam",
+    "brand": "Naadam",
+    "name": "Novelty Woven Cotton Slip Dress",
+    "price": 146,
+    "url": "https://naadam.co/products/woven-cotton-slip-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Woven_Cotton_Slip_Dress_Tan_5509.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
   }
 ]
