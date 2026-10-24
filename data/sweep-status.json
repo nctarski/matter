@@ -661,11 +661,11 @@
       "brand": "Quince",
       "method": "product-page",
       "cadence": "regular",
-      "status": "partial",
+      "status": "done",
       "cursor": null,
       "lastSweep": "2026-10-24",
-      "lastDelta": 60,
-      "note": "Product pages from sitemap_pdps.xml; see REVIEW-LOOP.md. 2026-10-24: 2,537 pages read, 406 in-stock pieces passed, 60 staged (a mix across categories) because the review page was full after the nightly. The other 346 passed and are held; they are not in the ledger, so the next sweep finds them again. One card per product in its first in-stock colour."
+      "lastDelta": 346,
+      "note": "Product pages from sitemap_pdps.xml; see REVIEW-LOOP.md. 2026-10-24: 2,537 pages read, 406 in-stock pieces passed. 60 staged first, then the other 345 once the review page had room. The Cotton Mixed Media Puff Sleeve Top was dropped as no-composition: its URL says Tencel and its fiber tag says Modal/Rayon while the materials line says cotton. Ten pieces have lace, piping or mesh pocketing with no fiber stated; their trim note says so for review. 35 sold-out passing pieces are not in the ledger, so the next sweep finds them if they restock. One card per product in its first in-stock colour."
     },
     {
       "order": 59,
