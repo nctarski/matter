@@ -188,6 +188,20 @@ Mytheresa (Material), Falconeri (shop by yarn), Banana Republic (sweater
 fabric), COS, & Other Stories, H&M, J.Crew, Anthropologie, Aritzia, Ganni. Add
 these one at a time after the Nordstrom pull proves stable.
 
+**Quince. Not Shopify, works from the product pages.** List product URLs from
+`/sitemap_pdps.xml` and keep `/women/` and `/unisex/` paths. Each product page
+carries everything in its HTML. Composition, lining and trim notes sit in
+`productPurchaseV2Data.attributeValues.details` inside `__NEXT_DATA__`, written
+as prose bullets ("Crafted from 100% Mongolian cashmere", "Fully lined with
+100% polyester", "Rib details: ..."). Colours, prices, stock and images sit in
+the `application/ld+json` ProductGroup (`hasVariant`). Use `productTypeName`
+and `classification.division` to keep women's apparel only. Some linings apply
+to named colours only ("White and Flax are fully lined"); show the lining only
+when the staged colour is named. Stage one card per product in its first
+in-stock colour, and skip Plus, Petite and Extended Sizes copies of a product
+already staged. Chrome blocks downloads from quince.com, so pass the data to an
+example.com tab with postMessage and download from there.
+
 **Mango.** 403 on category pages fetched by script, and no material filter.
 Hand pick only.
 **Neiman Marcus.** Serves a CAPTCHA. Do not attempt to get past it. Manual or

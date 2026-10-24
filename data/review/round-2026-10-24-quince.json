@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "quince-100-leather-cropped-shirt-jacket",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Leather Cropped Jacket",
+    "price": 225,
+    "url": "https://www.quince.com/women/100-leather-cropped-shirt-jacket",
+    "image": "https://images.quince.com/6BwBBSpwuasYyiFx2qeOkq/537f7c696680f9c8dd36bab62eec4434/W-JKT-54-RBRN-01_EDITED.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-smocked-boat-neck-maxi-dress",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Organic Cotton Poplin Boatneck Maxi Dress",
+    "price": 64,
+    "url": "https://www.quince.com/women/smocked-boat-neck-maxi-dress",
+    "image": "https://images.quince.com/220MAME9AVX6kqIrjiUKTZ/fd2eba918b0b6b62c24a06b564f9406b/W-DRS-225-NAV_01_EDITED.jpg?w=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-cotton-micro-rib-crop-cutaway-tank",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Cotton Micro-Rib Cropped Cutaway Tank",
+    "price": 15,
+    "url": "https://www.quince.com/women/organic-cotton-micro-rib-crop-cutaway-tank",
+    "image": "https://images.quince.com/42pBXYwLqsWqvFQlECj9Lg/3928c8fa9d040334e7e849cc32c3fad8/W-LKT-127-CHOCPLBR-01_EDITED.jpg?w=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Organic cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-embroidered-cotton-ruffle-collar-short-sleeve-blouse",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Embroidered Cotton Ruffle Collar Short Sleeve Blouse",
+    "price": 50,
+    "url": "https://www.quince.com/women/embroidered-cotton-ruffle-collar-short-sleeve-blouse",
+    "image": "https://images.quince.com/1Rc33IpSAc7Z0fiQcosiEV/0828deb659a5bc76af29702aebb3974d/W-BLO-120-CLWHT-01_EDITED.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-women-s-organic-heavyweight-fleece-cropped-half-zip-hoodie",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Heavyweight Fleece Cropped Half Zip Hoodie",
+    "price": 50,
+    "url": "https://www.quince.com/women/women-s-organic-heavyweight-fleece-cropped-half-zip-hoodie",
+    "image": "https://images.quince.com/4lGot8LWhFJv0CrJmn40PL/1e4e2dad6f285f09cbe064254f90d6ac/W-HKT-26-BLK_0371.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-mongolian-cashmere-rib-midi-skirt",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Mongolian Cashmere Midi Skirt",
+    "price": 100,
+    "url": "https://www.quince.com/women/mongolian-cashmere-rib-midi-skirt",
+    "image": "https://images.quince.com/2xigLUYNbHhLha9wVo8NPF/9e90629e3bd7746a502cee9fde7d909b/W-SKT-3-BRN-32707_EDITED_1.jpg?w=600",
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-washable-silk-pajama-long-sleeve-top",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Washable Silk Pajama Long Sleeve Top",
+    "price": 80,
+    "url": "https://www.quince.com/women/100-washable-silk-pajama-long-sleeve-top",
+    "image": "https://images.quince.com/2Ppp6EmH9mCoasssOpgGxL/9a4fca7e98a011918ac78d55f36628d6/W-LGW-25-CHAR_1719.jpg?w=600",
+    "category": "Sleep & lounge",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-italian-wool-straight-leg-pants",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Italian Wool Straight Leg Pants",
+    "price": 100,
+    "url": "https://www.quince.com/women/italian-wool-straight-leg-pants",
+    "image": "https://images.quince.com/4Nk7pQxWsvjwFHXG1bF1u1/427b2c2494f2c99856653106d34d57bc/W-PNT-143-NVY_0488_EDITED_1jpg.jpg?w=600",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        96
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-organic-cotton-fisherman-cropped-cardigan",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Organic Cotton Fisherman Boxy Cropped Cardigan",
+    "price": 55,
+    "url": "https://www.quince.com/women/100-organic-cotton-fisherman-cropped-cardigan",
+    "image": "https://images.quince.com/5RpT14em7mimZbhiHv99Bn/72de7cfd96eb0d77bdd166604c429b1a/W-SWT-60-WARTAUM-01_EDITED.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-double-faced-merino-wool-funnel-neck-jacket",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Double-Faced Merino Wool Funnel Neck Jacket",
+    "price": 180,
+    "url": "https://www.quince.com/women/double-faced-merino-wool-funnel-neck-jacket",
+    "image": "https://images.quince.com/1huhUTWlr47LHF81Ocz5JJ/f9cb910a0ecea2dcde14242dfc0be73a/W-JKT-218-RCREIVO-01_EDITED.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-stretch-corduroy-kick-flare-pants",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Stretch Corduroy Kick Flare Pants",
+    "price": 60,
+    "url": "https://www.quince.com/women/organic-stretch-corduroy-kick-flare-pants",
+    "image": "https://images.quince.com/6BzrfnhS8nxI4FgrWqRwSg/43a1911d583af7288f36a135a86dc20f/W-PNT-125-SWD_2068_EDITED_1.jpg?w=600",
+    "category": "Pants",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Organic cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-cashmere-cashmere-tee-shirt",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Mongolian Cashmere Tee",
+    "price": 45,
+    "url": "https://www.quince.com/women/cashmere/cashmere-tee-shirt",
+    "image": "https://images.quince.com/1uZ8RcFcKEaEZqw39DKllt/f3adeb3a79e6fcc180ca0b532551c01d/W-BLO-6-OLITWI-01_EDITED.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-mongolian-cashmere-boatneck-sweater",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Mongolian Cashmere Boatneck Sweater",
+    "price": 80,
+    "url": "https://www.quince.com/women/mongolian-cashmere-boatneck-sweater",
+    "image": "https://images.quince.com/52UfqPiTXVOn0I2GF4zEWF/76cbdb1f339be6dd2c7cb01afa7e6b31/W-SWT-27-HCHAR-01_EDITED.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-mongolian-cashmere-straight-leg-pant",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Mongolian Cashmere Straight Leg Pants",
+    "price": 120,
+    "url": "https://www.quince.com/women/mongolian-cashmere-straight-leg-pant",
+    "image": "https://images.quince.com/6qqRlkiKVlXqEzvgTcyUp8/f4ccbd4bdf872d54a0e4af6e1953eb5d/W-PNT-36-HCHAR-01_EDITED.jpg?w=600",
+    "category": "Pants",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-merino-wool-cold-weather-base-layer-crew",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Merino Wool Cold Weather Base Layer Crew",
+    "price": 52,
+    "url": "https://www.quince.com/women/100-merino-wool-cold-weather-base-layer-crew",
+    "image": "https://images.quince.com/3Osws613B80Wf5hRWlsiXo/d5c66db22a0d2ae94eaefeaba179c1e1/W-SWT-125-HCHAR_2476_EDITED_1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-organic-cotton-gauze-sleeveless-swing-dress",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Organic Cotton Gauze Sleeveless Swing Dress",
+    "price": 60,
+    "url": "https://www.quince.com/women/100-organic-cotton-gauze-sleeveless-swing-dress",
+    "image": "https://images.quince.com/3gxx9uAaOrehFq4ZvwN1tB/9cbd04a4fe28c5b751e1de127c6b8159/W-DRS-67-ORCBLU_01-EDITED.jpg?w=600",
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-suede-chore-jacket",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Suede Chore Jacket",
+    "price": 175,
+    "url": "https://www.quince.com/women/100-suede-chore-jacket",
+    "image": "https://images.quince.com/12XI6xLNRVLb10Re6flD3w/1fc538947c5b22533184949ba926dc9e/W-JKT-177-CHARBL-01_EDITED.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-cotton-oversized-boyfriend-cardigan",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Organic Cotton Oversized Boyfriend Cardigan",
+    "price": 60,
+    "url": "https://www.quince.com/women/organic-cotton-oversized-boyfriend-cardigan",
+    "image": "https://images.quince.com/XgmyUmL3b6P2yZ18oiSKq/05b208b3f4b2c044a8fb1c5038510183/W-SWT-37-SPBGE_1399.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-lightweight-mongolian-cashmere-turtleneck-sweater-dress",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Mongolian Spring Cashmere Turtleneck Sweater Dress",
+    "price": 100,
+    "url": "https://www.quince.com/women/lightweight-mongolian-cashmere-turtleneck-sweater-dress",
+    "image": "https://images.quince.com/3iH6b6umnBQ85wUgVDAjRv/d79e4077eaac781f4ff6ce991e5cc25d/W-DRS-1-NAV_5393.jpg?w=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-organic-cotton-poplin-cropped-long-sleeve-shirt",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Organic Cotton Poplin Cropped Long Sleeve Shirt",
+    "price": 40,
+    "url": "https://www.quince.com/women/100-organic-cotton-poplin-cropped-long-sleeve-shirt",
+    "image": "https://images.quince.com/7y1ovLST2JwIl38S6RgdAN/60627ef54bf4a636ec21e603d0737650/W-BLO-86-BLK_1364_EDITED_1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-stretch-twill-pleated-shirt-mini-dress",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Stretch Twill Pleated Mini Shirt Dress",
+    "price": 60,
+    "url": "https://www.quince.com/women/stretch-twill-pleated-shirt-mini-dress",
+    "image": "https://images.quince.com/2pPX0byzYDWFtXxN0kyXHW/510172bd5e8aaedb115ed9e6f3b9e33e/W-DRS-228-STGRSS_01_EDITED.jpg?w=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        96
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-organic-cotton-lace-ruffle-blouse",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Organic Cotton Lace Ruffle Blouse",
+    "price": 60,
+    "url": "https://www.quince.com/women/100-organic-cotton-lace-ruffle-blouse",
+    "image": "https://images.quince.com/heSnQrO4lrsZtRURKuoYq/0390f5de012d9fd73838a6fa5897830c/W-BLO-121-CLAWHI_01_EDITED.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-organic-cotton-maternity-smocked-midi-dress",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Organic Cotton Poplin Maternity Smocked Midi Dress",
+    "price": 70,
+    "url": "https://www.quince.com/women/100-organic-cotton-maternity-smocked-midi-dress",
+    "image": "https://images.quince.com/23qBfRUWZEdOnYs5ous1NO/f8bdee489931a79268de6d2bb09f1a43/W--108-NVY-2790_EDITED.jpg?w=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-womens-100-leather-oversized-bomber-jacket",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Leather Oversized Bomber Jacket",
+    "price": 250,
+    "url": "https://www.quince.com/women/womens-100-leather-oversized-bomber-jacket",
+    "image": "https://images.quince.com/5phrEiXBR4UX4W7IT3YvSS/a8e41b4e29435fc2d5ac42a16c0e088c/W-PNT-189-FRSTBL-1502_EDITED.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-washable-silk-satin-pajama-pant-with-piping",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Washable Silk Satin Pajama Pant",
+    "price": 82,
+    "url": "https://www.quince.com/women/washable-silk-satin-pajama-pant-with-piping",
+    "image": "https://images.quince.com/4hbCFo6x0tcjhlMHqaBlKT/e891384b5609cfb57929a2b00aa8ac70/W-LGW-36-CHOCPLBR-01_EDITED.jpg?w=600",
+    "category": "Sleep & lounge",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-shearling-bomber-jacket",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Shearling Cold Weather Bomber Jacket",
+    "price": 500,
+    "url": "https://www.quince.com/women/100-shearling-bomber-jacket",
+    "image": "https://images.quince.com/5ucWSaw9fJH9QFMMY1Bo0z/c5c6375dafbb44ee8d229e4ccb1489de/W-JKT-31-BLK_2070_EDITED_1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Shearling",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Trim 100% leather"
+  },
+  {
+    "id": "quince-100-washable-silk-satin-lace-trim-robe",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Washable Silk Satin Lace Trim Robe",
+    "price": 140,
+    "url": "https://www.quince.com/women/100-washable-silk-satin-lace-trim-robe",
+    "image": "https://images.quince.com/567CdXsgwquLnsI7PDZjkQ/7330c15cbf7f84b894d6fc70a5452502/W-LGW-57-BLA-01_EDITED.jpg?w=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-stretch-corduroy-wide-leg-pants-30",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Stretch Corduroy Wide Leg Pants",
+    "price": 62,
+    "url": "https://www.quince.com/women/organic-stretch-corduroy-wide-leg-pants--30",
+    "image": "https://images.quince.com/6wTpNW8GWABIaqZFkwcP8w/15ffb07fa0424623a6fe9cc5ab18060c/W-PNT-208-DEBRRED-01_EDITED.jpg?w=600",
+    "category": "Pants",
+    "colour": "Red",
+    "shell": [
+      [
+        "Organic cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-cotton-peasant-blouse",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Textured Cotton Peasant Blouse",
+    "price": 50,
+    "url": "https://www.quince.com/women/organic-cotton-peasant-blouse",
+    "image": "https://images.quince.com/63l0nHUgaM7om64slhLd9n/7f4e294322d5c879caab8b47bc514b8b/W-LKT-38-BURGRED-01_EDITED.jpg?w=600",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-wool-cashmere-classic-single-breasted-coat",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Wool Cashmere Blazer Coat",
+    "price": 200,
+    "url": "https://www.quince.com/women/wool-cashmere-classic-single-breasted-coat",
+    "image": "https://images.quince.com/2gnjqGfp5aCSJ6KiBMoRPl/6d1497ddadc07f89aae38ef4ee76e0ea/W-JKT-194-HCHAR-01_EDITED.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        90
+      ],
+      [
+        "Cashmere",
+        10
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-alpaca-wool-stand-collar-coat",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Alpaca-Wool Stand Collar Coat",
+    "price": 350,
+    "url": "https://www.quince.com/women/alpaca-wool-stand-collar-coat",
+    "image": "https://images.quince.com/rOvJqrTtbAAaLXh43QfPV/eae3b17dfbc02d7a5e04b018d2461164/W-JKT-124-RSTBRN_0217_EDITED.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Alpaca",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-women-s-organic-cotton-hipster",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Cotton Hipster (6-pack)",
+    "price": 30,
+    "url": "https://www.quince.com/women/women-s-organic-cotton-hipster",
+    "image": "https://images.quince.com/6lmjAKyZY09Ie6SlC7w6Jw/a8dfa65bd4b0e4b1e58033f379c9c767/W--55-BLK_1745.jpg?w=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-merino-wool-cold-weather-base-layer-legging",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Merino Wool Cold Weather Base Layer Legging",
+    "price": 56,
+    "url": "https://www.quince.com/women/100-merino-wool-cold-weather-base-layer-legging",
+    "image": "https://images.quince.com/4DipBsvkFWmEWVLL6hI8f2/3925d910c52b406a0a79a062d73799b7/W-SWT-126-HCHAR_2365_EDITED_1.jpg?w=600",
+    "category": "Pants",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-cotton-sateen-pleated-aline-skirt",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Cotton Sateen A-line Midi Skirt",
+    "price": 70,
+    "url": "https://www.quince.com/women/cotton-sateen-pleated-aline-skirt",
+    "image": "https://images.quince.com/s9cDi1MwR9Qq2xZPuHFFp/fe722f986049103e051f1cbebf47af0e/W-SKT-37-TRUBLA_01-EDITED.jpg?w=600",
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-cotton-scoop-bralette",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Cotton Scoop Bralette (2-pack)",
+    "price": 30,
+    "url": "https://www.quince.com/women/organic-cotton-scoop-bralette",
+    "image": "https://images.quince.com/3VoL5I3h0bHmTkZbIfQqW4/182b2206ca234114285221ae858f86fa/W--207-SAN-01_EDITED.jpg?w=600",
+    "category": "Undergarments",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-european-linen-relaxed-double-breasted-blazer",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% European Linen Relaxed Double-Breasted Blazer",
+    "price": 100,
+    "url": "https://www.quince.com/women/100-european-linen-relaxed-double-breasted-blazer",
+    "image": "https://images.quince.com/1MtSBXPV5JZItWHxqKof3Y/da5720da2c0667791d83aaeeabd698bd/W-JKT-171-FLAX-1414_EDITED_1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-italian-wool-tailored-blazer",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Italian Wool Tailored Blazer",
+    "price": 120,
+    "url": "https://www.quince.com/women/italian-wool-tailored-blazer",
+    "image": "https://images.quince.com/3ntLPpfqvoBFVK4mU2xsxM/7299384d54779adbd5b090a048a2fb00/W-JKT-20-NVY_0657_EDITED_1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        96
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-european-linen-midi-slip-skirt",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% European Linen Midi Slip Skirt",
+    "price": 50,
+    "url": "https://www.quince.com/women/100-european-linen-midi-slip-skirt",
+    "image": "https://images.quince.com/1NEKXUkJYkFuK9RQrBbEU0/72c2a3d82ee54e0561619e62c91bfd1c/W-SKT-28-CLAMING_01_EDITED.jpg?w=600",
+    "category": "Skirts",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-european-linen-long-sleeve-pants-pajama-set",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% European Linen Long Sleeve Pajama Set with Piping",
+    "price": 72,
+    "url": "https://www.quince.com/women/100-european-linen-long-sleeve-pants-pajama-set",
+    "image": "https://images.quince.com/5CvEZhzjbPeDsWEgratDKK/28171d943b85e69a8e431577b90f1dca/W-LGW-19-TAUBCH_01_EDITED.jpg?w=600",
+    "category": "Sleep & lounge",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-silk-silk-skirt",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Washable Silk Skirt",
+    "price": 70,
+    "url": "https://www.quince.com/women/silk/silk-skirt",
+    "image": "https://images.quince.com/kavQlmiHbv6l0ILWQxOqO/e49aa84debd10da5a12935aa4d9b3530/W-PNT-4-WINT_0360_copy.jpg?w=600",
+    "category": "Skirts",
+    "colour": "Red",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-organic-cotton-tiered-maxi-skirt",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Organic Cotton Poplin Tiered Maxi Skirt",
+    "price": 60,
+    "url": "https://www.quince.com/women/100-organic-cotton-tiered-maxi-skirt",
+    "image": "https://images.quince.com/2vjfKEvu02XYGSGp87IMyN/68598b5f61d09462838aefeaf787084d/W-SKT-8-BLK_0104.jpg?w=600",
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-cotton-boyshort",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Cotton Boyshort (6-pack)",
+    "price": 30,
+    "url": "https://www.quince.com/women/organic-cotton-boyshort",
+    "image": "https://images.quince.com/212TwRlKHzJ5ydTTRFTQH/e632a20013302cf18de9cd9be8ebc2ac/W--205-BLK_1428_copy.jpg?w=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-washable-silk-satin-lace-cami-pajama-top",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Washable Silk Satin Lace Cami Pajama Top",
+    "price": 50,
+    "url": "https://www.quince.com/women/100-washable-silk-satin-lace-cami-pajama-top",
+    "image": "https://images.quince.com/GwG14PhdXrBZ2YdS5Psy5/f2c1732bc4fbe59f5b9676ffa8f4cf87/W-LGW-44-DEENAV-01_EDITED.jpg?w=600",
+    "category": "Sleep & lounge",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-bella-rigid-straight-jeans-26",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Bella Rigid Straight Jeans",
+    "price": 60,
+    "url": "https://www.quince.com/women/bella-rigid-straight-jeans--26",
+    "image": "https://images.quince.com/2KfWIWTHykL3D2CyrZMQCm/7d4efea0cc39966f679c34e5c315c405/W-PNT-195-HORBLU_01_EDITED.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-cotton-linen-pull-on-short",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Cotton Linen Twill Pull On Shorts",
+    "price": 35,
+    "url": "https://www.quince.com/women/organic-cotton-linen-pull-on-short",
+    "image": "https://images.quince.com/1zAPwU9VYUXXPHjHH5FSgV/8cf802794f058ac13914369afb7d2e25/W-SHT-9-AGRN_0215.jpg?w=600",
+    "category": "Shorts",
+    "colour": "Green",
+    "shell": [
+      [
+        "Linen",
+        52
+      ],
+      [
+        "Organic cotton",
+        48
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-cotton-hipster",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Cotton Hipster",
+    "price": 8,
+    "url": "https://www.quince.com/women/organic-cotton-hipster",
+    "image": "https://images.quince.com/6pK8kq5WDetAnO9PYJppYe/c78675ec7d9c67e746a5f64a55437c73/W--55-SAN-04_EDITED.jpg?w=600",
+    "category": "Undergarments",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-cotton-high-waist-brief-6-pack",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Cotton High-Waisted Brief (6-Pack)",
+    "price": 30,
+    "url": "https://www.quince.com/women/organic-cotton-high-waist-brief-6-pack",
+    "image": "https://images.quince.com/7MeHNLECP0ukGO9euDjBN6/57b1ed1b2a9debcf5484a0650171860f/W--402-SAN-01_EDITED.jpg?w=600",
+    "category": "Undergarments",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-linen-shorts",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% European Linen Shorts",
+    "price": 32,
+    "url": "https://www.quince.com/women/linen-shorts",
+    "image": "https://images.quince.com/45SJVGYgsfS9lIO7AIjS83/385bc531a282278487f2102762565cf0/W-SHT-5-BAYOLI-01_EDITED.jpg?w=600",
+    "category": "Shorts",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-european-linen-structured-blazer",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% European Linen Structured Blazer",
+    "price": 90,
+    "url": "https://www.quince.com/women/100-european-linen-structured-blazer",
+    "image": "https://images.quince.com/1SqW8dSNEpMaDq87lqtU8G/9f286ba368a9b6edbf719683f23f97c7/W-JKT-53-FLAX-9960_EDITED_copy.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-maya-rigid-bermuda-shorts",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Maya Rigid Bermuda Shorts",
+    "price": 40,
+    "url": "https://www.quince.com/women/maya-rigid-bermuda-shorts",
+    "image": "https://images.quince.com/5PsfUkJeHrh6l1Sqx47T5a/3d91bddee251e016a5f1207e21dfc36d/W-SHT-39-HORBLURH_04_EDITED.jpg?w=600",
+    "category": "Shorts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-women-s-washable-stretch-silk-lace-shorts",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Washable Silk Lace Shorts",
+    "price": 60,
+    "url": "https://www.quince.com/women/women-s-washable-stretch-silk-lace-shorts",
+    "image": "https://images.quince.com/6Libavp1EuPSH3xoP8tagJ/f57f9c550182cc7e912618f7279bcead/W-SHT-43-VINPIN-04_EDITED.jpg?w=600",
+    "category": "Shorts",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-stretch-ripstop-shorts",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Stretch Ripstop Shorts",
+    "price": 35,
+    "url": "https://www.quince.com/women/organic-stretch-ripstop-shorts",
+    "image": "https://images.quince.com/1IdbHAFJHBuozK2hYUCiZu/57b995fcc6d06ba5e12333edb34592ad/W-SHT-25-LODEN-4705_EDITED_1.jpg?w=600",
+    "category": "Shorts",
+    "colour": "Green",
+    "shell": [
+      [
+        "Organic cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-suede-blazer",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Suede Blazer",
+    "price": 250,
+    "url": "https://www.quince.com/women/100-suede-blazer",
+    "image": "https://images.quince.com/4i8dbg1M0zw0CUkmJfqQqo/f73259f28eb086d1256333f67d758d8e/W-JKT-178-COGBRO_01_EDITED.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-maya-rigid-exaggerated-barrel-jeans-26",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Maya Rigid Exaggerated Barrel Jeans",
+    "price": 60,
+    "url": "https://www.quince.com/women/maya-rigid-exaggerated-barrel-jeans---26",
+    "image": "https://images.quince.com/1BkBTrPZcV94wcWWXJqU2T/ed14574e903b1f043961f5a7ef66da6d/W-PNT-241-GRABLK_01_EDITED.jpg?w=600",
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-cotton-maternity-overalls",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Cotton Maternity Overalls",
+    "price": 50,
+    "url": "https://www.quince.com/women/organic-cotton-maternity-overalls",
+    "image": "https://images.quince.com/1yHeXm9dfglViBqzMPbFP9/ebf72823d09aefe3c6e48be0d665275f/W--38-RUST_1176.jpg?w=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Organic cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-stretch-cotton-twill-overalls",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Organic Stretch Cotton Twill Relaxed Overalls",
+    "price": 70,
+    "url": "https://www.quince.com/women/organic-stretch-cotton-twill-overalls",
+    "image": "https://images.quince.com/3S8yuNTqan7sCnJi1x4muN/2b95391ff1cd3e8ef93e28e8d3c55fe9/W-DRS-40-OLV_0553.jpg?w=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Organic cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-cotton-linen-long-sleeve-coverall-jumpsuit",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Cotton Linen Twill Long Sleeve Coverall Jumpsuit",
+    "price": 90,
+    "url": "https://www.quince.com/women/organic-cotton-linen-long-sleeve-coverall-jumpsuit",
+    "image": "https://images.quince.com/S8hhc4eSu43TLr1vY6Fnt/5e4ffe5678ad0bf07e4c63a29601fbb5/W-DRS-39-CML_1178.jpg?w=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Linen",
+        52
+      ],
+      [
+        "Organic cotton",
+        48
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-maya-rigid-baggy-jeans",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "Maya Rigid Baggy Jeans",
+    "price": 60,
+    "url": "https://www.quince.com/women/maya-rigid-baggy-jeans",
+    "image": "https://images.quince.com/1ZOcWjTxIPXR5ntLiYRNC6/8bf6dacc3c56fc393f37678554e8e3c9/W-PNT-199-WHIOUT-26_28_32-01_EDITED.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-100-organic-cotton-gauze-smocked-wide-leg-jumpsuit",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Organic Cotton Gauze Smocked Wide Leg Jumpsuit",
+    "price": 50,
+    "url": "https://www.quince.com/women/100-organic-cotton-gauze-smocked-wide-leg-jumpsuit",
+    "image": "https://images.quince.com/465VKGXL8o9NC7UY3NgmA0/ae07267d07df4216e9facb96c6a3ff97/W-DRS-105-WDCHRY1595_EDITED.jpg?w=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Red",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "quince-organic-denim-shortalls",
+    "retailer": "Quince",
+    "brand": "Quince",
+    "name": "100% Organic Denim Shortalls",
+    "price": 52,
+    "url": "https://www.quince.com/women/organic-denim-shortalls",
+    "image": "https://images.quince.com/7EHeU4AkJz4fmgzxzoIh9X/e4e3ee346da83da8f493d736235f7bcb/W-PNT-177-VTGCRM-01_EDITED.jpg?w=600",
+    "category": "Sets & jumpsuits",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  }
+]

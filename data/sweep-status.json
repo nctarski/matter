@@ -659,13 +659,13 @@
     {
       "order": 58,
       "brand": "Quince",
-      "method": "shopify-page",
+      "method": "product-page",
       "cadence": "regular",
-      "status": "todo",
+      "status": "partial",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": ""
+      "lastSweep": "2026-10-24",
+      "lastDelta": 60,
+      "note": "Product pages from sitemap_pdps.xml; see REVIEW-LOOP.md. 2026-10-24: 2,537 pages read, 406 in-stock pieces passed, 60 staged (a mix across categories) because the review page was full after the nightly. The other 346 passed and are held; they are not in the ledger, so the next sweep finds them again. One card per product in its first in-stock colour."
     },
     {
       "order": 59,
