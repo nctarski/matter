@@ -7,11 +7,38 @@
       "brand": "Massimo Dutti",
       "method": "api",
       "cadence": "regular",
-      "status": "todo",
-      "cursor": null,
-      "lastSweep": null,
+      "status": "partial",
+      "cursor": {
+        "method": "api",
+        "categories": [
+          2028560,
+          1925504,
+          1887043,
+          2088776,
+          1835010,
+          2164383,
+          2135827,
+          1982001,
+          2299086,
+          1887041,
+          675012,
+          2071730,
+          2251025,
+          2302609,
+          2225484,
+          2029059,
+          2126330,
+          2262535,
+          2284080,
+          2304610
+        ],
+        "stoppedAt": "review page photo limit",
+        "lastStaged": "flowing-100-silk-shirt-l05175975",
+        "heldPassing": 155
+      },
+      "lastSweep": "2026-10-24",
       "lastDelta": null,
-      "note": ""
+      "note": "Swept 2026-10-24 via the itxrest API over 20 women's category ids (the VIEW ALL id of every women's section plus Blazers, Suits, Studio, Lingerie, Puffer jackets, New in, Evening; ids in cursor.categories). 1,818 product ids, 1,329 unique product URLs, 1,255 not yet in the ledger. 484 passed the fiber rule; 329 staged in round 2026-10-24-nightly before the 450 photo limit, 155 passing pieces held and not recorded (the next run re-reads the API and stages them; they sort after Jackets, Sweaters, Trousers, Dresses, Skirts, Coats, Leather, T-shirts, Cashmere and Shirts). 658 recorded under fiber, 27 accessories and shoes out of scope. Not recorded on purpose, so they come back: 28 whose composition did not parse cleanly (wool-blend coats with other fibres, furskin), 54 clothing pieces the scope filter wrongly flagged (cape, scarf detail, belt, capri in the name), 4 Total look bundles, 35 ids the productsArray call did not return. Family names carry a stray A-circumflex before non-breaking spaces; normalise before matching. Colour 'Washed' has no swatch; 2 knits held for a photo-based colour."
     },
     {
       "order": 2,
@@ -227,11 +254,11 @@
       "brand": "Kotn",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "partial",
+      "status": "done",
       "cursor": null,
       "lastSweep": "2026-10-24",
       "lastDelta": 247,
-      "note": "Shopify feed lacks composition for most pieces, so read the product page Fabric & Care section. Labels like Body, Rib, Lining split parts. 247 staged 2026-10-24 (newest first). 121 more passed and are held until review page room frees up; they are not in the ledger, so the next sweep re-finds them. Exclude balaclavas, warmers, blankets, totes and men's."
+      "note": "Shopify feed lacks composition for most pieces, so read the product page Fabric & Care section. Labels like Body, Rib, Lining split parts. 247 staged 2026-10-24 (kotn round). The 121 held pieces were staged 2026-10-24 in round 2026-10-24-nightly, which finished the sweep. 160 sold-out pieces are not recorded so a delta run picks up restocks. Exclude balaclavas, warmers, blankets, totes and men's."
     },
     {
       "order": 22,

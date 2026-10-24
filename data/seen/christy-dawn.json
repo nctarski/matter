@@ -1,371 +1,302 @@
 {
  "christydawn.com/products/the-eleanor-coat-crimson-1": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-ethel-cardigan-mulberry": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-geneva-blouse-emerald-jacquard": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-helen-bias-skirt-emerald-jacquard": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-josette-dress-emerald-jacquard": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-marion-dress-rose": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-vytas-cardigan-moss": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-shopify.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-clover-cardigan-winter-heart": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-shopify.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-gael-skirt-lazuli-plaid": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-nyla-dress-holiday-vine": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-wendy-nightgown-red-dahlia": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-marion-dress-chocolate": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-marion-dress-avocado": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-nyla-dress-lazuli-plaid": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-darby-skirt-night": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-jane-sweater-candy-apple-red": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-eugenia-dress-pine": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-dad-sweater-moose-jacquard": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-ingrid-sweater-dried-lilac-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-ilara-sweater-woodland-hare": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-honey-sweater-fireplace-red-hearts": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-ingrid-sweater-night-woods-fairisle": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-anna-pant-boardwalk-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-mimi-cardigan-oatmeal": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-bertha-sweater-shadow-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-ingrid-sweater-basil": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-bertha-sweater-sunbeam-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-sister-cardigan-forest-flowers": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-francesca-sweater-midnight-fields": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-jane-sweater-iris": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-forever-cardigan-lapis": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-leandra-cardigan-cool-desert-stripes": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-bertha-sweater-sky-flowers": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-forever-cardigan-grass": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-rinda-dress-sunflower-sunshine": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-forever-cardigan-dusty-rose": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-jane-sweater-toast": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-jane-sweater-dove-grey": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-esmeralda-dress-sunflower-sunshine": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-sam-dress-sunflower-azure": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-emma-dress-strawberry-pearl": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-eleadora-dress-strawberry-pearl": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-lani-dress-alabaster": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-antonia-dress-golden-sunset": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-aika-dress-sunflower-azure": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-kiara-dress-chambray": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-martin-pants-dusk-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-emanuelle-pant-alabaster": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-walter-dress-dusk-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-edna-skirt-alabaster": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-fannee-blouse-dusk-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-bianca-dress-speckled-rose": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-felipa-tunic-alabaster": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-ricarda-dress-celeste-bouquet": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-suki-dress-antique-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-valentina-blouse-alabaster": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-valentina-blouse-antique-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-camelia-blouse-lavender-mist": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-marcella-blouse-off-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-arabella-dress-carob-paisley": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-gabrielle-skirt-pearl": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-gigi-cardigan-candy-apple-red": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-judy-blouse-alabaster": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-kelly-dress-night-bouquet": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-monica-dress-antique-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-sulien-skirt-pearl": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-jane-sweater-buttermilk": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-narcissa-dress-evergreen-apple-harvest": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-monica-dress-petal-pink": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-nola-cardigan-creme": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-flora-slip-long-night": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-flora-slip-short-night": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-dawn-dress-sea-spray": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-sally-short-alabaster-crinkle": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "christydawn.com/products/the-asa-pant-pearl-linen": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly2.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  }
 }

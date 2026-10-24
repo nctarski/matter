@@ -1,38 +1,34 @@
 {
  "lisasaysgah.com/products/lsg0114-g-24": {
   "outcome": "rejected",
-  "date": "2026-10-23"
+  "date": "2026-10-24"
  },
  "lisasaysgah.com/products/hazel-pom-sweater": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "lisasaysgah.com/products/olson-cropped-trench-2": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "lisasaysgah.com/products/olson-trench-3": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "lisasaysgah.com/products/charlie-tee-14": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-shopify.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "lisasaysgah.com/products/pat-top-moss-plaid": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-shopify.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "lisasaysgah.com/products/star-skort-1": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-shopify.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "lisasaysgah.com/products/caspia-volume-midi-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-shopify.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  }
 }

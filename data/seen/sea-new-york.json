@@ -1,36 +1,35 @@
 {
  "sea-ny.com/products/kayla-cardigan": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/kayla-dress": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/kayla-polo": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/liana-cardigan": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/michaela-coat": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/michaela-wool-cape": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/zelie-sweater": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/taegan-dress": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-shopify.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/grace-collar": {
   "outcome": "out-of-scope",
@@ -65,9 +64,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/taegan-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/gertrude-pants": {
   "outcome": "fiber",
@@ -102,9 +100,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/samantha-jacket": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/perrie-dress": {
   "outcome": "fiber",
@@ -119,9 +116,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/perrie-shirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/lovena-skirt": {
   "outcome": "fiber",
@@ -136,14 +132,12 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/lovena-l-s-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/lane-jeans": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/ellery-pants": {
   "outcome": "fiber",
@@ -158,9 +152,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/esmee-pj-set-copy": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/liana-cosmetic-bag": {
   "outcome": "out-of-scope",
@@ -171,9 +164,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/perrie-culottes": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/niamh-scarf": {
   "outcome": "out-of-scope",
@@ -204,14 +196,12 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/liana-pajama-set": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/delfine-pajama-set": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/lovena-cardigan": {
   "outcome": "fiber",
@@ -222,18 +212,16 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/lane-culottes": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/kayla-skirt": {
   "outcome": "fiber",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/charly-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/campbell-dress": {
   "outcome": "fiber",
@@ -244,23 +232,20 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/mathias-pants": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/mathias-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/annabelle-jacket": {
   "outcome": "fiber",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/michaela-fur-cape": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/marielle-l-s-dress-1": {
   "outcome": "fiber",
@@ -315,9 +300,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/kathleen-shirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/kaiya-l-s-dress": {
   "outcome": "fiber",
@@ -344,9 +328,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/jemima-sweatshirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/jeanne-skirt": {
   "outcome": "fiber",
@@ -365,9 +348,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/jackie-sweater": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/ilaria-jacket": {
   "outcome": "fiber",
@@ -410,9 +392,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/danielle-cardigan": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/danica-cardigan": {
   "outcome": "fiber",
@@ -423,14 +404,12 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/channing-pants": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/channing-sweater": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/chandra-cardigan": {
   "outcome": "fiber",
@@ -497,9 +476,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/honore-lace-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/wright-jacket": {
   "outcome": "fiber",
@@ -522,24 +500,20 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/ruwa-mini-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/quinn-l-s-t-shirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/quinn-t-shirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/margeurite-cardigan": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/kirra-pants": {
   "outcome": "fiber",
@@ -582,9 +556,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/lona-jacket": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/remi-blazer": {
   "outcome": "fiber",
@@ -611,18 +584,16 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/claira-cardigan": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/shiloh-top": {
   "outcome": "fiber",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/shiloh-cardigan": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/shiloh-mini-dress": {
   "outcome": "fiber",
@@ -673,14 +644,12 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/ruwa-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/ruwa-pants": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/patton-kids-jacket": {
   "outcome": "out-of-scope",
@@ -715,9 +684,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/lona-coat": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/charlize-skirt": {
   "outcome": "fiber",
@@ -740,9 +708,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/allen-sweater": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/leda-kids-dress": {
   "outcome": "out-of-scope",
@@ -765,58 +732,48 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/garrett-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/caitlin-pants": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/annie-jacket": {
   "outcome": "fiber",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/zayna-wide-leg-jeans": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/zayna-jeans": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/zayna-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/wilhelmina-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/wilhelmina-s-s-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/wilhelmina-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/wilhelmina-l-s-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/wilhelmina-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/vita-cosmetic-bag": {
   "outcome": "out-of-scope",
@@ -839,33 +796,28 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/caitlin-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/tristan-coat": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/tristan-jacket": {
   "outcome": "fiber",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/tristan-pants": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/tristan-culottes": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/tristan-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/shay-l-s-top-1": {
   "outcome": "fiber",
@@ -904,9 +856,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/mina-sweater": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/mina-polo": {
   "outcome": "fiber",
@@ -957,9 +908,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/carlotta-s-s-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/carlotta-dress": {
   "outcome": "fiber",
@@ -970,9 +920,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/carlotta-jeans": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/carlotta-headpiece": {
   "outcome": "out-of-scope",
@@ -983,19 +932,16 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/garrett-mini-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/garrett-blazer": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/garrett-pants": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/allen-scarf-hat": {
   "outcome": "out-of-scope",
@@ -1006,19 +952,16 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/caitlin-coat": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/jane-polo-sweater": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/jane-sweater": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/caitlin-bandana": {
   "outcome": "out-of-scope",
@@ -1069,9 +1012,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/thompson-jacket": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/taliyah-blazer": {
   "outcome": "fiber",
@@ -1094,9 +1036,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/juliet-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/juliet-polo": {
   "outcome": "fiber",
@@ -1107,9 +1048,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/juliet-rugby-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/gracelyn-pants": {
   "outcome": "fiber",
@@ -1128,9 +1068,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/georgie-l-s-tee": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/georgie-shorts": {
   "outcome": "fiber",
@@ -1141,14 +1080,12 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/georgie-jacket": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/georgie-combo-jacket": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/alina-tank": {
   "outcome": "fiber",
@@ -1159,9 +1096,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/alina-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/alina-romper": {
   "outcome": "fiber",
@@ -1172,38 +1108,32 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/alina-jacket": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/alina-cape": {
   "outcome": "fiber",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/alina-coat": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/winslow-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/winslow-shorts": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/winslow-jacket": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/winslow-cardigan": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/blanche-hat": {
   "outcome": "out-of-scope",
@@ -1214,9 +1144,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/diane-cardigan-1": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/eliza-shorts": {
   "outcome": "fiber",
@@ -1263,33 +1192,28 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/adonna-s-s-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/adonna-dress": {
   "outcome": "fiber",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/adonna-l-s-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/adonna-s-s-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/adonna-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/adonna-pants": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/eileen-blouse": {
   "outcome": "fiber",
@@ -1356,24 +1280,20 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/odessa-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/odessa-culottes": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/odessa-pants": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/odessa-coat": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/christina-blouse": {
   "outcome": "fiber",
@@ -1400,24 +1320,20 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/viera-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/viera-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/stina-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/stina-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/sharleen-l-s-top": {
   "outcome": "fiber",
@@ -1436,34 +1352,28 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/pippa-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/pippa-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/pippa-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/mirabel-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/mirabel-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/mirabel-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/milene-culottes": {
   "outcome": "fiber",
@@ -1482,9 +1392,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/lisette-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/lisette-skirt": {
   "outcome": "fiber",
@@ -1507,98 +1416,80 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/gardener-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/gardener-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/gardener-l-s-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/gardener-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/gardener-pants": {
   "outcome": "fiber",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/gardener-shorts": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/eleannora-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/eleannora-midi-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/eleannora-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/emelina-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/emelina-s-s-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/emelina-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/emelina-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/catharina-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/catharina-l-s-top": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/catharina-mini-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/catharina-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/catharina-s-s-dress": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/catharina-skirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/anthonia-dress": {
   "outcome": "fiber",
@@ -1621,23 +1512,20 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/aileen-pj-set": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/lila-robe-copy": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/sascha-kids-pj-set": {
   "outcome": "out-of-scope",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/sascha-pj-set": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/bettie-slippers": {
   "outcome": "out-of-scope",
@@ -1652,9 +1540,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/noella-pj-set": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/sheep-cosmetic-bag": {
   "outcome": "out-of-scope",
@@ -1665,9 +1552,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/lila-romper": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/lila-pj-set": {
   "outcome": "fiber",
@@ -1690,9 +1576,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/sheep-pj-set-copy": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/tate-patchwork-quilt": {
   "outcome": "out-of-scope",
@@ -1755,9 +1640,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/demi-cardigan-2": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/rafina-top": {
   "outcome": "fiber",
@@ -1772,9 +1656,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/claira-jeans": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/ethel-camisole": {
   "outcome": "fiber",
@@ -1821,32 +1704,28 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/rafina-combo-t-shirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/claira-windbreaker": {
   "outcome": "fiber",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/claira-shirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/claira-l-s-shirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/claira-hat": {
   "outcome": "out-of-scope",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/demi-robe": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/demi-duffle-bag": {
   "outcome": "out-of-scope",
@@ -1873,9 +1752,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/nara-cape": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/sheep-kids-pj-set": {
   "outcome": "out-of-scope",
@@ -1894,9 +1772,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/sullivan-pants": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/claude-dress": {
   "outcome": "fiber",
@@ -1911,9 +1788,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/carolyn-shirt": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/carolyn-cap": {
   "outcome": "out-of-scope",
@@ -1988,56 +1864,48 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/karmen-pj-set-copy": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/sheep-pj-set": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/karmen-pj-set": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/adonis-cap": {
   "outcome": "out-of-scope",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/elena-pants": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/harmony-cosmetic-bag": {
   "outcome": "out-of-scope",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/velma-jeans-1": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/demi-jacket": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/demi-cardigan": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/demi-cap": {
   "outcome": "out-of-scope",
   "date": "2026-10-23"
  },
  "sea-ny.com/products/elena-pants-1": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/vamika-belt": {
   "outcome": "out-of-scope",
@@ -2056,9 +1924,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/karmen-jacket": {
-  "outcome": "staged",
-  "date": "2026-10-23",
-  "round": "round-2026-10-23-nightly9.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "sea-ny.com/products/rue-s-s-sweater": {
   "outcome": "no-composition",

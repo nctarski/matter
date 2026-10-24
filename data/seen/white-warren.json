@@ -33,1134 +33,914 @@
  },
  "whiteandwarren.com/products/brushed-cashmere-blend-tee-seafoam-blue": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-bomber-sand-heather": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-fringe-poncho-black": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-down-shirt-feather": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-blue-vapor": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-pointelle-shirt-blue-vapor": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-saddle-sleeve-crewneck-clay-pink": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-windowpane-crewneck-deep-navy-cobalt-blue": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-deep-navy": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-polo-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/essential-cashmere-trapeze-cardigan-pink-sand": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-taupe-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-pointelle-shirt-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-mesh-sweatshirt-pink-buds-dayglow": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-varisty-cable-crewneck-soft-white-deep-navy": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-rose-petal": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-down-shirt-seersucker-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-down-shirt-antique-gold": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crew-citric-yellow": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crew-antique-gold": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-plaid-crewneck-vintage-ivorydeep-navydark-emerald": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/brushed-cashmere-blend-tee-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-citric-yellow": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-saddle-sleeve-vneck-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-pointelle-shirt-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-plaid-crewneck-grey-heathervintage-ivoryseersucker-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-saddle-sleeve-vneck-antique-gold": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-saddle-sleeve-vneck-taupe-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-ribbed-trim-turtleneck-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/brushed-cashmere-blend-quarterzip-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-ribbed-trim-turtleneck-rose-petal": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/brushed-cashmere-blend-quarterzip-seafoam-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-ribbed-trim-turtleneck-antique-gold": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/brushed-cashmere-blend-quarterzip-muted-camel": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-long-sleeve-polo-natural-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-waffle-standneck-taupe-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-long-sleeve-polo-deep-plum": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-waffle-standneck-deep-plum": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-long-sleeve-polo-graphite-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/brushed-cashmere-blend-boatneck-sweater-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/brushed-cashmere-blend-boatneck-sweater-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-trapeze-cardigan-taupe-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-luxe-fringe-crewneck-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-oversized-standneck-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-luxe-fringe-crewneck-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-mock-neck-tee-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-pocket-cardigan-sangria": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-bomber-ash-grey-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-pocket-cardigan-graphite-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-button-down-shacket-graphite-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-argyle-turtleneck-taupe-heather-marl": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-argyle-turtleneck-dark-emerald-marl": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-cable-crewneck-graphite-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-fringe-coat-dark-granite": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-argyle-oversized-v-neck-sangria-combo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-fringe-coat-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-argyle-oversized-v-neck-black-combo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-collared-jacket-brown-combo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-poncho-oxblood": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-button-down-shacket-sand-wisp-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-shirt-jacket-soft-indigo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-button-down-shacket-deep-navy": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-shirt-jacket-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-shirt-jacket-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-oversized-tee-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-scoop-sweater-garnet-red": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-oversized-standneck-black-natural-heather-marl": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-oversized-standneck-natural-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-deep-v-cardigan-cedarwood": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-scoop-sweater-cedarwood": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-deep-v-cardigan-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-pocket-cardigan-deep-olive": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-waffle-sweatshirt-bright-viridian": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-crewneck-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-oversized-standneck-deep-olive": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-crewneck-chili": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-plaid-shacket-deep-navy-combo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-thermal-polo-garnet-red": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-plaid-shacket-graphite-heather-combo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-thermal-polo-deep-olive": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-striped-longsleeve-thermal-natural-heather-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-waffle-sweatshirt-graphite-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-striped-longsleeve-thermal-deep-navy-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-horse-embroidered-crewneck-oxbloodivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-horse-embroidered-crewneck-misty-brownivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-striped-cardigan-black-cedarwood": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-striped-cardigan-sangria-garnet-red": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-saddle-sleeve-crewneck-dark-emerald-bright-viridian-combo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-turtleneck-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-shirt-pastel-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-cable-crewneck-natural-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-turtleneck-grey-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-waffle-sweatshirt-natural-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-pocket-cardigan-khaki": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-saddle-sleeve-crewneck-sangria": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-saddle-sleeve-crewneck-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-rib-trim-easy-turtleneck-seersucker-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-button-down-shacket-natural-combo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-down-shirt-sangria": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-dahlia-pink": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-down-shirt-dark-emerald": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-sangria": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-seersucker-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-dark-emerald": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-track-pants-grey-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-windowpane-sweatshirt-navy-combo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-embroidered-horse-bomber-umber-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crew-dahlia-pink": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/featherweight-cashmere-scoopneck-tee-lavendar-fog": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-sangria": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-wide-leg-pant-grey-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-rugby-polo-muted-camel-rugby": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-rugby-polo-deep-navy-rugby": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-polo-soft-plum": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-striped-long-sleeve-top-soft-white-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-half-zip-hoodie-dark-emerald-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-cable-crewneck-garnet-red": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-cable-crewneck-muted-camel": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-tennis-racquet-sweatshirt-dark-emerald-combo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-track-pants-dark-emerald-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/superfine-merino-layeredpolo-black-cherry-light-blue-trim": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/superfine-merino-layeredpolo-pewter-heather-white-trim": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/superfine-merino-layeredv-neck-navy-dark-green": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cotton-cashmere-ribbed-polo-navy-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/superfine-merino-layeredv-neck-pewter-heather-ivory-trim": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/superfine-merino-layeredpolo-navy-dark-green": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-scoop-short-length-cardigan-pastel-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cotton-cashmere-crewneck-light-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-scoop-short-length-cardigan-natural-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cotton-cashmere-ribbed-polo-ivory-navy": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/featherweight-cashmere-scoopneck-tee-deep-navy": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cotton-cashmere-crewneck-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cotton-cashmere-relaxed-tee-ivory-navy": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-striped-sweater-blue-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-polo-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-polo-lavendar-fog": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/superfine-merino-ribbed-cardigan-rosewater-pink": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-scoop-neck-top-pink-sand": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-striped-crewneck-soft-white-deep-navy-bright-azure": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/superfine-merino-ribbed-cardigan-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-featherweight-t-shirt-clay-pink": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-varsity-v-neck-deep-navy-natural": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-polo-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-turtleneck-sangria": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-mini-trapeze-pink-sand": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-jogger-grey-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/superfine-merino-ribbed-cardigan-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-trapeze-cardigan-grey-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-2": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-pink-sand": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-pink-sand": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/essential-cashmere-trapeze-cardigan-deep-navy-1": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-scoop-neck-top-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-featherweight-t-shirt-natural-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-pink-sand": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-scoop-neck-top-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-windowpane-cardigan-natural-heather-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-rugby-stripe-polo-deep-navy-sangria": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-featherweight-t-shirt-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-grey-heather-1": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-polo-cobalt-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-thyme-heather-1": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-pocket-cardigan-natural-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-luxe-pocket-cardigan-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/essential-cashmere-trapeze-cardigan-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-grey-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-grey-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-windowpane-cardigan-muted-camel-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-windowpane-crewneck-natural-heather-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-taupe-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-varsity-cable-crewneck-lemonade": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-deep-navy": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-taupe-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-v-neck-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-cable-shell-pastel-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-cable-button-cardigan-dark-espresso": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-cable-button-cardigan-pastel-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-soft-white-1": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-v-neck-pastel-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-cable-shell-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-cable-button-cardigan-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-mini-trapeze-light-aqua": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-polo-dark-espresso": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-polo-pastel-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-striped-long-sleeve-top-muted-camel-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-mesh-polo-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-tennis-embroidered-sweatshirt-soft-white-combo": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-quarter-zip-navy-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-light-aqua": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-mesh-polo-retro-green-ivy-green": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-mesh-sweatshirt-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-varisty-cardigan-deep-navy-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-blend-quarter-zip-ivory-ivy-green": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-mesh-cardigan-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-citronelle": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-mesh-polo-deep-navy": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-varisty-cardigan-soft-white-deep-navy": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-bright-azure": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-bright-azure": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-pale-pistachio": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-bright-azure": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-windowpane-cardigan-soft-white-deep-navy-grid": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-pale-pistachio": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-featherweight-t-shirt-pale-pistachio": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-embroidered-lobster-crewneck-deep-navy-soft-white": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-embroidered-lobster-crewneck-natural-heather-red": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-windowpane-vest-soft-white-deep-navy-grid": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-varsity-cable-crewneck-natural-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-varsity-cable-crewneck-citronelle": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-featherweight-t-shirt-pastel-blue": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-v-neck-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-shirt-taupe-heather": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-down-shirt-deep-navy": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-cable-shell-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-cable-button-cardigan-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-collared-cardigan-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-shirt-grey-heather-1": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-linen-blend-polo-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-down-shirt-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/boucle-cardigan-midnight-ivory-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-cardigan-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-mini-trapeze-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-shirt-lemonade": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-button-shirt-pink-sand": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-crewneck-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/essential-cashmere-trapeze-cardigan-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-24"
  },
  "whiteandwarren.com/products/cashmere-v-neck-black": {
-  "outcome": "staged",
-  "date": "2026-10-22",
-  "round": "round-2026-10-22-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-24"
  }
 }

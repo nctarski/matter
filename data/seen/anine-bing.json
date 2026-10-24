@@ -1,35 +1,35 @@
 {
  "aninebing.com/products/cade-tee-sport-club-washed-black": {
   "outcome": "rejected",
-  "date": "2026-10-23"
+  "date": "2026-10-24"
  },
  "aninebing.com/products/jamila-top-black": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "aninebing.com/products/kacey-sweatpant-tango-red": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "aninebing.com/products/lee-polo-sweater-navy": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "aninebing.com/products/lee-sweater-burgundy": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "aninebing.com/products/mia-sweater-burgundy": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "aninebing.com/products/ramy-short-blue-stripe": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "aninebing.com/products/scott-shirt-white-and-black-stripe": {
   "outcome": "catalog",
-  "date": "2026-10-22"
+  "date": "2026-10-24"
  },
  "aninebing.com/products/small-signature-link-belt-black-with-gold": {
   "outcome": "out-of-scope",
@@ -2166,6 +2166,342 @@
  },
  "www.aninebing.com/products/cade-tee-new-era-of-me-white": {
   "outcome": "rejected",
-  "date": "2026-10-23"
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/sandy-jacket-burgundy-leather": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-collegiate-burgundy": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/kacey-sweatpant-burgundy": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-los-angeles-vintage-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-los-angeles-vintage-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-collegiate-burgundy": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/mia-sweater-charcoal": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-los-angeles-white": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/lilou-tee-ecru": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/hugh-jean-32-dark-indigo": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/sandy-jacket-black-leather": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-leo-muse-deep-emerald": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/harry-shrunken-signet-sweatshirt-ecru": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/harry-shrunken-signet-sweatshirt-black": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-studio-heather-grey": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/harvey-sweatshirt-collegiate-green": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-collegiate-grey": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/quinn-blazer-dark-grey": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/lou-trouser-dark-grey": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/lee-crew-sweater-green": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/scott-shirt-cloud-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/brie-jean-33-vintage-black": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/brie-jean-33-dark-indigo": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/brie-jean-33-reservoir-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-tiger-bing-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-leo-muse-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/roy-jean-31-baltic-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/lee-sweater-tango-red": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-collegiate-grey": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/roy-jean-31-vintage-black": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/hugh-jean-32-vintage-black": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/hugh-jean-32-baltic-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/spencer-sweatshirt-leopard-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-melrose-stencil-navy": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-leopard-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-los-angeles-university-earth-red": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/harvey-sweatshirt-melrose-stencil-navy": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/jaylin-tee-collegiate-cream": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/jaylin-tee-collegiate-fig": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-letterman-fig": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/harvey-sweatshirt-paris-stencil-heather-grey": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/lee-polo-sweater-fig": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-los-angeles-university-washed-grey": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-new-york-university-cilantro": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/brie-jean-33-cabana-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/lou-trouser-ink-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/lee-sweater-storm-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-anine-bing-leopard-heather-grey": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-wave-heather-grey": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-palm-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/cade-tee-palm-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-waves-heather-grey": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/essie-shirt-blue-stripe": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/roy-jean-31-pacific-blue": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/wyatt-jean-34-freshwater-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/bar-silk-skirt-storm-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/juliann-tank-white": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-collegiate-vintage-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/wyatt-jean-white": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/grayson-pant-army-green": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/harvey-sweatshirt-anine-bing-coral-pink": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-washed-seafoam": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/jasper-short-white": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/jasper-short-pacific-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/harvey-sweatshirt-new-classic-medium-heather-grey": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-collegiate-dark-navy": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/jaylin-tee-collegiate-washed-cream": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-new-classic-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/hugh-jean-baltic-blue": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/lee-crew-sweater-black": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-anine-bing-leopard-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/beth-mini-dress-black-and-brown-leopard": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/lee-crew-sweater-cream": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/jackson-sweater-medium-heather-grey": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/roy-jean-31-clean-indigo-denim": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/essie-shirt-white": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-black-and-brown-leopard": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/avi-tee-black-and-brown-leopard": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/jackson-sweater-ivory": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/jackson-sweater-black": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/lee-crew-sweater-medium-heather-grey": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/miles-sweatshirt-letterman-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/harvey-sweatshirt-dark-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "www.aninebing.com/products/bar-silk-skirt-black": {
+  "outcome": "catalog",
+  "date": "2026-10-24"
  }
 }
