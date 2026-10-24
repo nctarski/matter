@@ -1,26 +1,28 @@
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import CatBar from '@/components/CatBar';
+import Facts from '@/components/Facts';
+import JsonLd, { itemList } from '@/components/JsonLd';
 import Shop from '@/components/Shop';
-import { BRANDS, brandFromSlug, slugify, catalog } from '@/lib/catalog';
-import { CATEGORY_PAGES, MENUS, listWords, topFibers } from '@/lib/shop';
+import { brandFromSlug, slugify, catalog } from '@/lib/catalog';
+import { brandFacts, brandSummary, brandTrend, updatedOn } from '@/lib/brandfacts';
+import { BIG_BRANDS, CATEGORY_PAGES, MENUS, THIN_BRANDS, listWords, topFibers } from '@/lib/shop';
 
-/* One static page per brand in the catalog, built at deploy time. This is the
- * URL that goes into an affiliate application or an email to the brand. It
- * also happens to be good SEO, because "brand + cashmere" is a query people
- * actually type. */
+/* One static page per brand with at least MIN_BRAND_PIECES pieces. This is the
+ * URL that goes into an affiliate application or an email to the brand, and
+ * "brand + cashmere" is a query people actually type. Smaller brands share
+ * /brands/more, and their old addresses redirect there. */
 
 export function generateStaticParams() {
-  return BRANDS.map((b) => ({ slug: slugify(b) }));
+  return BIG_BRANDS.map((b) => ({ slug: slugify(b) }));
 }
 
 export function generateMetadata({ params }) {
   const brand = brandFromSlug(params.slug);
-  if (!brand) return {};
-  const pieces = catalog.filter((i) => i.brand === brand);
-  const n = pieces.length;
+  if (!brand || THIN_BRANDS.includes(brand)) return {};
+  const f = brandFacts(brand);
   return {
-    title: topFibers(pieces).length ? `${brand} in ${listWords(topFibers(pieces))}` : brand,
-    description: `${n} ${brand} ${n === 1 ? 'piece' : 'pieces'} indexed by fiber composition, shell and lining read separately.`,
+    title: f.fibers.length ? `${brand} in ${listWords(f.fibers)}` : brand,
+    description: brandSummary(f).slice(0, 300),
     alternates: { canonical: `/brand/${params.slug}` },
   };
 }
@@ -28,9 +30,12 @@ export function generateMetadata({ params }) {
 export default function BrandPage({ params }) {
   const brand = brandFromSlug(params.slug);
   if (!brand) notFound();
+  if (THIN_BRANDS.includes(brand)) permanentRedirect(`/brands/more#${params.slug}`);
   const pieces = catalog.filter((i) => i.brand === brand);
+  const f = brandFacts(brand);
   return (
     <>
+      <JsonLd data={itemList(`${brand} at MATTER`, pieces)} />
       <CatBar pages={CATEGORY_PAGES} menus={MENUS} />
       <Shop
         items={pieces}
@@ -38,9 +43,11 @@ export default function BrandPage({ params }) {
         heading={{
           eyebrow: `${brand} at MATTER`,
           title: `${brand}, read label first`,
-          body: `${pieces.length} ${pieces.length === 1 ? 'piece' : 'pieces'} indexed, every composition read from the product page and shown shell and lining separately. Sorted most natural first.`,
+          body: 'Every composition read from the product page and shown shell and lining separately. Sorted most natural first.',
         }}
-      />
+      >
+        <Facts summary={brandSummary(f)} trend={brandTrend(f)} updated={updatedOn()} />
+      </Shop>
     </>
   );
 }

@@ -3,9 +3,10 @@ import CatBar from '@/components/CatBar';
 import ProductCard from '@/components/ProductCard';
 import Statement from '@/components/Statement';
 import edits from '@/data/edits.json';
-import { BRANDS, catalog } from '@/lib/catalog';
+import { catalog } from '@/lib/catalog';
+import { GUIDES } from '@/lib/guides';
 import { slugify } from '@/lib/item';
-import { CATEGORY_PAGES, MENUS } from '@/lib/shop';
+import { BIG_BRANDS, CATEGORY_PAGES, MENUS, MIN_BRAND_PIECES } from '@/lib/shop';
 import { editHref } from '@/lib/edits';
 import { SITE } from '@/lib/site';
 
@@ -79,15 +80,33 @@ export default function HomePage() {
           </ul>
         </section>
 
+        <section className="browse" aria-labelledby="browse-guides">
+          <h2 id="browse-guides">Shopping guides</h2>
+          <ul className="catlist">
+            {GUIDES.map((g) => (
+              <li key={g.slug}>
+                <Link href={`/guides/${g.slug}`}>{g.title}</Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+
         <section className="browse" aria-labelledby="browse-brands">
           <h2 id="browse-brands">Shop by brand</h2>
           <ul className="brandlist">
-            {BRANDS.map((b) => (
+            {BIG_BRANDS.map((b) => (
               <li key={b}>
                 <Link href={`/brand/${slugify(b)}`}>{b}</Link>
               </li>
             ))}
+            <li>
+              <Link href="/brands/more">More brands</Link>
+            </li>
           </ul>
+          <p className="fnote">
+            A brand gets its own page once we carry at least {MIN_BRAND_PIECES} of its pieces.
+            Smaller brands share one page until then.
+          </p>
         </section>
       </main>
     </>

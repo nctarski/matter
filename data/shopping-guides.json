@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "cashmere-sweaters-under-300",
+    "rule": "cashmere-sweaters-under-300",
+    "title": "100% Cashmere Sweaters Under $300",
+    "eyebrow": "The guide",
+    "description": "Every pure cashmere sweater under $300 we carry, each label read first. No blends, no nylon added for strength, no viscose added for drape.",
+    "intro": [
+      "Cashmere under $300 is where blends hide. A sweater sold as cashmere can be 30% cashmere and 70% something cheaper, and the label is the only place that says so. Every sweater on this page is 100% cashmere in the shell, read from the retailer's own product page.",
+      "At this price, look for a dense knit that springs back when you stretch it. Expect a little pilling in the first few wears. That is short fibers working loose, not a fault, and it settles once they are gone."
+    ],
+    "learn": "cashmere"
+  },
+  {
+    "slug": "wool-coats-natural-lining",
+    "rule": "wool-coats-natural-lining",
+    "title": "Wool Coats Without a Synthetic Lining",
+    "eyebrow": "The guide",
+    "description": "Wool coats and jackets that are unlined or lined in a natural fiber, so the layer against you breathes as well as the wool does.",
+    "intro": [
+      "A wool coat with a polyester lining is warm on the outside and clammy on the inside. The lining is the part that touches you, and it is the part most product pages bury. Every coat and jacket here is at least 80% wool or another animal fiber, and is either unlined or lined in a natural fiber.",
+      "Unlined is not a compromise. Boiled and melton wools are felted dense enough to block wind on their own, which is why a good coat often needs no lining at all."
+    ],
+    "learn": "wool"
+  },
+  {
+    "slug": "silk-dresses",
+    "rule": "silk-dresses",
+    "title": "100% Silk Dresses",
+    "eyebrow": "The guide",
+    "description": "Every dress we carry that is 100% silk in the shell, read from the retailer's product page, so what drapes in the picture is what drapes on you.",
+    "intro": [
+      "Polyester satin is made to look like silk, and in a photo the two are hard to tell apart. Every dress here is 100% silk in the shell, read from the retailer's product page, so what drapes in the picture is what drapes on you.",
+      "Silk breathes, takes color beautifully, and is warmer than it looks. Check the care label before you buy. Many silk dresses are dry clean only, while washed and sandwashed silks are usually made to be hand washed."
+    ],
+    "learn": "silk"
+  }
+]

@@ -459,3 +459,23 @@ Mac is locked, and macOS blocks clicks on a locked screen.
   expired or wrong token): do not pull, rebase or force. Leave it committed
   and tell Natalie the exact error line, plus that one click on Push origin in
   GitHub Desktop will push it. A 401 or 403 means the token needs replacing.
+
+## Search pages that maintain themselves
+
+Added October 24, 2026. None of these need a step in the loop. They rebuild
+from the catalog and the seen ledger at every push.
+
+- Brand pages carry a written summary (lib/brandfacts.js): how many of the
+  brand's women's pieces we have read, the share that cleared 95% natural,
+  what the live pieces are made of, linings and prices. Once a brand has two
+  months of reads with at least 10 pieces each, a month by month table shows
+  whether new arrivals are getting more or less natural. Keep recording every
+  outcome with its date in data/seen, since that history is the trend.
+- A brand gets its own page at 5 or more live pieces (MIN_BRAND_PIECES in
+  lib/shop.js). Smaller brands share /brands/more, and their old brand
+  addresses redirect there.
+- Shopping guides live in data/shopping-guides.json, each with a rule in
+  lib/guides.js that picks its pieces. Natalie wants one or two new guides a
+  month. Draft the words for her approval before adding one.
+- Vercel pings IndexNow once a day (app/api/indexnow, vercel.json), so Bing
+  hears about new pages without a manual step.

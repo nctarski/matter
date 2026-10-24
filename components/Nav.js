@@ -7,6 +7,7 @@ import { useHearts } from './HeartsProvider';
 
 const LINKS = [
   { href: '/', label: 'Shop' },
+  { href: '/guides', label: 'Guides' },
   { href: '/learn', label: 'Learn' },
   { href: '/about', label: 'About' },
 ];

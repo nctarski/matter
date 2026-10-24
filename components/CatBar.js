@@ -37,7 +37,7 @@ export default function CatBar({ pages, menus, current = null }) {
   };
 
   return (
-    <div className="catbar" ref={barRef} onMouseLeave={closeSoon} onKeyDown={(e) => e.key === 'Escape' && setMenu(null)}>
+    <div className="catbar" data-nosnippet="" ref={barRef} onMouseLeave={closeSoon} onKeyDown={(e) => e.key === 'Escape' && setMenu(null)}>
       <div className="wrap">
         <nav className="cats" aria-label="Shop by category">
           {entries.map((entry) => (

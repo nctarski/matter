@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import guides from '@/data/guides.json';
+import JsonLd from '@/components/JsonLd';
+import { SITE } from '@/lib/site';
 
 // Every guide is built at deploy time as its own static page, which is what
 // lets Google index them and what makes them load instantly.
@@ -30,6 +32,17 @@ export default function GuidePage({ params }) {
 
   return (
     <main id="main" className="wrap">
+      <JsonLd
+        data={{
+          '@context': 'https://schema.org',
+          '@type': 'Article',
+          headline: guide.title.replace(/<[^>]+>/g, ''),
+          description: (guide.intro[0] || '').replace(/<[^>]+>/g, '').slice(0, 300),
+          dateModified: new Date().toISOString().slice(0, 10),
+          publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+          mainEntityOfPage: `${SITE.url}/learn/${guide.slug}`,
+        }}
+      />
       <article className="prose">
         <p className="eyebrow">Know your fibers</p>
 

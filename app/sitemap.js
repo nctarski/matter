@@ -1,7 +1,8 @@
 import guides from '@/data/guides.json';
-import { BRANDS, slugify } from '@/lib/catalog';
+import { slugify } from '@/lib/catalog';
+import { GUIDES } from '@/lib/guides';
 import { SITE } from '@/lib/site';
-import { CATEGORY_PAGES } from '@/lib/shop';
+import { BIG_BRANDS, CATEGORY_PAGES } from '@/lib/shop';
 
 export default function sitemap() {
   const now = new Date();
@@ -21,7 +22,15 @@ export default function sitemap() {
     { url: `${SITE.url}/disclosure`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${SITE.url}/privacy`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${SITE.url}/terms`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
-    ...BRANDS.map((b) => ({
+    { url: `${SITE.url}/guides`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
+    ...GUIDES.map((g) => ({
+      url: `${SITE.url}/guides/${g.slug}`,
+      lastModified: now,
+      changeFrequency: 'daily',
+      priority: 0.9,
+    })),
+    { url: `${SITE.url}/brands/more`, lastModified: now, changeFrequency: 'weekly', priority: 0.4 },
+    ...BIG_BRANDS.map((b) => ({
       url: `${SITE.url}/brand/${slugify(b)}`,
       lastModified: now,
       changeFrequency: 'weekly',

@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { subOf } from '@/lib/subcats';
 import { imageAllowed, isSoldOut, slugify } from '@/lib/item';
 import ProductCard from './ProductCard';
@@ -56,7 +56,12 @@ const clearHash = () => {
  * menu:     that category's sub-category menu, from lib/shop.js
  * heading:  { eyebrow, title, body } for the top of the page
  */
-export default function Shop({ items, brand = null, category = null, menu = null, heading }) {
+/* How many cards to render at a time. The full list is still filtered and
+ * sorted in the browser, but drawing 1,800 cards at once made the page slow
+ * on a phone, so the next batch draws as the shopper nears the bottom. */
+const PAGE = 60;
+
+export default function Shop({ items, brand = null, category = null, menu = null, heading, children = null }) {
   const cat = category?.category || null;
   const [f, setF] = useState(() => initial(brand, cat));
   const set = (patch) => setF((prev) => ({ ...prev, ...patch }));
@@ -112,6 +117,19 @@ export default function Shop({ items, brand = null, category = null, menu = null
       : inStockFirst(kept);
   }, [f, items]);
 
+  const [limit, setLimit] = useState(PAGE);
+  const more = useRef(null);
+  useEffect(() => setLimit(PAGE), [f]);
+  useEffect(() => {
+    const el = more.current;
+    if (!el || typeof IntersectionObserver === 'undefined') return undefined;
+    const io = new IntersectionObserver((entries) => {
+      if (entries.some((e) => e.isIntersecting)) setLimit((n) => n + PAGE);
+    }, { rootMargin: '800px 0px' });
+    io.observe(el);
+    return () => io.disconnect();
+  }, [limit, results.length]);
+
   /* When a filter set returns nothing, find the nearest lower threshold that
    * returns something. Only the threshold is relaxed, because it is the one
    * control where the shopper picked a number rather than a hard rule, and
@@ -139,17 +157,19 @@ export default function Shop({ items, brand = null, category = null, menu = null
         {/* Says out loud why some tiles are blank. A shopper reads it as a
             design choice and an affiliate reviewer reads it as someone who
             understands that product photography is licensed, not taken. */}
-        <p className="photonote">
+        <p className="photonote" data-nosnippet="">
           Photography appears as each retailer partnership is approved. Until then a
           piece shows its colour.
         </p>
       </div>
 
+      {children}
+
         {/* The chosen category's sub-categories, above the filters and pieces.
             The hover menu does the same job on a desktop; this is how a phone
             reaches them, and it shows anyone where they are. */}
         {activeSubs && (
-          <div className="subs" role="group" aria-label={`${category?.label} by type`}>
+          <div className="subs" data-nosnippet="" role="group" aria-label={`${category?.label} by type`}>
             <button
               type="button"
               aria-pressed={!f.sub}
@@ -170,7 +190,7 @@ export default function Shop({ items, brand = null, category = null, menu = null
           </div>
         )}
         <div className="shop">
-          <aside className="rail" aria-label="Filters">
+          <aside className="rail" aria-label="Filters" data-nosnippet="">
             <div className="fgroup">
               <h3>Natural fiber content</h3>
               <div className="readout">
@@ -297,7 +317,7 @@ export default function Shop({ items, brand = null, category = null, menu = null
           </aside>
 
           <div className="results">
-            <div className="rhead">
+            <div className="rhead" data-nosnippet="">
               <span className="count">
                 {results.length} {results.length === 1 ? 'piece' : 'pieces'}
                 {f.sub && <> in {f.sub.toLowerCase()}</>}
@@ -323,9 +343,18 @@ export default function Shop({ items, brand = null, category = null, menu = null
             </div>
 
             {results.length ? (
+              <>
               <div className="grid">
-                {results.map((item) => <ProductCard key={item.id} item={item} />)}
+                {results.slice(0, limit).map((item) => <ProductCard key={item.id} item={item} />)}
               </div>
+              {limit < results.length && (
+                <div className="moreline" ref={more}>
+                  <button type="button" className="linkbtn" onClick={() => setLimit((n) => n + PAGE)}>
+                    Show more, {results.length - limit} to go
+                  </button>
+                </div>
+              )}
+              </>
             ) : (
               <div className="empty">
                 <p>Nothing meets that standard right now.</p>

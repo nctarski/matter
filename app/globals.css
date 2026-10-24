@@ -499,3 +499,29 @@ footer a { color: var(--muted); }
 .brandlist { display: flex; flex-wrap: wrap; gap: var(--s2) var(--s4); margin-top: var(--s2); }
 .brandlist a { color: var(--muted); text-decoration: none; font-size: 14px; }
 .brandlist a:hover { color: var(--oxblood); }
+
+/* ---------- At a glance facts on brand and category pages ---------- */
+.facts { display: grid; gap: var(--s3); max-width: 62ch; padding-bottom: var(--s4); }
+.facts p { color: var(--charcoal); }
+.facts .updated, .updated { color: var(--faint); font-size: 12px; }
+.trend { display: grid; gap: var(--s2); }
+.trend table { border-collapse: collapse; font-size: 13px; width: 100%; max-width: 420px; }
+.trend caption { text-align: left; color: var(--muted); font-size: 12px; padding-bottom: var(--s2); }
+.trend th, .trend td { text-align: left; padding: 6px 8px 6px 0; border-bottom: 1px solid var(--hairline); font-weight: 400; }
+.trend thead th { color: var(--faint); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; }
+.moreline { display: flex; justify-content: center; padding-top: var(--s5); }
+
+/* ---------- More brands and guides ---------- */
+.brandgroup { border-top: 1px solid var(--hairline); padding-block: var(--s5); }
+.brandgroup .grid { margin-top: var(--s3); }
+.guidegrid { padding-bottom: var(--s6); }
+.guidelist { list-style: none; margin: 0; padding: 0 0 var(--s6); display: grid; gap: 0; }
+.guidelist a {
+  display: grid; gap: var(--s1); padding-block: var(--s4); border-top: 1px solid var(--hairline);
+  text-decoration: none;
+}
+.guidelist .gtitle { font-family: var(--display); font-size: clamp(22px, 3.4vw, 30px); line-height: 1.2; }
+.guidelist .gdesc { color: var(--muted); max-width: 62ch; }
+.guidelist .gcount { color: var(--faint); font-size: 12px; }
+.guidelist a:hover .gtitle { color: var(--oxblood); }
+.browse .fnote { color: var(--faint); font-size: 12px; margin-top: var(--s2); }
