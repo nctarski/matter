@@ -8,21 +8,47 @@ import Footer from '@/components/Footer';
 export const metadata = {
   metadataBase: new URL(SITE.url),
   title: {
-    default: `${SITE.name} · ${SITE.tagline}`,
-    template: `%s · ${SITE.name}`,
+    default: SITE.homeTitle,
+    template: `%s | ${SITE.name}`,
   },
   description: SITE.description,
   openGraph: {
     siteName: SITE.name,
     type: 'website',
-    title: `${SITE.name} · ${SITE.tagline}`,
+    title: SITE.homeTitle,
     description: SITE.description,
   },
+  twitter: { card: 'summary_large_image' },
   // Driven by SITE.indexable, so there is one place to flip when the real
   // catalog lands rather than a setting hiding in several files.
   robots: SITE.indexable
     ? { index: true, follow: true }
     : { index: false, follow: false },
+};
+
+/* Tells Google who publishes the site and what it is called, so a search for
+ * MATTER can show the name and site search properly. */
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Organization',
+      '@id': `${SITE.url}/#organization`,
+      name: SITE.name,
+      url: SITE.url,
+      logo: `${SITE.url}/icon.svg`,
+      email: SITE.email,
+      description: SITE.description,
+    },
+    {
+      '@type': 'WebSite',
+      '@id': `${SITE.url}/#website`,
+      name: SITE.name,
+      alternateName: 'MATTER The Edit',
+      url: SITE.url,
+      publisher: { '@id': `${SITE.url}/#organization` },
+    },
+  ],
 };
 
 export const viewport = { themeColor: '#f7f5ef' };
@@ -50,6 +76,7 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;0,6..96,600;1,6..96,500&family=Inter:wght@400;500&display=swap"
         />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </head>
       <body>
         <a className="skip" href="#main">Skip to content</a>

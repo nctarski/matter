@@ -109,12 +109,13 @@ button, input, select { font-family: inherit; }
   scrollbar-width: none;
 }
 .cats::-webkit-scrollbar { display: none; }
-.cats button {
+.cats a, .cats button {
   background: none; border: 0; padding: 0; white-space: nowrap; font-size: 11px;
   letter-spacing: .14em; text-transform: uppercase; color: var(--faint); cursor: pointer;
 }
-.cats button[aria-pressed='true'] { color: var(--oxblood); }
-.cats button:hover { color: var(--charcoal); }
+.cats button[aria-pressed='true'], .cats a[aria-current='page'] { color: var(--oxblood); }
+.cats a, .submenu a { text-decoration: none; }
+.cats a:hover, .cats button:hover { color: var(--charcoal); }
 
 /* The hover menu under a category. It hangs from the bar rather than from the
    scrolling row of words, so the row's overflow cannot clip it. */
@@ -125,12 +126,12 @@ button, input, select { font-family: inherit; }
   border: 1px solid var(--hairline); box-shadow: 0 10px 24px rgba(31, 32, 32, .07);
 }
 @media (hover: none) { .submenu { display: none; } }
-.submenu button {
+.submenu a, .submenu button {
   background: none; border: 0; text-align: left; cursor: pointer;
   padding: 9px var(--s3); font-size: 13px; color: var(--muted);
 }
-.submenu button:first-child { color: var(--charcoal); border-bottom: 1px solid var(--hairline); margin-bottom: var(--s1); }
-.submenu button:hover, .submenu button[aria-pressed='true'] { color: var(--oxblood); }
+.submenu a:first-child, .submenu button:first-child { color: var(--charcoal); border-bottom: 1px solid var(--hairline); margin-bottom: var(--s1); }
+.submenu a:hover, .submenu button:hover, .submenu button[aria-pressed='true'] { color: var(--oxblood); }
 
 /* The same sub-categories as a row above the results, once a category is
    chosen. This is how a phone reaches them. */
@@ -151,7 +152,7 @@ button, input, select { font-family: inherit; }
 }
 @media (min-width: 860px) { .statement { grid-template-columns: 1fr 240px; gap: var(--s6); padding-block: var(--s6) var(--s5); } }
 .statement-copy { display: grid; gap: var(--s3); max-width: 62ch; }
-.statement h2 {
+.statement h1, .statement h2 {
   font-family: var(--display); font-weight: 500; font-size: clamp(26px, 3.8vw, 38px);
   line-height: 1.18; text-wrap: balance;
 }
@@ -225,10 +226,10 @@ button, input, select { font-family: inherit; }
 
 /* ---------- Full catalog ---------- */
 .fullhead {
-  border-top: 1px solid var(--rule); padding-block: var(--s6) var(--s4);
+  padding-block: var(--s5) var(--s4);
   display: grid; gap: var(--s3); max-width: 56ch;
 }
-.fullhead h2 { font-family: var(--display); font-size: clamp(28px, 5vw, 42px); line-height: 1.12; }
+.fullhead h1, .fullhead h2 { font-family: var(--display); font-size: clamp(28px, 5vw, 42px); line-height: 1.12; }
 .fullhead p { color: var(--muted); }
 .fullhead .photonote { color: var(--faint); font-size: 12px; margin-top: 8px; }
 
@@ -476,3 +477,25 @@ footer a { color: var(--muted); }
 .card:hover .report, .report:focus-visible { opacity: 1; }
 .report:hover { color: var(--oxblood); }
 @media (hover: none) { .report { opacity: 1; } }
+
+/* ---------- Shop by category and brand, on the homepage ---------- */
+.browse {
+  border-top: 1px solid var(--hairline); padding-block: var(--s6);
+  display: grid; gap: var(--s3);
+}
+.browse h2 { font-family: var(--display); font-size: clamp(27px, 4.6vw, 40px); line-height: 1.12; }
+.catlist, .brandlist { list-style: none; margin: 0; padding: 0; }
+.catlist {
+  display: grid; grid-template-columns: repeat(2, 1fr); gap: 0 var(--s4);
+  margin-top: var(--s3);
+}
+@media (min-width: 700px) { .catlist { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 1100px) { .catlist { grid-template-columns: repeat(4, 1fr); } }
+.catlist a {
+  display: block; padding-block: var(--s3); border-bottom: 1px solid var(--hairline);
+  font-family: var(--display); font-size: 21px; text-decoration: none;
+}
+.catlist a:hover { color: var(--oxblood); }
+.brandlist { display: flex; flex-wrap: wrap; gap: var(--s2) var(--s4); margin-top: var(--s2); }
+.brandlist a { color: var(--muted); text-decoration: none; font-size: 14px; }
+.brandlist a:hover { color: var(--oxblood); }

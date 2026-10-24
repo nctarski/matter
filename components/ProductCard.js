@@ -4,7 +4,7 @@ import {
   COLOURS, DARK_COLOURS, LINING_UNDISCLOSED,
   cellulosicPct, formatComposition, formatPrice,
 } from '@/lib/fibers';
-import { availableSizes, isSoldOut, licensedImage } from '@/lib/catalog';
+import { availableSizes, isSoldOut, licensedImage } from '@/lib/item';
 import { SITE } from '@/lib/site';
 import { useHearts } from './HeartsProvider';
 

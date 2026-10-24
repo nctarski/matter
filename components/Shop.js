@@ -1,43 +1,31 @@
 'use client';
 
-import { useMemo, useRef, useState } from 'react';
-import { subMenus, subOf } from '@/lib/subcats';
-import { catalog, imageAllowed, isSoldOut } from '@/lib/catalog';
-import edits from '@/data/edits.json';
+import { useEffect, useMemo, useState } from 'react';
+import { subOf } from '@/lib/subcats';
+import { imageAllowed, isSoldOut, slugify } from '@/lib/item';
 import ProductCard from './ProductCard';
-import Statement from './Statement';
+import { EDIT_FILTERS } from '@/lib/edits';
 import {
-  COLOURS, DEFAULTS, EXCLUDABLE, FILTERABLE_FIBERS, NAV, PRICE_CEILING,
+  COLOURS, DEFAULTS, EXCLUDABLE, FILTERABLE_FIBERS, PRICE_CEILING,
   formatPrice, passes, sortItems,
 } from '@/lib/fibers';
 
-const byId = Object.fromEntries(catalog.map((i) => [i.id, i]));
-const RETAILERS = [...new Set(catalog.map((i) => i.retailer))].sort();
-const MENUS = subMenus(catalog);
+/* The shop grid and its filter rail. It no longer lives on the homepage: each
+ * shop page (all pieces, one category, one brand) hands it only the pieces it
+ * shows, so a page never ships the whole catalog to the browser. */
 
-/** The filter state each curated edit drops you into when you click through. */
-const EDIT_FILTERS = {
-  outerwear: { nav: 'Outerwear', category: 'Outerwear' },
-  polo: { nameHas: { words: ['polo', 'henley'], label: 'polos' } },
-  fringe: { nameHas: { words: ['fringe'], label: 'fringe' } },
-  pure: { threshold: 100, allowStretch: false },
-  under300: { maxPrice: 300 },
-  cashmere: { fibers: ['Cashmere'] },
-  tailoring: { nav: 'Tailoring', category: 'Tailoring' },
-};
 
-/* A brand page starts from a different place than the homepage. It shows every
- * piece of that brand, including the ones that miss the 95% default, because
- * the person most likely to be looking is the brand itself and hiding half
- * their range would be its own kind of dishonesty. Sorted most natural first,
- * so the pieces that make the case lead. The rail is still there for anyone
- * who wants to apply the standard. */
-const initial = (brand) => ({
+/* A brand page starts from a different place than the other shop pages. It
+ * shows every piece of that brand, including the ones that miss the 95%
+ * default, because the person most likely to be looking is the brand itself
+ * and hiding half their range would be its own kind of dishonesty. Sorted most
+ * natural first, so the pieces that make the case lead. The rail is still
+ * there for anyone who wants to apply the standard. */
+const initial = (brand, category) => ({
   ...DEFAULTS,
   ...(brand ? { threshold: 0, sort: 'brand' } : { sort: 'new' }),
-  nav: 'All',      // which top bar entry is active
-  category: null,  // set when that entry is a garment category
-  tag: null,       // set when that entry is an occasion
+  category,        // set on a category page
+  tag: null,
   sub: null,       // sub-category label inside the category, see lib/subcats.js
   nameHas: null,   // words in the name, used by edits like fringe that cut across categories
   colours: [],
@@ -48,22 +36,29 @@ const initial = (brand) => ({
 });
 
 /* Filters that live here rather than in passes(), because they only exist on
- * the shop page: a sub-category inside the chosen category, and the name match
- * a cross-category edit uses. */
+ * the shop pages: a sub-category inside the chosen category, and the name
+ * match a cross-category edit uses. */
 const extra = (i, f) =>
   (!f.sub || subOf(i) === f.sub) &&
   (!f.nameHas || f.nameHas.words.some((w) => i.name.toLowerCase().includes(w)));
 const ok = (i, f) => passes(i, f) && extra(i, f);
 
-export default function Shop({ brand = null }) {
-  const [f, setF] = useState(() => initial(brand));
-  const fullRef = useRef(null);
-  const barRef = useRef(null);
-  const closeTimer = useRef(null);
-  // The hover menu: which top bar entry it belongs to and where it sits.
-  const [menu, setMenu] = useState(null);
-  const brandPieces = brand ? catalog.filter((i) => i.brand === brand) : catalog;
+const clearHash = () => {
+  if (typeof window !== 'undefined' && window.location.hash) {
+    history.replaceState(null, '', window.location.pathname + window.location.search);
+  }
+};
 
+/**
+ * items:    the pieces this page covers
+ * brand:    set on a brand page
+ * category: { label, category } on a category page
+ * menu:     that category's sub-category menu, from lib/shop.js
+ * heading:  { eyebrow, title, body } for the top of the page
+ */
+export default function Shop({ items, brand = null, category = null, menu = null, heading }) {
+  const cat = category?.category || null;
+  const [f, setF] = useState(() => initial(brand, cat));
   const set = (patch) => setF((prev) => ({ ...prev, ...patch }));
   const toggleIn = (key, value) =>
     setF((prev) => ({
@@ -73,59 +68,49 @@ export default function Shop({ brand = null }) {
         : [...prev[key], value],
     }));
 
-  /** Pick a top bar entry, and optionally one of its sub-categories. */
-  const choose = (entry, sub = null) => {
-    set({
-      nav: entry.label,
-      category: entry.category || null,
-      tag: entry.tag || null,
-      sub,
-      nameHas: null,
-    });
-    setMenu(null);
-    fullRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  };
+  const retailers = useMemo(() => [...new Set(items.map((i) => i.retailer))].sort(), [items]);
+  const activeSubs = menu?.subs.length ? menu.subs : null;
 
-  const openMenu = (entry, el) => {
-    clearTimeout(closeTimer.current);
-    if (!entry.category || !MENUS[entry.category]?.subs.length) return setMenu(null);
-    const bar = barRef.current.getBoundingClientRect();
-    const btn = el.getBoundingClientRect();
-    // Sit under the word, but never hang off the right edge of the page.
-    setMenu({ label: entry.label, entry, left: Math.max(0, Math.min(btn.left - bar.left - 16, bar.width - 240)) });
-  };
-  // A short delay, so moving the pointer from the word down into the menu
-  // does not close it on the way.
-  const closeSoon = () => {
-    clearTimeout(closeTimer.current);
-    closeTimer.current = setTimeout(() => setMenu(null), 180);
-  };
+  /* The part of the address after the # picks a starting point: a
+   * sub-category on a category page (/shop/sweaters#cardigans), or one of
+   * the homepage edits (/shop#edit-cashmere). Read on arrival and whenever it
+   * changes, since the hover menu can change it without leaving the page. */
+  useEffect(() => {
+    const read = () => {
+      const h = decodeURIComponent(window.location.hash.slice(1));
+      if (!h) return;
+      if (h.startsWith('edit-') && EDIT_FILTERS[h.slice(5)]) {
+        setF({ ...initial(brand, cat), ...EDIT_FILTERS[h.slice(5)] });
+      } else if (activeSubs) {
+        const sub = activeSubs.find((s) => slugify(s.label) === h);
+        if (sub) setF((prev) => ({ ...prev, sub: sub.label }));
+      }
+    };
+    read();
+    window.addEventListener('hashchange', read);
+    return () => window.removeEventListener('hashchange', read);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
-  const activeSubs = f.category && MENUS[f.category]?.subs.length ? MENUS[f.category].subs : null;
-
-  const applyEdit = (key) => {
-    setF({ ...initial(brand), ...(EDIT_FILTERS[key] || {}) });
-    fullRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  const pickSub = (label) => {
+    set({ sub: label });
+    if (label) history.replaceState(null, '', `#${slugify(label)}`);
+    else clearHash();
   };
 
   /* Pieces whose retailer has approved us, and therefore have photography,
    * sort ahead of pieces that do not, inside whatever sort the shopper chose.
-   * Approvals arrive one retailer at a time over weeks, and without this the
-   * grid interleaves photographed pieces with bare colour tiles and reads as
-   * broken rather than partial. It needs no upkeep: adding a retailer to
-   * IMAGE_LICENSED_RETAILERS promotes all of its pieces automatically, and
-   * once everything is approved the rule stops having any effect. */
-  /* Sold out pieces go after everything in stock, inside the same two groups,
+   * Sold out pieces go after everything in stock, inside the same two groups,
    * so the order is: photographed in stock, photographed sold out, colour tile
    * in stock, colour tile sold out. Both splits keep the chosen sort. */
   const results = useMemo(() => {
-    const kept = sortItems(catalog.filter((i) => ok(i, f)), f.sort);
+    const kept = sortItems(items.filter((i) => ok(i, f)), f.sort);
     const inStockFirst = (list) => [...list.filter((i) => !isSoldOut(i)), ...list.filter(isSoldOut)];
     const withImage = kept.filter((i) => imageAllowed(i) && i.image);
     return withImage.length
       ? [...inStockFirst(withImage), ...inStockFirst(kept.filter((i) => !(imageAllowed(i) && i.image)))]
       : inStockFirst(kept);
-  }, [f]);
+  }, [f, items]);
 
   /* When a filter set returns nothing, find the nearest lower threshold that
    * returns something. Only the threshold is relaxed, because it is the one
@@ -134,11 +119,11 @@ export default function Shop({ brand = null }) {
   const relax = useMemo(() => {
     if (results.length) return null;
     for (let t = f.threshold - 5; t >= 50; t -= 5) {
-      const count = catalog.filter((i) => ok(i, { ...f, threshold: t })).length;
+      const count = items.filter((i) => ok(i, { ...f, threshold: t })).length;
       if (count) return { threshold: t, count };
     }
     return null;
-  }, [f, results.length]);
+  }, [f, items, results.length]);
 
   // Two-handle price slider. Keep the handles at least one step apart so they
   // cannot cross and strand the shopper on an empty result set.
@@ -146,145 +131,38 @@ export default function Shop({ brand = null }) {
   const onMax = (v) => set({ maxPrice: Math.max(v, f.minPrice + 50) });
 
   return (
-    <>
-      {/* The top bar. Hovering a category that has sub-categories opens a small
-          menu under it; clicking the category itself still shows everything in
-          it. On touch screens there is no hover, so the sub-categories also
-          show as a row under the bar once a category is chosen. */}
-      <div className="catbar" ref={barRef} onMouseLeave={closeSoon} onKeyDown={(e) => e.key === 'Escape' && setMenu(null)}>
-        <div className="wrap">
-          <div className="cats" role="group" aria-label="Category">
-            {NAV.map((entry) => {
-              const hasSubs = Boolean(entry.category && MENUS[entry.category]?.subs.length);
-              return (
-                <button
-                  key={entry.label}
-                  type="button"
-                  aria-pressed={f.nav === entry.label}
-                  aria-haspopup={hasSubs ? 'true' : undefined}
-                  aria-expanded={hasSubs ? menu?.label === entry.label : undefined}
-                  onMouseEnter={(e) => openMenu(entry, e.currentTarget)}
-                  onFocus={(e) => openMenu(entry, e.currentTarget)}
-                  onClick={() => choose(entry)}
-                >
-                  {entry.label}
-                </button>
-              );
-            })}
-          </div>
-        </div>
-        {menu && (
-          <div
-            className="submenu"
-            style={{ left: menu.left }}
-            onMouseEnter={() => clearTimeout(closeTimer.current)}
-            onMouseLeave={closeSoon}
-          >
-            <button type="button" onClick={() => choose(menu.entry)}>
-              All {menu.entry.label.toLowerCase()}
-            </button>
-            {MENUS[menu.entry.category].subs.map((sub) => (
-              <button
-                key={sub.label}
-                type="button"
-                aria-pressed={f.category === menu.entry.category && f.sub === sub.label}
-                onClick={() => choose(menu.entry, sub.label)}
-              >
-                {sub.label}
-              </button>
-            ))}
-          </div>
-        )}
+    <main id="main" className="wrap">
+      <div className="fullhead">
+        <p className="eyebrow">{heading.eyebrow}</p>
+        <h1>{heading.title}</h1>
+        <p>{heading.body}</p>
+        {/* Says out loud why some tiles are blank. A shopper reads it as a
+            design choice and an affiliate reviewer reads it as someone who
+            understands that product photography is licensed, not taken. */}
+        <p className="photonote">
+          Photography appears as each retailer partnership is approved. Until then a
+          piece shows its colour.
+        </p>
       </div>
-
-      <main id="main" className="wrap">
-        {/* Curated edits and explainer strips, in the order set in data/edits.json.
-            A brand page skips straight to that brand's grid. */}
-        {!brand && <Statement />}
-        {!brand && edits.map((block, i) =>
-          block.type === 'strip' ? (
-            <section className="strip" key={`strip-${i}`}>
-              <h2>{block.heading}</h2>
-              <p>{block.body}</p>
-            </section>
-          ) : /* An edit whose picks are all still pending confirmation would
-                 render as a heading above nothing. Drop the whole block
-                 instead, so the homepage never has a hole in it. */
-          block.picks.filter((p) => byId[p.id]).length === 0 ? null : (
-            <section
-              className={`edit-sec photos-${block.photos || 'model'}`}
-              key={`edit-${i}`}
-              aria-labelledby={`edit-h-${i}`}
-            >
-              <div className="ehead">
-                <h2 id={`edit-h-${i}`}>{block.title}</h2>
-                <span className="by">{block.by}</span>
-              </div>
-              <p className="enote">{block.note}</p>
-              <div className="trio">
-                {block.picks
-                  .filter((p) => byId[p.id])
-                  .map((p) => (
-                    <ProductCard key={p.id} item={byId[p.id]} note={p.note} image={p.image} label={p.label} />
-                  ))}
-              </div>
-              <div className="emore">
-                <button type="button" className="linkbtn" onClick={() => applyEdit(block.apply)}>
-                  {block.cta} &rarr;
-                </button>
-              </div>
-            </section>
-          )
-        )}
-
-        <div className="fullhead" ref={fullRef}>
-          {brand ? (
-            <>
-              <p className="eyebrow">{brand} at MATTER</p>
-              <h2>{brand}, read label first</h2>
-              <p>
-                {brandPieces.length} {brandPieces.length === 1 ? 'piece' : 'pieces'} indexed,
-                every composition read from the product page and shown shell and lining
-                separately. Sorted most natural first.
-              </p>
-            </>
-          ) : (
-            <>
-              <p className="eyebrow">The full edit</p>
-              <h2>Set your own standard</h2>
-              <p>
-                {catalog.length} pieces, every composition read shell and lining separately.
-                Move the bar and watch what survives it.
-              </p>
-            </>
-          )}
-          {/* Says out loud why the tiles are blank. A shopper reads it as a
-              design choice and an affiliate reviewer reads it as someone who
-              understands that product photography is licensed, not taken. */}
-          <p className="photonote">
-            Photography appears as each retailer partnership is approved. Until then a
-            piece shows its colour.
-          </p>
-        </div>
 
         {/* The chosen category's sub-categories, above the filters and pieces.
             The hover menu does the same job on a desktop; this is how a phone
             reaches them, and it shows anyone where they are. */}
         {activeSubs && (
-          <div className="subs" role="group" aria-label={`${f.nav} by type`}>
+          <div className="subs" role="group" aria-label={`${category?.label} by type`}>
             <button
               type="button"
               aria-pressed={!f.sub}
-              onClick={() => choose(NAV.find((n) => n.label === f.nav))}
+              onClick={() => pickSub(null)}
             >
-              All {f.nav.toLowerCase()}
+              All {category?.label.toLowerCase()}
             </button>
             {activeSubs.map((sub) => (
               <button
                 key={sub.label}
                 type="button"
                 aria-pressed={f.sub === sub.label}
-                onClick={() => choose(NAV.find((n) => n.label === f.nav), sub.label)}
+                onClick={() => pickSub(sub.label)}
               >
                 {sub.label}
               </button>
@@ -402,7 +280,7 @@ export default function Shop({ brand = null }) {
 
             <div className="fgroup">
               <h3>Retailer</h3>
-              {RETAILERS.map((r) => (
+              {retailers.map((r) => (
                 <button
                   key={r} type="button" className="fbtn"
                   aria-pressed={f.retailers.includes(r)}
@@ -413,7 +291,7 @@ export default function Shop({ brand = null }) {
               ))}
             </div>
 
-            <button type="button" className="reset" onClick={() => setF(initial(brand))}>
+            <button type="button" className="reset" onClick={() => { setF(initial(brand, category)); clearHash(); }}>
               Reset all filters
             </button>
           </aside>
@@ -476,7 +354,6 @@ export default function Shop({ brand = null }) {
             )}
           </div>
         </div>
-      </main>
-    </>
+    </main>
   );
 }

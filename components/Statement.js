@@ -20,7 +20,7 @@ export default function Statement() {
     <section className="statement" aria-label="About MATTER">
       <div className="statement-copy">
         <p className="eyebrow">What MATTER is</p>
-        <h2>An uncompromising edit of natural fiber clothing, held to a high bar for fashion.</h2>
+        <h1>An uncompromising edit of natural fiber clothing, held to a high bar for fashion.</h1>
         <p>
           We search the brands worth knowing and keep only the pieces that clear both bars,
           gathered in one place. For people who care what they put on their bodies, what their
