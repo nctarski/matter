@@ -106,11 +106,11 @@
       "brand": "Ulla Johnson",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": ""
+      "lastSweep": "2026-10-23",
+      "lastDelta": 400,
+      "note": "Composition sits in a \"Composition:\" bullet, sometimes split into Main and Combo or with a lining named inline (\"100% silk, 100% polyester lining\"). Colour is the last word of the URL in Ulla's own names (noir, tigris, cognac, lichen). Chrome blocks downloads from ullajohnson.com after the first try, so pull from a neutral page such as example.com (products.json allows cross-origin reads). 400 staged in round 2026-10-23-nightly10."
     },
     {
       "order": 11,
