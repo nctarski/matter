@@ -33,5 +33,4316 @@
   "outcome": "staged",
   "date": "2026-10-22",
   "round": "round-2026-10-22-shopify.json"
+ },
+ "kotn.com/products/striped-quilted-comforter-in-natural-pure-cashmere-fudge": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/patchwork-quilted-comforter-in-natural-pine-v2": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-hamatah-sweater-in-birch-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-slub-henley-in-chocolate-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-crossover-3-4-sleeve-top-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-shrunken-tee-in-black-v2": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-layn-3-4-sleeve-in-deep-purple": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-cold-shoulder-halter-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-rib-zip-hoodie-in-coffee-bean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-cozy-turtleneck-in-marshmallow-v2": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-cozy-turtleneck-in-chocolate-plum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-cozy-track-pant-in-black-v2": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-cozy-track-pant-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-cozy-track-pant-in-chocolate-plum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-cozy-zip-hoodie-in-truffle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-alpaca-hooded-sweater-in-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-patchwork-shirt-in-gypsum-black-plaid": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-patchwork-shirt-in-carmine-mahogany-plaid": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/wabar-textured-scarf-in-walnut-gypsum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/sukun-fuzzy-beanie-in-cobalt-blue-heather-grey-winter-sky": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/sukun-fuzzy-beanie-in-tawny-port-charcoal-graphite": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/plaited-rib-scarf-in-black-melange-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/plaited-rib-scarf-in-oat-melange-dark-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/merino-balaclava-in-taupe-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/merino-balaclava-in-charcoal-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/quilted-comforter-in-natural-v2": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-off-shoulder-tee-in-azure": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-midweight-t-shirt-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-crew-in-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rugby-shirt-in-harvard-navy-beige": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-off-shoulder-tee-in-desert": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-cable-zip-sweater-in-dark-charcoal": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-ali-crewneck-sweater-in-charcoal-fiery-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-cozy-track-pant-in-natural": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-orman-knit-crew-in-natural-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-easy-crew-in-olive": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-masrah-knit-short-in-farrow-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/rib-socks-in-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-2-tone-waffle-short-in-marshmallow-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/hamatah-scarf-in-cabernet": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-linen-station-blazer-in-birch-brindle-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-linen-station-short-in-birch-brindle-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-linen-station-short-in-mirage": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/hamatah-beanie-in-midnight": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/hamatah-beanie-in-cabernet": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/maadi-scarf-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mina-beret-in-jester-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mina-beret-in-sandshell": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mina-beret-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-micro-rib-cami-in-cerulean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/linen-fitted-sheet-and-pillow-sets-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-rib-full-zip-elongated-hoodie-in-dusty-olive": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-safi-denim-in-vintage-wash-v2": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-baseball-longsleeve-in-birch-mahogany": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-baseball-longsleeve-in-sangria": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-baseball-longsleeve-in-haze-thunderstorm": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-baseball-longsleeve-in-raisin-chocolate-plum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-shrunken-varsity-tee-in-thunderstorm-haze": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-off-shoulder-longsleeve-tunic-in-birch": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-mina-twisted-tee-in-chocolate-plum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-mina-twisted-tee-in-violet": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-lina-cowl-neck-tee-in-cerulean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-rahil-denim-in-dark-grey-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-crew-in-pitch-navy-bark-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-barbarian-rugby-in-salmon-ivory": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-lina-cowl-neck-longsleeve-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-lina-cowl-neck-tee-in-haze": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-sahran-crewneck-sweater-in-mahogany": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sahran-cardigan-in-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-dima-full-zip-sweater-in-light-taupe-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-dima-full-zip-sweater-in-blue-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mona-merino-cardigan-in-charcoal-melange": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-salma-turtleneck-sweater-in-deep-ocean": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-salma-turtleneck-sweater-in-heather-grey": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-salma-scoop-sweater-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-salma-scoop-sweater-in-birch": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-teak-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/sheet-set-in-cashmere": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-bath-robe-in-chocolate-plum-cashmere": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-bath-mat-in-chocolate-plum-cashmere": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-bath-mat-in-natural-cashmere": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/nemat-perfume-set": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/fitted-sheet-and-pillowcase-set-in-dark-slate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/fitted-sheet-and-pillowcase-set-in-chocolate-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-hand-towel-2-pack-in-natural-cashmere": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-hand-towel-2-pack-in-dark-slate-aluminum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-hand-towel-2-pack-in-chocolate-plum-cashmere": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-bath-sheet-in-dark-slate-aluminum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-bath-sheet-in-natural-cashmere": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-bath-sheet-in-chocolate-plum-cashmere": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-cover-and-sham-set-in-aluminum-dark-slate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-set-in-aluminum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-cover-and-sham-set-in-natural-cashmere": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-cover-and-sham-set-in-chocolate-plum-cashmere": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-elara-zip-up-sweater-in-violet": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-elara-zip-up-sweater-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/elba-merino-neckwarmer-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/elba-merino-neckwarmer-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/elba-merino-beanie-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/elba-merino-beanie-in-black-charcoal-melange-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/elba-merino-beanie-in-charcoal-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/elba-merino-beanie-in-fiery-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/elba-merino-beanie-in-coffee-bean-fiery-red-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/elba-merino-skinny-scarf-in-fiery-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/elba-merino-skinny-scarf-in-coffee-bean-fiery-red-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/dafa-scarf-in-oat-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/dafa-scarf-in-black-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ali-crewneck-sweater-in-cocoa-oat": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-asymmetric-zip-sweater-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-asymmetric-zip-sweater-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/ham-tah-beanie-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/ham-tah-scarf-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-rib-crewneck-sweater-in-pitch-navy-winter-sky": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-hamatah-sweater-in-cherry-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-rib-crewneck-sweater-in-dark-taupe-oat-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-jana-longsleeve-in-charcoal": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/merino-soft-tie-hooded-scarf-in-charcoal-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/merino-soft-tie-hooded-scarf-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-twill-jacket-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-relaxed-flannel-shirt-in-pitch-navy-birch-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ramad-shirt-in-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-lana-skirt-in-charcoal-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zaina-ruched-blouse-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-varsity-v-neck-tee-in-dark-slate-dark-indigo": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-layn-3-4-sleeve-in-gypsum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-layn-3-4-sleeve-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-jana-longsleeve-in-lavender": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-jana-longsleeve-in-birch": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-rib-crewneck-sweater-in-pebble-melange-birch": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-micro-rib-longsleeve-in-violet": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-crossover-3-4-sleeve-top-in-deep-purple": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-dana-asymmetric-dress-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-dana-asymmetric-dress-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-shrunken-varsity-tee-in-birch-tawny-port": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-zaman-pleated-check-skirt-in-thunderstorm-check": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-low-v-neck-tee-in-tawny-port": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-essential-scoop-tee-in-sangria": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-essential-scoop-tee-in-raisin": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-shadow-plaid-shirt-in-winter-sky-plaid": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-crew-in-truffle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-hamatah-sweater-in-chocolate-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ali-crewneck-sweater-in-juniper-cream": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-dana-asymmetric-top-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-dana-asymmetric-top-in-lavender": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-dana-asymmetric-top-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-aliya-cape-sweater-in-taupe-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-hamatah-sweater-in-cerulean-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-retro-ringer-tee-in-birch-mahogany": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-asymmetric-track-jacket-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-asymmetric-track-jacket-in-gypsum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-asymmetric-track-jacket-in-raisin": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-longsleeve-in-cardamom": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-rina-wool-coatigan-in-light-taupe-melange": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mawi-denim-midi-skirt-in-ocean-wash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-shadow-plaid-shirt-in-persimmon-plaid": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-modular-button-sweater-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-ruya-low-v-neck-sweater-in-olive": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-ruya-low-v-neck-sweater-in-deep-ocean-heather-grey": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-lana-trouser-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-ghina-v-neck-dress-in-gypsum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-ghina-v-neck-dress-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-snug-full-zip-hoodie-in-gypsum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-snug-full-zip-hoodie-in-raisin": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ali-full-zip-sweater-in-black-blue-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mona-merino-wrap-sweater-in-light-grey-melange": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-mona-merino-wrap-sweater-in-tawny-port": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-iman-plaid-trouser-in-deep-ocean-plaid": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-elara-zip-up-sweater-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-elara-zip-up-sweater-in-tawny-port": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-elara-zip-up-sweater-in-gypsum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-ali-zip-sweater-in-dark-taupe-brown": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-ali-zip-sweater-in-black-blue": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-ali-zip-sweater-in-heather-grey-carmine": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sukun-fuzzy-sweater-in-cobalt-blue-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sukun-fuzzy-sweater-in-juniper-pitch-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sukun-fuzzy-sweater-in-tawny-port-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-naar-cord-full-zip-jacket-in-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ali-crewneck-sweater-in-brown-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-lana-trouser-in-charcoal-pinstripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-nawa-convertible-longsleeve-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-nawa-convertible-longsleeve-in-birch": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-nawa-convertible-longsleeve-in-lavender-ash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-pique-longsleeve-polo-in-pitch-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-pique-longsleeve-polo-in-chocolate-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-fine-merino-v-neck-sweater-in-dark-tawny-port": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-fine-merino-v-neck-sweater-in-charcoal-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-a-2-bomber-jacket-in-washed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-a-2-bomber-jacket-in-field-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/buttoned-leg-warmers-in-charcoal-mix": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-henley-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-henley-in-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cozy-pant-in-truffle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-rafi-denim-shrunken-jacket-in-rinse": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-layn-v-neck-tank-in-pacific-blue": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sanaa-shirt-in-winter-sky-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sanaa-shirt-in-taupe-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-asr-cut-off-pant-in-almost-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-asr-cut-off-crewneck-in-faded-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-asr-cut-off-crewneck-in-tawny-port": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/shrunken-rugby-shirt-in-grey-brown": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/shrunken-rugby-shirt-in-rose-harvard": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-everyday-crew-in-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-low-v-neck-longsleeve-in-lavender": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-raya-field-jacket-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-rib-full-zip-elongated-hoodie-in-tawny-port-chocolate-plum-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-wrapped-tank-in-sangria": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-twisted-denim-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-crew-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-low-v-neck-longsleeve-in-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-atlas-waffle-longsleeve-in-almost-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-longsleeve-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ghazal-sweater-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-retro-ringer-tee-in-dark-shark-teak": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-slub-tee-in-birch": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-slub-tee-in-gypsum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-iman-shaped-jacket-in-deep-ocean-plaid": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-raya-field-jacket-in-raisin": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-iris-wrap-sweater-in-lavender-ash": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-iris-wrap-sweater-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-essential-scoop-tee-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-samira-wrap-dress-in-gypsum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-samira-wrap-dress-in-raisin": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-side-tie-sweatpant-in-gypsum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-taba-denim-in-dark-wash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-midweight-crew-in-dark-slate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-boatneck-3-4-sleeve-top-in-cardamom": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-layn-v-neck-tank-in-raisin": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-low-v-neck-tee-in-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-low-v-neck-tee-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-micro-rib-tee-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-scoop-racerback-tank-in-cerulean-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-classic-stripe-shirt-in-teak-birch-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/barbarian-rugby-in-ash-maroon-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/barbarian-rugby-in-brown-ash-navy": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/barbarian-rugby-in-brown-bottle-green-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/barbarian-rugby-in-harvard-navy": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-lammah-denim-jacket-in-light-grey-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-lammah-denim-jacket-in-vintage-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-hadd-applique-shirt-in-birch-mahogany-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-basket-stitch-sweater-in-teak": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-low-rise-pleated-trouser-in-charcoal-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-low-rise-pleated-trouser-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-low-v-neck-tee-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-contrast-crew-in-almost-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-contrast-crew-in-teak": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-amira-microcheck-jacket-in-pitch-navy-taupe-check": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-amira-jacket-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-amira-jacket-in-lavender-ash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-lulab-pant-in-rinse": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-azali-trouser-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-slub-henley-in-birch": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cable-stitch-cardigan-in-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cable-stitch-cardigan-in-bark": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-3-in-1-halter-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-3-in-1-halter-in-raisin": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-boatneck-cardigan-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-boatneck-cardigan-in-violet": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-boatneck-cardigan-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-cold-shoulder-halter-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-selin-shirt-in-winter-sky": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-selin-shirt-in-birch": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-muscle-tank-in-gypsum-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-micro-rib-tee-in-barely-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-micro-rib-tee-in-cardamom-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-wrapped-tank-in-cardamom-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-draped-tank-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-crossover-3-4-sleeve-top-in-gypsum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-layn-keyhole-tee-in-pacific-blue": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-wadi-denim-in-brown-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-wadi-denim-in-light-grey-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-boatneck-3-4-sleeve-top-in-birch-kelp-persimmon": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-slouchy-buma-trouser-in-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-slouchy-buma-trouser-in-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-slouchy-buma-trouser-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-nilus-trouser-in-chocolate-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-nilus-trouser-in-tan": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-relaxed-check-shirt-in-teak-check": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-rahil-denim-in-vintage-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zaina-layered-pant-in-deep-ocean": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zaman-pleated-skirt-in-charcoal-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-relaxed-check-shirt-in-pitch-navy-taupe-check": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cargo-pant-in-teak": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cargo-pant-in-pitch-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-modular-button-sweater-in-thunderstorm": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-noor-convertible-cowl-sweater-in-tawny-port": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-noor-convertible-cowl-sweater-in-haze": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-noor-sheer-cardigan-in-cardamom": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-noor-sheer-cardigan-in-persimmon": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-noor-sheer-cardigan-in-sangria": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-samira-wrap-longsleeve-in-lavender-ash": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-samira-wrap-longsleeve-in-haze": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-basima-longsleeve-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-basima-longsleeve-in-deep-purple": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-amaya-longsleeve-in-gypsum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-amaya-longsleeve-in-harbour": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-amaya-longsleeve-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-rafi-denim-tunic-in-rinse": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-hamatah-sweater-in-tawny-port-thunderstorm": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-hamatah-sweater-in-birch-teak": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-wool-pull-on-pant-in-taupe-check": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-scoop-racerback-tank-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-ruched-boatneck-top-in-harbour": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-crossover-dress-in-sorbet-dove-bark": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-crossover-dress-in-azure-gypsum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-heavyweight-hoodie-in-mahogany": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-hoodie-in-pitch-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-hoodie-in-cream": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-hoodie-in-chocolate-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-hoodie-in-almost-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-band-tee-in-almost-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-band-tee-in-chocolate-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-luma-check-skirt-in-thunderstorm-check": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-luma-check-skirt-in-deep-ocean-check": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-luma-check-shirt-in-thunderstorm-check": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-luma-check-shirt-in-deep-ocean-check": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-socks-in-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-socks-in-gypsum-black-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-socks-in-deep-purple-gypsum-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-socks-in-deep-purple": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-socks-in-deep-ocean-walnut-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-socks-in-deep-ocean-cardamom-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-socks-in-carmine": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-tawny-port-birch-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-pitch-navy-gypsum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-karnak-bermuda-in-dune-grass": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-afa-shirt-in-truffle-print": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-zalam-open-rib-longsleeve-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-zalam-open-rib-longsleeve-in-chocolate-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-shaped-henley-longsleeve-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-shaped-henley-longsleeve-in-gypsum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-mahla-fitted-shirt-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-layali-blouse-in-birch": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-layali-blouse-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zaina-ruched-shirt-in-deep-ocean": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zaina-ruched-shirt-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nada-track-pant-in-gypsum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nada-track-pant-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-off-shoulder-draped-tunic-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-nawa-convertible-tank-in-birch": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-off-shoulder-ruched-tee-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-rib-full-zip-elongated-hoodie-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-kenza-asymmetric-sweater-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-kenza-asymmetric-sweater-in-piedra": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-elina-convertible-sweater-in-black-melange": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-elina-convertible-sweater-in-dark-taupe-mix": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-elina-convertible-sweater-in-persimmon": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-elina-convertible-sweater-in-tawny-port": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-asymmetric-foldover-sweater-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-asymmetric-foldover-sweater-in-pacific-blue": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-asymmetric-foldover-sweater-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-safi-denim-in-medium-wash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-thana-wrap-top-in-barely-pink": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-thana-wrap-top-in-haze": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-thana-wrap-top-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-maryam-patchwork-skirt-in-charcoal-taupe-check": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-maryam-halter-top-in-charcoal-taupe-check": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-patchwork-varsity-jacket-in-teak-plaid": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-box-crew-in-otter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-noor-fuzzy-cardigan-in-hazel": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-yara-jacket-in-pure-cashmere": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-yara-jacket-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-yara-mini-skirt-in-pure-cashmere": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-heavyweight-rib-longsleeve-in-storm-cream": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-rib-longsleeve-in-taupe-birch": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-short-full-zip-hoodie-in-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-short-full-zip-hoodie-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-short-full-zip-hoodie-in-chocolate-plum-birch": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-short-full-zip-hoodie-in-heather-grey-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-malik-wool-jacket-in-dark-truffle-pinstripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-malik-wool-trouser-in-dark-truffle-pinstripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-check-zip-up-jacket-in-pitch-navy-taupe-check": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taym-plaid-trouser-in-gypsum-black-plaid": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taym-trouser-in-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taym-trouser-in-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/beach-towel-in-marshmallow-french-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/beach-towel-in-marshmallow-oasis": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/beach-towel-in-cameo-rose-jester-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-naba-work-pant-in-field-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-naba-work-pant-in-washed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nawa-convertible-tank-in-lavender-ash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-nawa-convertible-tank-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-mahla-keyhole-shirt-in-barely-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-rafi-denim-kickout-skirt-in-rinse": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-fade-out-longsleeve-in-almost-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-fade-out-longsleeve-in-pebble": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-fade-out-crew-in-pitch-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-fade-out-crew-in-almost-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-off-shoulder-draped-tunic-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-ruched-boatneck-top-in-tawny-port": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-ruched-boatneck-top-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-ruched-boatneck-top-in-birch": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-scoop-racerback-tank-in-gypsum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-mira-flat-front-pant-in-thunderstorm": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-high-v-neck-tee-in-azure": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-superfine-crew-in-truffle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-fitted-tank-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-rafa-low-rise-twill-pant-in-tan": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-rafa-low-rise-twill-pant-in-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-scoop-racerback-tank-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-shrunken-tee-in-pacific-blue": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-zahra-off-shoulder-tee-in-salsa": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-off-shoulder-tee-in-dusty-grape": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-slouch-longsleeve-in-tawny-port": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-off-shoulder-ruched-tee-in-raisin": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-nayla-scarf-tank-in-haze": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nayla-scarf-tank-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nayla-asymmetric-tee-in-haze": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nayla-asymmetric-tee-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-dalia-pointelle-cardigan-in-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-dalia-pointelle-cardigan-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-dalia-pointelle-top-in-deep-ocean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-dalia-pointelle-top-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-boatneck-3-4-sleeve-top-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-boatneck-3-4-sleeve-top-in-pacific-blue": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-relaxed-stripe-shirt-in-mahogany-creme-brulee-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-relaxed-stripe-shirt-in-birch-winter-sky-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-classic-stripe-shirt-in-tawny-port-gypsum-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-layn-keyhole-tee-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-yasmina-skirt-in-natural": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-yasmina-skirt-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-off-shoulder-longsleeve-in-midnight": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-off-shoulder-longsleeve-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-yasmina-boatneck-tank-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-yasmina-boatneck-tank-in-natural": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-sleeveless-tee-in-racing-green": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-draped-tank": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-port-trouser-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-plaza-trouser-in-alabaster-1": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/kotn-ss-soccer-jersey-in-espresso-birch": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/kotn-ls-soccer-jersey-in-deep-ocean-carmine-birch": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-layn-v-neck-tank-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-tie-shirt-in-bark": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-tie-pant-in-bark": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-tie-pant-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/unisex-antifit-denim-shorts-in-natural-v1": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-yazi-balloon-pant-in-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-yazi-balloon-pant-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-off-shoulder-tee-in-gypsum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-layered-scoop-tee-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-layered-scoop-tee-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-low-rise-trouser-short-in-charcoal-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-crossover-tank-in-persimmon": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-crossover-tank-in-cerulean": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-boatneck-banded-tee-in-taupe-dusty-grape-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sia-v-neck-sweater-in-dove-marshmallow": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-mina-polo-in-oat-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-cozy-crewneck-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-luxor-cable-dress-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-luxor-cable-dress-in-light-nimbus-melange": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-kulthum-tank-in-birch": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-soad-sweater-in-camel-carafe-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-soad-shirt-in-aw24-215-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-faten-shirt-in-burgundy": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-lily-denim-skirt-in-natural": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-lily-denim-skirt-in-med-wash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sia-v-neck-sweater-in-fiery-red-medium-grey": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-omri-sweater-in-butter": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-maadi-skirt-in-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-maadi-skirt-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-flannel-field-pant-in-black-herringbone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-rib-henley-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-rib-henley-in-natural": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nawal-dress-in-dusty-olive": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-lido-denim-in-med-wash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-rivoli-denim-in-dip-dye": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-maadi-vest-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-maadi-vest-in-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-lace-mockneck-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-lace-mockneck-in-natural": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-merire-stiped-shorts-in-blue-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-orman-knit-tank-in-natural-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/ankle-sock-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-solis-ribbed-knit-top-in-charcoal-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-stand-collar-jacket-in-carmine": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-yani-camp-shirt-in-oxford-blue-sorbet-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-linen-camp-shirt-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-linen-camp-shirt-in-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-off-shoulder-tee-in-marshmallow": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-off-shoulder-tee-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-basima-tank-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-basima-tank-in-haze": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-basima-tank-in-sangria": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-yazi-balloon-skirt-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-yazi-balloon-skirt-in-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-yazi-balloon-top-in-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-solis-ribbed-knit-2-in-1-in-dune-grass": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-drop-waist-tank-dress-in-salsa": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-muscle-tank-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/ankle-sock-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-layn-v-neck-tank-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-linen-camp-shirt-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-yazi-balloon-top-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-samira-wrap-tank-in-haze": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-masa-denim-in-medium-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-masa-denim-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-masa-denim-in-washed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-masa-denim-in-dark-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-off-shoulder-tee-in-sorbet": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-cairo-linen-pant-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cairo-linen-pant-in-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cairo-linen-short-in-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-linen-camp-shirt-in-beige-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sila-linen-shirt-in-dark-indigo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sila-linen-shirt-in-teak": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sila-linen-shirt-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-rib-tank-in-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-back-cut-out-tank-in-azure": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-back-cut-out-tank-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-back-cut-out-tank-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-zahra-mini-dress-in-birch": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-mini-dress-in-chocolate-plum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-layn-keyhole-tee-in-espresso": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-mina-twisted-tee-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-side-cutout-tank-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-side-cutout-tank-in-bark": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-hawa-shirt-in-sorbet-blue-aura-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-hawa-shirt-in-blue-white-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/beach-towel-in-sorbet-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/beach-towel-in-plum-salsa": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/beach-towel-in-azure-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-back-cut-out-tank-in-salsa": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-wrapped-tank-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/unisex-antifit-denim-shorts-in-light-wash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-samira-wrap-tank-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-rima-boatneck-dress-in-dune-grass-check": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-fitted-shirt-in-dune-grass-check": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-superfine-longsleeve-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-superfine-longsleeve-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/unisex-antifit-denim-shorts-in-dark-wash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/unisex-antifit-denim-shorts-in-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/unisex-antifit-denim-shorts-in-medium-wash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-asymmetric-zip-sweater-in-light-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-layn-infinity-halter-in-espresso": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-boatneck-3-4-sleeve-top-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-crossover-tank-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/rib-ankle-socks-in-thistle-bark-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-ankle-socks-in-azure-bark-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-ankle-socks-in-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-ankle-socks-in-thistle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-ankle-socks-in-azure": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/ankle-sport-sock-in-salsa-pink-frost-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/ankle-sport-sock-in-retro-green-dark-indigo-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/dotty-socks-in-pitch-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/dotty-socks-in-pink-frost": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/dotty-socks-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/dotty-socks-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-iman-trouser-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-linen-capri-in-medium-grey": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-linen-capri-in-dove": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-linen-capri-in-dusty-olive": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-oxford-camp-shirt-in-oxford-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-varsity-v-neck-tee-in-dusty-grape-plum": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-high-v-neck-tee-in-dark-indigo": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-oxford-camp-shirt-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-off-shoulder-longsleeve-in-cabernet": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-osiris-dress-in-sunstar-red": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-easy-crew-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-crew-neck-cardigan-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-layn-keyhole-tee-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-crossover-tank-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-rib-tank-in-white-v2": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-naba-work-pant-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-gathered-cami-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-tala-skirt-in-sorbet": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-tala-skirt-in-blue-aura": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-tala-skirt-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-linen-halter-dress": {
+  "outcome": "no-composition",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-crew-neck-cardigan-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-naba-work-pant-in-truffle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-gathered-cami-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-puff-sleeve-tee-in-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-sila-linen-short-in-dark-indigo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sila-linen-short-in-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sila-linen-cargo-pant-in-dark-indigo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sila-linen-cargo-pant-in-otter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-scoop-tank-in-blue-aura": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-scoop-tank-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-sila-linen-trouser-in-teak": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sila-linen-trouser-in-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sila-linen-hoodie-in-teak": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sila-linen-hoodie-in-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-persea-linen-tie-pant-in-safari-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-persea-linen-tie-pant-in-natural": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-scoop-tank-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-blouse-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-blouse-in-thistle": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-tie-short-in-white-1": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-tie-skirt-in-shadow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-tie-skirt-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-short-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-short-in-black": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-tie-short-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-tie-short-in-bark-1": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-tie-short-in-shadow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-tara-poplin-pant-in-salsa": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-kenza-keyhole-top-in-sorbet": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-box-crew-in-blue-aura": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-tala-skirt-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-tala-mini-skirt-in-dune-grass-check": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-tura-jacket-in-storm-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-tara-poplin-blouse-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-solis-ribbed-knit-top-in-cocoa": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-sila-linen-tie-pant-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-sila-linen-tie-shirt-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-zayd-short-in-safari": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-zayd-postal-jacket-in-safari": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sadeem-shirt-in-pitch-navy-otter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sadeem-shirt-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sadeem-shirt-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-luxor-jersey-tank-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-luxor-jersey-tank-in-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-luxor-jersey-tank-in-beluga": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-fitted-tank-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-classic-stripe-shirt-in-oxford-blue-white-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-anisa-jacket-in-charcoal-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-luxor-jersey-shirt-in-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-luxor-jersey-shirt-in-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-wadi-denim-in-storm-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taba-denim-in-storm-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-box-crew-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-sahra-midi-skirt-in-espresso": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-sahra-tie-blouse-in-espresso": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-sila-linen-tie-shirt-in-shadow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-twisted-seam-denim-in-storm-wash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-layali-midi-skirt-in-dune-grass": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-layali-midi-skirt-in-thistle": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-layali-halter-top-in-dune-grass": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-layali-halter-top-in-thistle": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-twisted-seam-long-denim-short-in-vintage-wash": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/kotn-supply-unisex-essential-longsleeve-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/kotn-supply-unisex-essential-longsleeve-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-relaxed-tank-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-cozy-skirt-in-natural-1": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-crossover-tank-in-bark-2": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-nima-vest-in-yakimo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-nima-vest-in-dove": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-solis-ribbed-knit-skirt-in-cocoa": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-solis-ribbed-knit-skirt-in-charcoal-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-sila-linen-tie-pant-in-shadow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-french-terry-cutoff-mini-short-in-sorbet": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-french-terry-shortsleeve-hoodie-in-cloud-mix": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-french-terry-cutoff-mini-short-in-cloud-mix": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-slouchy-buma-trouser-in-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-shortsleeve-cardigan-in-blue-aura": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-puff-sleeve-tee-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-curved-hem-3-4-sleeve-in-marshmallow": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-varsity-v-neck-in-marshmallow-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-solis-ribbed-knit-2-in-1-in-charcoal-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-superfine-crew-in-lava-smoke": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-superfine-crew-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-superfine-crew-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-band-tee": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-crew-in-olive-marshmallow-otter-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sabr-pants-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-iman-trouser-in-espresso": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-iman-trouser-in-charcoal-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-shortsleeve-mini-dress-in-espresso-taupe-azure-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/womens-dalila-twist-top-in-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-kotn.json"
+ },
+ "kotn.com/products/mens-tefnut-beach-pant-in-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-stand-collar-jacket-in-lavender-ash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-stand-collar-jacket-in-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-stand-collar-jacket-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-beach-hoodie-in-dark-slate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-beach-hoodie-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-stand-collar-vest-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-haydar-shirt-in-white-grey-check": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taym-trouser-in-dusty-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-wadi-denim-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-slub-pocket-tee-in-beluga": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-asr-cut-off-sweatpant-in-almost-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-asr-cut-off-crewneck-in-almost-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-asr-cut-off-short-in-almost-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-asr-cut-off-sweatpant-in-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-asr-cut-off-short-in-yakimo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-asr-cut-off-crewneck-in-yakimo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-asr-cut-off-crewneck-in-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tura-jacket-in-brown-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taba-denim-in-brown-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taba-denim-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-layered-scoop-tee-in-gypsum": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-layered-scoop-tee-in-marshmallow": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-haydar-shortsleeve-shirt-in-indigo-dark-indigo-check": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-haydar-shortsleeve-shirt-in-taupe-white-dark-indigo-check": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-haydar-shirt-in-grey-lavender-ash-check": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-bottle-green-stripe-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taym-trouser-in-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taym-postal-jacket-in-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taym-postal-jacket-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-band-tee-in-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-band-tee-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-varsity-v-neck-in-marshmallow-yakimo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-box-crew-in-dark-slate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-low-rise-trouser-short-in-espresso": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-kenza-boatneck-tank-in-lino": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-kenza-boatneck-tank-in-salsa": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-kenza-kissing-cardi-in-lino": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-kenza-kissing-cardi-in-salsa": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-anisa-mini-skirt-in-charcoal-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-anisa-mini-skirt-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-low-rise-trouser-short-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-set-in-white-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/nemat-perfumes-in-white-musk-roll-on": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/pillowcase-set-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-classic-oxford-shirt-in-oxford-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-skirt-in-lino": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-nilus-shorts-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-nilus-shorts-in-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-yafi-zip-shirt-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-yafi-shirt-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-slub-pocket-tee-in-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-slub-pocket-tee-in-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-zia-shirt-in-dark-indigo-yakimo-safari-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nady-track-pant-in-bark": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-jadd-shortsleeve-knit-polo-in-otter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-jadd-shortsleeve-knit-polo-in-sage-mist": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-jadd-longsleeve-knit-polo-in-deep-blue-aura": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-zia-shirt-in-green-white-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-jadd-longsleeve-knit-polo-in-sandstone": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-nima-open-knit-crew-in-dove": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-nima-open-knit-crew-in-dark-slate": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ripstop-pant-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ripstop-pant-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/fitted-sheet-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-slouch-longsleeve-in-marshmallow": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-zahra-slouch-longsleeve-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-crew-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-bath-sheet-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-noor-fuzzy-cardigan-in-medium-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-longsleeve-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/flat-sheet-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/fitted-sheet-and-pillowcase-set-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-yasmina-top-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-abaza-shirt-in-burgundy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ramzy-knit-shirt-in-acorn-oat-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cozy-pant-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-cleo-top-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-cleo-midi-skirt-in-dove": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-cleo-midi-skirt-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-cleo-plunge-dress-in-dove": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-hand-towel-2-pack-in-sand-natural-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-hand-towel-2-pack-in-sage-natural-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-hand-towel-2-pack-in-aluminum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-bath-sheet-in-sage-natural-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-bath-sheet-in-sand-natural-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/egyptian-cotton-bath-sheet-in-aluminum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-cleo-plunge-dress-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cozy-cardigan-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cozy-cardigan-in-beluga": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-hoodie-in-fiery-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-hoodie-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-hoodie-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-hoodie-in-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-skirt-in-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-skirt-in-brown": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-skirt-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cozy-quarter-zip-in-beluga": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cozy-quarter-zip-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-longsleeve-in-desert-beluga": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-denim-overshirt-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-denim-overshirt-in-raw": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-ruffle-dress-in-dusty-rose": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-rib-henley-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-hadi-zip-sweater-in-oat": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-misr-shirt-in-cocoa-mix": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-misr-shirt-in-blue-mix": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-crew-in-coffee-bean-otter-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-crew-in-bottle-green-columbia-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-straight-sweatpant-in-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-hoodie-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cozy-zip-hoodie-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-lightweight-crewneck-sweater-in-coffee-bean-midnight-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-lightweight-crewneck-sweater-in-otter-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-rib-longsleeve-in-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-rib-longsleeve-in-cocoa": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-wool-trouser-in-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-malik-wool-jacket-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-hoodie-in-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-malik-wool-jacket-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-longsleeve-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cord-work-pant-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-hoodie-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-wool-flannel-shirt-in-olive-plaid": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-half-zip-rib-sweater-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-flannel-shirt-in-blue-plaid": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-denim-hooded-jacket-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cord-work-pant-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-flannel-shirt-in-brown-plaid": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-wool-flannel-shirt-in-olive-plaid": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-wool-flannel-shirt-in-sand-plaid": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-rib-henley-in-desert": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-full-zip-shirt-in-cocoa-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-full-zip-shirt-in-brown-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-fine-merino-crewneck-sweater-in-charcoal-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-fine-merino-crewneck-sweater-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taba-denim-in-mid-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-longsleeve-in-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-garden-shirt-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-garden-shirt-in-otter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-box-crew-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-beach-hoodie-in-otter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/highlands-sweater-socks-in-sunstar-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/highlands-sweater-socks-in-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-box-slub-longsleeve-in-desert": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-box-slub-longsleeve-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-box-slub-tee-in-desert": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-box-slub-tee-in-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-box-slub-tee-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ham-tah-sweater-in-burgundy-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-straight-sweatpant-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-aliya-crewneck-sweater-in-sand-midnight": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-noor-fuzzy-polo-in-hazel": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-noor-fuzzy-polo-in-mauve": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-trace-tank-in-marshmallow": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-a-2-bomber-jacket-in-washed-otter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-iman-wool-trouser-in-midnight-pinstripe": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-amun-wool-trouser-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-amun-wool-trouser-in-desert": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-buma-trouser-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-zip-hoodie-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-sweatshirt-in-heather-grey-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-sweatshirt-in-black-2": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-sweatpant-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-sweatpant-in-heather-grey-copy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-sweatpant-in-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-iris-knit-halter-in-mauve": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-half-zip-rib-sweater-in-coffee-bean-burgundy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-trace-tank-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-trace-longsleeve-in-cocoa": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-muna-pleated-mini-skirt-in-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-muna-pleated-mini-skirt-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-chambray-shirt-in-earth": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-chambray-shirt-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-wool-pull-on-pant-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-wool-pull-on-pant-in-charcoal": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-lightweight-zip-sweater-in-otter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-lightweight-zip-sweater-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nadia-low-rise-mini-skirt-in-sand-plaid": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nadia-low-rise-mini-skirt-in-dove": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-iris-knit-halter-in-cocoa": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-noor-fuzzy-cardigan-in-sand": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-noor-fuzzy-cardigan-in-delta": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-noor-fuzzy-cardigan-in-mauve": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-explorer-pant-in-otter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-hamatah-sweater-in-blue-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-dahab-rollneck-sweater-in-beluga": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-dahab-rollneck-sweater-in-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-iris-knit-dress-in-coffee-bean": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-grid-stitch-crewneck-sweater-in-charcoal-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-grid-stitch-crewneck-sweater-in-oat-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-hamatah-sweater-in-coffee-bean": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-hamatah-sweater-in-oat-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-barbarian-zip-rugby-in-black-taupe-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-grid-stitch-zip-sweater-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-open-knit-shirt-in-charcoal-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mira-flat-front-pant-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-grid-stitch-zip-sweater-in-sunstar-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mira-flat-front-pant-in-cocoa": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-thebes-cardigan-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-kornesh-longsleeve-in-taupe": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-kornesh-longsleeve-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-open-knit-shirt-in-coffee-bean-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-nady-track-pant-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-iris-knit-dress-in-midnight": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-thebes-longsleeve-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-thebes-longsleeve-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-beach-pant-in-otter": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-beach-pant-in-midnight": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-socks-in-midnight": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-sunstar-red-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-midnight-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-cover-set-in-olive-white-microstripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-cover-set-in-sand-white-microstripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/donation-to-the-abcs-project-by-kotn": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-crew-in-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-easy-crew-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-seersucker-shirt-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-seersucker-shirt-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-chambray-full-zip-shirt-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-easy-crew-in-acorn": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-crew-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-chambray-camp-shirt-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-seersucker-full-zip-shirt-in-fog-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-half-zip-shirt-in-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-osiris-dress-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-chambray-camp-shirt-in-light-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-osiris-dress-in-cappuccino": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-ruffle-dress-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-ruffle-dress-in-fog": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-merit-skort-in-dune-grass-1": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-merit-skort-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-french-terry-jogger-in-oat-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-featherweight-long-sleeve-shirt-in-acorn": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-featherweight-long-sleeve-shirt-in-puritan-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-merire-shirt-in-fog": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-merire-shirt-in-white": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-columbia-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cairo-linen-shirt-in-warm-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-abu-simbel-short-sleeve-shirt-in-coffee-bean-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-abu-simbel-short-sleeve-shirt-in-natural-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-twill-bermuda-shorts-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-twill-bermuda-shorts-in-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-easy-crew-in-fog": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sakkara-trouser-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sakkara-trouser-in-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-utility-shirt-in-olive": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taba-denim-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-taba-denim-in-raw": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sakkara-denim-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-sakkara-denim-in-earth": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-work-shorts-in-dark-camel": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-work-shorts-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-work-trouser-in-dark-camel": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-work-trouser-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-harvard-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-grey-mix-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-harvest-pocket-shorts-in-cappuccino": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-harvest-pocket-shorts-in-beluga": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-harvest-pocket-pant-in-cappuccino": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-nilus-trouser-in-beluga": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-gezira-knit-skirt-in-racing-green": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-amun-bermuda-in-fog": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-amun-trouser-in-fog": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-amun-trouser-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-beach-shorts-in-sycamore": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-beach-shorts-in-plum": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-beach-shorts-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-beach-pant-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-tefnut-beach-pant-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-classic-stripe-shirt-in-navy-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-mina-vest-in-dark-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-mina-vest-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-mina-cardigan-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-mina-cardigan-in-oat-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-mina-sweater-in-oat-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-luxor-jersey-polo-in-natural-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-orman-knit-longsleeve-in-dark-taupe-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-orman-knit-longsleeve-in-natural-mix": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-sleeveless-tee-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-longsleeve-in-natural": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-tee-in-natural": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-cardigan-in-beluga": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-black-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-hoodie-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-hoodie-in-neutral-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-namat-shirt-in-aw24-203-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-namat-shirt-in-aw24-215-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-sweatshirt-in-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-wool-laureate-jacket-in-charcoal-houndstooth-414": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cozy-pant-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cozy-zip-hoodie-in-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-nilus-trouser-in-walnut-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-buma-trouser-in-british-khaki": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-longsleeve-in-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-waffle-crew-in-marshmallow": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-explorer-pant-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-namat-sweater-in-black-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/men-essential-crew-in-black-2": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/men-essential-crew-in-white-2": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-rosetta-wool-skirt-in-black-1": {
+  "outcome": "no-composition",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-classic-oxford-shirt-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-explorer-pant-in-olive": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-rivoli-denim-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-matai-denim-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-dahab-rollneck-sweater-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/men-s-memphis-denim-in-light-wash": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/men-s-memphis-denim-in-rinse": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/men-s-memphis-denim-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/highlands-sweater-socks-in-charcoal-oat-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/highlands-sweater-socks-in-black-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/terry-sweatshort-in-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-box-crew-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/gift-card": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/linen-duvet-cover-and-pillow-sham-sets-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/linen-duvet-cover-and-pillow-sham-sets-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/linen-duvet-cover-and-pillow-sham-sets-in-maritime": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/linen-duvet-cover-and-sham-set-in-mustard-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/linen-duvet-cover-and-sham-sets-in-puritan-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-cover-set-in-white-black-embroidery": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-cover-and-sham-set-in-white-hedge-green-embroidery": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-cairo-linen-short-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-heavyweight-box-crew-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-easy-crew-in-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-easy-crew-in-white-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-longsleeve-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-gezira-knit-skirt-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/kotn-x-nemat-incense-in-jasmine": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/kotn-x-nemat-incense-in-sandalwood": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/kotn-x-nemat-incense-in-egyptian-musk": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-rib-tank-in-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-t-shirt-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-midweight-longsleeve-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-cover-set-in-aluminum-white-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-ham-tah-sweater-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-buma-trouser-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-socks-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-crew-longsleeve-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-sweatshirt-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-atlas-crew-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-nilus-trouser-in-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/womens-mesh-tee-in-black": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/nemat-perfumes-in-sandalwood-roll-on": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/nemat-perfumes-in-vanilla-musk-roll-on": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/nemat-perfumes-in-amber-roll-on": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/nemat-perfumes-in-egyptian-musk-roll-on": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-rib-tank-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-sweatshirt-in-heather-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/hand-towel-2-pack-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-cover-set-in-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/mens-essential-sweatshirt-in-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/crew-socks-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/rib-socks-in-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/sheet-set-in-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/duvet-set-in-cashmere-white-microstripe-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "kotn.com/products/sheet-set-in-aluminum-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
  }
 }

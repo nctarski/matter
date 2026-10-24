@@ -227,11 +227,11 @@
       "brand": "Kotn",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "partial",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": ""
+      "lastSweep": "2026-10-24",
+      "lastDelta": 247,
+      "note": "Shopify feed lacks composition for most pieces, so read the product page Fabric & Care section. Labels like Body, Rib, Lining split parts. 247 staged 2026-10-24 (newest first). 121 more passed and are held until review page room frees up; they are not in the ledger, so the next sweep re-finds them. Exclude balaclavas, warmers, blankets, totes and men's."
     },
     {
       "order": 22,
