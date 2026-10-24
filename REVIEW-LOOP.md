@@ -277,8 +277,7 @@ WeWoreWhat, Retrofete, Atoir, With Jean, H&M, ASOS). Every other retailer is
    scope), update `data/sweep-status.json`, commit, and republish the review
    page with only the new photos. Commit with the attribution lines the
    environment specifies.
-7. Push with GitHub Desktop through computer use (Repository menu, Push; Fetch
-   first if Push is disabled). If the Mac is locked, leave it committed.
+7. Push with `bash scripts/push.sh` (see "Pushing" below).
 8. Message Natalie once, short: new pieces waiting, retailers swept tonight and
    how many remain, retailers that blocked or yielded nothing, whether pushed.
    When the sweep finishes, say so and that the nightly run is now delta only.
@@ -396,9 +395,7 @@ the first run). Timeouts, network errors and answers that do not parse go in
    `node scripts/apply-stock.mjs ~/Downloads/matter-stock-<date>.json`
 6. `node scripts/audit.mjs` (must say No errors) and `npm run build`.
 7. Commit `data/catalog.json` with the attribution lines the environment
-   specifies, then push with GitHub Desktop (Repository, Push; Fetch first if
-   Push is disabled). If the Mac is locked or GitHub Desktop will not respond,
-   leave the commit and say one click on Push origin is waiting.
+   specifies, then push with `bash scripts/push.sh` (see "Pushing" below).
 8. Tell Natalie: pieces checked, sold out (and how many newly), low size
    availability (in stock with fewer than half of its sizes available),
    pieces back in stock, pieces hidden after 14 days, how many could not be
@@ -413,9 +410,7 @@ Used by "MATTER publish now" and the Wednesday backstop.
 2. Write their ids as a JSON array to `data/review/publish-<YYYY-MM-DD-HHMM>.json`.
 3. `node scripts/merge-review.mjs --ids <that file>` then
    `node scripts/audit.mjs`. Stop on any audit error or missing id.
-4. Commit, then push with GitHub Desktop (Repository, Push). If the Mac is
-   locked or GitHub Desktop will not respond, leave the commit in place and
-   tell Natalie one click is waiting.
+4. Commit, then push with `bash scripts/push.sh` (see "Pushing" below).
 5. Set every approved doc to `status: "published"` with `publishedAt`, and
    every `pending` doc with a `seenAt` and `skip: true` to `status: "rejected"`.
 
@@ -428,3 +423,25 @@ fiber rule on their own. A lining of any fiber is fine and is shown exactly as
 listed. Embroidery, decoration and bead thread may be synthetic: Natalie
 approved staging those on 2026-10-23, with the thread shown in the item's
 `trim` note so shoppers see it (for example "Embroidery 100% polyester").
+
+## Pushing
+
+Changed October 24, 2026. Scheduled runs push from the command line with
+`bash scripts/push.sh`, run in the device shell from the repo. GitHub Desktop
+through computer use never worked for the scheduled runs: they fire while the
+Mac is locked, and macOS blocks clicks on a locked screen.
+
+- The script reads a fine-grained GitHub token from `.secrets/github-token`
+  (git-ignored, created by Natalie herself; repo `nctarski/matter` only,
+  Contents: read and write). Never print, copy, commit or move the token, and
+  never put it in git config or the remote URL.
+- Exit 0 means pushed. The last line shows `## main...origin/main` with no
+  "ahead" when everything is up.
+- Exit 2 means there is no token file. Fall back to GitHub Desktop through
+  computer use (Repository menu, Push; Fetch first if Push is disabled). If
+  the Mac is locked or GitHub Desktop will not respond, leave it committed and
+  tell Natalie one click on Push origin is waiting.
+- Any other failure (rejected because GitHub is ahead, 401 or 403 from an
+  expired or wrong token): do not pull, rebase or force. Leave it committed
+  and tell Natalie the exact error line, plus that one click on Push origin in
+  GitHub Desktop will push it. A 401 or 403 means the token needs replacing.

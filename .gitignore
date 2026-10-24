@@ -4,3 +4,6 @@ out/
 .env*.local
 .DS_Store
 *.log
+
+# GitHub token for scripts/push.sh, never committed
+.secrets/
