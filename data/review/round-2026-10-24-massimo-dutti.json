@@ -1,0 +1,2949 @@
+[
+  {
+    "id": "massimo-dutti-reversible-leather-coat-with-fur",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Reversible Leather Coat With Fur",
+    "price": 2500,
+    "url": "https://www.massimodutti.com/us/reversible-leather-coat-with-fur-l04755755",
+    "image": "https://static.massimodutti.net/assets/public/9b6f/3d1c/07dc4ad7a736/9c4c3734249d/04755755700-o1/04755755700-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Shearling",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-cropped-nappa-leather-jacket-with-belt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Cropped Nappa Leather Jacket With Belt",
+    "price": 690,
+    "url": "https://www.massimodutti.com/us/cropped-nappa-leather-jacket-with-belt-l04718678",
+    "image": "https://static.massimodutti.net/assets/public/4645/c80d/dc7149e18696/f64d94d1bf65/04718678700-o1/04718678700-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-nappa-leather-cape-jacket",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Nappa Leather Cape Jacket",
+    "price": 690,
+    "url": "https://www.massimodutti.com/us/nappa-leather-cape-jacket-l04722682",
+    "image": "https://static.massimodutti.net/assets/public/3722/8c71/2c8a4738b134/85b0afbd0e30/04722682700-o1/04722682700-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-wool-blend-knit-cardigan-with-pocket-details",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Wool-blend Knit Cardigan With Pocket Details",
+    "price": 160,
+    "url": "https://www.massimodutti.com/us/woolblend-knit-cardigan-with-pocket-details-l05962595",
+    "image": "https://static.massimodutti.net/assets/public/2ae2/756a/daf7481088f9/a24f0720f70b/05962595830-o1/05962595830-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        99
+      ],
+      [
+        "Other fibres",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cotton-double-breasted-cardigan",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cotton Double-breasted Cardigan",
+    "price": 200,
+    "url": "https://www.massimodutti.com/us/100-cotton-doublebreasted-cardigan-l05911563",
+    "image": "https://static.massimodutti.net/assets/public/88ac/fb9c/cd0f4f5b802a/b519398d7f89/05911563714-o1/05911563714-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-wool-knit-cape-with-button-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Wool Knit Cape With Button Detail",
+    "price": 220,
+    "url": "https://www.massimodutti.com/us/100-wool-knit-cape-with-button-detail-l05790596",
+    "image": "https://static.massimodutti.net/assets/public/71f9/0a01/d33b49b5a624/3b83e8ae35a3/05790596515-o1/05790596515-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-cotton-blend-capris",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Cotton Blend Capris",
+    "price": 100,
+    "url": "https://www.massimodutti.com/us/cotton-blend-capris-l05058758",
+    "image": "https://static.massimodutti.net/assets/public/a038/e433/a9db4509aeaf/9b82aff2bf25/05058758800-o1/05058758800-o1.jpg?w=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-double-faced-leather-coat-with-fur",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Double-faced Leather Coat With Fur",
+    "price": 3200,
+    "url": "https://www.massimodutti.com/us/doublefaced-leather-coat-with-fur-l04752350",
+    "image": "https://static.massimodutti.net/assets/public/f9fa/0b28/d9c448488201/0ca5ae6f5524/04752350700-o1/04752350700-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Shearling",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-short-wool-blend-coat-with-side-fastening",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Short Wool Blend Coat With Side Fastening",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/short-wool-blend-coat-with-side-fastening-l06420724",
+    "image": "https://static.massimodutti.net/assets/public/71d7/e75e/b9474cf79ed3/d01533a43389/06420724717-o1/06420724717-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        95
+      ],
+      [
+        "Other fibres",
+        5
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-short-coat-with-scarf-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Short Coat With Scarf Detail",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/short-coat-with-scarf-detail-l06408712",
+    "image": "https://static.massimodutti.net/assets/public/bbfa/a0a0/7df94088acac/8dcebf22fa03/06408712251-o1/06408712251-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "White",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-wool-long-coat-with-scarf",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Wool Long Coat With Scarf",
+    "price": 690,
+    "url": "https://www.massimodutti.com/us/100-wool-long-coat-with-scarf-l06428712",
+    "image": "https://static.massimodutti.net/assets/public/bf67/c317/c25d444b98f3/33ae592559b0/06428712251-o1/06428712251-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "White",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-striped-flowing-cotton-linen-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Striped Flowing Cotton Linen Shirt",
+    "price": 160,
+    "url": "https://www.massimodutti.com/us/striped-flowing-cotton-linen-shirt-l05119918",
+    "image": "https://static.massimodutti.net/assets/public/ccca/f7e2/d623486d8dd0/a99c3a3f8519/05119918400-o1/05119918400-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        68
+      ],
+      [
+        "Cotton",
+        32
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-poplin-shirt-with-seam-details",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Poplin Shirt With Seam Details",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/poplin-shirt-with-seam-details-l05184584",
+    "image": "https://static.massimodutti.net/assets/public/5828/1108/a72c4dc0b992/f4b1a8705e92/05184584250-o1/05184584250-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-poplin-shirt-with-stand-collar-and-pocket-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Poplin Shirt With Stand Collar And Pocket Detail",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/poplin-shirt-with-stand-collar-and-pocket-detail-l05179579",
+    "image": "https://static.massimodutti.net/assets/public/e74d/1eef/5dbd4ebeb81c/f3a1ae8a83b6/05179579250-o1/05179579250-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-oversize-100-cotton-poplin-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Oversize 100% Cotton Poplin Shirt",
+    "price": 160,
+    "url": "https://www.massimodutti.com/us/oversize-100-cotton-poplin-shirt-l05177878",
+    "image": "https://static.massimodutti.net/assets/public/fc48/93ec/c3584529b00c/6341c7ca13da/05177878250-o1/05177878250-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-short-sleeve-cotton-blouse-with-open-neck",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Short Sleeve Cotton Blouse With Open Neck",
+    "price": 70,
+    "url": "https://www.massimodutti.com/us/short-sleeve-cotton-blouse-with-open-neck-l06275350",
+    "image": "https://static.massimodutti.net/assets/public/df1b/563a/eb5742eaaf7d/b91afff76888/06275350251-o1/06275350251-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-flowing-checkered-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Flowing Checkered Shirt",
+    "price": 160,
+    "url": "https://www.massimodutti.com/us/flowing-checkered-shirt-l05164964",
+    "image": "https://static.massimodutti.net/assets/public/81b9/d6d6/11e448b39bc1/1ace56cf239b/05164964305-o1/05164964305-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Linen",
+        58
+      ],
+      [
+        "Cotton",
+        42
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-short-sleeve-linen-polo-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Short Sleeve Linen Polo Shirt",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/short-sleeve-linen-polo-shirt-l05131730",
+    "image": "https://static.massimodutti.net/assets/public/fe73/dc98/7b5646a4b9c5/39f06d7b64f9/05131730250-o1/05131730250-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-poplin-shirt-with-collar-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Poplin Shirt With Collar Detail",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/poplin-shirt-with-collar-detail-l05161537",
+    "image": "https://static.massimodutti.net/assets/public/f6de/b1df/7322430c9402/997740216a2f/05161537403-o1/05161537403-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-striped-fluid-cotton-and-silk-blend-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Striped Fluid Cotton And Silk Blend Shirt",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/striped-fluid-cotton-and-silk-blend-shirt-l05123823",
+    "image": "https://static.massimodutti.net/assets/public/e712/b3c5/727f4d4b8dfc/7472164542cc/05123823615-o1/05123823615-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cotton",
+        78
+      ],
+      [
+        "Silk",
+        22
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-striped-shirt-with-button-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Striped Shirt With Button Detail",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/striped-shirt-with-button-detail-l05158558",
+    "image": "https://static.massimodutti.net/assets/public/034d/0a75/959643a9bfa4/01f83ff58958/05158558700-o1/05158558700-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-flowing-cotton-silk-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Flowing Cotton-silk Shirt",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/flowing-cottonsilk-shirt-l05159659",
+    "image": "https://static.massimodutti.net/assets/public/9c52/8e0a/9d2c4a7e9c20/758f12a949a1/05159659800-o1/05159659800-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        85
+      ],
+      [
+        "Silk",
+        15
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-low-rise-straight-leg-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Low-rise Straight-leg Jeans",
+    "price": 110,
+    "url": "https://www.massimodutti.com/us/lowrise-straightleg-jeans-l05025825",
+    "image": "https://static.massimodutti.net/assets/public/e9f4/9a18/ac204371a43d/4642143ca6a6/05025825800-o1/05025825800-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-mid-waist-barrel-fit-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Mid-waist Barrel Fit Jeans",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/midwaist-barrel-fit-jeans-l05074874",
+    "image": "https://static.massimodutti.net/assets/public/9fe1/39e6/45b14a38abb4/582a01dff666/05074874830-o1/05074874830-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-stovepipe-fit-mid-waist-jeans-with-frayed-hem",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Stovepipe Fit Mid-waist Jeans With Frayed Hem",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/stovepipe-fit-midwaist-jeans-with-frayed-hem-l05077877",
+    "image": "https://static.massimodutti.net/assets/public/c422/da7e/316441e79479/e655ae0536b7/05077877427-o1/05077877427-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-mid-waist-straight-leg-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Mid-waist Straight-leg Jeans",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/midwaist-straightleg-jeans-l05088887",
+    "image": "https://static.massimodutti.net/assets/public/d405/3380/df72478b9417/4f3421f5072b/05088887406-o1/05088887406-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-high-waist-straight-leg-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "High-waist Straight-leg Jeans",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/highwaist-straightleg-jeans-l05039838",
+    "image": "https://static.massimodutti.net/assets/public/92ba/1985/90454bea9505/90b1a23f6469/05039837802-o1/05039837802-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-high-waist-skinny-flare-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "High-waist Skinny Flare Jeans",
+    "price": 110,
+    "url": "https://www.massimodutti.com/us/highwaist-skinny-flare-jeans-l05080824",
+    "image": "https://static.massimodutti.net/assets/public/423e/aa0b/e9284b6686cb/8eeb18978bd4/05080824800-o1/05080824800-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-relaxed-fit-barrel-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Relaxed Fit Barrel Jeans",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/relaxed-fit-barrel-jeans-l05090890",
+    "image": "https://static.massimodutti.net/assets/public/63ac/3274/f15547c09695/3b5d5dbc1f2d/05090890426-o1/05090890426-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-high-waist-barrel-fit-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "High-waist Barrel Fit Jeans",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/highwaist-barrel-fit-jeans-l05011812",
+    "image": "https://static.massimodutti.net/assets/public/58b8/eb61/33024d99b48b/77a459b80e4a/05011513401-o1/05011513401-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-high-waist-cropped-straight-leg-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "High-waist Cropped Straight-leg Jeans",
+    "price": 110,
+    "url": "https://www.massimodutti.com/us/highwaist-cropped-straightleg-jeans-l05050850",
+    "image": "https://static.massimodutti.net/assets/public/09e5/6cd7/1c8c41f0a0e7/c43a57550d6a/05050849407-o1/05050849407-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-low-rise-straight-leg-jeans-off-white",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Low-rise Straight-leg Jeans",
+    "price": 110,
+    "url": "https://www.massimodutti.com/us/lowrise-straightleg-jeans-l05020820",
+    "image": "https://static.massimodutti.net/assets/public/c2d4/945b/105f49fbacbb/7a4c5ab87a30/05020820251-o1/05020820251-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-mid-waist-cropped-flare-fit-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Mid-waist Cropped Flare Fit Jeans",
+    "price": 110,
+    "url": "https://www.massimodutti.com/us/midwaist-cropped-flare-fit-jeans-l05070870",
+    "image": "https://static.massimodutti.net/assets/public/54c2/f820/76044e3a8fa7/e6aba1373b57/05070870427-o1/05070870427-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-high-waist-palazzo-denim-pants-co-ord",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "High-waist Palazzo Denim Pants Co-ord",
+    "price": 160,
+    "url": "https://www.massimodutti.com/us/highwaist-palazzo-denim-pants-coord-l05086586",
+    "image": "https://static.massimodutti.net/assets/public/6d2e/8e7b/966b48e085ae/436eb832ac50/05086586407-o1/05086586407-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        62
+      ],
+      [
+        "Linen",
+        38
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-high-waist-wide-leg-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "High-waist Wide-leg Jeans",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/highwaist-wideleg-jeans-l05052852",
+    "image": "https://static.massimodutti.net/assets/public/ebd4/aab0/0d1a48e7abb2/cfe7ef67afb7/05052852251-o1/05052852251-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-high-waist-barrel-fit-jeans-with-cuffed-hems",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "High-waist Barrel Fit Jeans With Cuffed Hems",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/highwaist-barrel-fit-jeans-with-cuffed-hems-l05089889",
+    "image": "https://static.massimodutti.net/assets/public/0779/4d21/9c844e178530/3d310168b501/05089889407-o1/05089889407-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-low-rise-pleated-wide-leg-pants",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Low-rise Pleated Wide-leg Pants",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/lowrise-pleated-wideleg-pants-l05029829",
+    "image": "https://static.massimodutti.net/assets/public/523f/2ed5/4a0e49ffaba1/2085891195fe/05029829251-o1/05029829251-o1.jpg?w=600",
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        65
+      ],
+      [
+        "Cotton",
+        35
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-mid-waist-barrel-fit-jeans-medium-blue",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Mid-waist Barrel Fit Jeans",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/midwaist-barrel-fit-jeans-l05013813",
+    "image": "https://static.massimodutti.net/assets/public/962e/5804/3651468ca2e0/dca1e3c4dbae/05013813427-o1/05013813427-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-mid-waist-cropped-wide-leg-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Mid-waist Cropped Wide-leg Jeans",
+    "price": 110,
+    "url": "https://www.massimodutti.com/us/midwaist-cropped-wideleg-jeans-l05022821",
+    "image": "https://static.massimodutti.net/assets/public/e1cc/058b/d61448d4b8a7/a0d34fe67e71/05022821432-o1/05022821432-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-mid-rise-wide-leg-jeans-with-turn-up-hems",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Mid-rise Wide-leg Jeans With Turn-up Hems",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/midrise-wideleg-jeans-with-turnup-hems-l05045745",
+    "image": "https://static.massimodutti.net/assets/public/e769/f9da/efc545d1b934/1d5f25348684/05045745405-o1/05045745405-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-high-waist-palazzo-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "High-waist Palazzo Jeans",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/highwaist-palazzo-jeans-l05049849",
+    "image": "https://static.massimodutti.net/assets/public/b99d/4969/037744fea3b7/fcfc3870b8a1/05049849406-o1/05049849406-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-mid-waist-cropped-flare-fit-jeans-off-white",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Mid-waist Cropped Flare Fit Jeans",
+    "price": 110,
+    "url": "https://www.massimodutti.com/us/midwaist-cropped-flare-fit-jeans-l05054854",
+    "image": "https://static.massimodutti.net/assets/public/abb6/ccfd/1401462eaa6a/57441af88b5e/05054854251-o1/05054854251-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-denim-capris",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Denim Capris",
+    "price": 110,
+    "url": "https://www.massimodutti.com/us/denim-capris-l05023823",
+    "image": "https://static.massimodutti.net/assets/public/e42e/7d56/f9fe4b9d9bc0/e72e987c4f9c/05023823251-o1/05023823251-o1.jpg?w=600",
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-low-rise-straight-leg-jeans-medium-blue",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Low-rise Straight-leg Jeans",
+    "price": 110,
+    "url": "https://www.massimodutti.com/us/lowrise-straightleg-jeans-l05053853",
+    "image": "https://static.massimodutti.net/assets/public/65f5/08ab/78864bd6aa8c/191a21dbefcb/05053853427-o1/05053853427-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-mid-waist-cropped-wide-leg-jeans-medium-blue",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Mid-waist Cropped Wide-leg Jeans",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/midwaist-cropped-wideleg-jeans-l05022822",
+    "image": "https://static.massimodutti.net/assets/public/f3bd/371d/097f4a40a478/5ba7f204e3a0/05022822427-o1/05022822427-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-linen-high-waist-barrel-fit-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Linen High-waist Barrel Fit Jeans",
+    "price": 180,
+    "url": "https://www.massimodutti.com/us/100-linen-highwaist-barrel-fit-jeans-l05092891",
+    "image": "https://static.massimodutti.net/assets/public/8870/ffe5/d145426d8469/b88e9bcf2726/05092891406-o1/05092891406-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-knit-turtleneck-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Knit Turtleneck Top",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/knit-turtleneck-top-l05940593",
+    "image": "https://static.massimodutti.net/assets/public/a974/eac2/48194c3a8e1d/5839b3876715/05940593452-o1/05940593452-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cotton-heathered-knit-vest",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cotton Heathered Knit Vest",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-cotton-heathered-knit-vest-l05651300",
+    "image": "https://static.massimodutti.net/assets/public/ab2b/4e1f/fbe5469ca9b5/4c567ad51aca/05651300060-o1/05651300060-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-knit-vest-with-buttoned-high-neck",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Knit Vest With Buttoned High Neck",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/knit-vest-with-buttoned-high-neck-l05734593",
+    "image": "https://static.massimodutti.net/assets/public/681f/b060/f27c4d6db6b5/c7000c2e1cc9/05734593987-o1/05734593987-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Wool",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-surplice-top-with-striped-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Surplice Top With Striped Detail",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/surplice-top-with-striped-detail-l05711809",
+    "image": "https://static.massimodutti.net/assets/public/cf92/da5c/e99d4635b4e1/f18456127b82/05711809700-o1/05711809700-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Linen",
+        69
+      ],
+      [
+        "Cotton",
+        31
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-wool-blend-knit-round-neck-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Wool Blend Knit Round Neck Top",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/wool-blend-knit-round-neck-top-l05729593",
+    "image": "https://static.massimodutti.net/assets/public/9cac/96d7/e58144fd959d/9c311e5f0aec/05729593514-o1/05729593514-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-linen-crossover-halter-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Linen Crossover Halter Top",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-linen-crossover-halter-top-l06649501",
+    "image": "https://static.massimodutti.net/assets/public/0389/4d65/3cc049bb8267/233aa9594f33/06649501423-o1/06649501423-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-linen-fine-button-down-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Linen Fine Button-down Top",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-linen-fine-buttondown-top-l05769300",
+    "image": "https://static.massimodutti.net/assets/public/5079/3679/36cb4acbac99/174fe6b52f8e/05769300441-o1/05769300441-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-double-strap-detail-top-studio",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Double Strap Detail Top - Studio",
+    "price": 100,
+    "url": "https://www.massimodutti.com/us/double-strap-detail-top--studio-l09419953",
+    "image": "https://static.massimodutti.net/assets/public/fafb/a1e6/1d6c4254bea8/134f13a54515/09419953710-o1/09419953710-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cotton-knit-top-with-knot-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cotton Knit Top With Knot Detail",
+    "price": 160,
+    "url": "https://www.massimodutti.com/us/100-cotton-knit-top-with-knot-detail-l05743300",
+    "image": "https://static.massimodutti.net/assets/public/66b5/b75b/28b74b15bbb0/e8e9c3a9ab61/05743300251-o1/05743300251-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-linen-wrap-top-with-button-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Linen Wrap Top With Button Detail",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-linen-wrap-top-with-button-detail-l05788300",
+    "image": "https://static.massimodutti.net/assets/public/f200/01ab/278845269ace/0a6bfc8f06e6/05788300306-o1/05788300306-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-ribbed-turtleneck-knit-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Ribbed Turtleneck Knit Top",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/ribbed-turtleneck-knit-top-l05733586",
+    "image": "https://static.massimodutti.net/assets/public/6b3a/c79f/4e414b2198f5/151df3f5bc6a/05733586614-o1/05733586614-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cotton",
+        50
+      ],
+      [
+        "Wool",
+        50
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-linen-flowing-halter-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Linen Flowing Halter Top",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-linen-flowing-halter-top-l05770300",
+    "image": "https://static.massimodutti.net/assets/public/c3e6/3cf1/b63744cd9982/c502a5df5b0a/05770300700-o1/05770300700-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-linen-crossover-top-with-button-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Linen Crossover Top With Button Detail",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-linen-crossover-top-with-button-detail-l05720300",
+    "image": "https://static.massimodutti.net/assets/public/1d51/9b91/2022438c9ffe/d4d419fda8b9/05720300401-o1/05720300401-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-linen-crossover-halter-top-lime",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Linen Crossover Halter Top",
+    "price": 110,
+    "url": "https://www.massimodutti.com/us/100-linen-crossover-halter-top-l05108618",
+    "image": "https://static.massimodutti.net/assets/public/f6b2/41f5/c0bb4d9084ac/8b3cd7897dd4/05108618520-o1/05108618520-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-fringe-detail-knit-top-studio",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Fringe Detail Knit Top - Studio",
+    "price": 290,
+    "url": "https://www.massimodutti.com/us/fringe-detail-knit-top--studio-l09443953",
+    "image": "https://static.massimodutti.net/assets/public/c004/dad0/ea9b4566961a/1a2174ea861b/09443953250-o1/09443953250-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-wool-ribbed-knit-vest",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Wool Ribbed Knit Vest",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/100-wool-ribbed-knit-vest-l05731595",
+    "image": "https://static.massimodutti.net/assets/public/1ab6/8c52/c9a34b66bd7a/a72b0fafcc2e/05731595724-o1/05731595724-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-suede-lapel-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Suede Lapel Blazer",
+    "price": 590,
+    "url": "https://www.massimodutti.com/us/100-suede-lapel-blazer-l04789649",
+    "image": "https://static.massimodutti.net/assets/public/200e/8f74/010d437f9051/879744196d96/04789649742-o1/04789649742-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-cotton-blend-kick-flare-pants",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Cotton Blend Kick Flare Pants",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/cotton-blend-kick-flare-pants-l05017717",
+    "image": "https://static.massimodutti.net/assets/public/2b93/a650/b31c46bc916e/87c99f9fb4c7/05017717800-o1/05017717800-o1.jpg?w=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-cotton-poplin-shirt-with-dart-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Cotton Poplin Shirt With Dart Detail",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/cotton-poplin-shirt-with-dart-detail-l05199944",
+    "image": "https://static.massimodutti.net/assets/public/2ed0/2777/76c344f49a69/2b2fba793223/05199944902-o1/05199944902-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-wool-cape-style-knit-sweater",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Wool Cape-style Knit Sweater",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-wool-capestyle-knit-sweater-l05787593",
+    "image": "https://static.massimodutti.net/assets/public/c679/b40b/f12e46da9a2c/13df4f68ee62/05787593700-o1/05787593700-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-silk-flowing-shirt-with-shoulder-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Silk Flowing Shirt With Shoulder Detail",
+    "price": 100,
+    "url": "https://www.massimodutti.com/us/100-silk-flowing-shirt-with-shoulder-detail-l05162538",
+    "image": "https://static.massimodutti.net/assets/public/3dd6/fd9f/4bfe41d58280/808af2597a66/05162538420-o1/05162538420-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-wool-midi-skirt-with-split-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Wool Midi Skirt With Split Detail",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-wool-midi-skirt-with-split-detail-l05301510",
+    "image": "https://static.massimodutti.net/assets/public/dc2c/b0bd/acac4530a5bf/8a1eba0b3e0c/05301510700-o1/05301510700-o1.jpg?w=600",
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-nappa-leather-toggle-jacket",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Nappa Leather Toggle Jacket",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/nappa-leather-toggle-jacket-l04708708",
+    "image": "https://static.massimodutti.net/assets/public/03b1/f869/30814094b1e7/0660428e8e89/04708708700-o1/04708708700-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-silk-semi-sheer-top-with-tie",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Silk Semi-sheer Top With Tie",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/100-silk-semisheer-top-with-tie-l05116616",
+    "image": "https://static.massimodutti.net/assets/public/8e5a/8dfd/77514d2985d2/ec9255c11f86/05116616600-o1/05116616600-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-suede-high-neck-jacket",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Suede High Neck Jacket",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/suede-high-neck-jacket-l04756856",
+    "image": "https://static.massimodutti.net/assets/public/bbe1/eaf1/062a492fa3e3/d5cb64914320/04756856505-o1/04756856505-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-wool-blend-v-neck-knit-sweater",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Wool Blend V-Neck Knit Sweater",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/wool-blend-vneck-knit-sweater-l05612593",
+    "image": "https://static.massimodutti.net/assets/public/55ea/234a/5ce44553990e/b4fe186d931b/05612593720-o1/05612593720-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cotton-midi-skirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cotton Midi Skirt",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-cotton-midi-skirt-l05290510",
+    "image": "https://static.massimodutti.net/assets/public/86ab/face/5e654f36afde/9dbc00b0f4a7/05290510700-o1/05290510700-o1.jpg?w=600",
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cotton-poplin-crossover-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cotton Poplin Crossover Shirt",
+    "price": 100,
+    "url": "https://www.massimodutti.com/us/100-cotton-poplin-crossover-shirt-l05189589",
+    "image": "https://static.massimodutti.net/assets/public/1c0c/f7f5/bb68474c8292/8f4127b74598/05189589250-o1/05189589250-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-wool-blend-cable-knit-sweater",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Wool Blend Cable-knit Sweater",
+    "price": 100,
+    "url": "https://www.massimodutti.com/us/wool-blend-cableknit-sweater-l05657593",
+    "image": "https://static.massimodutti.net/assets/public/4206/9ec0/67f54490a2fe/d114ec36b865/05657593510-o1/05657593510-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Mustard",
+    "shell": [
+      [
+        "Wool",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cotton-draped-poplin-dress",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cotton Draped Poplin Dress",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-cotton-draped-poplin-dress-l06652511",
+    "image": "https://static.massimodutti.net/assets/public/707e/96ac/06a04cd480dd/da1d53ec2a07/06652511700-o1/06652511700-o1.jpg?w=600",
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-short-sleeve-t-shirt-with-tie-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Short Sleeve T-shirt With Tie Detail",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/short-sleeve-tshirt-with-tie-detail-l06812922",
+    "image": "https://static.massimodutti.net/assets/public/18ec/037f/194443a09508/d7e5a2803147/06812922251-o1/06812922251-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cotton-textured-strappy-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cotton Textured Strappy Top",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/100-cotton-textured-strappy-top-l06210601",
+    "image": "https://static.massimodutti.net/assets/public/118b/e31b/64704ba5ad01/af1348fcc6d2/06210601625-o1/06210601625-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-v-neck-t-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "V-Neck T-shirt",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/vneck-tshirt-l06825920",
+    "image": "https://static.massimodutti.net/assets/public/ac26/27d9/6a1e48aa8d80/c73b8ba6f99f/06825920800-o1/06825920800-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-flowing-100-linen-midi-dress",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Flowing 100% Linen Midi Dress",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/flowing-100-linen-midi-dress-l06660508",
+    "image": "https://static.massimodutti.net/assets/public/8b05/e979/47224954a721/9eaa07a455f7/06660508250-o1/06660508250-o1.jpg?w=600",
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-long-gathered-poplin-skirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Long Gathered Poplin Skirt",
+    "price": 100,
+    "url": "https://www.massimodutti.com/us/long-gathered-poplin-skirt-l05294508",
+    "image": "https://static.massimodutti.net/assets/public/40b9/82a6/af0d4a7ea077/99dda74723eb/05294508250-o1/05294508250-o1.jpg?w=600",
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-asymmetric-drop-sleeve-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Asymmetric Drop Sleeve Top",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/asymmetric-drop-sleeve-top-l06814129",
+    "image": "https://static.massimodutti.net/assets/public/946f/0d87/3518400e8653/9413e15a6156/06814129711-o1/06814129711-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-striped-wool-cashmere-blend-knit-v-neck-sweater",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Striped Wool-cashmere Blend Knit V-Neck Sweater",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/striped-woolcashmere-blend-knit-vneck-sweater-l05723593",
+    "image": "https://static.massimodutti.net/assets/public/f61e/2941/483a4f878f58/2923c776c791/05723593807-o1/05723593807-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cotton-braided-knit-cardigan",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cotton Braided Knit Cardigan",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/100-cotton-braided-knit-cardigan-l05922563",
+    "image": "https://static.massimodutti.net/assets/public/4b25/ead4/49aa45f9b716/a8a01e7af00f/05922563420-o1/05922563420-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-striped-polo-sweater",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Striped Polo Sweater",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/striped-polo-sweater-l05610528",
+    "image": "https://static.massimodutti.net/assets/public/a8c6/5ecf/ba954600b046/bad3ed3d6e29/05610528745-o1/05610528745-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cotton-cape-jacket",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cotton Cape Jacket",
+    "price": 200,
+    "url": "https://www.massimodutti.com/us/100-cotton-cape-jacket-l06753773",
+    "image": "https://static.massimodutti.net/assets/public/179b/2b06/a9f74a99b841/34490fe0ce13/06753773710-o1/06753773710-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-asymmetric-top-with-embroidered-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Asymmetric Top With Embroidered Detail",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/asymmetric-top-with-embroidered-detail-l06819145",
+    "image": "https://static.massimodutti.net/assets/public/9887/c81f/4ddd4e8ebe7f/4caa80ea0df0/06819145251-o1/06819145251-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-mid-waist-wide-leg-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Mid-waist Wide-leg Jeans",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/midwaist-wideleg-jeans-l05026826",
+    "image": "https://static.massimodutti.net/assets/public/c9d9/cd31/b7dd4e548664/82d93c483640/05026826426-o1/05026826426-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        91
+      ],
+      [
+        "Hemp",
+        9
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-suede-leather-bomber-jacket",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Suede Leather Bomber Jacket",
+    "price": 420,
+    "url": "https://www.massimodutti.com/us/suede-leather-bomber-jacket-l04751452",
+    "image": "https://static.massimodutti.net/assets/public/9e18/2c1d/1ece461db694/54e2629ead06/04751452211-o1/04751452211-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-off-the-shoulder-top-with-jewel-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Off-the-shoulder Top With Jewel Detail",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/offtheshoulder-top-with-jewel-detail-l06844500",
+    "image": "https://static.massimodutti.net/assets/public/0980/cb26/51bc432f8388/979aae38db20/06844500505-o1/06844500505-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-cotton-blend-striped-open-knit-polo-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Cotton Blend Striped Open-knit Polo Shirt",
+    "price": 70,
+    "url": "https://www.massimodutti.com/us/cotton-blend-striped-openknit-polo-shirt-l06232630",
+    "image": "https://static.massimodutti.net/assets/public/3714/b602/92604f1eb199/185eef7be92f/06232630400-o1/06232630400-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        90
+      ],
+      [
+        "Silk",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-suede-leather-blazer-with-pockets",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Suede Leather Blazer With Pockets",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/suede-leather-blazer-with-pockets-l04751851",
+    "image": "https://static.massimodutti.net/assets/public/417e/0f5f/42fd4cf187c0/d8462f134e82/04751851710-o1/04751851710-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-cotton-off-the-shoulder-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Cotton Off-the-shoulder Top",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/cotton-offtheshoulder-top-l06221610",
+    "image": "https://static.massimodutti.net/assets/public/f569/ebff/50a647c19513/e99127540f69/06221610251-o1/06221610251-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-flowing-embroidered-midi-dress-with-pintuck-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Flowing Embroidered Midi Dress With Pintuck Detail",
+    "price": 200,
+    "url": "https://www.massimodutti.com/us/flowing-embroidered-midi-dress-with-pintuck-detail-l06612501",
+    "image": "https://static.massimodutti.net/assets/public/93a7/e69f/663640b89096/dcf2890112df/06612501800-o1/06612501800-o1.jpg?w=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Ramie",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-flowing-straight-leg-linen-trousers",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Flowing Straight-leg Linen Trousers",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/flowing-straightleg-linen-trousers-l05025681",
+    "image": "https://static.massimodutti.net/assets/public/3ef3/1edd/5ada41dab78c/1d498ab9b0f7/05025681800-o1/05025681800-o1.jpg?w=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-suede-leather-double-breasted-jacket",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Suede Leather Double-breasted Jacket",
+    "price": 490,
+    "url": "https://www.massimodutti.com/us/suede-leather-doublebreasted-jacket-l04753753",
+    "image": "https://static.massimodutti.net/assets/public/7ef1/a976/1c294e65be87/5b04bac2f494/04753753742-o1/04753753742-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-kick-flare-cropped-linen-trousers",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Kick Flare Cropped Linen Trousers",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/kick-flare-cropped-linen-trousers-l05044345",
+    "image": "https://static.massimodutti.net/assets/public/b5f9/e85a/bc24450fa19a/000f1f9055a1/05044345401-o1/05044345401-o1.jpg?w=600",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        59
+      ],
+      [
+        "Polyester",
+        41
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-kick-flare-cropped-linen-trousers-green-marl",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Kick Flare Cropped Linen Trousers",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/kick-flare-cropped-linen-trousers-l05044344",
+    "image": "https://static.massimodutti.net/assets/public/5326/42ae/c2eb4000b315/c9bfd3d7f9ea/05044344524-o1/05044344524-o1.jpg?w=600",
+    "category": "Pants",
+    "colour": "Green",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        65
+      ],
+      [
+        "Cotton",
+        35
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-linen-flowing-pants-brown-marl",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Linen Flowing Pants",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-linen-flowing-pants-l05048850",
+    "image": "https://static.massimodutti.net/assets/public/da15/6519/fa944d6cac7c/a4a582e0a062/05048850724-o1/05048850724-o1.jpg?w=600",
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-linen-vest",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Linen Vest",
+    "price": 100,
+    "url": "https://www.massimodutti.com/us/100-linen-vest-l06096850",
+    "image": "https://static.massimodutti.net/assets/public/d875/73b5/628d4dd8a2a3/5a76b367dc96/06096850724-o1/06096850724-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-mercerised-cotton-t-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Mercerised Cotton T-shirt",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/100-mercerised-cotton-tshirt-l06204543",
+    "image": "https://static.massimodutti.net/assets/public/cfce/c121/cdc3422ebfd6/7ceb22633a17/06204543250-o1/06204543250-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-striped-linen-blend-oversize-blouse-with-button-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Striped Linen Blend Oversize Blouse With Button Detail",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/striped-linen-blend-oversize-blouse-with-button-detail-l06648500",
+    "image": "https://static.massimodutti.net/assets/public/bacc/763e/92974345aea5/b3fae44289d0/06648500800-o1/06648500800-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        91
+      ],
+      [
+        "Cotton",
+        6
+      ],
+      [
+        "Polyester",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-short-sleeve-cable-knit-sweater",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Short Sleeve Cable-knit Sweater",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/short-sleeve-cableknit-sweater-l05635563",
+    "image": "https://static.massimodutti.net/assets/public/7107/8fc4/d6f1403b816a/894bb68db423/05635563250-o1/05635563250-o1.jpg?w=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-linen-flowy-mini-dress",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Linen Flowy Mini Dress",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/100-linen-flowy-mini-dress-l06675509",
+    "image": "https://static.massimodutti.net/assets/public/2c70/ae19/a23f4d619780/38d824e7aaa7/06675509400-o1/06675509400-o1.jpg?w=600",
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-cotton-blend-check-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Cotton Blend Check Shirt",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/cotton-blend-check-shirt-l05115512",
+    "image": "https://static.massimodutti.net/assets/public/1468/bf01/2d1746939844/f9f6d86344cd/05115512250-o1/05115512250-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        90
+      ],
+      [
+        "Linen",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Embroidery 100% cotton"
+  },
+  {
+    "id": "massimo-dutti-double-layer-striped-short-sleeve-t-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Double-layer Striped Short Sleeve T-shirt",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/doublelayer-striped-short-sleeve-tshirt-l06899120",
+    "image": "https://static.massimodutti.net/assets/public/c3dd/64ff/e8b643aab382/6e9bb8928965/06899120400-o1/06899120400-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-cotton-blend-jeweled-detail-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Cotton Blend Jeweled Detail Top",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/cotton-blend-jeweled-detail-top-l06817130",
+    "image": "https://static.massimodutti.net/assets/public/e0fc/9d64/7bec474d855f/cce584ffcc12/06817130712-o1/06817130712-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-slim-fit-linen-blend-trousers",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Slim Fit Linen Blend Trousers",
+    "price": 90,
+    "url": "https://www.massimodutti.com/us/slim-fit-linen-blend-trousers-l05031331",
+    "image": "https://static.massimodutti.net/assets/public/94c4/541a/76004b5bb0c7/ce95c12ab292/05031331724-o1/05031331724-o1.jpg?w=600",
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Linen",
+        52
+      ],
+      [
+        "Cotton",
+        48
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-suede-leather-asymmetric-zip-up-jacket",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Suede Leather Asymmetric Zip-up Jacket",
+    "price": 420,
+    "url": "https://www.massimodutti.com/us/suede-leather-asymmetric-zipup-jacket-l04717675",
+    "image": "https://static.massimodutti.net/assets/public/626f/2d20/7106420db249/37c1ca8cc58c/04717675730-o1/04717675730-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-nappa-leather-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Nappa Leather Shirt",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/nappa-leather-shirt-l04799659",
+    "image": "https://static.massimodutti.net/assets/public/ef60/593c/4b8b439897bb/4cbcfc43735f/04799659323-o1/04799659323-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-cotton-blend-open-knit-polo-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Cotton Blend Open-knit Polo Shirt",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/cotton-blend-openknit-polo-shirt-l06231630",
+    "image": "https://static.massimodutti.net/assets/public/5856/8d6c/eb7940ce8dc8/802b62ad3124/06231630700-o1/06231630700-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        90
+      ],
+      [
+        "Silk",
+        10
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cotton-ribbed-tank-top",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cotton Ribbed Tank Top",
+    "price": 70,
+    "url": "https://www.massimodutti.com/us/100-cotton-ribbed-tank-top-l05711518",
+    "image": "https://static.massimodutti.net/assets/public/db0e/5948/9ba3452599f8/1c3177707d9e/05711518515-o1/05711518515-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-low-rise-cropped-straight-leg-jeans",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Low-rise Cropped Straight-leg Jeans",
+    "price": 130,
+    "url": "https://www.massimodutti.com/us/lowrise-cropped-straightleg-jeans-l05037837",
+    "image": "https://static.massimodutti.net/assets/public/9a0e/9a2c/a2304674bc32/c774cab23187/05037837800-o1/05037837800-o1.jpg?w=600",
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-flowing-cropped-fit-v-neck-t-shirt",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Flowing Cropped Fit V-Neck T-shirt",
+    "price": 45,
+    "url": "https://www.massimodutti.com/us/flowing-cropped-fit-vneck-tshirt-l06205107",
+    "image": "https://static.massimodutti.net/assets/public/bf35/56b1/fa7b4ff8ae36/e8e5020cfcf5/06205107250-o1/06205107250-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-checked-wool-blend-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Checked Wool Blend Blazer",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/checked-wool-blend-blazer-l06049504",
+    "image": "https://static.massimodutti.net/assets/public/94f4/382d/102e4a9086de/1674344f5e0a/06049504706-o1/06049504706-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Wool",
+        97
+      ],
+      [
+        "Nylon",
+        3
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-wool-pinstripe-suit-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Wool Pinstripe Suit Blazer",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/100-wool-pinstripe-suit-blazer-l06055514",
+    "image": "https://static.massimodutti.net/assets/public/82c6/59c2/07564996a1d6/00acefc8b993/06055514401-o1/06055514401-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-wool-suit-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Wool Suit Blazer",
+    "price": 350,
+    "url": "https://www.massimodutti.com/us/100-wool-suit-blazer-l06056515",
+    "image": "https://static.massimodutti.net/assets/public/ea24/7f21/09b44780b45e/7e51c730d897/06056515800-o1/06056515800-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-pinstripe-cool-wool-blend-suit-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Pinstripe Cool Wool Blend Suit Blazer",
+    "price": 350,
+    "url": "https://www.massimodutti.com/us/pinstripe-cool-wool-blend-suit-blazer-l06076519",
+    "image": "https://static.massimodutti.net/assets/public/7293/90a1/0936457e8422/ed1a8f7f6cee/06076519802-o1/06076519802-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        99
+      ],
+      [
+        "Polyester",
+        1
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-melange-wool-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Melange Wool Blazer",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/100-melange-wool-blazer-l06048503",
+    "image": "https://static.massimodutti.net/assets/public/a844/d2e5/8c254331a186/b24d213c6c15/06048503506-o1/06048503506-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Modal",
+        52
+      ],
+      [
+        "Polyester",
+        48
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-wool-check-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Wool Check Blazer",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/100-wool-check-blazer-l06057768",
+    "image": "https://static.massimodutti.net/assets/public/7e7a/9efa/f40d4139886e/d056bd726212/06057768700-o1/06057768700-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-cold-wool-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Cold Wool Blazer",
+    "price": 350,
+    "url": "https://www.massimodutti.com/us/100-cold-wool-blazer-l06055685",
+    "image": "https://static.massimodutti.net/assets/public/b311/e348/f0f6406bb37d/81ced7405ed8/06055685800-o1/06055685800-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-three-button-wool-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Three-button Wool Blazer",
+    "price": 350,
+    "url": "https://www.massimodutti.com/us/threebutton-wool-blazer-l06059517",
+    "image": "https://static.massimodutti.net/assets/public/cc9a/68f3/bcc54595aeb5/c0bd6e9e3904/06059517829-o1/06059517829-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-wool-suit-blazer-with-pockets",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Wool Suit Blazer With Pockets",
+    "price": 350,
+    "url": "https://www.massimodutti.com/us/100-wool-suit-blazer-with-pockets-l06057516",
+    "image": "https://static.massimodutti.net/assets/public/51ff/457e/cf614570a3b8/28a41aaf5756/06057516829-o1/06057516829-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-double-breasted-blazer-with-pocket-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Double-breasted Blazer With Pocket Detail",
+    "price": 390,
+    "url": "https://www.massimodutti.com/us/doublebreasted-blazer-with-pocket-detail-l06042662",
+    "image": "https://static.massimodutti.net/assets/public/bfc6/b8a5/e3e44d2993d5/e47378c43036/06042662829-o1/06042662829-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-melange-100-wool-suit-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Melange 100% Wool Suit Blazer",
+    "price": 350,
+    "url": "https://www.massimodutti.com/us/melange-100-wool-suit-blazer-l06041661",
+    "image": "https://static.massimodutti.net/assets/public/174a/d8d1/8fe04d9e8133/8d2f4a25c471/06041661742-o1/06041661742-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-extra-fine-wool-two-button-blazer",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Extra Fine Wool Two-button Blazer",
+    "price": 350,
+    "url": "https://www.massimodutti.com/us/100-extra-fine-wool-twobutton-blazer-l06025684",
+    "image": "https://static.massimodutti.net/assets/public/f34f/7a7a/ca8b417581e9/3fb6b98ea44e/06025684401-o1/06025684401-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-extra-fine-wool-two-button-blazer-black",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Extra Fine Wool Two-button Blazer",
+    "price": 350,
+    "url": "https://www.massimodutti.com/us/100-extra-fine-wool-twobutton-blazer-l06026685",
+    "image": "https://static.massimodutti.net/assets/public/10e5/cd21/8502477fa71f/e739e0e3a697/06026685800-o1/06026685800-o1.jpg?w=600",
+    "category": "Tailoring",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Acetate",
+        51
+      ],
+      [
+        "Modal",
+        49
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-wrap-blouse-with-buttons-and-tie-detail",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Wrap Blouse With Buttons And Tie Detail",
+    "price": 160,
+    "url": "https://www.massimodutti.com/us/wrap-blouse-with-buttons-and-tie-detail-l06708939",
+    "image": "https://static.massimodutti.net/assets/public/f70c/f992/5d1d49739c48/3e7a34fa3279/06708939203-o1/06708939203-o1.jpg?w=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-skinny-fit-pants-with-zip-hem-limited-edition",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "Skinny Fit Pants With Zip Hem - Limited Edition",
+    "price": 320,
+    "url": "https://www.massimodutti.com/us/skinny-fit-pants-with-zip-hem--limited-edition-l05011555",
+    "image": "https://static.massimodutti.net/assets/public/41eb/ec99/cf5e466d8664/bc045a706c7b/05011555800-o1/05011555800-o1.jpg?w=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        96
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "massimo-dutti-100-wool-jacket-with-belt-detail-limited-edition",
+    "retailer": "Massimo Dutti",
+    "brand": "Massimo Dutti",
+    "name": "100% Wool Jacket With Belt Detail - Limited Edition",
+    "price": 790,
+    "url": "https://www.massimodutti.com/us/100-wool-jacket-with-belt-detail--limited-edition-l06791555",
+    "image": "https://static.massimodutti.net/assets/public/8ff8/c85f/820945e3b66f/75f8f4744fa9/06791555422-o1/06791555422-o1.jpg?w=600",
+    "category": "Outerwear",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  }
+]
