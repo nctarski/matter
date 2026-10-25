@@ -45,7 +45,7 @@ Natalie's call on 2026-10-23: MATTER does not carry tees, sweatshirts or tanks
 with words, slogans, logos, university or city names, team or varsity lettering,
 or pictorial graphics on them. Plain, striped, ringer, tonal and colour-blocked
 pieces are fine, and so is a small tonal or tag-level logo. When staging, look at
-the product photo for any tee, sweatshirt, hoodie or tank, and record the ones
+the product photo for any tee, sweatshirt or tank, and record the ones
 that carry words or graphics in the ledger as `rejected` instead of staging them.
 Names such as Collegiate, University, Los Angeles, Stencil, Letterman, Sport
 Club, New Era and any brand wordmark are the usual signal, and the photo is the
@@ -54,6 +54,21 @@ The same goes for sweaters and knitwear with words or logos (Naadam's
 university, NFL, Wicked, Ski and Apres sweaters, rejected 2026-10-23). Small
 embroidered motifs with no words, such as a rose or a palm tree, are fine:
 Natalie has approved pieces like White + Warren's lobster and horse crewnecks.
+
+## The brand rule: no peasant tops, argyle or hoodies
+
+Natalie's call on 2026-10-25: MATTER does not carry peasant tops, anything
+argyle, or hoodies. Record them in the ledger as `rejected` instead of staging
+them.
+- Peasant tops: the name says peasant, or the photo shows the peasant shape
+  (loose gathered or smocked neckline, usually with blouson or puff sleeves).
+- Argyle: the name says argyle, or the photo shows an argyle diamond pattern,
+  in any category.
+- Hoodies: anything with a hood that is a hoodie or hooded sweatshirt,
+  sweater, cardigan or zip-up, in any fiber (cashmere hoodies included). Coats,
+  parkas and rain jackets with a hood are outerwear and stay in scope.
+Names are the first filter (peasant, argyle, hoodie, hooded); the photo is the
+final word, so also look at the photo of every top and knit for these.
 
 ## Curated edits on the homepage
 

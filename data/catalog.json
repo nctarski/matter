@@ -4083,55 +4083,6 @@
     }
   },
   {
-    "id": "jenni-kayne-cashmere-fisherman-hoodie",
-    "retailer": "Jenni Kayne",
-    "brand": "Jenni Kayne",
-    "name": "Cashmere Fisherman Hoodie",
-    "price": 465,
-    "url": "https://jennikayne.com/products/cashmere-fisherman-hoodie-dark-navy",
-    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CASHMERE-FISHERMAN-HOODIE-DARK-NAVY_049.png?width=600",
-    "category": "Sweaters",
-    "colour": "Navy",
-    "shell": [
-      [
-        "Cashmere",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "XS",
-          "available": true
-        },
-        {
-          "size": "S",
-          "available": true
-        },
-        {
-          "size": "M",
-          "available": true
-        },
-        {
-          "size": "L",
-          "available": true
-        },
-        {
-          "size": "XL",
-          "available": true
-        },
-        {
-          "size": "XXL",
-          "available": true
-        }
-      ]
-    }
-  },
-  {
     "id": "jenni-kayne-cashmere-oversized-crewneck",
     "retailer": "Jenni Kayne",
     "brand": "Jenni Kayne",
@@ -8452,67 +8403,6 @@
     }
   },
   {
-    "id": "naadam-signature-cashmere-cropped-hoodie",
-    "retailer": "Naadam",
-    "brand": "Naadam",
-    "name": "Signature Cashmere Cropped Hoodie",
-    "price": 149,
-    "url": "https://naadam.co/products/signature-cashmere-cropped-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmere_Cropped_Hoodie__CO__Navy_5413.jpg?width=600",
-    "category": "Sweaters",
-    "colour": "Navy",
-    "shell": [
-      [
-        "Cashmere",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "XXS",
-          "available": false
-        },
-        {
-          "size": "XS",
-          "available": true
-        },
-        {
-          "size": "S",
-          "available": true
-        },
-        {
-          "size": "M",
-          "available": true
-        },
-        {
-          "size": "L",
-          "available": true
-        },
-        {
-          "size": "XL",
-          "available": true
-        },
-        {
-          "size": "1X",
-          "available": true
-        },
-        {
-          "size": "2X",
-          "available": true
-        },
-        {
-          "size": "3X",
-          "available": true
-        }
-      ]
-    }
-  },
-  {
     "id": "naadam-super-fine-cashmere-high-neck-tank",
     "retailer": "Naadam",
     "brand": "Naadam",
@@ -11145,88 +11035,6 @@
     ],
     "lining": null,
     "isNew": true,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "XS",
-          "available": true
-        },
-        {
-          "size": "S",
-          "available": true
-        },
-        {
-          "size": "M",
-          "available": true
-        },
-        {
-          "size": "L",
-          "available": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "white-warren-cashmere-argyle-oversized-v-neck-black-combo",
-    "retailer": "White + Warren",
-    "brand": "White + Warren",
-    "name": "Cashmere Argyle Oversized V-Neck",
-    "price": 399,
-    "url": "https://whiteandwarren.com/products/cashmere-argyle-oversized-v-neck-black-combo",
-    "image": "https://cdn.shopify.com/s/files/1/0052/8200/5085/files/21970_CashmereArgyleOversizedVNeck_BlackCombo_MJ_01.jpg?v=1788887498",
-    "category": "Sweaters",
-    "colour": "Black",
-    "shell": [
-      [
-        "Cashmere",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "XS",
-          "available": true
-        },
-        {
-          "size": "S",
-          "available": true
-        },
-        {
-          "size": "M",
-          "available": true
-        },
-        {
-          "size": "L",
-          "available": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "white-warren-cashmere-argyle-turtleneck-dark-emerald-marl",
-    "retailer": "White + Warren",
-    "brand": "White + Warren",
-    "name": "Cashmere Argyle Turtleneck",
-    "price": 529,
-    "url": "https://whiteandwarren.com/products/cashmere-argyle-turtleneck-dark-emerald-marl",
-    "image": "https://cdn.shopify.com/s/files/1/0052/8200/5085/files/22055_CashmereArgyleTurtleneck_DarkEmerldMarl_VM_01.jpg?v=1788889023",
-    "category": "Sweaters",
-    "colour": "Green",
-    "shell": [
-      [
-        "Cashmere",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
     "tags": [],
     "stock": {
       "checkedAt": "2026-10-23",
@@ -36134,66 +35942,6 @@
     "tags": []
   },
   {
-    "id": "naadam-the-essential-cashmere-hoodie-1",
-    "retailer": "Naadam",
-    "brand": "Naadam",
-    "name": "Signature Cashmere Hoodie",
-    "price": 171,
-    "url": "https://naadam.co/products/the-essential-cashmere-hoodie-1",
-    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/The-Off-Duty-Cashmere-Hoodie-_CO__Navy-_CO__W_0044.jpg?width=600",
-    "category": "Sweaters",
-    "colour": "Navy",
-    "shell": [
-      [
-        "Cashmere",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "naadam-the-essential-cashmere-hoodie-women",
-    "retailer": "Naadam",
-    "brand": "Naadam",
-    "name": "Signature Cashmere Hoodie",
-    "price": 171,
-    "url": "https://naadam.co/products/the-essential-cashmere-hoodie-women",
-    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/The-Off-Duty-Cashmere-Hoodie-_CO_---Oatmeal_066.jpg?width=600",
-    "category": "Sweaters",
-    "colour": "Cream",
-    "shell": [
-      [
-        "Cashmere",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "naadam-the-off-duty-cashmere-hoodie",
-    "retailer": "Naadam",
-    "brand": "Naadam",
-    "name": "Signature Cashmere Hoodie",
-    "price": 171,
-    "url": "https://naadam.co/products/the-off-duty-cashmere-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0313/7821/files/Signature_Cashmere_Hoodie_CO_Heathered_Sea_Teal_0071.jpg?width=600",
-    "category": "Sweaters",
-    "colour": "Blue",
-    "shell": [
-      [
-        "Cashmere",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "naadam-the-original-cashmere-crewneck-sweater-womens-1",
     "retailer": "Naadam",
     "brand": "Naadam",
@@ -43815,26 +43563,6 @@
     "tags": []
   },
   {
-    "id": "kotn-womens-rib-zip-hoodie-in-coffee-bean",
-    "retailer": "Kotn",
-    "brand": "Kotn",
-    "name": "Rib Zip Hoodie",
-    "price": 122,
-    "url": "https://kotn.com/products/womens-rib-zip-hoodie-in-coffee-bean",
-    "image": "https://cdn.shopify.com/s/files/1/0932/1356/files/Women_sRibZipHoodie_Brown3.jpg?width=600",
-    "category": "Sweaters",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": true,
-    "tags": []
-  },
-  {
     "id": "kotn-womens-safi-denim-in-medium-wash",
     "retailer": "Kotn",
     "brand": "Kotn",
@@ -50044,26 +49772,6 @@
     "tags": []
   },
   {
-    "id": "kotn-womens-cozy-zip-hoodie-in-black",
-    "retailer": "Kotn",
-    "brand": "Kotn",
-    "name": "Cozy Zip Hoodie",
-    "price": 118,
-    "url": "https://kotn.com/products/womens-cozy-zip-hoodie-in-black",
-    "image": "https://cdn.shopify.com/s/files/1/0932/1356/files/Women_sCozyZipHoodie_Black2.jpg?v=1762439141&width=600",
-    "category": "Sweaters",
-    "colour": "Black",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": true,
-    "tags": []
-  },
-  {
     "id": "kotn-womens-crop-racer-tank-in-plum-marshmallow-stripe",
     "retailer": "Kotn",
     "brand": "Kotn",
@@ -50305,46 +50013,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0932/1356/files/WomensEssentialCrew_Black-1.jpg?v=1762198328&width=600",
     "category": "Tops",
     "colour": "Black",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "kotn-womens-essential-hoodie-in-black",
-    "retailer": "Kotn",
-    "brand": "Kotn",
-    "name": "Essential Hoodie",
-    "price": 108,
-    "url": "https://kotn.com/products/womens-essential-hoodie-in-black",
-    "image": "https://cdn.shopify.com/s/files/1/0932/1356/files/WOMENS_ESSENTIAL_HOODIE_BLACK_057.jpg?v=1757616101&width=600",
-    "category": "Sweaters",
-    "colour": "Black",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "kotn-womens-essential-hoodie-in-heather-grey",
-    "retailer": "Kotn",
-    "brand": "Kotn",
-    "name": "Essential Hoodie",
-    "price": 108,
-    "url": "https://kotn.com/products/womens-essential-hoodie-in-heather-grey",
-    "image": "https://cdn.shopify.com/s/files/1/0932/1356/files/Womens_Essential_Hoodie_Heather_Grey_036.jpg?v=1757433224&width=600",
-    "category": "Sweaters",
-    "colour": "Grey",
     "shell": [
       [
         "Cotton",
@@ -54371,30 +54039,6 @@
       [
         "Elastane",
         4
-      ]
-    ],
-    "lining": null,
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-cotton-blend-knit-hooded-cardigan",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Cotton blend knit hooded cardigan",
-    "price": 160,
-    "url": "https://www.massimodutti.com/us/cotton-blend-knit-hooded-cardigan-l05907527",
-    "image": "https://static.massimodutti.net/assets/public/48b4/0d83/bf614b3abfde/29da0fc4f9be/05907527401-o1/05907527401-o1.jpg?w=600",
-    "category": "Sweaters",
-    "colour": "Navy",
-    "shell": [
-      [
-        "Cotton",
-        90
-      ],
-      [
-        "Wool",
-        10
       ]
     ],
     "lining": null,
@@ -61547,26 +61191,6 @@
     "tags": []
   },
   {
-    "id": "quince-mongolian-cashmere-pullover-hoodie",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "Mongolian Cashmere Fisherman Pullover Hoodie",
-    "price": 120,
-    "url": "https://www.quince.com/women/mongolian-cashmere-pullover-hoodie",
-    "image": "https://images.quince.com/EHMuvB76kT7kbdWkL8aUs/3e7e9c74ccb1dda06d2b966f5d963b14/W-SWT-21-BRN_10795__1_.jpg?w=600",
-    "category": "Sweaters",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Cashmere",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "quince-mongolian-cashmere-short-sleeve-mini-dress",
     "retailer": "Quince",
     "brand": "Quince",
@@ -61764,26 +61388,6 @@
     "image": "https://images.quince.com/TLF6Qiaaf85s1TMduwypY/b4606e74b8caee7797ac30cd671c9670/W-JKT-143-DNVY-01_EDITED.jpg?w=600",
     "category": "Sweaters",
     "colour": "Navy",
-    "shell": [
-      [
-        "Organic cotton",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-organic-cotton-french-terry-hoodie",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "Organic French Terry Hoodie",
-    "price": 48,
-    "url": "https://www.quince.com/women/organic-cotton-french-terry-hoodie",
-    "image": "https://images.quince.com/3B7hscXw6keSMY0q33OCDv/0a9e97cbf7d9d6dcabbae9f741322167/W-JKT-142-BLDBLK-01_EDITED.jpg?w=600",
-    "category": "Sweaters",
-    "colour": "Black",
     "shell": [
       [
         "Organic cotton",

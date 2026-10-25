@@ -64,8 +64,8 @@
   "date": "2026-10-24"
  },
  "kotn.com/products/womens-rib-zip-hoodie-in-coffee-bean": {
-  "outcome": "catalog",
-  "date": "2026-10-24"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cozy-turtleneck-in-marshmallow-v2": {
   "outcome": "catalog",
@@ -4296,9 +4296,8 @@
   "round": "round-2026-10-24-nightly.json"
  },
  "kotn.com/products/womens-cozy-zip-hoodie-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-nahla-denim-in-mid-wash": {
   "outcome": "staged",
@@ -4376,9 +4375,8 @@
   "round": "round-2026-10-24-nightly.json"
  },
  "kotn.com/products/womens-essential-hoodie-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-straight-sweatpant-in-heather-grey": {
   "outcome": "staged",
@@ -4391,9 +4389,8 @@
   "round": "round-2026-10-24-nightly.json"
  },
  "kotn.com/products/womens-essential-hoodie-in-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cord-mini-skirt-in-otter": {
   "outcome": "staged",
