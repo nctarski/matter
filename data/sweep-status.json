@@ -276,11 +276,11 @@
       "brand": "Lisa Says Gah",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": ""
+      "lastSweep": "2026-10-24",
+      "lastDelta": 51,
+      "note": "Shopify products.json, composition in body_html. Multi-brand: vendor is the brand (Meals, Sonderhaus, Tyler McGillivary collabs). 2026-10-24: 182 apparel products, 51 staged, 74 failed the fiber rule (lots of polyester, Tencel/nylon and rayon), 27 rejected by the brand rules (22 graphic or word tees and tanks, 5 peasant tops), sold-out pieces left out of the ledger. Some bodies state the composition twice (prose plus Details), so read the last line that sums to 100."
     },
     {
       "order": 24,

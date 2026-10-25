@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "lisa-says-gah-darcy-skort-turquoise",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Darcy Skort",
+    "price": 88,
+    "url": "https://lisasaysgah.com/products/darcy-skort-19",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/TurquoiseDarcy.png?v=1792605785&width=600",
+    "category": "Skirts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-daphne-trouser-matcha",
+    "retailer": "Lisa Says Gah",
+    "brand": "Sonderhaus x Lisa Says Gah",
+    "name": "Daphne Trouser",
+    "price": 140,
+    "url": "https://lisasaysgah.com/products/daphne-trouser-2",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/Sonderhaus_pant.png?v=1789506272&width=600",
+    "category": "Pants",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-vivienne-top-black",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Vivienne Top",
+    "price": 138,
+    "url": "https://lisasaysgah.com/products/vivienne-top-1",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/image_b0fb6ca5-83b5-4e5d-9efb-d4e2383559eb.png?v=1786481182&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-i-can-t-believe-it-s-not-vintage-crewneck-moss-athletic-stripe",
+    "retailer": "Lisa Says Gah",
+    "brand": "Sonderhaus x Lisa Says Gah",
+    "name": "I Can't Believe it's Not Vintage Crewneck",
+    "price": 120,
+    "url": "https://lisasaysgah.com/products/i-cant-believe-its-not-vintage-crewneck-1",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/sonderhaus_lsg_crewneck_moss_athletic_stripe_1.jpg?v=1785881216&width=600",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-i-can-t-believe-it-s-not-vintage-crewneck-golden-stripe",
+    "retailer": "Lisa Says Gah",
+    "brand": "Sonderhaus x Lisa Says Gah",
+    "name": "I Can't Believe it's Not Vintage Crewneck",
+    "price": 120,
+    "url": "https://lisasaysgah.com/products/i-cant-believe-its-not-vintage-crewneck",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/sonderhaus_lsg_crewneck_golden_stripe_1.jpg?v=1785783426&width=600",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-penny-midi-skirt-stable-toile",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Penny Midi Skirt",
+    "price": 158,
+    "url": "https://lisasaysgah.com/products/penny-midi-skirt-1",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_20260727_LUCKY_YOU107.jpg?v=1785882811&width=600",
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-olson-trench-saddle-stable-toile",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Olson Trench",
+    "price": 250,
+    "url": "https://lisasaysgah.com/products/olson-trench-2",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_olson_trench_sadle_1.jpg?v=1786045356&width=600",
+    "category": "Outerwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-darcy-skort-tobacco-stripe",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Darcy Skort",
+    "price": 108,
+    "url": "https://lisasaysgah.com/products/darcy-skort-tobacco-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_darcy_skort_tobacco_stripe_1_1.jpg?v=1785793152&width=600",
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-cindy-dress-tobacco-stripe",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Cindy Dress",
+    "price": 138,
+    "url": "https://lisasaysgah.com/products/cindy-dress-tobacco-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_cindy_dress_tobacco_stripe_1.jpg?v=1786039536&width=600",
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-maudie-top-crisp-white",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Maudie Top",
+    "price": 90,
+    "url": "https://lisasaysgah.com/products/maudie-top",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_20260727_LUCKY_YOU14.jpg?v=1785972396&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-maeve-midi-skirt-mod-dot",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Maeve Midi Skirt",
+    "price": 158,
+    "url": "https://lisasaysgah.com/products/maeve-midi-skirt-12",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_20260727_LUCKY_YOU20.jpg?v=1785807670&width=600",
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-bonnie-top-mod-dot",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Bonnie Top",
+    "price": 104,
+    "url": "https://lisasaysgah.com/products/bonnie-top",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_bonnie_top_mod_dot_1.jpg?v=1785809107&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-nia-top-turquoise",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Nia Top",
+    "price": 85,
+    "url": "https://lisasaysgah.com/products/nia-top-15",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/ChatGPTImageJul28_2026_10_14_13AM.png?v=1785791565&width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-forager-jacket-chocolate",
+    "retailer": "Lisa Says Gah",
+    "brand": "Meals",
+    "name": "Forager Jacket",
+    "price": 180,
+    "url": "https://lisasaysgah.com/products/meals-forager-jacket-6",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/flatimage_buttonupdate.jpg?v=1791501847&width=600",
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-chef-pant-tomato",
+    "retailer": "Lisa Says Gah",
+    "brand": "Meals",
+    "name": "Chef Pant",
+    "price": 150,
+    "url": "https://lisasaysgah.com/products/meals-chef-pant-4",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/meals_chef_pant_red.jpg?v=1737680989&width=600",
+    "category": "Pants",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-forager-jacket-tomato",
+    "retailer": "Lisa Says Gah",
+    "brand": "Meals",
+    "name": "Forager Jacket",
+    "price": 180,
+    "url": "https://lisasaysgah.com/products/meals-forager-jacket-4",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/meals_forager_jacket_red.jpg?v=1737680977&width=600",
+    "category": "Outerwear",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-amber-tee-black-pointelle",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Amber Tee",
+    "price": 88,
+    "url": "https://lisasaysgah.com/products/amber-tee-2",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/IMG_6416.jpg?v=1784669926&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-nia-top-pink-dot",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Nia Top",
+    "price": 85,
+    "url": "https://lisasaysgah.com/products/nia-top-13",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_nia_top_pink_dot_1.jpg?v=1784055717&width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-darcy-skort-pink-dot",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Darcy Skort",
+    "price": 98,
+    "url": "https://lisasaysgah.com/products/darcy-skort-16",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_darcy_skort_pink_dot_1.jpg?v=1784062720&width=600",
+    "category": "Skirts",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-darcy-skort-blue-dot",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Darcy Skort",
+    "price": 98,
+    "url": "https://lisasaysgah.com/products/darcy-skort-15",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_darcy_skort_blue_dot_1.jpg?v=1784064844&width=600",
+    "category": "Skirts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-nia-top-blue-dot",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Nia Top",
+    "price": 85,
+    "url": "https://lisasaysgah.com/products/nia-top-12",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_nia_top_blue_dot_1.jpg?v=1784056256&width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-dottie-dress-coffee-creamer",
+    "retailer": "Lisa Says Gah",
+    "brand": "Tyler McGillivary x Lisa Says Gah",
+    "name": "Dottie Dress",
+    "price": 178,
+    "url": "https://lisasaysgah.com/products/dottie-dress",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/tyler_mcgillivary_dottie_dress_cc_1.jpg?v=1763601145&width=600",
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-vivienne-top-white",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Vivienne Top",
+    "price": 138,
+    "url": "https://lisasaysgah.com/products/vivienne-top",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_vivienne_top_white_1.jpg?v=1782323705&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-peggy-dress-chocolate",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Peggy Dress",
+    "price": 118,
+    "url": "https://lisasaysgah.com/products/peggy-dress-1",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_peggy_dress_chocolate_1.jpg?v=1782323064&width=600",
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-rei-pant-indigo",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Rei Pant",
+    "price": 104,
+    "url": "https://lisasaysgah.com/products/rei-pant-2",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_rei_pant_indigo_1.jpg?v=1783018481&width=600",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-daphne-trouser-dark-blue",
+    "retailer": "Lisa Says Gah",
+    "brand": "Sonderhaus Studios",
+    "name": "Daphne Trouser",
+    "price": 140,
+    "url": "https://lisasaysgah.com/products/daphne-trouser-1",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/IMG_8125_3256126f-e7a0-4aa8-a64c-2e571146aaae.jpg?v=1786046153&width=600",
+    "category": "Pants",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-nora-pant-cherry",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Nora Pant",
+    "price": 104,
+    "url": "https://lisasaysgah.com/products/nora-pant-2",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_nora_pant_cherry_1.jpg?v=1780080122&width=600",
+    "category": "Pants",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-nora-pant-euro-breakfast",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Nora Pant",
+    "price": 90,
+    "url": "https://lisasaysgah.com/products/nora-pant-3",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_nora_pant_euro_breakfast_1.jpg?v=1779388541&width=600",
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        55
+      ],
+      [
+        "Linen",
+        45
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-manon-midi-dress-raspberry-stripe",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Manon Midi Dress",
+    "price": 118,
+    "url": "https://lisasaysgah.com/products/manon-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_manon_midi_dress_1.jpg?v=1779403468&width=600",
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-avery-skirt-sun",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Avery Skirt",
+    "price": 148,
+    "url": "https://lisasaysgah.com/products/avery-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_avery_skirt_sun_1.jpg?v=1776814833&width=600",
+    "category": "Skirts",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-quinn-dress-sun",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Quinn Dress",
+    "price": 148,
+    "url": "https://lisasaysgah.com/products/quinn-dress",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_film_sunlit_days156.jpg?v=1778685475&width=600",
+    "category": "Dresses",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-nia-top-black",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Nia Top",
+    "price": 85,
+    "url": "https://lisasaysgah.com/products/nia-top-2",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_nia_top_black.jpg?v=1761280922&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-nia-top-ballet-pink",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Nia Top",
+    "price": 85,
+    "url": "https://lisasaysgah.com/products/nia-top-3",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_nia_top_ballet_pink.jpg?v=1760976345&width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-maeve-midi-skirt-toast-twill",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Maeve Midi Skirt",
+    "price": 148,
+    "url": "https://lisasaysgah.com/products/maeve-midi-skirt-toast-twill",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_maeve_skirt_toast.jpg?v=1724281996&width=600",
+    "category": "Skirts",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-sam-top-white",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Sam Top",
+    "price": 128,
+    "url": "https://lisasaysgah.com/products/sam-top-5",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_sam_top_white.jpg?v=1774980883&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        55
+      ],
+      [
+        "Linen",
+        45
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-renee-pant-moss-plaid",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Renee Pant",
+    "price": 158,
+    "url": "https://lisasaysgah.com/products/renee-pant-2",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_renee_pant_moss_plaid_1.jpg?v=1770855441&width=600",
+    "category": "Pants",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-maeve-midi-skirt-mint-chip-dot",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Maeve Midi Skirt",
+    "price": 158,
+    "url": "https://lisasaysgah.com/products/maeve-midi-skirt-10",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_maeve_midi_skirt_mcd_1.jpg?v=1771948744&width=600",
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-leigh-dress-dove",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Leigh Dress",
+    "price": 168,
+    "url": "https://lisasaysgah.com/products/leigh-dress-1",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_leigh_dress_white_1.jpg?v=1770773056&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-tulip-appliqu-dress-black",
+    "retailer": "Lisa Says Gah",
+    "brand": "Tyler McGillivary x Lisa Says Gah",
+    "name": "Tulip Appliqu\u00e9 Dress",
+    "price": 154,
+    "url": "https://lisasaysgah.com/products/tulip-applique-dress",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_baggu_tmg_50.jpg?v=1778884869&width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-soho-dress-noir-garden",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Soho Dress",
+    "price": 108,
+    "url": "https://lisasaysgah.com/products/soho-dress",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_soho_dress_noir_garden_1.jpg?v=1771338209&width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-forager-jacket-licorice-black",
+    "retailer": "Lisa Says Gah",
+    "brand": "Meals",
+    "name": "Forager Jacket",
+    "price": 180,
+    "url": "https://lisasaysgah.com/products/forager-jacket-licorice-black",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/meals_forager_jacket_licorice_01.jpg?v=1764774556&width=600",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-chef-pant-chocolate",
+    "retailer": "Lisa Says Gah",
+    "brand": "Meals",
+    "name": "Chef Pant",
+    "price": 150,
+    "url": "https://lisasaysgah.com/products/meals-chef-pant-5",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/meals_chef_pants_chocolate.jpg?v=1757520652&width=600",
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-olson-trench-scarlett-dot",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Olson Trench",
+    "price": 250,
+    "url": "https://lisasaysgah.com/products/olson-trench",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/Screenshot_2026-04-17_at_9.54.32_AM.png?v=1776448973&width=600",
+    "category": "Outerwear",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-jenny-mini-dress-dove",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Jenny Mini Dress",
+    "price": 148,
+    "url": "https://lisasaysgah.com/products/jenny-mini-dress",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_jenny_dress_a248e537-7b7d-4078-a3ab-9bd81a811174.jpg?v=1770313070&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-jenny-mini-dress-black",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Jenny Mini Dress",
+    "price": 148,
+    "url": "https://lisasaysgah.com/products/jenny-mini-dress-2",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_jenny_dressblack.jpg?v=1771959501&width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-maeve-midi-skirt-black-linen",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Maeve Midi Skirt",
+    "price": 148,
+    "url": "https://lisasaysgah.com/products/maeve-midi-skirt-3",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_maeve_midi_skirt_black_linen_1.jpg?v=1773423466&width=600",
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        55
+      ],
+      [
+        "Linen",
+        45
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-sam-top-black",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Sam Top",
+    "price": 128,
+    "url": "https://lisasaysgah.com/products/sam-top-1",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_sam_top_black3_8dbf3cdd-145d-4c6d-9b2b-95d02b93bcf2.jpg?v=1761278990&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        55
+      ],
+      [
+        "Linen",
+        45
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-maeve-midi-skirt-caviar-twill",
+    "retailer": "Lisa Says Gah",
+    "brand": "Lisa Says Gah",
+    "name": "Maeve Midi Skirt",
+    "price": 148,
+    "url": "https://lisasaysgah.com/products/maeve-midi-skirt-caviar-twill",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_maeve_skirt_black.jpg?v=1765498640&width=600",
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-forager-jacket-kale-green",
+    "retailer": "Lisa Says Gah",
+    "brand": "Meals",
+    "name": "Forager Jacket",
+    "price": 180,
+    "url": "https://lisasaysgah.com/products/forager-jacket-kale-green",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/meals_forager_jacket_kale_01.jpg?v=1750781373&width=600",
+    "category": "Outerwear",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-chef-pant-kale-green",
+    "retailer": "Lisa Says Gah",
+    "brand": "Meals",
+    "name": "Chef Pant",
+    "price": 150,
+    "url": "https://lisasaysgah.com/products/chef-pant-kale-green",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_chef_pants_green_update.jpg?v=1791934834&width=600",
+    "category": "Pants",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lisa-says-gah-chef-pant-licorice-black",
+    "retailer": "Lisa Says Gah",
+    "brand": "Meals",
+    "name": "Chef Pant",
+    "price": 150,
+    "url": "https://lisasaysgah.com/products/chef-pant-licorice-black",
+    "image": "https://cdn.shopify.com/s/files/1/3044/4744/files/lisa_says_gah_chef_pants_black1.jpg?v=1720632697&width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  }
+]
