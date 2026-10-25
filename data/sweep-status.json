@@ -155,22 +155,22 @@
       "brand": "Olivia von Halle",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": "Added 2026-10-23 for Sleep and lounge. oliviavonhalle.com. Nearly all silk, some cashmere. UK brand: confirm the US price in USD on the product page (Shopify base currency may be GBP)."
+      "lastSweep": "2026-10-24",
+      "lastDelta": 65,
+      "note": "Added 2026-10-23 for Sleep and lounge. oliviavonhalle.com. Nearly all silk, some cashmere. UK brand: confirm the US price in USD on the product page (Shopify base currency may be GBP). Shopify products.json at oliviavonhalle.com/en-us/products.json gives USD prices (the root store is GBP). Composition is a 'Material:' line in body_html, trims on a 'Trims:' line. Each print is its own product; stage one card per style (first name plus garment plus fabric, e.g. Lila Pajamas in Silk Satin) and record other prints as duplicate. Mini and kids pieces, eye masks, scarves, socks, slippers and blankets are out-of-scope; Type:Mens tags are not-womens. Undisclosed colored piping gets a 'Piping, fiber not stated' trim note. Fringe can be rayon, so undisclosed fringe is no-composition. Gia Tracksuit is hooded, rejected under the hoodie rule. 2026-10-24: 272 in stock, 65 styles staged, 110 duplicate prints, 71 out-of-scope, 12 not-womens, 7 fiber, 5 rejected, 2 no-composition."
     },
     {
       "order": 13,
       "brand": "Pour Les Femmes",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": "Added 2026-10-23 for Sleep and lounge. pourlesfemmes.com. Cotton, linen and silk sleep and lounge. No modal or polyester seen in the first 200 products."
+      "lastSweep": "2026-10-24",
+      "lastDelta": 72,
+      "note": "Added 2026-10-23 for Sleep and lounge. pourlesfemmes.com. Cotton, linen and silk sleep and lounge. No modal or polyester seen in the first 200 products. Shopify products.json at pourlesfemmes.com, USD. The percentage is usually on the product page under 'Fabric', not in body_html, so read the page. Colourways are separate products titled 'Style - Colour'; one card per style, others recorded as duplicate. Men's sets are not-womens; mats, bags, socks, slippers, gift boxes and the washable cashmere wrap (a shawl) are out-of-scope. 2026-10-24: 152 in stock, 72 styles staged, 39 duplicate, 29 out-of-scope, 7 no-composition, 3 not-womens, 2 fiber."
     },
     {
       "order": 14,
@@ -922,7 +922,7 @@
     },
     {
       "order": 82,
-      "brand": "S\u00e9zane",
+      "brand": "Sézane",
       "method": "browse-listing",
       "cadence": "regular",
       "status": "todo",

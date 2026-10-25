@@ -1,0 +1,682 @@
+{
+ "pourlesfemmes.com/products/mens-classic-pajama-set-3": {
+  "outcome": "not-womens",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/mens-classic-pajama-set-4": {
+  "outcome": "not-womens",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/mens-classic-pajama-set-2": {
+  "outcome": "not-womens",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/linen-robe-piped-in-mistletoe": {
+  "outcome": "no-composition",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/tote-bag-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/travel-pouch-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/ruffle-cami-short-set-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/sleep-accessories-roses": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/organic-bamboo-pajama-set-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/gift-wrap": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/italian-bathmat-grey-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/copy-of-italian-bathmat-green-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/copy-of-italian-bathmat-blue-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/italian-bathmat-green-fish": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-terry-cover-up": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/linen-lace-slip-butter-yellow": {
+  "outcome": "no-composition",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/congo-bag-green-multi-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/organic-bamboo-pajama-set-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/copy-of-congo-bag-blue-multi-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/cashmere-socks-pink": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/cashmere-socks-pink-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/plf-branded-grey-polymailer": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-terry-cover-up-1": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/the-philanthropist-bundle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/the-classic-bundle": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/black-suede-slippers": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/cream-suede-slippers": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/gift-order-insert": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/give-work-ceci-nest-pas-un-sac-sky": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/give-work-ceci-nest-pas-un-sac-rust": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/give-work-ceci-nest-pas-un-sac-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/copy-of-give-work-ceci-nest-pas-un-sac-mustard": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/give-work-beaute-travel-bag": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-angel-robe": {
+  "outcome": "no-composition",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/pour-les-femmes-gift-card-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/italian-linen-robe": {
+  "outcome": "no-composition",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/give-work-maquillage-bag-p": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/maquillage-make-up-bag-l": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/washable-cashmere-wrap-grey-copy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/copy-of-cashmere-wrap-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/washable-cashmere-wrap-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-sleeve-pajama-set-velvet-floral-long-sleeve-set": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-sleeve-pajama-set-misty-morning": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/boyfriend-lounge-set-marseille-stripe": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-sleeve-pajama-set-blue-floral": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/silk-charmeuse-jumpsuit-s21-hb": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/vintage-silk-halter-top-portofino": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/silk-wrap-skirt-cream": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/vintage-silk-halter-top-ivory": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/vintage-silk-halter-top-pink-noir": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/vintage-silk-halter-top-pink": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/silk-halter-top-cream": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-sleeve-pajama-set-roma": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-sleeve-pajama-set-cerulean-stripe-piped-in-navy": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-sleeve-pajama-set-venice": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/ojc-pajama-set-pf21-p": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/oversize-short-set-bel-air-stripe": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/angel-boxing-short-set-natural": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/thilda-long-nightgown-peach-whip": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/handmade-in-congo-pajama-set-blue": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/coastal-floral-mona-button-front-dress": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/button-front-dress-chambray-stripe": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/cs-robe-piping-r22-bw": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/linen-sophia-sleeveless-dress-cream": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/linen-robe-piped-in-shell-coral": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/l70012-linen-shirt-dress-heather-grey": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/ojc-long-robe-pf21-c": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-linen-shirt-dress-m-r21": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/ojc-long-robe-s21-crm": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/rjc902-long-ojc-robe-navy": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/angel-long-robe-white": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/sleeveless-cotton-nightie-pink": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/ang-boxing-set-w-pf22": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/angel-pajama-set-white": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/angel-pj-set-p-pf22": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/angel-robe-p-pf22": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-cotton-nightgown-with-flower-trim": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-linen-shirt-dress-cream": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/cotton-nightgown-with-flower-trim-white": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/cotton-pajama-set-with-lace-details": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "pourlesfemmes.com/products/long-crown-trim-nightgown-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/long-sleeve-pajama-set-magnolia": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/short-sleeve-pajama-set-with-cropped-pants-cross-country-skiers": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/audrey-cotton-sateen-kaftan": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/long-sleeve-short-set-plum-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/short-sleeve-cropped-pant-pajama-set-misty-floral": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/ruffle-cami-short-set-velvet-floral": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/angel-boxing-shot-set-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/oversized-lounge-set-plum-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/ojc-long-robe-f21-l": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/cami-cropped-pant-pj-set-blue-floral": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/short-cotton-robe-blue-floral": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/oversize-short-set-marseille-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/short-boxing-pj-set-blue-gingham-piped-in-cream": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/cotton-sophia-sleeveless-dress-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/banana-leaves-romeo-sleep-shirt-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/romeo-sleepshirt-royalnavy": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/linen-sophia-sleeveless-dress-light-blue": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/collar-kaftan-navy": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/banana-leaves-high-low-dress-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/paris-dress-red": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/copy-of-silk-charmeuse-jumpsuit-sage": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/silk-chiffon-kaftan-tropical-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/cami-cropped-pant-pj-set-cactus-print": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/long-sleeve-pj-set-longhorn-print": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/silk-wrap-skirt-navy": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/vintage-silk-halter-top-peony": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/silk-halter-top-navy": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/organic-japanese-cotton-pajama-set-ltblue": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/kar419-long-cotton-nightgown-w-flower-trim-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/marnie-alton-pajama-set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/long-linen-shirt-dress-ltblue": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/roma-print-short-set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/low-back-ruffle-dress-bel-air-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/ojc-short-wrap-dress-s21-c": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/button-front-dress-with-belt-amore-multi-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/button-front-dress-leaves": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/mona-button-front-dress-wildflower": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/long-gauze-kaftan": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/los-angeles-print-short-set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/classic-pajama-set-with-flower-trim": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/silk-lounge-pant-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/sleeveless-cotton-nightie": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/cotton-slip-dress-roses": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/long-sleeve-pajama-set-blue-hummingbirds": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/angel-short-set-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/long-linen-robe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/la-pajama-set-r22-bm": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/thilda-long-nightgown-pf21-w": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/handmade-in-congo-pajama-set-2": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/paris-print-short-set-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/new-york-city-print-short-set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/london-print-short-set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/los-angeles-long-sleeve-pj-set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/cs-robe-piping-r22-wb": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/long-gauze-robe": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/c706-pintuck-top-white": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/linen-shirt-dress-lb-s22": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/classic-cotton-slip-dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/copy-of-linen-button-front-dress-light-blue": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/pre-sale-square-neck-lace-nightgown": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/new-paris-long-sleeve-pajama-set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/hummingbird-long-sleeve-pajama-set-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/italian-lace-embroidered-nightgown": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/new-york-city-long-sleeve-pj-set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/copy-of-cotton-short-sleeve-crop-pant-pj-set-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/angel-pajama-set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/angel-long-robe-natural": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/cotton-pajama-set-with-lace-details-3": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/cs-short-pj-set-piping-r22-wb": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/cotton-nightgown-with-flower-trim-pink": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ },
+ "pourlesfemmes.com/products/cotton-short-sleeve-crop-pant-pj-set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-ovh-plf.json"
+ }
+}
