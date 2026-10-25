@@ -117,11 +117,11 @@
       "brand": "Intimissimi",
       "method": "filtered-listing",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": "Added 2026-10-23. US site intimissimi.com/us, USD. Women only (IUMAN is men's). Shortlist from the fabric listings: women/pajamas/silk, women/fabrics/silk, women/fabrics/cotton, women/fabrics/ultralight_cotton, women/fabrics/linen, women/knitwear/silk, women/knitwear/100_cashmere, women/knitwear/wool_and_silk, women/knitwear/cotton, women/knitwear/linen. Skip modal, microfibre, bamboo and lame listings. The silk listings include viscose satin and silk with polyamide lace, so read every composition: it is in the product page HTML under 'Composition and care' and fetches fine. Listings load more as you scroll (71 silk sleepwear results, 25 in the first render)."
+      "lastSweep": "2026-10-24",
+      "lastDelta": 29,
+      "note": "Added 2026-10-23. US site intimissimi.com/us, USD. Women only (IUMAN is men's). Shortlist from the fabric listings: women/pajamas/silk, women/fabrics/silk, women/fabrics/cotton, women/fabrics/ultralight_cotton, women/fabrics/linen, women/knitwear/silk, women/knitwear/100_cashmere, women/knitwear/wool_and_silk, women/knitwear/cotton, women/knitwear/linen. Skip modal, microfibre, bamboo and lame listings. The silk listings include viscose satin and silk with polyamide lace, so read every composition: it is in the product page HTML under 'Composition and care' and fetches fine. Listings load more as you scroll (71 silk sleepwear results, 25 in the first render). 2026-10-24: read the ten fabric listings with ?sz=400 (scrolling and UpdateGrid load nothing more), 104 unique in-stock women's styles. Composition per part is in the page's .js-composition-info block (the Product-Variation partTypes come back null for about a third). Parts: Fabric is the shell, Crotch is a lining, Embroidery is a trim note, every other part (Lace, Secondary Fabric, Neck) must pass. 29 styles staged in round 2026-10-24-intimissimi, 74 fiber (mostly polyamide lace and elastane over 5%). The Pure Linen Shorts had no price and are not recorded. One card per style; colourways are URL params, not separate products. Images load only with the listing's own ?sw=600&sfrm=jpeg query."
     },
     {
       "order": 12,
