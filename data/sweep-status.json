@@ -199,22 +199,22 @@
       "brand": "Desmond & Dempsey",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": "Added 2026-10-23 for Sleep and lounge. desmondanddempsey.com. Cotton pajamas, a few Tencel pieces. UK brand: confirm the US price in USD."
+      "lastSweep": "2026-10-24",
+      "lastDelta": 36,
+      "note": "Added 2026-10-23 for Sleep and lounge. desmondanddempsey.com. Cotton pajamas, a few Tencel pieces. UK brand: confirm the US price in USD. Shopify products.json at desmondanddempsey.com returns USD prices for a US visitor (the store converts from GBP; the product page shows the same $ price). Composition is on the product page under 'Fabric & Care', not in body_html. '402' pieces are 'Cotton Stretch 97% 3% elastane'. Each print is its own product; one card per garment type and fabric (e.g. Long Pyjama Set in Organic Cotton), other prints recorded as duplicate. Lyocell jersey pieces fail; the quilted robe has polyester filling, so it fails as padding. Cotton pointelle gives no percentage, so no-composition. Men's and kids pieces, eye masks, scrunchies, socks, slippers, slides and gift items are out. 2026-10-24: 330 in stock, 36 styles staged, 118 duplicate prints, 66 not-womens, 48 out-of-scope, 46 no-composition, 16 fiber."
     },
     {
       "order": 17,
       "brand": "Lake Pajamas",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": "Added 2026-10-23 for Sleep and lounge. lakepajamas.com. Mostly pima cotton, some modal."
+      "lastSweep": "2026-10-24",
+      "lastDelta": 50,
+      "note": "Added 2026-10-23 for Sleep and lounge. lakepajamas.com. Mostly pima cotton, some modal. Shopify products.json at lakepajamas.com, USD; composition is a 'Made of/from ...' sentence in body_html. Titles are 'Style in Colour'; one card per style, other colours recorded as duplicate. Modal, bamboo and Tencel lines fail; sweaters with nylon and acrylic fail. Kids, baby, men's, bundles, blankets and gift tins are out. Piped pieces carry a 'Piping, fiber not stated' trim note. 2026-10-24: 386 in stock, 50 styles staged, 111 duplicate colours, 92 out-of-scope, 89 fiber, 37 not-womens, 7 no-composition."
     },
     {
       "order": 18,
