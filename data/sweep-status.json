@@ -177,22 +177,22 @@
       "brand": "Skin",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": "Added 2026-10-23 for Sleep and lounge. skinworldwide.com. Pima and organic cotton basics, small range."
+      "lastSweep": "2026-10-24",
+      "lastDelta": 23,
+      "note": "Added 2026-10-23 for Sleep and lounge. skinworldwide.com. Pima and organic cotton basics, small range. Shopify products.json at skinworldwide.com. No composition field; percentages only appear in the description prose, and most pieces say 'organic Pima cotton' with no percentage, so those are no-composition (64 of 87). Pieces described as stretch without a stated elastane share are no-composition too. Ramie PJ Set states only the tank. 2026-10-24: 87 in stock, 23 staged, 64 no-composition."
     },
     {
       "order": 15,
       "brand": "Araks",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": "Added 2026-10-23 for Sleep and lounge. araks.com. Organic cotton and silk sleep and underwear. Skip gift cards (price 0)."
+      "lastSweep": "2026-10-24",
+      "lastDelta": 45,
+      "note": "Added 2026-10-23 for Sleep and lounge. araks.com. Organic cotton and silk sleep and underwear. Skip gift cards (price 0). Shopify products.json at araks.com. Composition is on a 'Content:' line in body_html. Each colour is its own product: one card per style, other colours recorded as duplicate. Product types Collection, Lingerie on Film, Third Party Product and blank are photos, mugs, soaps and donations, out-of-scope. Most silk lingerie is 92% silk 8% elastane and fails; trims of 92/8 silk fail the piece. Refibra and Seacell are lyocell. The Silver Lurex Stripe pieces say 100% cotton but name a lurex stripe, so no-composition. Undisclosed lace, crochet and picot trims are staged with a 'fiber not stated' trim note. 2026-10-24: 506 in stock, 45 styles staged, 206 fiber, 168 duplicate colours, 82 out-of-scope, 5 no-composition."
     },
     {
       "order": 16,
@@ -922,7 +922,7 @@
     },
     {
       "order": 82,
-      "brand": "Sézane",
+      "brand": "S\u00e9zane",
       "method": "browse-listing",
       "cadence": "regular",
       "status": "todo",

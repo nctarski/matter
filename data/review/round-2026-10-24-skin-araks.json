@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "araks-willow-bralette",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Willow Bralette",
+    "price": 90,
+    "url": "https://www.araks.com/products/willow-bralette-calla",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/willow_bralette_calla_SHOPIFY_263d7d17-caa0-4b75-a18b-b28104633e0f.png?width=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Insert 100% silk"
+  },
+  {
+    "id": "araks-vero-sweatpant",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Vero Sweatpant",
+    "price": 250,
+    "url": "https://www.araks.com/products/vero-sweatpant-violette",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_VERO_SWEAT_PANT_VIOLETTE_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-vivienne-zip-up",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Vivienne Zip Up",
+    "price": 320,
+    "url": "https://www.araks.com/products/vivienne-zip-up-moss",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_VIVIENNE_HALF_ZIP_MOSS_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-valerie-pullover",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Valerie Pullover",
+    "price": 270,
+    "url": "https://www.araks.com/products/valerie-pullover-mill",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_VALERIE_CREW_NECK_MILL_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-viktoria-pajama-pant",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Viktoria Pajama Pant",
+    "price": 425,
+    "url": "https://www.araks.com/products/viktoria-pajama-pant-bare",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/Araks_Silk_Viktoria_Pant_Bare.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-shelby-pajama-top",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Shelby Pajama Top",
+    "price": 475,
+    "url": "https://www.araks.com/products/shelby-pajama-top-garnet",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_SILK_SHELBY_PAJAMA_TOP_GARNET_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-tia-boxer",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Tia Boxer",
+    "price": 275,
+    "url": "https://www.araks.com/products/tia-boxer-garnet",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_SILK_TIABOXER_GARNET_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-suki-pajama-top",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Suki Pajama Top",
+    "price": 440,
+    "url": "https://www.araks.com/products/suki-pajama-top-terra",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_SUKI-PAJAMA-TOP_TART-STRIPE_SHOPIFY_RT.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-sonja-panty",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Sonja Panty",
+    "price": 100,
+    "url": "https://www.araks.com/products/sonja-panty-shadow",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_SONJA_PANTY__SHADOW_SHOPIFY2.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Lace trim, fiber not stated"
+  },
+  {
+    "id": "araks-chloe-underwire-bra",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Chloe Underwire Bra",
+    "price": 175,
+    "url": "https://www.araks.com/products/chloe-underwire-bra-shadow",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_CHLOE_UNDERWIRE_SHADOW_SHOPIFY.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Lace trim, fiber not stated"
+  },
+  {
+    "id": "araks-ingrid-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Ingrid Slip",
+    "price": 565,
+    "url": "https://www.araks.com/products/ingrid-slip-garnet",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_SILK_INGRID-SLIP_GARNET_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-vika-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Vika Slip",
+    "price": 495,
+    "url": "https://www.araks.com/products/vika-slip-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_SILK_VIKA-SLIP_BLACK_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-cadel-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Cadel Slip",
+    "price": 295,
+    "url": "https://www.araks.com/products/cadel-slip-rouge",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/CADEL_SLIP_ROUGE_SHOPIFY_GREY_fceda313-486f-4fc0-92e6-77134aa7182b.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Red",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-uma-bralette",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Uma Bralette",
+    "price": 145,
+    "url": "https://www.araks.com/products/uma-bralette-shadow",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_UMA_BRALETTE__SHADOW_78c4084b-66f7-488f-9421-49e640c6dab8.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Insert 100% silk"
+  },
+  {
+    "id": "araks-james-tank",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "James Tank",
+    "price": 140,
+    "url": "https://www.araks.com/products/james-tank-terra",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_JAMES-TANK_TERRA_SHOPIFY.jpg?width=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-presley-short",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Presley Short",
+    "price": 110,
+    "url": "https://www.araks.com/products/presley-short-violette",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_PRESLEY-SHORT_VIOLETTE_SHOPIFY-g.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-sabine-long-sleeve",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Sabine Long Sleeve",
+    "price": 185,
+    "url": "https://www.araks.com/products/sabine-long-sleeve-violette",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_SABINE_LONG_SLEEVE_VIOLETTE_SHOPIFY.jpg?width=600",
+    "category": "Tops",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-stella-thong",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Stella Thong",
+    "price": 70,
+    "url": "https://www.araks.com/products/stella-thong-moss",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_STELLA_THONG_MOSS_SHOPIFY.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-mabel-hipster",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Mabel Hipster",
+    "price": 80,
+    "url": "https://www.araks.com/products/mabel-hipster-violette",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_MABEL_PANTY_VIOLETTE_SHOPIFY.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Crochet trim, fiber not stated"
+  },
+  {
+    "id": "araks-isabella-panty",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Isabella Panty",
+    "price": 70,
+    "url": "https://www.araks.com/products/isabella-panty-violette",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_ISABELLA_PANTY_VIOLETTE_SHOPIFY.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Crochet trim, fiber not stated"
+  },
+  {
+    "id": "araks-antonia-bralette",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Antonia Bralette",
+    "price": 110,
+    "url": "https://www.araks.com/products/antonia-bralette-violette",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_ANTONIA-BRALETTE_VIOLETTE_RT_SHOPIFY.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Crochet trim, fiber not stated"
+  },
+  {
+    "id": "araks-josie-panty",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Josie Panty",
+    "price": 65,
+    "url": "https://www.araks.com/products/josie-panty-scarlet",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_RECYCLED_COTTON_JOSIE-PANTY_SCARLET_SHOPIFY_g.png?width=600",
+    "category": "Undergarments",
+    "colour": "Red",
+    "shell": [
+      [
+        "Organic cotton",
+        70
+      ],
+      [
+        "Cotton",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-toulouse-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Toulouse Slip",
+    "price": 350,
+    "url": "https://www.araks.com/products/toulouse-slip-scarlet",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_SILK_TOLOUSSE-SLIP_SCARLET_SHOPIFY-g_1.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Red",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-holly-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Holly Slip",
+    "price": 475,
+    "url": "https://www.araks.com/products/holly-slip-pomelo",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_SILK_HOLLY-SLIP_FRESCO_SHOPIFY-g.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-tavi-tee",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Tavi Tee",
+    "price": 165,
+    "url": "https://www.araks.com/products/tavi-short-sleeve-rococo",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_TAVI-SHORT-SLEEVE__ROCOCO_SHOPIFY-g.png?width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-josephine-hipster",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Josephine Hipster",
+    "price": 75,
+    "url": "https://www.araks.com/products/josephine-hipster-rococo",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_JOSEPHINE-HIPSTER__ROCOCO_SHOPIFY-g.png?width=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Crochet trim, fiber not stated"
+  },
+  {
+    "id": "araks-uki-tank",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Uki Tank",
+    "price": 140,
+    "url": "https://www.araks.com/products/uki-tank-rococo",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_UKI-TANK__ROCOCO_SHOPIFY-g.png?width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-raffaella-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Raffaella Slip",
+    "price": 310,
+    "url": "https://www.araks.com/products/raffaella-slip-fondant",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_RAFFAELLA-SLIP_FONDANT_SHOPIFY_G.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-flavia-body-suit",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Flavia Body Suit",
+    "price": 60,
+    "url": "https://www.araks.com/products/flavia-body-suit-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/LES9005O_Flavia_Bodysuit_BLACK.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-sofia-underwire-bra",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Sofia Underwire Bra",
+    "price": 70,
+    "url": "https://www.araks.com/products/sofia-underwire-bra-parrot",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_SOFIA_UNDERWIRE__PARROT_SHOPIFY_ea1db0fa-2b9a-4786-a00a-4febebc2f5ba.png?width=600",
+    "category": "Undergarments",
+    "colour": "Green",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Picot trim, fiber not stated"
+  },
+  {
+    "id": "araks-sarra-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Sarra Slip",
+    "price": 160,
+    "url": "https://www.araks.com/products/sarra-slip-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/SARRA_SLIP_BLACK_SHOPIFY-GREY.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-yanelis-bralette",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Yanelis Bralette",
+    "price": 60,
+    "url": "https://www.araks.com/products/yanelis-bralette-hibiscus",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/YANELIS_BRALETTE_PERSIMMON.png?width=600",
+    "category": "Undergarments",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-paz-thong",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Paz Thong",
+    "price": 30,
+    "url": "https://www.araks.com/products/paz-thong-hibiscus",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/PAZ_THONG__PERSIMMON_SHOPIFY_GREY.png?width=600",
+    "category": "Undergarments",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Insert 100% silk"
+  },
+  {
+    "id": "araks-rose-boxer",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Rose Boxer",
+    "price": 140,
+    "url": "https://www.araks.com/products/rose-boxer-jacquard-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ROSE_SHORT__STRIPE_SHOPIFY_GREY_55b47fd0-6f2f-408f-bfbc-219ffcaa670b.png?width=600",
+    "category": "Undergarments",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-cambra-tank",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Cambra Tank",
+    "price": 70,
+    "url": "https://www.araks.com/products/cambra-tank-undyed",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/CAMBRA_TANK__UNDYED_GREY_SHOPIFY.png?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-kat-shorts",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Kat Shorts",
+    "price": 125,
+    "url": "https://www.araks.com/products/kat-shorts-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/KAT_SHORT__BLACK_SHOPIFY.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-kinee-tank",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Kinee Tank",
+    "price": 165,
+    "url": "https://www.araks.com/products/kinee-tank-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/KINEE_TANK__BLACK_SHOPIFY.png?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-quies-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Quies Slip",
+    "price": 275,
+    "url": "https://www.araks.com/products/quies-slip-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/Quies-Slip-Black-SHOPIFY_REVISED.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-aaron-panty",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Aaron Panty",
+    "price": 110,
+    "url": "https://www.araks.com/products/aaron-panty-walnut",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/LCH2003_AARON_PANTY_WALNUT_SHOPIFY_1.png?width=600",
+    "category": "Undergarments",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-isabella-panty-set-of-3",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Isabella Panty (Set of 3)",
+    "price": 195,
+    "url": "https://www.araks.com/products/isabella-panty-set-of-3-in-black-white-sand",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/Isabella_Panty_WhiteNudeBlack_Set.png?width=600",
+    "category": "Undergarments",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Crochet trim, fiber not stated"
+  },
+  {
+    "id": "araks-estel-y-thong-set-of-3",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Estel Y Thong (Set of 3)",
+    "price": 112,
+    "url": "https://www.araks.com/products/estel-y-thong-white-set-of-3-in-black-white-and-sand",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/Estel_BlackSandWhite_3pack.png?width=600",
+    "category": "Undergarments",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-bettina-thong",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Bettina Thong",
+    "price": 25,
+    "url": "https://www.araks.com/products/bettina-thong-white",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/LOR2034_BETTINA_THONG_WHITE_SHOPIFY_GREY_865ae47c-c82b-4249-8c4c-454b9b9b22b1.png?width=600",
+    "category": "Undergarments",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        70
+      ],
+      [
+        "Cotton",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-estel-y-thong",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Estel Y Thong",
+    "price": 40,
+    "url": "https://www.araks.com/products/estel-y-thong-white",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/OLIVA_THONG_BARE__Classic_grande_grande_f61c1620-6a80-457b-bec0-2d2f7f6ef971-FIX.png?width=600",
+    "category": "Undergarments",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-ally-pajama-pant",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Ally Pajama Pant",
+    "price": 425,
+    "url": "https://www.araks.com/products/ally-pajama-bottom-bare-silk",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/pink_GREY.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-kate-pajama-top",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Kate Pajama Top",
+    "price": 595,
+    "url": "https://www.araks.com/products/kate-pajama-top-sea-silk",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/KATE_PJ_TOP_SEA_SHOPIFY.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-native-cotton-jogger",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Native Cotton Jogger",
+    "price": 111,
+    "url": "https://skinworldwide.com/products/native-cotton-jogger-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/ONCFL100_NATIVECOTTONCREWNECK_NATIVEHONEY_ONCFL400_NATIVECOTTONJOGGER_NATIVEHONEY_FRONT1_1r.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-native-cotton-crewneck-sweatshirt",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Native Cotton Crewneck Sweatshirt",
+    "price": 99,
+    "url": "https://skinworldwide.com/products/native-cotton-crewneck-sweatshirt-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/ONCFL100_NATIVE_COTTON_CREWNECK_NATIVE_HONEY_ONCFL400_NATIVE_COTTON_JOGGER_NATIVE_HONEY_FRONT_1r.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-carlotta-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Carlotta Robe",
+    "price": 99,
+    "url": "https://skinworldwide.com/products/carlotta-robe-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/OJ802_Black_Skin_Spring_2501589_1.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-elle-tank-top",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Elle Tank Top",
+    "price": 59,
+    "url": "https://skinworldwide.com/products/elle-tank-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/OSPJ103-ELLE-EMO1R-TANK-OSPJ400-ESSIE2107.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-kayla-dress",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Kayla Dress",
+    "price": 81,
+    "url": "https://skinworldwide.com/products/kayla-dress-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/KAYLADRESSBLACK_1932.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-cathie-tank-top",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Cathie Tank Top",
+    "price": 39,
+    "url": "https://skinworldwide.com/products/cathie-tank-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/OJ137_CATHIE_TANK_BLACK_OJ409_CADENCE_PANT_BLACK_FRONT.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-casey-short",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Casey Short",
+    "price": 48,
+    "url": "https://skinworldwide.com/products/casey-short-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/carinewhite_a940a991-737c-4680-b585-a6d3b0c898a1.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-margot-shorts",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Margot Shorts",
+    "price": 68,
+    "url": "https://skinworldwide.com/products/margot-short",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/Margot_PearlPink_QuarterSleeveTop_Shorts_Full_Front.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-ivy-sleeveless-top",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Ivy Sleeveless Top",
+    "price": 85,
+    "url": "https://skinworldwide.com/products/ivy-sleeveless-top",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/SKIN_BLACKWHITE_Fullbody_jpg_2.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-skinny-pant",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Skinny Pant",
+    "price": 125,
+    "url": "https://skinworldwide.com/products/skinny-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/long_sleeve_tee_heather_grey_web2_51ee2212-9c1c-4de1-a721-c069bf29f0cc.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-cayla-short-pj-set",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Cayla Short PJ Set",
+    "price": 165,
+    "url": "https://skinworldwide.com/products/cayla-short-pj-set",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/Cayla-Short-set-black.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-long-sleeve-tee",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Long Sleeve Tee",
+    "price": 80,
+    "url": "https://skinworldwide.com/products/long-sleeve-crew",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/long_sleeve_tee_white_web.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-ivy-crop-pant",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Ivy Crop Pant",
+    "price": 115,
+    "url": "https://skinworldwide.com/products/ivy-crop-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/LOOK_48_0010-pdp.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-basic-organic-bikini",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Basic Organic Bikini",
+    "price": 29,
+    "url": "https://skinworldwide.com/products/bikini",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/basic_organic_bikini_black.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-oasis-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Oasis Robe",
+    "price": 225,
+    "url": "https://skinworldwide.com/products/oasis-organic-cotton-robe",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/LOOK10_0075.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-wellness-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Wellness Robe",
+    "price": 225,
+    "url": "https://skinworldwide.com/products/wellness-robe",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/OCD800_WELLNESS_ROBE_WHITE_MMS701_DREAMYBRALETTE_FOG_OWCC401_SERENE_STRIPESHORTIE_FRONT3.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-coleen-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Coleen Robe",
+    "price": 148,
+    "url": "https://skinworldwide.com/products/coleen-robe",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/colb1.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-sierra-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Sierra Robe",
+    "price": 225,
+    "url": "https://skinworldwide.com/products/sierra-robe-1",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/new.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-carissa-sleep-shirt",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Carissa Sleep Shirt",
+    "price": 115,
+    "url": "https://skinworldwide.com/products/carissa-sleepshirt",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/LOOK14_0023.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-sexy-cami",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Sexy Cami",
+    "price": 60,
+    "url": "https://skinworldwide.com/products/sexy-cami",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/sexycami_black.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-double-layer-pant",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Double Layer Pant",
+    "price": 138,
+    "url": "https://skinworldwide.com/products/double-layer-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/LOOK6_0037.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-sexy-slip",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Sexy Slip",
+    "price": 88,
+    "url": "https://skinworldwide.com/products/sexy-slip-1",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/sexy_slip_heather_grey_web.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-double-layer-wrap-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Double Layer Wrap Robe",
+    "price": 175,
+    "url": "https://skinworldwide.com/products/wrap-robe-2",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/double_layer_wrap_robe_white_web2.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  }
+]
