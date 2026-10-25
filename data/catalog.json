@@ -72835,5 +72835,531 @@
     "isNew": false,
     "tags": [],
     "trim": "Lace, fiber not stated"
+  },
+  {
+    "id": "dd-402-long-pyjama-set-in-flannel",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "402 Long Pyjama Set in Flannel",
+    "price": 148,
+    "url": "https://desmondanddempsey.com/products/402-long-set-woven-check-cream-multi",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/260819_D_D_SHOT_29_1449_cdacb4c2-5e31-4fc8-a6c0-8d4d307c3bc8.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-402-long-pyjama-set-in-stretch-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "402 Long Pyjama Set in Stretch Cotton",
+    "price": 180,
+    "url": "https://desmondanddempsey.com/products/402-long-pyjama-set-pinstripe-rose-navy-1",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/SHOT_29_006.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-402-shirt-in-flannel",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "402 Shirt in Flannel",
+    "price": 80,
+    "url": "https://desmondanddempsey.com/products/402-shirt-woven-check-cream-multi",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/260819_D_D_SHOT_29_1468.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-402-shirt-in-stretch-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "402 Shirt in Stretch Cotton",
+    "price": 96,
+    "url": "https://desmondanddempsey.com/products/402-shirt-yellow",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/260819_D_D_SHOT_74_3827.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-402-short-pyjama-set-in-stretch-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "402 Short Pyjama Set in Stretch Cotton",
+    "price": 144,
+    "url": "https://desmondanddempsey.com/products/402-short-pyjama-set-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/SHOT_39_4211.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-402-trousers-in-stretch-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "402 Trousers in Stretch Cotton",
+    "price": 96,
+    "url": "https://desmondanddempsey.com/products/402-trousers-pinstripe-rose-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/Closeup-402pinstriperoseTfront.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-bralette-in-organic-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "Bralette in Organic Cotton",
+    "price": 66,
+    "url": "https://desmondanddempsey.com/products/bralette-jag-45gsm-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/260511_D_D_SHOT_43_080.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-bralette-knicker-set-in-organic-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "Bralette & Knicker Set in Organic Cotton",
+    "price": 96,
+    "url": "https://desmondanddempsey.com/products/bralette-knicker-set-picante-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/SHOT_12_1675.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-cami-top-and-shorts-set-in-organic-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "Cami Top and Shorts Set in Organic Cotton",
+    "price": 210,
+    "url": "https://desmondanddempsey.com/products/cami-top-and-shorts-set-soleia-print-multi",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/260819_D_D_SHOT_112_6537.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-cami-top-in-organic-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "Cami Top in Organic Cotton",
+    "price": 96,
+    "url": "https://desmondanddempsey.com/products/cami-top-loxodonta-print-blue-reverse",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/260819_D_D_SHOT_53_2658.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-knickers-in-organic-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "Knickers in Organic Cotton",
+    "price": 48,
+    "url": "https://desmondanddempsey.com/products/knickers-jag-print-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/231107_D_D_SS24_SHOT_45_031.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-light-easy-nightie-in-cotton-voile",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "Light & Easy Nightie in Cotton Voile",
+    "price": 258,
+    "url": "https://desmondanddempsey.com/products/light-easy-long-sleeve-nightie-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/260819_D_D_SHOT_07_0482.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-oversized-long-set-in-brushed-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "Oversized Long Set in Brushed Cotton",
+    "price": 342,
+    "url": "https://desmondanddempsey.com/products/oversized-long-set-brushed-cotton-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/260511_D_D_SHOT_23_005.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "dd-slip-nightie-in-organic-cotton",
+    "retailer": "Desmond & Dempsey",
+    "brand": "Desmond & Dempsey",
+    "name": "Slip Nightie in Organic Cotton",
+    "price": 134,
+    "url": "https://desmondanddempsey.com/products/slip-nightie-the-jag-print-navy-women",
+    "image": "https://cdn.shopify.com/s/files/1/0996/8878/files/260819_D_D_SHOT_75_3844.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lake-alice-shorts-set",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Alice Shorts Set",
+    "price": 108,
+    "url": "https://lakepajamas.com/products/salt-spray-seersucker-alice-shorts-set",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/LAKE_Summer1_2026_AliceTS_SaltSpraySeersucker_1200x1800_cec794ea-4c23-4977-a91f-23de9d827ef6.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lake-boxy-tee",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Boxy Tee",
+    "price": 68,
+    "url": "https://lakepajamas.com/products/white-boxy-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/LAKE_Q3_Fall4_2026_Studio_BoxyTee_White_ALT_V2_128.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lake-celeste-shorts-set",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Celeste Shorts Set",
+    "price": 118,
+    "url": "https://lakepajamas.com/products/dusty-blue-celeste-shorts-set",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/LAKE_Fall1_2026_CelesteSS_DustyBlue_1200x1800_3d83230c-db61-4ebe-a6d7-8bb8780bf8b8.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lake-duo-skirt-set",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Duo Skirt Set",
+    "price": 288,
+    "url": "https://lakepajamas.com/products/maritime-sylvan-stripe-duo-skirt-set",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/Webcrop_LAKE_Q3_Nantucket_DW_DuoSkirtSet_MaritimeSylvanStripe_080.jpg?width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        96
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lake-long-sleeve-tee",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Long Sleeve Tee",
+    "price": 78,
+    "url": "https://lakepajamas.com/products/fawn-heather-long-sleeve-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/LAKE_Q3_Fall4_2026_Studio_LongSleeveTee_FawnHeather_Front_018.jpg?width=600",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lake-midday-pants-set",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Midday Pants Set",
+    "price": 238,
+    "url": "https://lakepajamas.com/products/syrah-midday-pants-set",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/Webcrop_LAKE_Q3_Nantucket_DW_MiddayPantSet_Syrah_249.jpg?width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lake-pima-rib-tank-short-set",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Pima Rib Tank-Short Set",
+    "price": 98,
+    "url": "https://lakepajamas.com/products/navy-heather-pima-rib-tank-short-set",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/LAKE_Fall3_2026_PimaRibTS_NavyHeather1200x1800.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lake-pima-rib-wrap-three-piece-pants-set",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Pima Rib Wrap Three-Piece Pants Set",
+    "price": 168,
+    "url": "https://lakepajamas.com/products/navy-heather-pima-rib-long-sleeve-wrap-three-piece-pants-set",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/LAKE_Fall3_2026_PimaRibWrapSet_NavyHeather1200x1800.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "lake-poplin-piped-long-short-set",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Poplin Piped Long-Short Set",
+    "price": 138,
+    "url": "https://lakepajamas.com/products/english-navy-riviera-stripe-piped-long-short-set",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/LAKE_Webcrop_Holiday1_2026_PoplinLS_EnglishNavyRivieraStripe_1200x1800_f02492f0-e650-46f0-8c41-fe49acc11c5a.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Piping, fiber not stated"
+  },
+  {
+    "id": "lake-poplin-piped-short-long-set",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Poplin Piped Short-Long Set",
+    "price": 144,
+    "url": "https://lakepajamas.com/products/baltic-blue-beam-stripe-piped-short-long-set",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/LAKE_Summer2_PoplinPipedSL_BalticBlueBeamStripe_1200x1800_0fdb4677-867f-4e2e-a56f-311ed58591da.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Piping, fiber not stated"
+  },
+  {
+    "id": "lake-switch-skirt-set",
+    "retailer": "Lake Pajamas",
+    "brand": "Lake",
+    "name": "Switch Skirt Set",
+    "price": 248,
+    "url": "https://lakepajamas.com/products/hunter-green-bengal-stripe-switch-skirt-set",
+    "image": "https://cdn.shopify.com/s/files/1/0505/6125/files/Webcrop_LAKE_Q3_Nantucket_DW_SwitchSkirtSet_HunterGreenInverseBengalStripe_206.jpg?width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        96
+      ],
+      [
+        "Elastane",
+        4
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
   }
 ]
