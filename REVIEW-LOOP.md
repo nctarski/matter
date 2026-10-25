@@ -57,11 +57,14 @@ Natalie has approved pieces like White + Warren's lobster and horse crewnecks.
 
 ## The brand rule: no peasant tops, argyle or hoodies
 
-Natalie's call on 2026-10-25: MATTER does not carry peasant tops, anything
+Natalie's call on 2026-10-25: MATTER does not carry peasant tops (sleepwear
+excepted), anything
 argyle, or hoodies. Record them in the ledger as `rejected` instead of staging
 them.
 - Peasant tops: the name says peasant, or the photo shows the peasant shape
   (loose gathered or smocked neckline, usually with blouson or puff sleeves).
+  The one exception is sleepwear: peasant-style pajamas, nightgowns and other
+  Sleep & lounge pieces are fine.
 - Argyle: the name says argyle, or the photo shows an argyle diamond pattern,
   in any category.
 - Hoodies: anything with a hood that is a hoodie or hooded sweatshirt,
