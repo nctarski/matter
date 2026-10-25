@@ -353,11 +353,11 @@
       "brand": "Few Moda",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": ""
+      "lastSweep": "2026-10-24",
+      "lastDelta": 381,
+      "note": "Shopify products.json at www.fewmoda.com; composition on a 'Content:' line in body_html, often 'Fabric: ..., Lining: ...' or 'Fabric1/Fabric2/Base/EMB'. Read only the Content line (the prose repeats fibers). Each colour is its own product: stage one card per style name, record the other colours as duplicate. Vendor (Kourt, CAARA, o.p.t, Sorella, Few Moda) is the brand. 2026-10-24: 1,518 in stock, 381 styles staged, 859 failed the fiber rule, 50 no composition, 221 other colours, 7 rejected by the brand rules (3 argyle, 1 hooded sweater, 3 peasant tops)."
     },
     {
       "order": 31,
