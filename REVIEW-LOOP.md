@@ -206,6 +206,24 @@ Mytheresa (Material), Falconeri (shop by yarn), Banana Republic (sweater
 fabric), COS, & Other Stories, H&M, J.Crew, Anthropologie, Aritzia, Ganni. Add
 these one at a time after the Nordstrom pull proves stable.
 
+**Pact. Not Shopify, reads its own product API.** Added 2026-10-24. From a
+wearpact.com tab: `/product-sitemap.xml` lists women's product pages
+(`/women/apparel/<category>/<style>`); each page's ld+json `mpn` gives the base
+SKU (`WA1-FBZ` from `WA1-FBZ-BLK-XS`). `/women/apparel`, `/women/clearance` and
+`/women/underwear` also have grids at
+`https://api2.wearpact.io/product/page?path=<path>&isClearance=<bool>&country=US`
+whose product-grid `records` are keyed by base SKU. Then
+`https://api2.wearpact.io/product/search?sku=<sku>,<sku>&country=US` (6 per
+call) returns one record per colour and size with `fabricContent` ("98% Organic
+Cotton/2% Elastane"), `descriptionList`, `priceList["WEB PRICE"]` in USD,
+`inventoryList[*].quantityAvailable`, `url` and `imageList`. Images are
+`https://static.wearpact.com/img/product/women/<name>`; use the `_thumb.jpg`
+version (660 wide) for the catalog. Skip socks, multipacks (packSize over 1,
+except sleep sets) and bundle "set" pages, and keep one card per style name.
+Pact lists lace on its lace underwear without a fiber; stage those with the
+trim note "Lace, fiber not stated". Downloads from wearpact.com are blocked
+after the first, so relay files through an example.com tab.
+
 **Quince. Not Shopify, works from the product pages.** List product URLs from
 `/sitemap_pdps.xml` and keep `/women/` and `/unisex/` paths. Each product page
 carries everything in its HTML. Composition, lining and trim notes sit in

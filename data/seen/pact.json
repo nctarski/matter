@@ -6,5 +6,642 @@
  "wearpact.com/women/apparel/all%20tops/on%20the%20go-to%20shelf%20bra%20tank/wa1-w18-seb": {
   "outcome": "catalog",
   "date": "2026-10-22"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20v-neck%20twist%20dress": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20ballet%20neck%20dress": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20tops/on%20the%20go-to%20shelf%20bra%20tank": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20cotton%20jersey%20relaxed%20tank%20dress": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20on%20the%20go-to%20crop%20tank": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/on%20the%20go-to%20cropped%20legging": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20tops/perfect%20rib%20scoop%20neck%20tank": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20classic%20fit%20thong%205-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/on%20the%20go-to%20pocket%20legging": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20cowl%20neck%20dress": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20tops/perfect%20rib%20crewneck%20long%20sleeve%20tee": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/clearance%20lace%20cheeky%20hipster%203-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/clearance%20lace%20waist%20thong%203-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/clearance%20everyday%20classic%20fit%20bikini%205-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/lace%20waist%20thong%203-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20classic%20fit%20bikini%205-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/on%20the%20go-to%20contour%20bootcut%20legging": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/on%20the%20go-to%20rib%20legging": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/on%20the%20go-to%20rib%20bootcut%20slit%20hem%20legging": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/on%20the%20go-to%20legging": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20three%20quarter%20sleeve%20ballet%20dress": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20tops/cloudknit%20hoodie": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20tops/on%20the%20go-to%20rib%20high-neck%20shelf%20bra%20tank": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20tops/on%20the%20go-to%20rib%20v-neck%20shelf%20bra%20tank": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20tops/pure%20velour%20modern%20zip%20hoodie": {
+  "outcome": "rejected",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20tops/on%20the%20go-to%20square%20neck%20tank": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/sleep%20sets/dream%20rib%20sleep%20set": {
+  "outcome": "fiber",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/accessories/no-show%20socks%202-pack": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/socks/cable%20knee%20high%20socks%202-pack": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/socks/premium%20crew%20socks%203-pack": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20best%20sellers%203-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20high%20rise%20brief%205-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20mid%20rise%20hipster%205-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/clearance%20lace%20waist%20brief%203-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/underwear/undies/lace%20waist%20brief%203-pack": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20midi%20dress": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/pure%20velour%20wide%20leg%20pant": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20stretch%20twill%20wide%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/underwear/undies/lace%20waist%20thong": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/underwear/undies/lace%20waist%20brief": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20classic%20fit%20bikini": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/underwear/undies/clearance%20everyday%20high%20rise%20brief": {
+  "outcome": "duplicate",
+  "date": "2026-10-24"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/cloudknit%20jogger": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20airplane%20long%20sleeve%20tunic": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/soft-slub%20essential%20muscle%20tee%20maxi%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20square%20neck%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20coastal%20double%20gauze%20tiered%20midi%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/cloudknit%20wide%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20airplane%20pintuck%20wide%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20all%20day%20poplin%20easy%20shirt": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20fit%20&%20flare%20midi%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20coastal%20double%20gauze%20tapered%20pull-on%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20weekends%20tank%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/soft-slub%20essential%20muscle%20tee%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20weekends%20raglan%20muscle%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20weekends%20relaxed%20sweatpant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20coastal%20double%20gauze%20boho%20midi%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/cloudknit%20raglan%20crew": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20coastal%20double%20gauze%20strappy%20tiered%20maxi%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20airplane%20tapered%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/luxe%20essential%20scoop%20neck%20tank": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20fit%20&%20flare%20open%20back%20maxi%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20coastal%20double%20gauze%20curved%20hem%20short": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20coastal%20double%20gauze%20split%20hem%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20pure%20velour%20mock%20tunic": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20pure%20velour%20wide%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20pure%20velour%20crew%20sweatshirt": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20coastal%20double%20gauze%20beach%20to%20brunch%20maxi%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/cloudknit%20jacket": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20shoreline%20relaxed%20shell": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20coastal%20double%20gauze%20smocked%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20fit%20&%20flare%20crossover%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20airplane%20wrap%20cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20staycation%20sleep%20tank": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20classic%20fit%20thong": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20stretch%20poplin%20jogger": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/sleep%20bottoms/clearance%20pointelle%20wide%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/sleep%20tops/clearance%20breezy%20cotton%20sleep%20cami": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/underwear/undies/clearance%20lace%20cheeky%20hipster": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20cloudknit%20quarter%20zip": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20softspun%20scoop%20neck%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20pure%20velour%20relaxed%20sweatpant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20daily%20twill%20ultra-high%20rise%20tapered%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20airplane%20mock%20neck%20shell": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20softspun%20v-neck%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/airplane%20wide%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/all-day%20twill%20barrel%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/luxe%20waffle%20wide%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/all-day%20twill%20straight%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/all-day%20twill%20wide%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/cool%20stretch%20lounge%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/easy%20drape%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/pure%20velour%20rib%20tuxedo%20stripe%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/peached%20twill%20pull-on%20barrel%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/peached%20twill%20pull-on%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/roam%20midi%20skirt": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/textured%20corduroy%20barrel%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/textured%20corduroy%20midi%20skirt": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/textured%20corduroy%20wide%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/roam%20pintuck%20wide%20leg%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/roam%20go%20anywhere%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20a-line%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/cool%20stretch%20cropped%20jumpsuit": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20wrap%20dress": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/essential%20v-neck%20sweater": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/airplane%20easy%20knit%20top": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/essential%20crew%20neck%20sweater": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/cool%20stretch%20swing%20cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20coastal%20double%20gauze%20oversized%20shirt": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/luxe%20waffle%20v-neck%20top": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/luxe%20waffle%20henley": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/luxe%20essential%20crewneck%20long%20sleeve%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/luxe%20essential%20crewneck%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/roam%20capelet%20top": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/pure%20velour%20oversized%20sweatshirt": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/pure%20velour%20rib%20bomber%20jacket": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/poplin%20perfect%20shirt": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/roam%20soft%20jacket": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/roam%20funnel%20neck%20top": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/roam%20wrap%20cardigan": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/softspun%20essential%20crewneck%20long%20sleeve%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/soft-slub%20essential%20crewneck%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/soft-slub%20essential%20crewneck%20long%20sleeve%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/sleep%20bottoms/fireside%20flannel%20sleep%20pant": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/softspun%20essential%20crewneck%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20tops/softspun%20essential%20v-neck%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/sleep%20sets/cool%20stretch%20sleep%20set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/sleep%20sets/pointelle%20short%20sleeve%20sleep%20set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/sleep%20tops/pointelle%20long%20sleeve%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/sleep%20tops/pointelle%20scoop%20neck%20tee": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/underwear/bras/everyday%20classic%20t-shirt%20bra": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/underwear/bras/everyday%20modern%20scoop%20bralette": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/sleep%20sets/pointelle%20long%20sleeve%20sleep%20set": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20high%20rise%20brief": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20mid%20rise%20hipster": {
+  "outcome": "staged",
+  "date": "2026-10-24",
+  "round": "round-2026-10-24-pact.json"
  }
 }

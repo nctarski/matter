@@ -637,13 +637,13 @@
     {
       "order": 56,
       "brand": "Pact",
-      "method": "shopify-page",
+      "method": "api",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
-      "lastDelta": null,
-      "note": ""
+      "lastSweep": "2026-10-24",
+      "lastDelta": 97,
+      "note": "Not Shopify; see REVIEW-LOOP.md. 2026-10-24: 140 women's styles from product-sitemap.xml and the /product/page grids, read through api2.wearpact.io. 97 staged (one card per style), 19 failed on elastane over 5% (leggings, shelf bra tanks, Fit & Flare dresses at 94/6), 19 multipacks and duplicate listings, 3 socks, 2 hoodies rejected by the brand rule. Lace on the lace underwear has no stated fiber; the trim note says so."
     },
     {
       "order": 57,
