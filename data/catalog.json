@@ -65306,5 +65306,5930 @@
     "lining": null,
     "isNew": false,
     "tags": []
+  },
+  {
+    "id": "araks-aaron-panty",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Aaron Panty",
+    "price": 110,
+    "url": "https://www.araks.com/products/aaron-panty-walnut",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/LCH2003_AARON_PANTY_WALNUT_SHOPIFY_1.png?width=600",
+    "category": "Undergarments",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-ally-pajama-pant",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Ally Pajama Pant",
+    "price": 425,
+    "url": "https://www.araks.com/products/ally-pajama-bottom-bare-silk",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/pink_GREY.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-antonia-bralette",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Antonia Bralette",
+    "price": 110,
+    "url": "https://www.araks.com/products/antonia-bralette-violette",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_ANTONIA-BRALETTE_VIOLETTE_RT_SHOPIFY.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Crochet trim, fiber not stated"
+  },
+  {
+    "id": "araks-bettina-thong",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Bettina Thong",
+    "price": 25,
+    "url": "https://www.araks.com/products/bettina-thong-white",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/LOR2034_BETTINA_THONG_WHITE_SHOPIFY_GREY_865ae47c-c82b-4249-8c4c-454b9b9b22b1.png?width=600",
+    "category": "Undergarments",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        70
+      ],
+      [
+        "Cotton",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-cadel-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Cadel Slip",
+    "price": 295,
+    "url": "https://www.araks.com/products/cadel-slip-rouge",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/CADEL_SLIP_ROUGE_SHOPIFY_GREY_fceda313-486f-4fc0-92e6-77134aa7182b.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Red",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-cambra-tank",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Cambra Tank",
+    "price": 70,
+    "url": "https://www.araks.com/products/cambra-tank-undyed",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/CAMBRA_TANK__UNDYED_GREY_SHOPIFY.png?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-chloe-underwire-bra",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Chloe Underwire Bra",
+    "price": 175,
+    "url": "https://www.araks.com/products/chloe-underwire-bra-shadow",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_CHLOE_UNDERWIRE_SHADOW_SHOPIFY.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Lace trim, fiber not stated"
+  },
+  {
+    "id": "araks-estel-y-thong",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Estel Y Thong",
+    "price": 40,
+    "url": "https://www.araks.com/products/estel-y-thong-white",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/OLIVA_THONG_BARE__Classic_grande_grande_f61c1620-6a80-457b-bec0-2d2f7f6ef971-FIX.png?width=600",
+    "category": "Undergarments",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-estel-y-thong-set-of-3",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Estel Y Thong (Set of 3)",
+    "price": 112,
+    "url": "https://www.araks.com/products/estel-y-thong-white-set-of-3-in-black-white-and-sand",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/Estel_BlackSandWhite_3pack.png?width=600",
+    "category": "Undergarments",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-flavia-body-suit",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Flavia Body Suit",
+    "price": 60,
+    "url": "https://www.araks.com/products/flavia-body-suit-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/LES9005O_Flavia_Bodysuit_BLACK.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-isabella-panty",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Isabella Panty",
+    "price": 70,
+    "url": "https://www.araks.com/products/isabella-panty-violette",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_ISABELLA_PANTY_VIOLETTE_SHOPIFY.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Crochet trim, fiber not stated"
+  },
+  {
+    "id": "araks-isabella-panty-set-of-3",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Isabella Panty (Set of 3)",
+    "price": 195,
+    "url": "https://www.araks.com/products/isabella-panty-set-of-3-in-black-white-sand",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/Isabella_Panty_WhiteNudeBlack_Set.png?width=600",
+    "category": "Undergarments",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Crochet trim, fiber not stated"
+  },
+  {
+    "id": "araks-josephine-hipster",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Josephine Hipster",
+    "price": 75,
+    "url": "https://www.araks.com/products/josephine-hipster-rococo",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_JOSEPHINE-HIPSTER__ROCOCO_SHOPIFY-g.png?width=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Crochet trim, fiber not stated"
+  },
+  {
+    "id": "araks-josie-panty",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Josie Panty",
+    "price": 65,
+    "url": "https://www.araks.com/products/josie-panty-scarlet",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_RECYCLED_COTTON_JOSIE-PANTY_SCARLET_SHOPIFY_g.png?width=600",
+    "category": "Undergarments",
+    "colour": "Red",
+    "shell": [
+      [
+        "Organic cotton",
+        70
+      ],
+      [
+        "Cotton",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-kat-shorts",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Kat Shorts",
+    "price": 125,
+    "url": "https://www.araks.com/products/kat-shorts-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/KAT_SHORT__BLACK_SHOPIFY.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-kate-pajama-top",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Kate Pajama Top",
+    "price": 595,
+    "url": "https://www.araks.com/products/kate-pajama-top-sea-silk",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/KATE_PJ_TOP_SEA_SHOPIFY.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-paz-thong",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Paz Thong",
+    "price": 30,
+    "url": "https://www.araks.com/products/paz-thong-hibiscus",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/PAZ_THONG__PERSIMMON_SHOPIFY_GREY.png?width=600",
+    "category": "Undergarments",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Insert 100% silk"
+  },
+  {
+    "id": "araks-presley-short",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Presley Short",
+    "price": 110,
+    "url": "https://www.araks.com/products/presley-short-violette",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_PRESLEY-SHORT_VIOLETTE_SHOPIFY-g.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-quies-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Quies Slip",
+    "price": 275,
+    "url": "https://www.araks.com/products/quies-slip-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/Quies-Slip-Black-SHOPIFY_REVISED.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-raffaella-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Raffaella Slip",
+    "price": 310,
+    "url": "https://www.araks.com/products/raffaella-slip-fondant",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_RAFFAELLA-SLIP_FONDANT_SHOPIFY_G.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-sarra-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Sarra Slip",
+    "price": 160,
+    "url": "https://www.araks.com/products/sarra-slip-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/SARRA_SLIP_BLACK_SHOPIFY-GREY.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-shelby-pajama-top",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Shelby Pajama Top",
+    "price": 475,
+    "url": "https://www.araks.com/products/shelby-pajama-top-garnet",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_SILK_SHELBY_PAJAMA_TOP_GARNET_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-sofia-underwire-bra",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Sofia Underwire Bra",
+    "price": 70,
+    "url": "https://www.araks.com/products/sofia-underwire-bra-parrot",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_SOFIA_UNDERWIRE__PARROT_SHOPIFY_ea1db0fa-2b9a-4786-a00a-4febebc2f5ba.png?width=600",
+    "category": "Undergarments",
+    "colour": "Green",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Picot trim, fiber not stated"
+  },
+  {
+    "id": "araks-sonja-panty",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Sonja Panty",
+    "price": 100,
+    "url": "https://www.araks.com/products/sonja-panty-shadow",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_SONJA_PANTY__SHADOW_SHOPIFY2.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Lace trim, fiber not stated"
+  },
+  {
+    "id": "araks-stella-thong",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Stella Thong",
+    "price": 70,
+    "url": "https://www.araks.com/products/stella-thong-moss",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_STELLA_THONG_MOSS_SHOPIFY.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-suki-pajama-top",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Suki Pajama Top",
+    "price": 440,
+    "url": "https://www.araks.com/products/suki-pajama-top-terra",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_SUKI-PAJAMA-TOP_TART-STRIPE_SHOPIFY_RT.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-tia-boxer",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Tia Boxer",
+    "price": 275,
+    "url": "https://www.araks.com/products/tia-boxer-garnet",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_SILK_TIABOXER_GARNET_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-toulouse-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Toulouse Slip",
+    "price": 350,
+    "url": "https://www.araks.com/products/toulouse-slip-scarlet",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_SILK_TOLOUSSE-SLIP_SCARLET_SHOPIFY-g_1.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Red",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-uki-tank",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Uki Tank",
+    "price": 140,
+    "url": "https://www.araks.com/products/uki-tank-rococo",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_UKI-TANK__ROCOCO_SHOPIFY-g.png?width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-uma-bralette",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Uma Bralette",
+    "price": 145,
+    "url": "https://www.araks.com/products/uma-bralette-shadow",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_COTTON_UMA_BRALETTE__SHADOW_78c4084b-66f7-488f-9421-49e640c6dab8.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Insert 100% silk"
+  },
+  {
+    "id": "araks-valerie-pullover",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Valerie Pullover",
+    "price": 270,
+    "url": "https://www.araks.com/products/valerie-pullover-mill",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_VALERIE_CREW_NECK_MILL_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-vero-sweatpant",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Vero Sweatpant",
+    "price": 250,
+    "url": "https://www.araks.com/products/vero-sweatpant-violette",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_VERO_SWEAT_PANT_VIOLETTE_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-vika-slip",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Vika Slip",
+    "price": 495,
+    "url": "https://www.araks.com/products/vika-slip-black",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_SILK_VIKA-SLIP_BLACK_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-viktoria-pajama-pant",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Viktoria Pajama Pant",
+    "price": 425,
+    "url": "https://www.araks.com/products/viktoria-pajama-pant-bare",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/Araks_Silk_Viktoria_Pant_Bare.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-vivienne-zip-up",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Vivienne Zip Up",
+    "price": 320,
+    "url": "https://www.araks.com/products/vivienne-zip-up-moss",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/ARAKS_ORGANIC_COTTON_VIVIENNE_HALF_ZIP_MOSS_SHOPIFY.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "araks-willow-bralette",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Willow Bralette",
+    "price": 90,
+    "url": "https://www.araks.com/products/willow-bralette-calla",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/willow_bralette_calla_SHOPIFY_263d7d17-caa0-4b75-a18b-b28104633e0f.png?width=600",
+    "category": "Undergarments",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Insert 100% silk"
+  },
+  {
+    "id": "araks-yanelis-bralette",
+    "retailer": "Araks",
+    "brand": "Araks",
+    "name": "Yanelis Bralette",
+    "price": 60,
+    "url": "https://www.araks.com/products/yanelis-bralette-hibiscus",
+    "image": "https://cdn.shopify.com/s/files/1/0036/4682/files/YANELIS_BRALETTE_PERSIMMON.png?width=600",
+    "category": "Undergarments",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-adeline-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Adeline Linen Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/aviva-dress_t24wdrc0661g_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WDRC0661G_BLK_DEFAULT_1_js_44d91fd5-e336-4efe-9269-6a897ec82d42.png?v=1718208223&width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-alaia-silk-midi-skirt",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Alaia Silk Midi Skirt",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/alaia-skirt_k24wskc0770g-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WSKC0770G_IVR_DEFAULT_1_js.png?v=1758033963&width=600",
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-alana-cotton-coat",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Alana Cotton Coat",
+    "price": 298,
+    "url": "https://www.fewmoda.com/products/alana-coat_t25woua1515fs_dune",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WOUA1515FS_DNE__DEFAULT_1_js.png?v=1758013059&width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-almut-cashmere-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Almut Cashmere Sweater",
+    "price": 322,
+    "url": "https://www.fewmoda.com/products/almut-sweater_soft-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA06950_SFOTM_2_js.png?v=1788540383&width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-ambrose-linen-top",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Ambrose Linen Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/ambrose-top_blue-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WTPS0666G_BLUPD_DEFAULT_1_js.png?v=1763372449&width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-aminta-silk-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Aminta Silk Top",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/aminta-top_moss",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WTPW1666G_MOS_DEFAULT_1_js.png?v=1762416773&width=600",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-anastasia-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Anastasia Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/anastasia-top_k21wtp00134x",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/products/K21WTP00134_BLK_DEFAULT_1_js_74f88c32-f6c8-42e9-8702-5688550988d6.png?v=1647448618&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-aneta-cotton-pant",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Aneta Cotton Pant",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/aneta-pant_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WPAS09160_WHI_DEFAULT_1_js.png?v=1770914299&width=600",
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-annabel-linen-vest",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Annabel Linen Vest",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/annabel-top_k24wtpf1242g_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPF1242G_WHI_DEFAULT_1_js_57753634-a5de-4121-9196-969e30904433.png?v=1740426268&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-arabella-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Arabella Silk Dress",
+    "price": 248,
+    "url": "https://www.fewmoda.com/products/arabella-dress_t25wdrw1655g_bronze",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WDRW1655G_BNZ_3_js_a43b7fcf-edc9-4116-836a-dece1fd75e2d.png?v=1761251256&width=600",
+    "category": "Dresses",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-ari-cashmere-cardigan",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Ari Cashmere Cardigan",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/ari-cashmere-cardigan_c24kswh53200_ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24KSWH53200_WHI_DEFAULT_1_js.png?v=1752148277&width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-arida-silk-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Arida Silk Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/arida-top_k24wtpf1245g-1",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPF1245G_WHI_DEFAULT_1_js.png?v=1743099506&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-arielle-merino-wool-set",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Arielle Merino Wool Set",
+    "price": 322,
+    "url": "https://www.fewmoda.com/products/arielle-set_t25ksta06010_cream",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25KSTA06010_CRM_DEFAULT_1_js.png?v=1756113531&width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-aspen-linen-mini-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Aspen Linen Mini Dress",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/aspen-mini-dress_t24wdrd0970g-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WDRD0970G_BLK_DEFAULT_1_js_68297882-d159-444c-a219-6e3f32fef263.png?v=1718294122&width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-auli-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Auli Silk Dress",
+    "price": 422,
+    "url": "https://www.fewmoda.com/products/auli-dress_dusk-rose",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WDRS0932SC_DSKRS_DEFAULT_1_js.png?v=1763104431&width=600",
+    "category": "Dresses",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-ava-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Ava Cotton Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/ava-dress_cream-brown-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRP0073SC_CRBRS_DEFAULT_1_js.png?v=1765360821&width=600",
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-aveline-linen-set",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Aveline Linen Set",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/aveline-set_blue-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WSTD1020G_BLUPD_DEFAULT_1_js.png?v=1769185516&width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-averie-wool-cashmere-cardigan",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Averie Wool-Cashmere Cardigan",
+    "price": 298,
+    "url": "https://www.fewmoda.com/products/averie-cardigan_k24kswi89400_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/averieblack1edited.png?v=1728317432&width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        65
+      ],
+      [
+        "Cashmere",
+        35
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-ayden-linen-pant",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Ayden Linen Pant",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/ayden-pant_c24wpac0940g-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24WPAC0940G_BLK_DEFAULT_1_js.png?v=1716553923&width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-babette-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Babette Dress",
+    "price": 160,
+    "url": "https://www.fewmoda.com/products/babette-dress_t24wdrf50800-black-gingham",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WDRF50800_BLKGN_1_js.png?v=1769444326&width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-bambie-cashmere-cardigan",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Bambie Cashmere Cardigan",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/bambie-cardigan_cream",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26KSWT01300_CRM_DEFAULT_1_js.png?v=1769195582&width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-beverly-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Beverly Cotton Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/beverly-dress_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WDRS0339FS_WHI_DEFAULT_1_js.png?v=1776884991&width=600",
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-beyonca-capri",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Beyonca Capri",
+    "price": 160,
+    "url": "https://www.fewmoda.com/products/beyonca-capri_k25wpas0575g_black-gingham",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WPAS0575G_BLKGN_DEFAULT_1_js.png?v=1746695548&width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Cotton",
+        45
+      ]
+    ],
+    "lining": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Cotton",
+        45
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-blyss-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Blyss Cotton Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/blyss-dress_navy",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRS0240SC_NAV_DEFAULT_1_js.png?v=1780341165&width=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-brenna-merino-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Brenna Merino Wool Sweater",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/brenna-sweater_c24kswi53800_varsity-white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24KSWI53800_VRWHI_DEFAULT_1_js.png?v=1756178731&width=600",
+    "category": "Sweaters",
+    "colour": "White",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-brigit-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Brigit Wool Sweater",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/brigit-sweater_yellow",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25KSWP18680_YEL_DEFAULT_1_js_33efacad-ec58-4675-aff2-5ca36d021ee7.png?v=1770737604&width=600",
+    "category": "Sweaters",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-britt-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Britt Linen Dress",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/britt-dress_k25wdrc0038g_olive",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/britt_pdp_1_9ca43227-6293-44e1-b5a0-ffe86ee02316.png?v=1743523678&width=600",
+    "category": "Dresses",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-cait-cashmere-cardigan",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Cait Cashmere Cardigan",
+    "price": 245,
+    "url": "https://www.fewmoda.com/products/cait-cashmere-cardigan_mocha-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25KSWA14720_MOCST_DEFAULT_1_js.png?v=1790011582&width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-camilla-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Camilla Wool Sweater",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/camilla-sweater_c25ksww05880_olive",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25KSWW05880_OLV_DEFAULT_1_js_6a4182e9-e2ef-4363-8550-53db41239e05.png?v=1758267325&width=600",
+    "category": "Sweaters",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-carol-wool-sweater-set",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Carol Wool Sweater Set",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/carol-sweater_grey-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26KSWA05200_GRYST_DEFAULT_1_js.png?v=1788194403&width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-caroline-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Caroline Cotton Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/caroline-dress_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WDRP01630_BLK_DEFAULT_1_js.png?v=1779496173&width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-carson-merino-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Carson Merino Wool Sweater",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/carson-sweater_c24kswi89900_oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24KSWI89900_OTM_DEFAULT_1_js.png?v=1755856316&width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-casey-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Casey Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/casey-dress_t24wdrc0110g-white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WDRC0110G_WHI_DEFAULT_1_js.png?v=1713212618&width=600",
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-cassandra-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Cassandra Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/cassandra-top_k25wtpc0010g_navy-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WTPC0010G_NAVPD_DEFAULT_1_js.png?v=1740635488&width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-cassia-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Cassia Linen Dress",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/cassia-linen-dress_t24wdr06111g-red",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WDR06111G_RED_1_js.png?v=1769701489&width=600",
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-cecille-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Cecille Linen Top",
+    "price": 135,
+    "url": "https://www.fewmoda.com/products/cecille-top_k24wtpd1780g-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPD1780G__BLK_DEFAULT_1_js.png?v=1778175445&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-chantilly-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Chantilly Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/chantilly-top_k25wtpc0009g_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/chantilly_pdp.png?v=1744124956&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-charlene-silk-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Charlene Silk Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/charlene-silk-top_vermilion",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WTPA05970_VERML_DEFAULT_1_js.png?v=1790193546&width=600",
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-circe-linen-pant",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Circe Linen Pant",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/circe-linen-pant_beige",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WPAT03680_BGE_DEFAULT_1_js.png?v=1773901945&width=600",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-claudette-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Claudette Linen Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/claudette-dress_oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRP0070G_OTM_DEFAULT_1_js.png?v=1765360740&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-clem-cotton-pant",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Clem Cotton Pant",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/clem-pant_c24wpah02820_coffee",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24WPAH02820_CFE_DEFAULT_1_js.png?v=1752560925&width=600",
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        90
+      ],
+      [
+        "Cotton",
+        10
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-clover-linen-short",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Clover Linen Short",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/clover-short_oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25WSHP1706G_OTM_DEFAULT_1_js.png?v=1770849927&width=600",
+    "category": "Shorts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-coast-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Coast Linen Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/coast-dress_burnt-orange",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRS0280SC_BTORG_DEFAULT_1_js.png?v=1773265808&width=600",
+    "category": "Dresses",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-coral-wool-cashmere-cardigan",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Coral Wool Cashmere Cardigan",
+    "price": 245,
+    "url": "https://www.fewmoda.com/products/coral-cardigan_grey",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA06960_GRY_DEFAULT_1_js.png?v=1788540488&width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-cove-pant",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Cove Pant",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/serenette-pant_c23wpa00217-mocha",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C23WPA00217_MOC_DEFAULT_1_JS.png?v=1694191969&width=600",
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-cressida-merino-wool-lounge-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Cressida Merino Wool Lounge Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/cressida-top_k25ktpw09520_dark-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25KTPW09520_DKGRY_4_js_8a29c5b9-235e-4510-ba17-13edba248638.png?v=1760741298&width=600",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-dahlia-cashmere-sweater",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Dahlia Cashmere Sweater",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/dahlia-sweater_k25kswa08000_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25KSWA08000_DEFAULT_1_js.png?v=1756113688&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-dale-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Dale Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/dale-top_k25wtps01280_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WTPS01280-BLK1.png?v=1744299825&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-daniela-linen-set-skirt",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Daniela Linen Set - Skirt",
+    "price": 110,
+    "url": "https://www.fewmoda.com/products/daniela-skirt_k24wsk05026-white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WSK05026_WHI_DEFAULT_1_js.png?v=1711617482&width=600",
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-daniela-linen-set-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Daniela Linen Set - Top",
+    "price": 112,
+    "url": "https://www.fewmoda.com/products/daniela-top_k24wtp04042",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/settop.png?v=1714151911&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-delphina-linen-skirt",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Delphina Linen Skirt",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/delphina-skirt_dune",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WSKP01230_DNE_DEFAULT_1_js.png?v=1770847788&width=600",
+    "category": "Skirts",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-destiny-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Destiny Cotton Top",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/destiny-top_pink",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/destiny2.png?v=1782941063&width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-devika-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Devika Silk Dress",
+    "price": 298,
+    "url": "https://www.fewmoda.com/products/devika-dress_cream",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WDRP0085G_CRM_DEFAULT_1_js.png?v=1765360326&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-diana-barn-jacket",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Diana Barn Jacket",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/diana-barn-jacket_c24woui00300_midnight-moss",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24WOUI00300_MDMOS_1.png?v=1756832622&width=600",
+    "category": "Outerwear",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-dixie-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Dixie Linen Top",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/dixie-top_k24wtpd1770g_butter",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPD1770G_BUT_DEFAULT_1_js.png?v=1745336008&width=600",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-dora-linen-pant",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Dora Linen Pant",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/dora-pant_dark-blue-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26WPAS03060_DBLST_2_js.png?v=1774368502&width=600",
+    "category": "Pants",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-dorothy-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Dorothy Cotton Top",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/dorothy-top_sky-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WTPP00630_SKY_DEFAULT_1_js.png?v=1772431289&width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-edie-cashmere-cardigan",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Edie Cashmere Cardigan",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/edie-cashmere-cardigan_frost",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25KSWA05970_FRST_DEFAULT_1_js.png?v=1766482880&width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-eliana-silk-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Eliana Silk Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/eliana-top_k24wtpc0750g-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPC0750G_IVR__DEFAULT_1_js.png?v=1722961003&width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-eliza-sweater",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Eliza Sweater",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/eliza-sweater_navy",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26KSWA04870_NAV_DEFAULT_1_js.png?v=1785439643&width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        93.6
+      ],
+      [
+        "Wool",
+        6.4
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-emelie-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Emelie Linen Top",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/emelie-linen-top_k24wtpc0740g-white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPC0740G_WHI_DEFAULT_1_js_e0a619cc-b40a-4078-950f-d0dde5cba5f4.png?v=1719823851&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-emelie-silk-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Emelie Silk Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/emelie-top_k24wtpc0740g-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPC0740G_BLK_1_js.png?v=1769634352&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-erica-wool-cashmere-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Erica Wool Cashmere Sweater",
+    "price": 272,
+    "url": "https://www.fewmoda.com/products/erica-sweater_tan",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA06230_TAN_2_js.png?v=1788540272&width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-esme-dress",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Esme Dress",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/esme-dress_c25kdrs06820_standstone",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25KDRS06820_SDSTN_DEFAULT_1_js.png?v=1750761639&width=600",
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-etienne-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Etienne Cotton Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/etienne-top_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WTPP01250_WHI_DEFAULT_1_js.png?v=1769028624&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-everyday-linen-short",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Everyday Linen Short",
+    "price": 72,
+    "url": "https://www.fewmoda.com/products/everyday-linen-short_c22wsh72107-coffee",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C22WSH72107_CFE__DEFAULT_1_js.png?v=1686738127&width=600",
+    "category": "Shorts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-everyday-longsleeve-linen-shirt",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Everyday Longsleeve Linen Shirt",
+    "price": 98,
+    "url": "https://www.fewmoda.com/products/everyday-longsleeve-linen-shirt_c22wtp20307-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C22WTP20307-BLK_editorial1.png?v=1718309158&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-evren-silk-skirt",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Evren Silk Skirt",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/evren-skirt_butter",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WSKW17180_BUT_DEFAULT_1_js.png?v=1770820541&width=600",
+    "category": "Skirts",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-federica-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Federica Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/federica-top_k24wtpl0389g_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPL0389G_BLK_DEFAULT_1_js.png?v=1740130095&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-federica-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Federica Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/federica-top_k24wtpl0389g_pink-plaid",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPL0389G_PNKPL_1_js.png?v=1769634688&width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Cotton",
+        45
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-finley-cashmere-cardigan",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Finley Cashmere Cardigan",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/finley-cashmere-cardigan_c23ktp01755_light-pink",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C23KTP01755_LPNK_DEFAULT_1_js.png?v=1752588609&width=600",
+    "category": "Sweaters",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-florence-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Florence Cotton Dress",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/florence-dress_k25wdrs09150_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WDRS09150_WHI_DEFAULT_1_js.png?v=1751538247&width=600",
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-francesca-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Francesca Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/franchesca-top_k21wtp00126",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/products/K21WTP00126_BLK_DEFAULT_1_js.png?v=1743078036&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Cotton",
+        45
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-giogia-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Giogia Linen Top",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/giogia-linen-top_k24wtp04039g-white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTP04039G_WHI_1_js.png?v=1769444238&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-gracie-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Gracie Cotton Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/gracie-cotton-top_wispy-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WTPS0951SC_WSPBL_DEFAULT_1_js.png?v=1770845863&width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-hadley-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Hadley Linen Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/hadley-dress_cloud",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRS04500_CLOUD_DEFAULT_1_js.png?v=1781127213&width=600",
+    "category": "Dresses",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-halley-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Halley Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/halley-top_k24wtpc0880g-white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPC0880G_WHI_DEFAULT_1_js_8cda50d3-226d-4f30-9a12-36d4cc0c13dd.png?v=1716300497&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Cotton",
+        45
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-hetty-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Hetty Linen Top",
+    "price": 170,
+    "url": "https://www.fewmoda.com/products/hetty-top_k24wtpi0616g_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPI0616G_BLK_DEFAULT_1_js.png?v=1729707110&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-hilda-linen-skirt",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Hilda Linen Skirt",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/hilda-skirt_k24wskl0412g_oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WSKL0412G_OTM_DEFAULT_1_js.png?v=1735119631&width=600",
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-inaya-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Inaya Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/inaya-top_k24wtpl0536g_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPL0536G_WHI_DEFAULT_1_js_962d8e67-ee07-4cc2-b591-e47b2e67b7a8.png?v=1741253524&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-indy-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Indy Linen Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/indy-linen-dress_cornflower",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRP0096G_CORFL_DEFAULT_1_js.png?v=1770917824&width=600",
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-irene-linen-mini-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Irene Linen Mini Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/irene-mini-dress_t24wdrf1036g-red1",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WDRF1036G_RED_1_js.png?v=1769633691&width=600",
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-irina-linen-set",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Irina Linen Set",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/irina-set_k24wstd1810g-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WSTD1810G_BLK_DEFAULT_1_js_ad3effef-51bf-4639-abb2-7742678288e2.png?v=1718291270&width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-isa-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Isa Silk Dress",
+    "price": 248,
+    "url": "https://www.fewmoda.com/products/isa-dress_t24wdrc0660g-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WDRC0660G_IVR_DEFAULT_1_js.png?v=1714161090&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-isley-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Isley Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/isley-top_k25wtps1193g_beige",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WTPS1193G_DEFAULT_1_js.png?v=1752571473&width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-ivanka-wool-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Ivanka Wool Dress",
+    "price": 248,
+    "url": "https://www.fewmoda.com/products/ivanka-dress_dark-graphite",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26KDRA07170_DGRPT_DEFAULT_1_js.png?v=1792425986&width=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-iyla-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Iyla Cotton Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/iyla-dress_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WDRP00620_WHI_DEFAULT_1_js.png?v=1770846745&width=600",
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-iza-cotton-skirt",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Iza Cotton Skirt",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/iza-skirt_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WSKP01910_WHI_DEFAULT_1_js.png?v=1776893784&width=600",
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-jacey-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Jacey Cotton Dress",
+    "price": 248,
+    "url": "https://www.fewmoda.com/products/jacey-dress_heirloom-bloom",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WDRP01890_WSPPK_DEFAULT_1_js.png?v=1776893857&width=600",
+    "category": "Dresses",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-jaiden-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Jaiden Sweater",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/jaiden-sweater_grey",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA05130_GRY_DEFAULT_1_js.png?v=1788198222&width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-jaye-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Jaye Silk Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/jaye-dress_mustard",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26KDRA06340_MUS_DEFAULT_1_js.png?v=1792427192&width=600",
+    "category": "Dresses",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-jennie-wool-cashmere-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Jennie Wool Cashmere Sweater",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/jennie-sweater_tan",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA06330_TAN_DEFAULT_1_js.png?v=1790281637&width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-jessa-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Jessa Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/jessa-top_k24wtpd1790g-white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPD1790G_WHI_1_js.png?v=1769808722&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-jewel-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Jewel Cotton Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/jewel-dress_t25wdrc00540_cream-eyelet",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WDRC00540_CRMEL_DEFAULT_1_js.png?v=1741585299&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-jordyn-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Jordyn Cotton Dress",
+    "price": 298,
+    "url": "https://www.fewmoda.com/products/jordyn-dress_cream",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRS04620_CRM_DEFAULT_1_js.png?v=1781127272&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-josie-silk-pant",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Josie Silk Pant",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/josie-pant_c24wpac0790g-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24WPAC0790G_BLK__DEFAULT_1_js.png?v=1712675302&width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-judith-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Judith Wool Sweater",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/judith-sweater_grey",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26KSWA05140_GRY_DEFAULT_1_js.png?v=1788197668&width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-junie-short",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Junie Short",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/junie-short_black-gingham",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WSHC0130G_BLKGN_DEFAULT_1_js.png?v=1769184440&width=600",
+    "category": "Shorts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Cotton",
+        45
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-kasey-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Kasey Silk Dress",
+    "price": 348,
+    "url": "https://www.fewmoda.com/products/lisa-dress_midnight-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRP02020_MDPD_DEFAULT_1_js.png?v=1776893602&width=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-kathrin-linen-short",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Kathrin Linen Short",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/kathrin-short_c24wshk0392g_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24WSHK0392G_WHI_DEFAULT_1_js.png?v=1730171837&width=600",
+    "category": "Shorts",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-kaylor-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Kaylor Cotton Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/kaylor-top_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WTPS04310_WHI_DEFAULT_1_js.png?v=1781634659&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-khalani-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Khalani Linen Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/khalani-dress_oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WDRE2030G_OTM_DEFAULT_1_js.png?v=1765360491&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-kirsten-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Kirsten Sweater",
+    "price": 348,
+    "url": "https://www.fewmoda.com/products/kirsten-sweater_grey",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA04910_GRY_DEFAULT_1_js.png?v=1789421912&width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-kiva-silk-top",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Kiva Silk Top",
+    "price": 248,
+    "url": "https://www.fewmoda.com/products/kiva-top_t25wtpw1552hd_brown",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WTPW1552HD_CFE_DEFAULT_1_js.png?v=1760520312&width=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-la-ronde-cotton-skirt",
+    "retailer": "Few Moda",
+    "brand": "Few Moda",
+    "name": "La Ronde Cotton Skirt",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/la-ronde-skirt_coffee",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/F26WSKP01290_CFE_DEFAULT_1_js_818afd19-ea81-4b81-be56-f9d15f40d4e4.png?v=1774278679&width=600",
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lauren-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Lauren Linen Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/lauren-dress_light-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WDRS1415FS_LBLU_DEFAULT_1_js.png?v=1777050998&width=600",
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lee-cotton-pant",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Lee Cotton Pant",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/lee-pant_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26WPAA03820_WHI_DEFAULT_1_js.png?v=1778243090&width=600",
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-leia-merino-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Leia Merino Wool Sweater",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/leia-sweater_c24kswi89500_coffee",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24KSWI89500_CFE_DEFAULT_1_js.jpg?v=1726047356&width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lennon-cotton-skirt",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Lennon Cotton Skirt",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/lennon-skirt_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WSKA04770_WHI_DEFAULT_1_js.png?v=1781127558&width=600",
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lianna-silk-top",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Lianna Silk Top",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/lianna-top_c25wtpw1574hd",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25WTPW1574HD_WHI_DEFAULT_1_js.png?v=1760520204&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lilou-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Lilou Linen Dress",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/lilou-dress_k25wdrs1172g_butter",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WDRS1172G_BUT_DEFAULT_1_js.png?v=1750749444&width=600",
+    "category": "Dresses",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lizzie-wool-cashmere-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Lizzie Wool Cashmere Sweater",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/lizzie-sweater_tan",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA06940_TAN__DEFAULT_1_js.png?v=1790879373&width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lola-linen-vest",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Lola Linen Vest",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/lola-top_k24wtpl0387g_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPL0387G_BLK_DEFAULT_1_js.png?v=1736916192&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-louise-linen-set",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Louise Linen Set",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/louise-linen-set_t24wstd10100-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WSTD10100-BLK_editorial1.png?v=1718309086&width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lucette-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Lucette Cotton Dress",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/lucette-dress_k25wdra11260_brown-gingham",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WDRA11260_BRNGN_DEFAULT_1_js.png?v=1756522184&width=600",
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lucia-silk-short",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Lucia Silk Short",
+    "price": 98,
+    "url": "https://www.fewmoda.com/products/lucia-silk-short_cheetah-print",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WSHW16750G_CHT_DEFAULT_1_js.png?v=1764034669&width=600",
+    "category": "Shorts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lux-cashmere-top",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Lux Cashmere Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/lux-top_grape",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWP02640_GRPE_3_js.png?v=1769125240&width=600",
+    "category": "Sweaters",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-lysette-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Lysette Cotton Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/lysette-top_rosy-ribbon",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WTPP01830_RSRBN_DEFAULT_1_js.png?v=1772252531&width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-mabel-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Mabel Wool Sweater",
+    "price": 298,
+    "url": "https://www.fewmoda.com/products/mabel-sweater_light-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/mabeleditorial.png?v=1788881248&width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-mackenzie-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Mackenzie Cotton Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/mackenzie-dress_navy",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRP0334HD_NAV_DEFAULT_1_js.png?v=1773865115&width=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-madelyn-cotton-knit-skirt",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Madelyn Cotton Knit Skirt",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/madelyn-skirt_c24kski04370_cream",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/madelyn1.png?v=1725574411&width=600",
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-maeve-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Maeve Silk Dress",
+    "price": 372,
+    "url": "https://www.fewmoda.com/products/maeve-dress_o25wdra1494sc_taupe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O25WDRA1494SC_TPE_3_f5d57ef1-fe51-4749-be03-f19e0cabeb3e.png?v=1769272696&width=600",
+    "category": "Dresses",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-magdalena-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Magdalena Wool Sweater",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/magdalena-sweater_dark-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA05050_DKGRY_DEFAULT_1_js.png?v=1789422050&width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-maxine-wool-pant",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Maxine Wool Pant",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/maxine-pant_c25kpaw16830-1",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25KPAW16830_CFE_DEFAULT_1_js.png?v=1761552377&width=600",
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-maya-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Maya Linen Dress",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/maya-dress_k24wdrd1000g_red",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WDRD1000G_RED_1_js.png?v=1769445161&width=600",
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-mayci-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Mayci Cotton Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/mayci-top_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WTPS0361SC_WHI_DEFAULT_1_js.png?v=1776804626&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-mazzy-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Mazzy Silk Dress",
+    "price": 448,
+    "url": "https://www.fewmoda.com/products/mazzy-dress_mint-blossom",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRP0168SC_MTBLSeditorial2.png?v=1770307221&width=600",
+    "category": "Dresses",
+    "colour": "Green",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-meridith-double-wool-cardigan",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Meridith Double Wool Cardigan",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/meridith-cardigan_navy",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA06970_NAV_DEFAULT_1_js.png?v=1790280189&width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-micah-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Micah Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/micah-top_k24wtpd1800g_blue-gingham",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPD1800G_NAVGN_1_js.png?v=1769293695&width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Cotton",
+        45
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-mindy-zip-up-sweater",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Mindy Zip Up Sweater",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/mindy-zip-up-sweater_dark-brown",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26KSWA04880_BRN_DEFAULT_1_js.png?v=1786567064&width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        50
+      ],
+      [
+        "Alpaca",
+        50
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-misty-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Misty Cotton Top",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/misty-top_rosy-ribbon",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WTPP00660_RSRBN_DEFAULT_1_js.png?v=1770846203&width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-monette-cashmere-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Monette Cashmere Sweater",
+    "price": 298,
+    "url": "https://www.fewmoda.com/products/monette-sweater_soft-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/cardieditorial2.png?v=1790347532&width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-nadia-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Nadia Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/nadia-top_k24wtpc0890g-1",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPC0890G_WHI_DEFAULT_js.png?v=1745876046&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-nancy-merino-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Nancy Merino Wool Sweater",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/nancy-wool-sweater_c24kswi89800_dark-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24KSWI89800_DKGRY__DEFAULT_1_js.png?v=1756860956&width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-nancy-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Nancy Wool Sweater",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/nancy-sweater_dark-coffee",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24KSWI89800_DKCFE_DEFAULT_1_js.png?v=1788198731&width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-nat-silk-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Nat Silk Top",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/nat-top_k24wtph0459g_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPH0459G_BLK_DEFAULT_1_js.jpg?v=1725357066&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-nellie-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Nellie Cotton Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/nellie-dress_k25wdrs1207g_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WDRS1207G_WHIEL_DEFAULT_1_js.png?v=1752656740&width=600",
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-nila-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Nila Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/nila-top_k24wtpc0800g-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/nilaecomm.png?v=1720542742&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-nina-top",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Nina Top",
+    "price": 98,
+    "url": "https://www.fewmoda.com/products/nina-top_coffee",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25KTPS06880_CFE_DEFAULT_1_js_6c0e51be-3388-4030-ac5b-bd894416f78c.png?v=1769526939&width=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        95
+      ],
+      [
+        "Cashmere",
+        5
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-noelle-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Noelle Cotton Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/noelle-dress_citrus-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WDRS1062SC_CTRST_DEFAULT_1_js.png?v=1781188760&width=600",
+    "category": "Dresses",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-novalie-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Novalie Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/novalie-top_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WTPS0239SC_WHI_DEFAULT_1_js.png?v=1772694072&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-nuka-cashmere-pant",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Nuka Cashmere Pant",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/nuka-cashmere-pant_c22kpa70118-heather",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C22KPA70118_HGRY_DEFAULT_1_JS.png?v=1693878266&width=600",
+    "category": "Pants",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-nyx-cotton-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Nyx Cotton Sweater",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/nyx-sweater_cream",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWP02810_CRM_2_js.png?v=1787065590&width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-oakley-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Oakley Silk Dress",
+    "price": 272,
+    "url": "https://www.fewmoda.com/products/oakley-dress_t24wdrc0690g-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WDRC0690G_IVR_DEFAULT_1_js.png?v=1712142774&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-odette-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Odette Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/odette-top_k24wtpc0870g-1",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPC0870G_BLK_1_js.png?v=1771733712&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-oriana-cashmere-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Oriana Cashmere Top",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/oriana-top_k25kswa05950_coffee",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25KSTA05950_CFE_DEFAULT_1_js.png?v=1755293544&width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-paloma-linen-pant",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Paloma Linen Pant",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/paloma-linen-pant_olive",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24WPAF1244G_OLV_DEFAULT_1_js.png?v=1769027867&width=600",
+    "category": "Pants",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-perla-merino-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Perla Merino Wool Sweater",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/perla-merino-wool-sweater_c24kswj53900_navy",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24KSWJ53900_NAV_DEFAULT_1_js.png?v=1756847732&width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-petra-jacket",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Petra Jacket",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/petra-jacket_c25woua1545fs_cream",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25WOUA1545FS_CRM_4_js.png?v=1758697866&width=600",
+    "category": "Outerwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        57
+      ],
+      [
+        "Hemp",
+        43
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-pilar-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Pilar Cotton Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/pilar-top_white-eyelet",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WTPS03410_WHIEL_DEFAULT_1_js.png?v=1775686138&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-piper-linen-mini-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Piper Linen Mini Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/piper-mini-dress_t25wdrs0665g_red",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WDRS0665G_RED_1_js.png?v=1769701184&width=600",
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-posie-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Posie Cotton Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/posie-top_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WTPP0170HD__WHI_DEFAULT_1_js.png?v=1770839548&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-rabina-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Rabina Wool Sweater",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/rabina-wool-sweater_grey",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA05090_GRY_DEFAULT_1_js.png?v=1789422158&width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-raphaela-linen-vest-top",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Raphaela Linen Vest Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/raphaela-vest-top_t25wtpc0012g_olive",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WTPC0012G_OLV_DEFAULT_1_js.png?v=1740635576&width=600",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-reagan-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Reagan Silk Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/reagan-dress_t24wdrc0680g-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/reagandressinivory.png?v=1712343403&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-rebekah-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Rebekah Linen Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/rebekah-dress_oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WTPS1870FS_OTM_DEFAULT_1_js.png?v=1776884626&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-regan-silk-short",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Regan Silk Short",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/regan-short_mustard",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WSHA06360__MUS_DEFAULT_1_js.png?v=1790280869&width=600",
+    "category": "Shorts",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-regina-wool-cashmere-sweater",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Regina Wool-Cashmere Sweater",
+    "price": 245,
+    "url": "https://www.fewmoda.com/products/regina-wool-cashmere-sweater_k24kswi52700_dark-red",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24KSWI52700_DKRED_3.png?v=1756829374&width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Wool",
+        65
+      ],
+      [
+        "Cashmere",
+        35
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-rosa-silk-short",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Rosa Silk Short",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/rosa-silk-short_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O25WSHW15400_BLK_DEFAULT_1_js_fd5545c1-2cb3-4928-83d2-acd334edf3f4.png?v=1760994890&width=600",
+    "category": "Shorts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-rosalie-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Rosalie Linen Dress",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/rosalie-dress_k24wdrf1240g_butter",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WDRF1240G_BUT_DEFAULT_1_js.png?v=1745333121&width=600",
+    "category": "Dresses",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Cotton",
+        45
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-rosalind-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Rosalind Linen Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/rosalind-top_k24wtpl1036g_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPL1036G_WHI_DEFAULT_1_js_5898d3a0-025b-4dd5-b8a6-24e08e334aff.png?v=1740393244&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-roslyn-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Roslyn Silk Dress",
+    "price": 422,
+    "url": "https://www.fewmoda.com/products/roslyn-dress_mint-blossom",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WDRP0169SC_MTBLS_DEFAULT_1_js_ffaae53b-d0f0-4022-96f8-d760bfb5143d.png?v=1769190437&width=600",
+    "category": "Dresses",
+    "colour": "Green",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        95
+      ],
+      [
+        "Elastane",
+        5
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-rue-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Rue Linen Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/rue-dress_t25wdrw1654g_orange",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WDRW1654G_BTORG_DEFAULT_1_js.png?v=1763372405&width=600",
+    "category": "Dresses",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-ruth-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Ruth Dress",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/ruth-dress_k25wdra0017g_navy-gingham",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WDRA0017G_NAVGN_3_js_d6877e6b-9513-488f-9d71-642b40111ef6.png?v=1769293162&width=600",
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Linen",
+        55
+      ],
+      [
+        "Cotton",
+        45
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-saylor-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Saylor Silk Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/saylor-dress_t24wdrc0700g-shale",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WDRC0700G_SHALE__DEFAULT_1_js.png?v=1714149902&width=600",
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-scarlet-cashmere-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Scarlet Cashmere Sweater",
+    "price": 160,
+    "url": "https://www.fewmoda.com/products/scarlet-cashmere-sweater_c22ksw10303-midnight",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C22KSW10303_MDBLU_DEFAULT_1_js_58053c3d-384e-4b3a-8b4f-6efa7654e50a.png?v=1752147754&width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-seashell-cotton-tee",
+    "retailer": "Few Moda",
+    "brand": "Few Moda",
+    "name": "Seashell Cotton Tee",
+    "price": 90,
+    "url": "https://www.fewmoda.com/products/seashell-tee_f25ktps09130_white-embroidery",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/F25KTPS09130_WHIEM_DEFAULT_1_js.png?v=1762633631&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-seaside-cotton-tank",
+    "retailer": "Few Moda",
+    "brand": "Few Moda",
+    "name": "Seaside Cotton Tank",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/seaside-tank_f25wtps09060_seashell-eyelet",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/F25WTPS09060_SEAEL_1_js.png?v=1771733419&width=600",
+    "category": "Tops",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-sela-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Sela Wool Sweater",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/sela-sweater_c25kswa05920_cream",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25KSWA05920_CRM_DEFAULT_1_js.png?v=1756847645&width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-selena-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Selena Silk Dress",
+    "price": 398,
+    "url": "https://www.fewmoda.com/products/selena-dress_dusk-rose",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WDRW1584SC_DSKRS_DEFAULT_1_js.png?v=1763104320&width=600",
+    "category": "Dresses",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-shelby-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Shelby Cotton Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/shelby-top_alice-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WTPP01620_LBLU_DEFAULT_1_js.png?v=1778716161&width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-shoreline-cotton-sweater",
+    "retailer": "Few Moda",
+    "brand": "Few Moda",
+    "name": "Shoreline Cotton Sweater",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/shoreline-sweater_f25kswa10500_fireside",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/F25KSWA10500_FRSD_2_js.png?v=1758697777&width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-sibel-linen-maxi-skirt",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Sibel Linen Maxi Skirt",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/sibel-maxi-skirt_t24wskl0393g_oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T24WSKL0393G_OTM_DEFAULT_1_js.png?v=1735119951&width=600",
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-siena-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Siena Cotton Top",
+    "price": 195,
+    "url": "https://www.fewmoda.com/products/siena-top_o25wtps04000_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O25WTPS04000_WHI_DEFAULT_1_js.png?v=1750308074&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-siena-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Siena Wool Sweater",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/siena-sweater_k25kswa05980_coffee",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25KSWA05980_CFE_4.png?v=1756829486&width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-skylar-silk-maxi-skirt",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Skylar Silk Maxi Skirt",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/skylar-skirt_t24wskc0720g-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/skylar.png?v=1762192508&width=600",
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-slyvette-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Slyvette Cotton Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/slyvette-top_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WTPP01720_WHI_DEFAULT_1_js.png?v=1770850348&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-stacy-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Stacy Linen Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/stacy-top_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WTPP0331FS_WHI_DEFAULT_1_js.png?v=1776884684&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-suki-linen-set",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Suki Linen Set",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/suki-set_k24wstl0388g_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WSTL0388G_BLK_DEFAULT_1_js_8e461e93-4d39-4fcb-a779-4c7347e3f785.png?v=1747810378&width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-suzanne-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Suzanne Wool Sweater",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/suzanne-sweater_deep-taupe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWA04780_DPTPE_DEFAULT_1_js.png?v=1790011494&width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-sydney-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Sydney Cotton Dress",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/sydney-dress_pink",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WDRS04390_PNK_DEFAULT_1_js.png?v=1783441317&width=600",
+    "category": "Dresses",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-tallis-dress",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Tallis Dress",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/tallis-dress_cream-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WDRA1474SC_CRMST_DEFAULT_1_js.png?v=1762923061&width=600",
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-tamia-silk-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Tamia Silk Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/tamia-dress_k24wdrl0535g_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WDRL0535G_DEFAULT_1_js.png?v=1778165745&width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-tammy-cotton-dress",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Tammy Cotton Dress",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/tammy-dress_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WDRA03870-1.png?v=1779647298&width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-tashi-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Tashi Cotton Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/tashi-top_earthy-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T26WTPP0105SC_ETHST_DEFAULT_1_js.png?v=1778524373&width=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-tessie-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Tessie Cotton Top",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/tessie-cotton-top_soft-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O25WTPW17820_SFBLU_DEFAULT_1_js.png?v=1769184924&width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-thelma-linen-short",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Thelma Linen Short",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/thelma-short_k24wshl0854g_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WSHL0854G_WHI_1_js.png?v=1769808564&width=600",
+    "category": "Shorts",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-tiana-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Tiana Wool Sweater",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/tiana-sweater_grey",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26KSWA04700_GRY_DEFAULT_1_js.png?v=1789422205&width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-trinity-linen-skirt",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Trinity Linen Skirt",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/trinity-skirt_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WSKP0332FS_WHI_DEFAULT_1_js.png?v=1776884746&width=600",
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-vada-silk-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Vada Silk Top",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/vada-top_k25wtps1218g_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WTPS1218G_BLK_DEFAULT_1_js_ea74b5a3-80cd-4e82-9946-34a8810b8fef.png?v=1752615603&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-vaila-pant",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Vaila Pant",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/vaila-pant_k25wpaa09220_moss",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WPAA09220_MOS_DEFAULT_1_js.png?v=1755116930&width=600",
+    "category": "Pants",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        97
+      ],
+      [
+        "Elastane",
+        3
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        90
+      ],
+      [
+        "Cotton",
+        10
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-vale-wool-sweater-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Vale Wool Sweater Dress",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/vale-sweater-dress_k25kswa05930_olive",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25KSWA05930_OLV_DEFAULT_1_js.png?v=1757401905&width=600",
+    "category": "Dresses",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-valeria-silk-skirt",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Valeria Silk Skirt",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/valeria-silk-skirt_k24wskc0780g-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/valeria_black_update.png?v=1755727659&width=600",
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-vanya-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Vanya Cotton Top",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/vanya-top_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WTPP01900_WHI_DEFAULT_1_js.png?v=1776893740&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-verena-cotton-button-up-shirt",
+    "retailer": "Few Moda",
+    "brand": "Few Moda",
+    "name": "Verena Cotton Button Up Shirt",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/verena-button-up-shirt_f25wtpw12440_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/F25WTPW12440_WHI_DEFAULT_1_js.png?v=1759309464&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-veronica-linen-set",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Veronica Linen Set",
+    "price": 272,
+    "url": "https://www.fewmoda.com/products/veronica-top_antibes-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K26WSTS0302FS_ANTST_DEFAULT_1_js.png?v=1776895452&width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-weekend-linen-short",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Weekend Linen Short",
+    "price": 72,
+    "url": "https://www.fewmoda.com/products/weekend-linen-short_c23wpa00228g-white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C23WPA00228G_WHI_DEFAULT_1_js.png?v=1700647875&width=600",
+    "category": "Shorts",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-will-linen-pant",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Will Linen Pant",
+    "price": 135,
+    "url": "https://www.fewmoda.com/products/will-linen-pant_c23wpa00229g-black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C23WPA00229G_BLK_DEFAUL_1_js.png?v=1700646156&width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-wilma-linen-top",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Wilma Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/wilma-top_k24wtpg0356g_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K24WTPG0356G_WHI_1_js.png?v=1769443989&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-winnie-top",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Winnie Top",
+    "price": 122,
+    "url": "https://www.fewmoda.com/products/winnie-top_cream-brown-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26WTPP0079SC_CRBRS_DEFAULT_1_js_046db5ab-660a-428a-a93e-e5017d5b629a.png?v=1765275159&width=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-yada-silk-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Yada Silk Top",
+    "price": 245,
+    "url": "https://www.fewmoda.com/products/yada-top_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WTPS04250_BLK_2_js_f4e28897-4e55-4578-a715-8bfb815149ff.png?v=1780006971&width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-yasmine-cotton-cardigan",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Yasmine Cotton Cardigan",
+    "price": 198,
+    "url": "https://www.fewmoda.com/products/yasmine-sweater_navy",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C26KSWP03200_NAV_DEFAULT_1_js.png?v=1773861379&width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-yvonne-linen-top",
+    "retailer": "Few Moda",
+    "brand": "o.p.t",
+    "name": "Yvonne Linen Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/yvonne-top_t25wtpc0014g_olive",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/T25WTPC0014G_OLV_DEFAULT_1_js.png?v=1740635706&width=600",
+    "category": "Tops",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-zadie-linen-dress",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Zadie Linen Dress",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/zadie-dress_k25wdrs1195g_black",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25WDRS1195G_BLK_DEFAULT_1_js.png?v=1751977414&width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-zella-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "Kourt",
+    "name": "Zella Wool Sweater",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/zella-sweater_k25ksww05870",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/K25KSWW05870_CRM_DEFAULT_1_js.png?v=1755762425&width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-zenni-linen-set",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Zenni Linen Set",
+    "price": 222,
+    "url": "https://www.fewmoda.com/products/zenni-set_c25wsts01370_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C25WSTS01370-WHI3.png?v=1744300296&width=600",
+    "category": "Sets & jumpsuits",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-zinedine-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Zinedine Cotton Top",
+    "price": 72,
+    "url": "https://www.fewmoda.com/products/zinedine-top_white",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O25KTPS11670_WHI_DEFAULT_1_js.png?v=1773265908&width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-zinnia-linen-mini-dress",
+    "retailer": "Few Moda",
+    "brand": "Few Moda",
+    "name": "Zinnia Linen Mini Dress",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/zinnia-mini-dress_f25wdrs09100_watermelon",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/F25WDRS09100_WTMLN_DEFAULT_1_js.png?v=1769192894&width=600",
+    "category": "Dresses",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-zoey-cotton-top",
+    "retailer": "Few Moda",
+    "brand": "Sorella",
+    "name": "Zoey Cotton Top",
+    "price": 148,
+    "url": "https://www.fewmoda.com/products/zoey-top_light-pink",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/O26WTPS04330_PNK_DEFAULT_1_js.png?v=1781635261&width=600",
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "few-moda-zora-merino-wool-sweater",
+    "retailer": "Few Moda",
+    "brand": "CAARA",
+    "name": "Zora Merino Wool Sweater",
+    "price": 172,
+    "url": "https://www.fewmoda.com/products/zora-sweater_c24kswi89600_coffee",
+    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24KSWI89600_CFE_3_js_710b26e8-f280-4273-917f-4456f521ba81.png?v=1758909985&width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-basic-organic-bikini",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Basic Organic Bikini",
+    "price": 29,
+    "url": "https://skinworldwide.com/products/bikini",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/basic_organic_bikini_black.jpg?width=600",
+    "category": "Undergarments",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-carissa-sleep-shirt",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Carissa Sleep Shirt",
+    "price": 115,
+    "url": "https://skinworldwide.com/products/carissa-sleepshirt",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/LOOK14_0023.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-casey-short",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Casey Short",
+    "price": 48,
+    "url": "https://skinworldwide.com/products/casey-short-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/carinewhite_a940a991-737c-4680-b585-a6d3b0c898a1.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-coleen-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Coleen Robe",
+    "price": 148,
+    "url": "https://skinworldwide.com/products/coleen-robe",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/colb1.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-double-layer-pant",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Double Layer Pant",
+    "price": 138,
+    "url": "https://skinworldwide.com/products/double-layer-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/LOOK6_0037.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-double-layer-wrap-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Double Layer Wrap Robe",
+    "price": 175,
+    "url": "https://skinworldwide.com/products/wrap-robe-2",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/double_layer_wrap_robe_white_web2.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-ivy-crop-pant",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Ivy Crop Pant",
+    "price": 115,
+    "url": "https://skinworldwide.com/products/ivy-crop-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/LOOK_48_0010-pdp.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-kayla-dress",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Kayla Dress",
+    "price": 81,
+    "url": "https://skinworldwide.com/products/kayla-dress-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/KAYLADRESSBLACK_1932.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-long-sleeve-tee",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Long Sleeve Tee",
+    "price": 80,
+    "url": "https://skinworldwide.com/products/long-sleeve-crew",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/long_sleeve_tee_white_web.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-margot-shorts",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Margot Shorts",
+    "price": 68,
+    "url": "https://skinworldwide.com/products/margot-short",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/Margot_PearlPink_QuarterSleeveTop_Shorts_Full_Front.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-native-cotton-crewneck-sweatshirt",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Native Cotton Crewneck Sweatshirt",
+    "price": 99,
+    "url": "https://skinworldwide.com/products/native-cotton-crewneck-sweatshirt-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/ONCFL100_NATIVE_COTTON_CREWNECK_NATIVE_HONEY_ONCFL400_NATIVE_COTTON_JOGGER_NATIVE_HONEY_FRONT_1r.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-native-cotton-jogger",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Native Cotton Jogger",
+    "price": 111,
+    "url": "https://skinworldwide.com/products/native-cotton-jogger-final-sale",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/ONCFL100_NATIVECOTTONCREWNECK_NATIVEHONEY_ONCFL400_NATIVECOTTONJOGGER_NATIVEHONEY_FRONT1_1r.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-oasis-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Oasis Robe",
+    "price": 225,
+    "url": "https://skinworldwide.com/products/oasis-organic-cotton-robe",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/LOOK10_0075.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-sexy-cami",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Sexy Cami",
+    "price": 60,
+    "url": "https://skinworldwide.com/products/sexy-cami",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/sexycami_black.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-sexy-slip",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Sexy Slip",
+    "price": 88,
+    "url": "https://skinworldwide.com/products/sexy-slip-1",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/sexy_slip_heather_grey_web.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-sierra-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Sierra Robe",
+    "price": 225,
+    "url": "https://skinworldwide.com/products/sierra-robe-1",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/new.png?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-skinny-pant",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Skinny Pant",
+    "price": 125,
+    "url": "https://skinworldwide.com/products/skinny-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/products/long_sleeve_tee_heather_grey_web2_51ee2212-9c1c-4de1-a721-c069bf29f0cc.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "skin-wellness-robe",
+    "retailer": "Skin",
+    "brand": "Skin",
+    "name": "Wellness Robe",
+    "price": 225,
+    "url": "https://skinworldwide.com/products/wellness-robe",
+    "image": "https://cdn.shopify.com/s/files/1/0047/7932/files/OCD800_WELLNESS_ROBE_WHITE_MMS701_DREAMYBRALETTE_FOG_OWCC401_SERENE_STRIPESHORTIE_FRONT3.jpg?width=600",
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
   }
 ]
