@@ -205,22 +205,26 @@
       "brand": "Tibi",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
+      "status": "done",
       "cursor": null,
-      "lastSweep": null,
+      "lastSweep": "2026-10-25",
       "lastDelta": null,
-      "note": ""
+      "note": "Full products.json sweep 2026-10-25 (tibi.com, 3,857 products, 1,438 in stock). 249 staged in round 2026-10-25-nightly; 439 under the fiber rule, 749 shoes, bags and accessories, 126 men's. Rejected under the brand rules: skier intarsia sweaters, the Untitled and Pier graphic tees, and the shirred-neck circular tops (peasant shape). 3 whose composition did not parse are not recorded. Sold-out pieces are not recorded so a delta run picks up restocks. Composition is the last line of body_html before Style Number."
     },
     {
       "order": 20,
       "brand": "Gabriela Hearst",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
-      "cursor": null,
-      "lastSweep": null,
+      "status": "partial",
+      "cursor": {
+        "note": "products.json fully read; stopped at the 450 photo limit",
+        "stagedThrough": "first 42 passing in products.json order",
+        "heldPassing": 548
+      },
+      "lastSweep": "2026-10-25",
       "lastDelta": null,
-      "note": ""
+      "note": "2026-10-25: products.json at gabrielahearst.com, 3,548 products. Composition sits on a Details: line in body_html (strip origin parentheses). 590 in-stock women's pieces passed; only 42 fit under the 450 photo limit and were staged in round 2026-10-25-nightly; the other 548 passing pieces were not recorded so the next run stages them. 696 out of scope and 293 men's recorded. Fur pieces (mink) and 113 others whose composition did not parse are not recorded. Wesley Pleated Skirt in Camel Multi Wool Silk Houndstooth and Rhein Pant in Camel Multi Wool Silk Houndstooth list a composition that contradicts the name (cashmere, no silk); held, not recorded."
     },
     {
       "order": 21,

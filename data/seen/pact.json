@@ -643,5 +643,393 @@
   "outcome": "staged",
   "date": "2026-10-24",
   "round": "round-2026-10-24-pact.json"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/roam%20go%20anywhere%20dress/wa1-fab-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20pure%20velour%20wide%20leg%20pant/wa1-w41-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20coastal%20double%20gauze%20oversized%20shirt/wa1-w72-cre": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/luxe%20waffle%20wide%20leg%20pant/wa1-fbh-dcr": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20airplane%20wrap%20cardigan/wa1-w9l-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/soft-slub%20essential%20muscle%20tee%20dress/wa1-w25-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/cool%20stretch%20lounge%20pant/wa1-wcu-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/soft-slub%20essential%20crewneck%20tee/wa1-w63-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20classic%20fit%20thong/wa1-w7c-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20coastal%20double%20gauze%20boho%20midi%20dress/wa1-w9d-bpk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20airplane%20mock%20neck%20shell/wa1-w8n-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20softspun%20v-neck%20tee/wb1-wvn-wht": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/luxe%20essential%20crewneck%20tee/wa1-wzw-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/underwear/undies/lace%20waist%20brief/we1-wlb-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/luxe%20essential%20scoop%20neck%20tank/wa1-wzq-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/sleep%20bottoms/fireside%20flannel%20sleep%20pant/wa1-fel-lgw": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/cloudknit%20jogger/wa1-w29-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/roam%20midi%20skirt/wa1-fac-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20airplane%20long%20sleeve%20tunic/wa1-w56-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/peached%20twill%20pull-on%20pant/wa1-fbg-dug": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/textured%20corduroy%20midi%20skirt/wa1-fbu-esp": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20coastal%20double%20gauze%20tapered%20pull-on%20pant/wa1-fcp-cre": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/roam%20wrap%20cardigan/wa1-ffo-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/cool%20stretch%20cropped%20jumpsuit/wa1-fcz-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/luxe%20essential%20crewneck%20long%20sleeve%20tee/wa1-w10-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/roam%20soft%20jacket/wa1-faa-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/textured%20corduroy%20wide%20leg%20pant/wa1-fcy-esp": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20staycation%20sleep%20tank/wa1-w2f-dkl": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/sleep%20sets/pointelle%20short%20sleeve%20sleep%20set/wa2-fbt-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/underwear/bras/everyday%20modern%20scoop%20bralette/wa1-wqo-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/softspun%20essential%20crewneck%20long%20sleeve%20tee/wa1-w59-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20fit%20&%20flare%20crossover%20dress/wa1-w8a-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/all-day%20twill%20barrel%20leg%20pant/wa1-fbz-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20coastal%20double%20gauze%20smocked%20dress/wa1-w77-nyb": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20all%20day%20poplin%20easy%20shirt/wa1-w9q-byr": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20coastal%20double%20gauze%20beach%20to%20brunch%20maxi%20dress/wa1-w9b-cre": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20coastal%20double%20gauze%20split%20hem%20pant/wa1-fco-cre": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20pure%20velour%20mock%20tunic/wa1-w40-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20fit%20&%20flare%20midi%20dress/wf1-wfm-bhl": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20coastal%20double%20gauze%20strappy%20tiered%20maxi%20dress/wa1-w71-bhl": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20airplane%20tapered%20leg%20pant/wa1-w9n-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/underwear/undies/clearance%20lace%20cheeky%20hipster/wd1-whi-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/sleep%20tops/pointelle%20long%20sleeve%20tee/wa1-fbs-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/essential%20crew%20neck%20sweater/wa1-fcr-dcr": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20weekends%20tank%20dress/wa1-w15-wdl": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20classic%20fit%20bikini/we1-wbc-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20wrap%20dress/wb1-w13-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20stretch%20poplin%20jogger/wa1-w7f-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20cloudknit%20quarter%20zip/wa1-w30-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/textured%20corduroy%20barrel%20pant/wa1-fbl-esp": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/essential%20v-neck%20sweater/wa1-fat-dcr": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/sleep%20sets/cool%20stretch%20sleep%20set/wa2-fam-chh": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/pure%20velour%20rib%20tuxedo%20stripe%20pant/wa1-fau-mnu": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/sleep%20bottoms/clearance%20pointelle%20wide%20leg%20pant/wa1-w90-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/peached%20twill%20pull-on%20barrel%20pant/wa1-fbf-dug": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/cool%20stretch%20swing%20cardigan/wa1-w19-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/softspun%20essential%20crewneck%20tee/wa1-w57-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/roam%20funnel%20neck%20top/wa1-faj-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/pure%20velour%20oversized%20sweatshirt/wa1-fao-mnu": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20fit%20&%20flare%20open%20back%20maxi%20dress/wc1-w2x-bhl": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/cloudknit%20raglan%20crew/wa1-w47-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20airplane%20pintuck%20wide%20leg%20pant/wa1-w9j-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20weekends%20raglan%20muscle%20tee/wa1-w95-wdl": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/pure%20velour%20rib%20bomber%20jacket/wa1-fas-mnu": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/cloudknit%20jacket/wa1-w28-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/softspun%20essential%20v-neck%20tee/wa1-w61-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20weekends%20relaxed%20sweatpant/wa1-w98-wdl": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20mid%20rise%20hipster/wa1-wqi-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20pure%20velour%20relaxed%20sweatpant/wa1-w46-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/poplin%20perfect%20shirt/wa1-fcu-sfy": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/underwear/undies/lace%20waist%20thong/we1-wlt-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/all-day%20twill%20straight%20leg%20pant/wa1-fca-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20pure%20velour%20crew%20sweatshirt/wa1-w55-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20shoreline%20relaxed%20shell/wa1-w54-cre": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/luxe%20waffle%20henley/wa1-fbe-dcr": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/roam%20capelet%20top/wa1-fae-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20stretch%20twill%20wide%20leg%20pant/wb1-w5w-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/roam%20pintuck%20wide%20leg%20pant/wa1-fdn-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20coastal%20double%20gauze%20curved%20hem%20short/wa1-fcn-caf": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/airplane%20easy%20knit%20top/wa1-fbi-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20a-line%20dress/wa1-fbj-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/luxe%20waffle%20v-neck%20top/wa1-faz-dcr": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/airplane%20wide%20leg%20pant/wa1-fbk-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/soft-slub%20essential%20muscle%20tee%20maxi%20dress/wa1-w91-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/cloudknit%20wide%20leg%20pant/wa1-w31-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/sleep%20tops/pointelle%20scoop%20neck%20tee/wa1-w87-blk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/easy%20drape%20pant/wa1-wxz-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/clearance%20softspun%20scoop%20neck%20tee/wa1-w32-fnv": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/clearance%20daily%20twill%20ultra-high%20rise%20tapered%20pant/wa1-w7d-mnu": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/sleep%20sets/pointelle%20long%20sleeve%20sleep%20set/wa2-fbq-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/underwear/bras/everyday%20classic%20t-shirt%20bra/wa1-waa-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/underwear/undies/everyday%20high%20rise%20brief/wb1-w8r-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/clearance%20coastal%20double%20gauze%20tiered%20midi%20dress/wb1-w6r-bpk": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20dresses%20&%20skirts/fit%20&%20flare%20square%20neck%20dress/wa1-wxy-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20tops/soft-slub%20essential%20crewneck%20long%20sleeve%20tee/wa1-w64-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/all%20bottoms/all-day%20twill%20wide%20leg%20pant/wa1-fcc-blk": {
+  "outcome": "catalog",
+  "date": "2026-10-25"
+ },
+ "wearpact.com/women/apparel/sleep%20tops/clearance%20breezy%20cotton%20sleep%20cami/wa1-wjo-dto": {
+  "outcome": "rejected",
+  "date": "2026-10-25"
  }
 }

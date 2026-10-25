@@ -64,7 +64,7 @@
   "date": "2026-10-24"
  },
  "kotn.com/products/womens-rib-zip-hoodie-in-coffee-bean": {
-  "outcome": "rejected",
+  "outcome": "catalog",
   "date": "2026-10-25"
  },
  "kotn.com/products/womens-cozy-turtleneck-in-marshmallow-v2": {
@@ -4096,605 +4096,487 @@
   "date": "2026-10-24"
  },
  "kotn.com/products/womens-shortsleeve-cardigan-in-marshmallow": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-muscle-tank-in-white": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-maraaya-shirt-in-blue-aura-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-wrapped-tank-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-zayna-shirt-in-natural": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-taba-denim-in-vintage-grey": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-off-shoulder-tee-in-taupe": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-taba-denim-in-brown-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-bib-shirt-in-rinse": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-crossover-tank-in-sorbet": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-heka-skirt-in-khaki-brown": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-micro-rib-cami-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-everyday-crew-in-white": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-heka-cuffed-short-in-natural": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-heka-cuffed-short-in-khaki-brown": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-everyday-crew-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-micro-rib-tee-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/rugby-shirt-in-dark-red-taupe-ivory-navy": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/shrunken-rugby-shirt-in-maroon-salmon": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-micro-rib-cami-in-white": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-acacia-tie-boatneck-tee-in-natural": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-heka-pocket-trouser-in-khaki-brown": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/rugby-half-zip-sweatshirt-in-taupe-moss-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/shrunken-rugby-shirt-in-lemon-taupe": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/rugbyhalf-zip-sweatshirt-in-black-ivory-harvard": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-dalila-twist-top-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/rugby-shirt-in-columbia-navy-ash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/shrunken-rugby-shirt-in-taupe-powder": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/shrunken-rugby-shirt-in-navy-moss": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cozy-pant-in-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cozy-pant-in-coffee-bean": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-marfa-denim-in-mid-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-marfa-denim-in-washed-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-ham-tah-sweater-in-blue-lotus-melange": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-ham-tah-sweater-in-umber-melange": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-ren-denim-in-rinse": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-merino-boatneck-sweater-in-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cozy-mini-skirt-in-plum": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cozy-mini-skirt-in-coffee-bean": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cozy-mini-skirt-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cozy-zip-hoodie-in-black": {
-  "outcome": "rejected",
+  "outcome": "catalog",
   "date": "2026-10-25"
  },
  "kotn.com/products/womens-nahla-denim-in-mid-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-high-v-neck-tee-in-mauve": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cord-jacket-in-otter": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cable-zip-sweater-in-fiery-red": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cable-zip-sweater-in-midnight": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cord-taba-pant-in-otter": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-shrunken-tee-in-olive": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-straight-sweatpant-in-bottle-green": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cord-taba-pant-in-coffee-bean": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-high-v-neck-tee-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-sweatshirt-in-black-2": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-chunky-wool-crewneck-sweater-in-natural": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-micro-rib-longsleeve-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-90s-turtleneck-in-oat": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-sweatshirt-in-heather-grey-copy": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-hoodie-in-black": {
-  "outcome": "rejected",
+  "outcome": "catalog",
   "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-straight-sweatpant-in-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-straight-sweatpant-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-hoodie-in-heather-grey": {
-  "outcome": "rejected",
+  "outcome": "catalog",
   "date": "2026-10-25"
  },
  "kotn.com/products/womens-cord-mini-skirt-in-otter": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cord-mini-skirt-in-coffee-bean": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-fitted-rib-longsleeve-in-cabernet": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-boatneck-3-4-sleeve-top-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-hamatah-sweater-in-oat-melange": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-micro-rib-longsleeve-in-white": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-denim-mini-skirt-in-rinse": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-denim-mini-skirt-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-sweatpant-in-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-sweatpant-in-heather-grey-1": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/rugby-shirt-in-columbia-navy-brown": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-high-v-neck-tee-in-white": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-taba-denim-in-medium-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-tank-dress-in-olive": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-tank-dress-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-merire-pull-on-shorts-in-jester-red": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-crop-racer-tank-in-plum-marshmallow-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-mariam-tank-in-olive": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-french-terry-jogger-in-natural": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-siwa-tank-in-plum-marshmallow-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-persea-linen-pull-on-pants-in-natural": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-utility-denim-mini-in-raw": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-wrap-dress-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-buttoned-dress-in-mid-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/unisex-french-terry-sweatshirt-in-dark-taupe": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-sinai-denim-in-light-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-sinai-denim-in-mid-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-taba-denim-in-light-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-taba-denim-in-mid-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-taba-denim-in-natural": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-fitted-cap-sleeve-crew-in-white": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-karnak-trouser-in-dune-grass": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-cut-off-tank-in-marshmallow": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-dendera-pants-in-fog": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-mariam-tank-in-sienna": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-dendera-twill-pleated-mini-in-fog": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-dendera-twill-pleated-mini-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-crew-in-ash-melange": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-off-shoulder-tee-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-crew-sale-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-off-shoulder-tee-in-white": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-thebes-longsleeve-in-marshmallow": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-garden-city-dress-in-plum-dark-dusk-1": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-easy-crew-in-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-easy-crew-in-white": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-essential-crew-in-black-2": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-luxor-cable-sweater-in-smoke-melange": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/women-essential-crew-in-white-2": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-faten-shirt-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-fitted-turtleneck-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-mariam-tank-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/unisex-antifit-denim-in-washed-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-hamatah-sweater-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/unisex-antifit-denim-in-natural": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-rib-racer-tank-in-white": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-rib-racer-tank-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/womens-90s-tee-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-25"
  },
  "kotn.com/products/unisex-antifit-denim-in-dark-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/unisex-antifit-denim-in-light-wash": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/unisex-antifit-denim-in-black": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  },
  "kotn.com/products/rugby-shirt-in-black-rust-stripe": {
-  "outcome": "staged",
-  "date": "2026-10-24",
-  "round": "round-2026-10-24-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-25"
  }
 }
