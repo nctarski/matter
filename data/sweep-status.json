@@ -242,11 +242,15 @@
       "brand": "Jenni Kayne",
       "method": "shopify-json",
       "cadence": "regular",
-      "status": "todo",
-      "cursor": null,
-      "lastSweep": null,
+      "status": "partial",
+      "cursor": {
+        "note": "products.json fully read (1,147 products, 382 apparel). Every apparel product page read once for its Details & Care line. Review page was full (450 pending), so nothing staged.",
+        "heldPassing": 191,
+        "unclearNotRecorded": 69
+      },
+      "lastSweep": "2026-10-26",
       "lastDelta": null,
-      "note": ""
+      "note": "2026-10-26: products.json at jennikayne.com, 1,147 products. Composition sits in the product page Details & Care section (between \"Details & Care\" and \"Shipping & Returns\"); body_html has it for only about a third. Multi-brand: vendor field is the brand (AGOLDE, RE/DONE, Lido). Recorded 63 fiber, 7 no-composition, 752 out-of-scope (home, furniture, jewelry, shoes, bags, kids, Oak Essentials), 13 not-womens. Not recorded, so they come back: 191 passing pieces held because the review page was at its 450 photo limit, and 69 whose Details & Care did not parse cleanly (lining or trim parts, 100% viscose twill wording, suri alpaca, three-part recycled cotton, AGOLDE and RE/DONE jeans whose page gives care only). Next run: stage the 191 once the page has room, checking photos for the hoodie, peasant, argyle and words rules."
     },
     {
       "order": 23,

@@ -24,1249 +24,1000 @@
   "date": "2026-10-24"
  },
  "tibi.com/products/luxe-cotton-pull-on-shorts-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/luxe-cotton-pull-on-shorts-blue-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/calcimin-denim-fischer-jean-ivory-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/compact-eco-poplin-pinched-pleat-dress-sepia-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/compact-eco-poplin-pinched-pleat-dress-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/luxe-spring-twill-tucked-pleated-wide-leg-trouser-taupe": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/leather-sleeveless-hoop-dress-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/luxe-spring-twill-tucked-pleated-wide-leg-trouser-hickory-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/compact-eco-poplin-pinched-pleat-dress-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/leather-asymmetrical-balloon-skirt-optic-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-funnelneck-dolman-top-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sweatshirt-program-cocoon-crewneck-sweatshirt-green": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/zippered-denim-jogger-classic-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/denim-interlock-mica-jean-classic-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cardigan-stitch-v-neck-with-removable-dickie-latte": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sweatshirt-winslow-pull-on-pant-light-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/4-ply-silk-bias-dress-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/striped-perfect-t-crewneck-unisex-long-sleeve-t-blue-white-mult": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cashmere-sweater-crewneck-oversized-pullover-green": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-trompe-loeil-top-grey-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-turtle-neck-pullover-ochre": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/striped-perfect-t-crewneck-unisex-long-sleeve-t-navy-green-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/leather-moto-bomber-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cardigan-stitch-sweater-vest-with-removable-dickie-latte": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cardigan-stitch-v-neck-with-removable-dickie-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-baseball-t-red-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-crewneck-pullover-ochre": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-crewneck-pullover-seal-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-turtle-neck-pullover-seal-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/classic-denim-sculpted-silke-skirt-classic-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/luxe-dbl-faced-wool-angora-sculpted-skirt-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-oversized-easy-t-polo-avocado": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-crewneck-cut-out-sleeve-sweater-avocado": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/structured-wool-zipper-jacket-grey-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/compact-eco-poplin-reverse-sleeve-top-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/compact-eco-poplin-cropped-square-top-sepia-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/luxe-spring-tucked-pleat-skirt-taupe": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/leather-pull-on-shorts-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/calcimin-denim-tuck-jean-shorts-ivory-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-crewneck-racerback-bodysuit-white-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/compact-eco-poplin-pinched-pleat-full-skirt-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/patchwork-twill-slicker-jacket-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/luxe-spring-tucked-pleat-skirt-hickory-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/compact-eco-poplin-cropped-square-top-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/patchwork-twill-cargo-fischer-jean-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/luxe-spring-twill-tucked-pleated-wide-leg-short-hickory-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/patchwork-twill-cargo-fischer-jean-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-crewneck-racerback-bodysuit-fennel": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/calcimin-denim-midi-trouser-zip-skirt-ivory-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/classic-wash-denim-fischer-jean-classic-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-crewneck-racerback-bodysuit-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/thomas-menswear-check-detached-shirt-tan-multi-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/thomas-menswear-check-midi-trouser-skirt-tan-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tissue-cashmere-tank-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tissue-cashmere-crewneck-pullover-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-long-sleeve-t-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/4-ply-silk-side-drape-cami-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-cashmere-crewneck-sweater-ick-green": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-cashmere-crewneck-sweater-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tissue-cashmere-tank-dark-oatmeal-melange": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/4-ply-silk-side-drape-cami-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/4-ply-silk-long-sleeve-dress-with-ruffle-detail-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tissue-cashmere-crewneck-pullover-dark-oatmeal-melange": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/white-denim-jumpsuit-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/gossamer-wool-melange-blazer-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-crewneck-pullover-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/gossamer-wool-melange-zip-midi-trouser-skirt-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-cut-out-tank-clay": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/indigo-denim-double-apron-skirt-dark-denim": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-vneck-slim-cardigan-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-cut-out-tank-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-cut-out-tank-charcoal-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfectv-t-unisex-double-layer-long-sleeve-tshirt-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfectv-t-unisex-double-layer-long-sleeve-tshirt-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-crewneck-pullover-clay": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-vneck-slim-cardigan-clay": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/silk-cotton-plaid-blouse-with-removable-tie-black-red-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-side-drape-top-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/acid-wash-denim-charlotte-jean-acid-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/indigo-denim-pat-trouser-jean-dark-denim": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfectv-t-unisex-double-layer-long-sleeve-tshirt-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-vneck-slim-cardigan-charcoal-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/papery-wool-plaid-double-apron-skirt-grey-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-easy-shirt-with-flap-detail-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/silk-cotton-plaid-funnel-neck-shirt-black-red-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/gossamer-plainweave-double-apron-skirt-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-side-drape-top-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-crewneck-pullover-charcoal-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-turtle-neck-pullover-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-turtle-neck-pullover-charcoal-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-turtle-neck-pullover-clay": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/selvedge-denim-5-pocket-alec-jean-natural": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/selvage-denim-5-pocket-alec-jean-classic-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/selvage-denim-5-pocket-alec-jean-dark-denim": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/selvedge-denim-5-pocket-alec-jean-classic-wash": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/leather-midi-trouser-skirt-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-split-neck-turtlenec-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/bio-twill-triple-pleat-pant-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/bio-twill-alec-slouch-pant-dark-stone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/leather-midi-trouser-skirt-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cotton-wool-crewneck-easy-pullover-navy-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-vneck-pullover-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-polo-collar-sweatshirt-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/bio-twill-easy-shirt-dark-stone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/bio-twill-triple-pleat-cropped-pant-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/bio-twill-triple-pleat-pant-dark-stone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-vneck-pullover-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/bio-twill-easy-shirt-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/bio-twill-triple-pleat-cropped-pant-dark-stone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/suede-pencil-skirt-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/bio-twill-alec-slouch-pant-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-polo-collar-sweatshirt-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/leather-midi-trouser-skirt-brown-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-split-neck-turtlenec-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-tneck-sweater-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/new-shirting-gabe-oversized-shirt-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/new-shirting-gabe-oversized-shirt-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/new-shirting-gabe-oversized-shirt-dark-stone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-t-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-t-army-green": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-t-cool-slate": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-long-sleeve-t-cool-slate": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-long-sleeve-t-army-green": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-long-sleeve-t-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-vintage-sweatshirt-cool-slate": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-vintage-sweatshirt-army-green": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-vintage-sweatshirt-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-winslow-pant-red-clay": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-winslow-pant-blue-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-sleeveless-easy-top-blue-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-sleeveless-easy-top-red-clay": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-crewneck-sweatshirt-blue-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-crewneck-sweatshirt-red-clay": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/new-shirting-gabe-oversized-shirt-pink": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-t-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-t-charcoal-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-t-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-long-sleeve-t-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-long-sleeve-t-charcoal-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-unisex-long-sleeve-t-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-vintage-sweatshirt-heather-grey-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-vintage-sweatshirt-charcoal-grey-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-vintage-sweatshirt-white-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-winslow-pant-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-winslow-pant-olive": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-winslow-pant-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-winslow-pant-dark-stone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-winslow-pant-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-sleeveless-easy-top-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-sleeveless-easy-top-olive": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-sleeveless-easy-top-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-sleeveless-easy-top-dark-stone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-sleeveless-easy-top-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-crewneck-sweatshirt-olive": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-crewneck-sweatshirt-red": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-crewneck-sweatshirt-dark-stone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-crewneck-sweatshirt-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-crewneck-sweatshirt-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sheer-crepe-knit-mock-unisex-t-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/garment-dyed-silky-cotton-winslow-pull-on-pant-pale-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/classic-wash-newman-short-classic-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/ribbed-t-racerback-tank-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/garment-dyed-silk-cotton-liam-blazer-pale-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sheer-crepe-knit-mock-unisex-t-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/menswear-crepon-pull-on-shorts-navy-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirting-short-sleeve-top-with-shirred-back-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirting-shirred-back-tank-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-tank-dress-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/menswear-crepon-stella-full-length-pant-navy-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-tank-dress-sandstone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sheer-crepe-knit-mock-unisex-t-orange": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/super-fine-gauge-striped-perfect-tube-top-brown-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sheer-crepe-knit-crewneck-unisex-long-sleeve-t-orange": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-tank-dress-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/garment-dyed-silky-cotton-winslow-pull-on-pant-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirting-shirred-back-tank-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sheer-crepe-knit-crewneck-unisex-long-sleeve-t-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-strappy-open-back-top-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/garment-dyed-silk-cotton-liam-blazer-brown": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/menswear-crepon-liam-blazer-navy-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/ribbed-t-racerback-tank-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-strappy-open-back-top-sandstone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/vintage-black-denim-ryder-jean-vintage-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/vintage-wash-denim-ryder-jean-vintage-blue-2": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/bio-twill-overall-short-cameo-pink": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-maxi-shirtdress-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/light-weight-sweatshirting-short-shorts-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/garment-dyed-seersucker-pull-on-shorts-mauve-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-strappy-dress-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/eco-poplin-halter-paneled-dress-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/wool-crepe-slit-front-t-dark-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/lars-denim-convertible-zip-jean-classic-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/compact-eco-poplin-balloon-dress-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cardigan-stitch-wool-shrunken-crewneck-pullover-ivory": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/wool-crepe-fontaine-tunic-top-dark-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/black-denim-lars-convertible-zip-jean-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cardigan-stitch-wool-shrunken-crewneck-pullover-dark-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/indigo-denim-ernest-jean-dark-denim": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-padded-shoulder-sleeveless-top-dark-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-padded-shoulder-sleeveless-top-pumice-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-oversized-easy-t-polo-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-crewneck-cut-out-sleeve-sweater-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cashmere-suiting-easy-t-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-crewneck-cut-out-sleeve-sweater-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-oversized-easy-t-polo-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/classic-wash-denim-willem-jean-classic-blue": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/black-denim-willem-jean-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cashmere-suiting-stella-pant-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cashmere-suiting-liam-blazer-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-padded-shlr-slvlss-top-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/vintage-black-denim-tuck-jean-vintage-black-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-shrunken-vneck-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-turtle-neck-pullover-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/shirting-gabe-oversized-shirt-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cocoon-crewneck-sweatshirt-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/cocoon-crewneck-sweatshirt-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sweatshirt-program-cocoon-crewneck-sweatshirt-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-easy-vneck-sweater-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-easy-vneck-sweater-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-easy-vneck-sweater-oatmeal-melange": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-easy-polo-sweater-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-oversized-easy-t-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-oversized-easy-t-light-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-oversized-easy-t-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sweatshirt-program-calder-sweatpant-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sweatshirt-program-calder-sweatpant-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/sweatshirt-program-calder-sweatpant-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-shrunken-vneck-charcoal-grey-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/perfect-t-shrunken-vneck-white-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-turtle-neck-pullover-off-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-turtle-neck-pullover-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/feather-weight-ribbed-sweater-turtle-neck-pullover-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/spring-denim-tuck-jean-white-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/spring-denim-tuck-jean-classic-blue-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/striped-perfect-t-crewneck-unisex-long-sleeve-t-red-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/striped-perfect-t-crewneck-unisex-long-sleeve-t-navy-multi": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/mou-denim-clift-jean-black": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/classic-wash-denim-sid-jean-classic-blue-1": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-mock-neck-unisex-t-white": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-mock-neck-unisex-t-pumice-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-mock-neck-unisex-t-plum-ish": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-mock-neck-unisex-t-greystone": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-mock-neck-unisex-t-dusty-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-mock-neck-unisex-t-dune": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/tshirt-program-mock-neck-unisex-t-butterscotch": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/indigo-denim-midi-aline-skirt-dark-denim": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-shrunken-cardigan-light-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-cashmere-shrunken-cardigan-navy": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/washable-crewneck-sweatshirt-sweater-light-heather-grey": {
-  "outcome": "staged",
-  "date": "2026-10-25",
-  "round": "round-2026-10-25-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-10-26"
  },
  "tibi.com/products/recycled-tropical-wool-content-block-2": {
   "outcome": "out-of-scope",
