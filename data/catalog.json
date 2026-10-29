@@ -93363,5 +93363,2662 @@
     "lining": null,
     "isNew": false,
     "tags": []
+  },
+  {
+    "id": "same-los-angeles-barrel-trouser-charcoal",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Barrel Trouser",
+    "price": 578,
+    "url": "https://www.samelosangeles.com/products/barrel-trouser-charcoal",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1502.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1502.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME810_f5e33bb2-29ce-4898-9fde-5a199d2f7a05.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1510.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1512_2d8eab03-9e2c-4cca-8d35-cb9c8e2bba34.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-cropped-trench-oxblood",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Cropped Trench",
+    "price": 1698,
+    "url": "https://www.samelosangeles.com/products/cropped-trench-oxblood",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_297_b2ae8fc2-1f9e-45ef-8ee1-2042d80cb3c8.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_297_b2ae8fc2-1f9e-45ef-8ee1-2042d80cb3c8.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D306_0298_2x3_73a7c055-997c-45d9-a7ad-c8d73286e064.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D306_0262_2x3_f07283af-5268-44fa-913f-5511cb26657e.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_301.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_303_dcb4abb6-daa8-432e-84e8-7d3a22802193.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/CROPPED_TRENCH_OXBLOOD.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-leather-barrel-pant-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Leather Barrel Pant",
+    "price": 1198,
+    "url": "https://www.samelosangeles.com/products/leather-barrel-pant-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_257_8e4f7a4e-d147-4de3-8730-70933c4a09ce.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_257_8e4f7a4e-d147-4de3-8730-70933c4a09ce.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D314_1265_2x3_82b8b911-14d3-4048-89c0-4428d04992e0.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_269_c200a0a2-ec92-4ec6-aef3-82ee91ac9b4f.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_284_e6980c25-fb45-4874-8715-1b15bf25cbef.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_286.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_268_8de2e870-31e7-4062-acc2-19dfb7a8a6bd.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_261.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/LEATHER_BARREL_PANT_BLACK.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-leather-pencil-skirt-cognac",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Leather Pencil Skirt",
+    "price": 698,
+    "url": "https://www.samelosangeles.com/products/leather-pencil-skirt-cognac",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_530_e6d82274-4d96-443c-a427-b5679fac8f76.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_530_e6d82274-4d96-443c-a427-b5679fac8f76.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/A6920251-07A3-4A1A-AC2E-F79BB6528BF9.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/18D1E63F-9B92-468A-9132-A0AEE0328237_1_201_a.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D313_1252_2x3_ce9075ba-436e-416c-9b65-5252a5c41848.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D0398F74-746F-4F3C-9599-AA7DF894DFB8.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_544.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-leather-wrap-cape-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Leather Wrap Cape",
+    "price": 498,
+    "url": "https://www.samelosangeles.com/products/leather-wrap-cape-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same439_975ec745-6edb-42af-97fa-1b821e398c8a.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same439_975ec745-6edb-42af-97fa-1b821e398c8a.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_5794.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_5631.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_448.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same441_4c2b340a-d9b8-4f14-987e-ec031b6033c8.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same445_755a3d9a-1ed4-4d56-9a84-6fd623a6262b.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-long-sleeve-leather-mini-dress-burgundy",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Long Sleeve Leather Mini Dress",
+    "price": 698,
+    "url": "https://www.samelosangeles.com/products/long-sleeve-leather-mini-dress-burgundy",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_463.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_463.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/LS_LEATHER_MINI_BURGUNDY_SW.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D218_4888_2x3_541b2f27-8cd7-4df6-b9cc-7dead166f7ba.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-long-sleeve-silk-jumpsuit-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Long Sleeve Silk Jumpsuit",
+    "price": 488,
+    "url": "https://www.samelosangeles.com/products/long-sleeve-silk-jumpsuit-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1019.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1019.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1026.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1033.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/26.01.03-238_copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/26.01.03-242_copy.jpg?width=600"
+    ],
+    "category": "Sets & jumpsuits",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-long-sleeve-silk-jumpsuit-chocolate-brown",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Long Sleeve Silk Jumpsuit",
+    "price": 488,
+    "url": "https://www.samelosangeles.com/products/long-sleeve-silk-jumpsuit-chocolate-brown",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1068_80655c29-d417-4c82-a457-26451608e440.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1068_80655c29-d417-4c82-a457-26451608e440.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1073_44aab549-294d-4253-aedd-80eb088ed4f7.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1078.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/26.01.03-251_copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/26.01.03-252_copy.jpg?width=600"
+    ],
+    "category": "Sets & jumpsuits",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-long-sleeve-silk-jumpsuit-cream",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Long Sleeve Silk Jumpsuit",
+    "price": 488,
+    "url": "https://www.samelosangeles.com/products/long-sleeve-silk-jumpsuit-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1053.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1053.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1060.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1063.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/26.01.03-235_copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/26.01.03-227_copy.jpg?width=600"
+    ],
+    "category": "Sets & jumpsuits",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-oversized-poplin-shirt-white-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Oversized Poplin Shirt",
+    "price": 328,
+    "url": "https://www.samelosangeles.com/products/oversized-poplin-shirt-white-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/ZEthz.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/ZEthz.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_14_3195.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/aIq3h.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-oversized-poplin-shirt-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Oversized Poplin Shirt",
+    "price": 328,
+    "url": "https://www.samelosangeles.com/products/oversized-poplin-shirt-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_881.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_881.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/26.01.03-275.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/zsEmk.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_885.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_893.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_896.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/26.01.03-276.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-poplin-mini-dress-black-polka-dot",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Poplin Mini Dress",
+    "price": 378,
+    "url": "https://www.samelosangeles.com/products/poplin-mini-dress-black-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same74.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same74.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/02.14.25-086.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/R13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/R14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/02.14.25-084.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-poplin-mini-dress-brown-polka-dot",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Poplin Mini Dress",
+    "price": 378,
+    "url": "https://www.samelosangeles.com/products/poplin-mini-dress-brown-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.26-733.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.26-733.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.26-735.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-poplin-mini-dress-cream-1",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Poplin Mini Dress",
+    "price": 378,
+    "url": "https://www.samelosangeles.com/products/poplin-mini-dress-cream-1",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/R18.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/R18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/02.14.25-076.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same185.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/R19.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/02.14.25-081.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-poplin-mini-dress-cream-polka-dot",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Poplin Mini Dress",
+    "price": 378,
+    "url": "https://www.samelosangeles.com/products/poplin-mini-dress-cream-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/02.14.25-087.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/02.14.25-087.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_4099.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same141.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same112.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/R16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/02.14.25-090.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-poplin-mini-dress-navy-polka-dot",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Poplin Mini Dress",
+    "price": 378,
+    "url": "https://www.samelosangeles.com/products/poplin-mini-dress-navy-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2077.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2077.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2087.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2093.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2104.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-poplin-mini-dress-pink-polka-dot",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Poplin Mini Dress",
+    "price": 264,
+    "url": "https://www.samelosangeles.com/products/poplin-mini-dress-pink-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.26-731.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.26-731.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/image00002.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.26-727.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-poplin-mini-dress-red",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Poplin Mini Dress",
+    "price": 378,
+    "url": "https://www.samelosangeles.com/products/poplin-mini-dress-red",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Frame_3.png?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Frame_3.png?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/RED_POPLIN_MINI_DRESS_FRONT.png?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Poplin_Mini_Dress_-_Red_BACK.png?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Frame_4.png?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-poplin-mini-dress-yellow-polka-dot",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Poplin Mini Dress",
+    "price": 264,
+    "url": "https://www.samelosangeles.com/products/poplin-mini-dress-yellow-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_970_ca421421-8939-4b97-b8ca-c4fe6e52cdb3.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_970_ca421421-8939-4b97-b8ca-c4fe6e52cdb3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.26-743.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_974.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.26-738.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-poplin-romper-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Poplin Romper",
+    "price": 398,
+    "url": "https://www.samelosangeles.com/products/poplin-romper-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/AAGJ2.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/AAGJ2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_15_3398.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/X2iiX.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/6orfS.jpg?width=600"
+    ],
+    "category": "Sets & jumpsuits",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-relaxed-cashmere-crewneck-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Relaxed Cashmere Crewneck",
+    "price": 478,
+    "url": "https://www.samelosangeles.com/products/relaxed-cashmere-crewneck-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1316_1.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1316_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1319_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1324_1.jpg?width=600"
+    ],
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-relaxed-cashmere-crewneck-cream",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Relaxed Cashmere Crewneck",
+    "price": 478,
+    "url": "https://www.samelosangeles.com/products/relaxed-cashmere-crewneck-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1502.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1502.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1510.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1512_2d8eab03-9e2c-4cca-8d35-cb9c8e2bba34.jpg?width=600"
+    ],
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-relaxed-cashmere-turtleneck-black-new",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Relaxed Cashmere Turtleneck",
+    "price": 478,
+    "url": "https://www.samelosangeles.com/products/relaxed-cashmere-turtleneck-black-new",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME522.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME522.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D313_1252_0f11c423-07eb-4c26-acc1-9b267cb7bc15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME527_b198d44f-23af-4091-926d-c3ab43f03c2f.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME542.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same630_acceae52-9bcf-4605-8f79-875318096121.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same633_e8a00f8d-adda-4670-b8ff-51cca653d379.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same637_6c5f719f-4228-4b88-88ef-f02ec3d8c50c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1440_2.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-relaxed-cashmere-turtleneck-cream-new-sku",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Relaxed Cashmere Turtleneck",
+    "price": 478,
+    "url": "https://www.samelosangeles.com/products/relaxed-cashmere-turtleneck-cream-new-sku",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same538_da219ec6-c179-4be6-be03-d96844b89935.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same538_da219ec6-c179-4be6-be03-d96844b89935.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D224_5769_dd7a7f43-899d-4f62-ad19-11bd61b43a79.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D224_5718_774e6985-091f-4cf2-a91e-55fc15615288.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D224_5766_654c40c0-8b15-44a3-ad0c-a17aa2b6d0df.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same543_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same545_f2efe0ca-2085-4404-934b-1a4efda25f13.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-relaxed-cashmere-turtleneck-wheat",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Relaxed Cashmere Turtleneck",
+    "price": 478,
+    "url": "https://www.samelosangeles.com/products/relaxed-cashmere-turtleneck-wheat",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_785.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_785.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D307_0380_2x3_b157b92e-fcf7-4ff5-85e9-5e8768b6219b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_790.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_809_46783581-096a-415b-b18b-d41cf85de4db.jpg?width=600"
+    ],
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-short-wool-coat-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Short Wool Coat",
+    "price": 453,
+    "url": "https://www.samelosangeles.com/products/short-wool-coat-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same261_7e216892-73b4-4a69-a11b-4e02b0ade3f9.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same261_7e216892-73b4-4a69-a11b-4e02b0ade3f9.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_5287_031995ea-b185-49cb-b2d9-3719e5337e22.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same266_87cb1f3b-4e70-4e20-adfc-a2f2833c2773.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/12.12.25-055.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/12.12.25-045.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-short-wool-coat-cream",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Short Wool Coat",
+    "price": 453,
+    "url": "https://www.samelosangeles.com/products/short-wool-coat-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SHORT_WOOL_COAT_-_CREAM.png?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SHORT_WOOL_COAT_-_CREAM.png?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/B5FF9E5E-3544-40FB-AB37-0D843FFA7AE3_1_201_a.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-short-wool-coat-gray",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Short Wool Coat",
+    "price": 453,
+    "url": "https://www.samelosangeles.com/products/short-wool-coat-gray",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/12.12.25-038.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/12.12.25-038.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/image00021_4a4d1eac-8ad8-4a84-bb51-fb2c49a20b11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/image00020_b449435f-86dc-4f83-b28a-4f24703e62a0.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/image00014_9405de7c-8368-4f85-b67a-3963deb2657e.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/12.12.25-039.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-silk-fringe-gown-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Silk Fringe Gown",
+    "price": 898,
+    "url": "https://www.samelosangeles.com/products/silk-fringe-gown-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1077_85025958-2e62-4cce-9a11-cf055d95ae05.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1077_85025958-2e62-4cce-9a11-cf055d95ae05.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D315_1324_79b76a0c-78f5-453c-838d-3e813ddfdffd.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D315_1353_03126cf5-16ff-4cdb-bf0b-5f2ea8940460.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1098_5c14f6f6-c4ed-4bc9-9656-3cbdc844a65e.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-silk-fringe-gown-chartreuse",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Silk Fringe Gown",
+    "price": 898,
+    "url": "https://www.samelosangeles.com/products/silk-fringe-gown-chartreuse",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1116.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1116.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D204_3137_e3689481-c2f7-4f74-b0a1-47ef47eff97e.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1118.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Mustard",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-silk-fringe-gown-cream",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Silk Fringe Gown",
+    "price": 898,
+    "url": "https://www.samelosangeles.com/products/silk-fringe-gown-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1128_f4c4e6c7-b09d-435e-8b87-8018b38db79d.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1128_f4c4e6c7-b09d-435e-8b87-8018b38db79d.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D205_3375_ea685ab6-dd50-41db-92f6-6426a6455eec.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1134.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-silk-fringe-tee-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Silk Fringe Tee",
+    "price": 458,
+    "url": "https://www.samelosangeles.com/products/silk-fringe-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/m2d4j.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/m2d4j.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/jRq2d.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-silk-long-sleeve-blouse-chocolate-brown",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Silk Long Sleeve Blouse",
+    "price": 548,
+    "url": "https://www.samelosangeles.com/products/silk-long-sleeve-blouse-chocolate-brown",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same592_52cdee05-f3ba-4e94-81cd-c3ed1d720425.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same592_52cdee05-f3ba-4e94-81cd-c3ed1d720425.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.28-784_copy_4136f6da-1ff1-4f73-9e96-bbe75a2cd446.png?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same615_599bbe2f-548d-45ac-86b2-4233dc0710e7.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same594_570ce454-16a8-45c4-bcba-35283ece1bc3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same601_fa941f14-e432-44d3-886a-b00fa2e7e6a4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.28-786_copy.png?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-silk-long-sleeve-blouse-cream",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Silk Long Sleeve Blouse",
+    "price": 548,
+    "url": "https://www.samelosangeles.com/products/silk-long-sleeve-blouse-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same670_be8fbfe6-b4f3-426a-a51c-0227ae53764f.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same670_be8fbfe6-b4f3-426a-a51c-0227ae53764f.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same674_d1be90be-c4ab-464f-a5cc-a6bdd8ea4942.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same692_6bb87276-de69-49d1-9fa0-7218f1c6a249.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.28-792_copy_68187d9a-a6d3-4929-900a-cb596bba7aa6.png?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.28-790_copy_c65d43b1-62eb-4f73-ab40-2390e0219e46.png?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-silk-long-sleeve-blouse-dusty-pink",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Silk Long Sleeve Blouse",
+    "price": 548,
+    "url": "https://www.samelosangeles.com/products/silk-long-sleeve-blouse-dusty-pink",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_723_7f5bc454-c3f7-4e16-95b4-b5eb2a5b0a88.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_723_7f5bc454-c3f7-4e16-95b4-b5eb2a5b0a88.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_738.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_750.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-silk-long-sleeve-blouse-sage",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Silk Long Sleeve Blouse",
+    "price": 548,
+    "url": "https://www.samelosangeles.com/products/silk-long-sleeve-blouse-sage",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME769_46410f09-2eae-4f3f-ba32-a8ebaabb0feb.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME769_46410f09-2eae-4f3f-ba32-a8ebaabb0feb.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Silk_Blouse_Sage_4ef2200b-c0cc-4505-a9a4-76a23f20d8a9.png?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D203_3007_1cfa47d3-f583-49a4-8999-9a7ed87eb8f2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME776_580f0dae-1369-4aa5-870d-8a84f2179e30.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME779_bce064d6-31cd-4b1a-a1d9-761e9d8b1661.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Green",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-sleeveless-knit-mini-dress-chocolate-brown-sequin",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Sleeveless Knit Mini Dress",
+    "price": 328,
+    "url": "https://www.samelosangeles.com/products/sleeveless-knit-mini-dress-chocolate-brown-sequin",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1656_0a2bb376-83f0-4a8d-8033-e4b766035739.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1656_0a2bb376-83f0-4a8d-8033-e4b766035739.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1674.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1680.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1709.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1682.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1713.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sequin or bead trim, material not stated"
+  },
+  {
+    "id": "same-los-angeles-sleeveless-knit-mini-dress-light-gold-sequin",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Sleeveless Knit Mini Dress",
+    "price": 328,
+    "url": "https://www.samelosangeles.com/products/sleeveless-knit-mini-dress-light-gold-sequin",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1618.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1618.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/26.01.03-173_copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/k7SEO.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1631.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1624.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1640_1018ca86-eaff-4edb-9c2a-046d469ca6f9.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1630.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1652.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Mustard",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sequin or bead trim, material not stated"
+  },
+  {
+    "id": "same-los-angeles-stone-beaded-t-shirt-dress-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Stone Beaded T-Shirt Dress",
+    "price": 298,
+    "url": "https://www.samelosangeles.com/products/stone-beaded-t-shirt-dress-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/mfrqG.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/mfrqG.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2767.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2798.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/wwo4U.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sequin or bead trim, material not stated"
+  },
+  {
+    "id": "same-los-angeles-stone-beaded-t-shirt-dress-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Stone Beaded T-Shirt Dress",
+    "price": 298,
+    "url": "https://www.samelosangeles.com/products/stone-beaded-t-shirt-dress-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/00QmU.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/00QmU.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2752.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2741.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/d9S32.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sequin or bead trim, material not stated"
+  },
+  {
+    "id": "same-los-angeles-suede-peplum-bomber-jacket-light-blue",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Suede Peplum Bomber Jacket",
+    "price": 1698,
+    "url": "https://www.samelosangeles.com/products/suede-peplum-bomber-jacket-light-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/4808C849-1384-4DBD-A85F-58D10A7123C6.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/4808C849-1384-4DBD-A85F-58D10A7123C6.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D311_0891-2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D768D538-19BA-4B88-8CEB-567F854F7C16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D311_0955_2x3_d4ff229a-d307-41a6-b5f3-3a28d0ba1978.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-boyfriend-long-sleeve-tee-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Boyfriend Long Sleeve Tee",
+    "price": 168,
+    "url": "https://www.samelosangeles.com/products/the-boyfriend-long-sleeve-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1529-SHOPIFY.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1529-SHOPIFY.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1534-SHOPIFY.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-boyfriend-long-sleeve-tee-red",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Boyfriend Long Sleeve Tee",
+    "price": 168,
+    "url": "https://www.samelosangeles.com/products/the-boyfriend-long-sleeve-tee-red",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_85.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_85.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_91_7f9bfd5e-85c6-4c1f-93ec-7bd32299c437.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-boyfriend-long-sleeve-tee-wheat",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Boyfriend Long Sleeve Tee",
+    "price": 168,
+    "url": "https://www.samelosangeles.com/products/the-boyfriend-long-sleeve-tee-wheat",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1538.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1538.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1547.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1556.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-boyfriend-long-sleeve-tee-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Boyfriend Long Sleeve Tee",
+    "price": 168,
+    "url": "https://www.samelosangeles.com/products/the-boyfriend-long-sleeve-tee-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_354_7ee207f6-80db-43b2-bd50-efeacf702c66.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_354_7ee207f6-80db-43b2-bd50-efeacf702c66.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1566-SHOPIFY.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1567-SHOPIFY.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1580-SHOPIFY.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-denim-pencil-maxi-skirt-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Denim Pencil Maxi Skirt",
+    "price": 398,
+    "url": "https://www.samelosangeles.com/products/the-denim-pencil-maxi-skirt-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same538_da219ec6-c179-4be6-be03-d96844b89935.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same538_da219ec6-c179-4be6-be03-d96844b89935.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same543_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same545_f2efe0ca-2085-4404-934b-1a4efda25f13.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-leather-bomber-jacket-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Leather Bomber Jacket",
+    "price": 998,
+    "url": "https://www.samelosangeles.com/products/the-leather-bomber-jacket-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_227.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_227.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_1652b_zip_fixed.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_1850b_zip_fixed.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_231.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_226.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.10.11-1263_Edit.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.10.11-1265_Edit.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-leather-fringe-jacket-espresso",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Fringe Leather Jacket",
+    "price": 1998,
+    "url": "https://www.samelosangeles.com/products/the-leather-fringe-jacket-espresso",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1340_2.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1340_2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D304_0144_aaa95e9c-de42-4ac1-aca1-4f58b4b799d9.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D304_0145_f82a5e41-7bb8-404d-b169-b5f2f7df71cb.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D304_0140_1b15de4a-6f4a-46d4-9abc-def3f1d4e01a.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D101_0309.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-leather-hot-short-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Leather Hot Short",
+    "price": 458,
+    "url": "https://www.samelosangeles.com/products/the-leather-hot-short-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same214_8e7327c9-b638-472f-ab7c-7cf48c88655c.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same214_8e7327c9-b638-472f-ab7c-7cf48c88655c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_1810_8e84ebbf-9028-4d94-9f36-68e286384a0b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same217_f3dc95fb-2cf2-4cbd-bd00-d4b74820f107.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same220_5c84fd80-c19a-43bf-96ef-2dfee8b6f1ef.jpg?width=600"
+    ],
+    "category": "Shorts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-leather-parka-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Leather Parka",
+    "price": 398,
+    "url": "https://www.samelosangeles.com/products/the-leather-parka-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same76_edf9f858-af3e-464b-be39-607c6e8e3714.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same76_edf9f858-af3e-464b-be39-607c6e8e3714.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_4448b_zip_fixed.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_4470b_zip_fixed.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same79_a2da4f31-55f3-4594-aa8e-8501e9c7860d.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.10.11-1252_Edit.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.10.11-1253.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-leather-parka-cognac",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Leather Parka",
+    "price": 1698,
+    "url": "https://www.samelosangeles.com/products/the-leather-parka-cognac",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1406.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1406.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D303_0095_1ebea391-4ae4-4ca1-b0fb-b69e859ef413.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/18D1E63F-9B92-468A-9132-A0AEE0328237_1_201_a.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D303_0085_beb0836a-2566-4f6d-b341-a1b9ae3db1f6.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D107_1143.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME1431.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Viscose",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-leather-parka-taupe",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Leather Parka",
+    "price": 398,
+    "url": "https://www.samelosangeles.com/products/the-leather-parka-taupe",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same34_f2618e56-678b-4f38-b1c1-94458fd1d09b.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same34_f2618e56-678b-4f38-b1c1-94458fd1d09b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_2560b_zip_fixed.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.28-945copy3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same42_779e9edc-de54-45ce-8f18-ccd4e927b9d4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same59_15e770fd-58c3-439a-a8f3-eadc4ba6f748.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.28-946copy.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-leather-trench-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Leather Trench",
+    "price": 748,
+    "url": "https://www.samelosangeles.com/products/the-leather-trench-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same185_5e4842aa-36e1-4306-8a30-181c81cd41fd.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same185_5e4842aa-36e1-4306-8a30-181c81cd41fd.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_4100_a3744914-a5b2-497a-adb7-319ef2dd9e36.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_4028.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same176_4b98c1d3-8b35-47c9-885b-98ca906ee509.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same182_e71bd9fc-7089-4bff-afa9-b5a40f86d6d8.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same190_845dfa6f-b714-42d6-86d4-7e032d36b5f1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same192_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.10.11-1241_Edit.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-denim-jacket-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Denim Jacket",
+    "price": 558,
+    "url": "https://www.samelosangeles.com/products/the-perfect-denim-jacket-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/ANOuW.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/ANOuW.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1240.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1250.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1312.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/hWW1c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/3rspK.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-293.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-297.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-denim-jacket-classic-blue",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Denim Jacket",
+    "price": 558,
+    "url": "https://www.samelosangeles.com/products/the-perfect-denim-jacket-classic-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2232.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2232.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1190.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1215.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2235.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2239.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-263.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-270.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-denim-jacket-off-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Denim Jacket",
+    "price": 558,
+    "url": "https://www.samelosangeles.com/products/the-perfect-denim-jacket-off-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1866_3c9f3f06-21b7-48ad-a95d-0b626951d203.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1866_3c9f3f06-21b7-48ad-a95d-0b626951d203.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1880_02bb83a2-3c66-4d70-b070-7700124b912d.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1895_114494bd-cf26-41e2-9919-46d5ee28756d.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-282-2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-285-2.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-denim-jacket-vintage-dark",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Denim Jacket",
+    "price": 558,
+    "url": "https://www.samelosangeles.com/products/the-perfect-denim-jacket-vintage-dark",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same779_d42e366f-fbb0-42cc-bcff-a5b1d2b54f20.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same779_d42e366f-fbb0-42cc-bcff-a5b1d2b54f20.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_781.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same787_1dc6f360-3c60-4c0b-a66b-a30eccb07ab2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same791_3bea0bc5-55fd-402e-b9ad-a8b01bdceecd.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-288.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-denim-jacket-vintage-light",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Denim Jacket",
+    "price": 558,
+    "url": "https://www.samelosangeles.com/products/the-perfect-denim-jacket-vintage-light",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/GekyP.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/GekyP.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1068.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1135.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1073.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/hgUGi.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/oKaox.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-275.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-276.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-denim-short-optic-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Denim Short",
+    "price": 208,
+    "url": "https://www.samelosangeles.com/products/the-perfect-denim-short-optic-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/iwEsk.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/iwEsk.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2471.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/0eIx6.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/AY36l.jpg?width=600"
+    ],
+    "category": "Shorts",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-perfect-denim-shorts-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Denim Short",
+    "price": 208,
+    "url": "https://www.samelosangeles.com/products/the-perfect-denim-shorts-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2542.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2542.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2552.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2557.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-305.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-306.jpg?width=600"
+    ],
+    "category": "Shorts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-perfect-denim-shorts-classic-blue",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Denim Short",
+    "price": 208,
+    "url": "https://www.samelosangeles.com/products/the-perfect-denim-shorts-classic-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1190_55544804-088e-4ce3-bf8f-21589584ca50.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1190_55544804-088e-4ce3-bf8f-21589584ca50.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/ClassicBlue_Edit2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same1215.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-303.jpg?width=600"
+    ],
+    "category": "Shorts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-perfect-denim-shorts-vintage-light",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Denim Short",
+    "price": 208,
+    "url": "https://www.samelosangeles.com/products/the-perfect-denim-shorts-vintage-light",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2502.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2502.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2510.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2515.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2533.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2538.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/LightWash_Edit2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/04.07.25-300.jpg?width=600"
+    ],
+    "category": "Shorts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-perfect-jean-black-copy",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-perfect-jean-black-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/XRerf.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/XRerf.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/W6rXu.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/cKa8L.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same590.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same513.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same11991_31b53ab3-ae22-46ef-ad4d-1f9924b13fbf.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same12021_873f2657-75fe-4cf6-97a4-cd6142ba0c8e.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same12051_4b683340-df34-421e-93f5-cb6e21c9eb8c.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-perfect-jean-classic-blue-copy",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-perfect-jean-classic-blue-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/EYurk.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/EYurk.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_505_5b1ab9c6-5dc4-430a-b1d4-b910b0f82971.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_625.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same691.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/hyUtq.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/1wZOq.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/ClassicBlue_Edit.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-perfect-jean-dark-indigo",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-perfect-jean-dark-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_196_9a7487b8-0436-44bf-b79a-371b6bea6623.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_196_9a7487b8-0436-44bf-b79a-371b6bea6623.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_201_83054ceb-9d93-450d-ad97-552e8cbeef60.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_212_5fa779cf-bcf4-41a7-b3c7-527f45282c73.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-jean-off-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The High Rise Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-perfect-jean-off-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/ThePerfectJean_OffWhite.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/ThePerfectJean_OffWhite.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same986copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same1020.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same1157.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same1159.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same1162.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1844.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1831.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Organic cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-jean-stone-wash-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-perfect-jean-stone-wash-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_176.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_176.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_186.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_193_30516a77-04fa-4e36-b653-99e5ef8a0132.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-jean-vintage-dark-copy",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-perfect-jean-vintage-dark-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same2632_color_matched2.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same2632_color_matched2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_14_5969fab3-74c0-4030-913b-903a0e6a48c9.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same2640_color_matched2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same2643_color_matched3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same110-2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same125.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same11761_94e221e8-2086-4775-8e5c-f4b4f017e70d.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same11831_bceb58dc-751c-4f4e-8dc2-043e550ced1e.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-perfect-jean-vintage-light-copy",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-perfect-jean-vintage-light-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/I2k0B.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/I2k0B.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/RZ2El.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/ILa7p.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same164.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same215.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same11661_e73d6809-6548-4225-ae8f-5d9d308e5f09.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same11691_6b400901-c7ac-45e7-857b-704c2214b21b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same11731_9781f290-d81d-4770-a601-295754d30847.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-perfect-leather-pant-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Perfect Leather Pant",
+    "price": 898,
+    "url": "https://www.samelosangeles.com/products/the-perfect-leather-pant-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same16_671abb6b-f673-422a-8bf7-4a836a3a8879.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same16_671abb6b-f673-422a-8bf7-4a836a3a8879.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SA_4685.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same18_75492465-c88c-4d04-acfb-6b96023b8a07.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same23_cd140874-0853-4123-b9b6-dbfaa0579978.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same159_c394487a-077b-44d3-9c9e-5ed81ec53a24.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-leather-pant-cream",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Perfect Leather Pant",
+    "price": 898,
+    "url": "https://www.samelosangeles.com/products/the-perfect-leather-pant-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1440_2.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1440_2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1443_2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1452_2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1211_2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1225_2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1231_2.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-long-short-vintage-light",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Long Short",
+    "price": 348,
+    "url": "https://www.samelosangeles.com/products/the-perfect-long-short-vintage-light",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/DfIiw.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/DfIiw.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2612.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2586.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/GVEmV.jpg?width=600"
+    ],
+    "category": "Shorts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Regenerative cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-stretch-jean-off-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Perfect Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-perfect-stretch-jean-off-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1831_c71fccf7-6a0b-43fc-ba02-a65d6c57097d.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1831_c71fccf7-6a0b-43fc-ba02-a65d6c57097d.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1844_49c700bd-afaf-4009-b6ff-89ac270c6ac7.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1839_379d1519-bb69-4e1e-aa0c-9552660e680b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1842_e0ea6435-582c-4e2b-902b-44909b4bc76f.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1857_3efb6649-694b-40d4-b8ef-3ad2280cb73d.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-tee-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Perfect Tee",
+    "price": 128,
+    "url": "https://www.samelosangeles.com/products/the-perfect-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_642_776ee947-33bb-4a0a-bb31-db1527e0a0ad.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_642_776ee947-33bb-4a0a-bb31-db1527e0a0ad.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2348_74fb4ad9-6bfa-45d7-924f-41476cc08b25.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2395.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_634.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_636.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-perfect-tee-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Perfect Tee",
+    "price": 128,
+    "url": "https://www.samelosangeles.com/products/the-perfect-tee-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME666.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME666.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2405.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2453.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME660.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME665_b35530f9-f421-4f25-8c19-c0f460fceb0a.jpg?width=600"
+    ],
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-relaxed-low-rise-jean-lived-in-medium",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Relaxed Low Rise Jean",
+    "price": 458,
+    "url": "https://www.samelosangeles.com/products/the-relaxed-low-rise-jean-lived-in-medium",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1316_1.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1316_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1175.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1141.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D201_2630_copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1329_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1319_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1324_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1333_1.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-relaxed-twist-jean-90-s-light-acid",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Relaxed Twist Jean",
+    "price": 458,
+    "url": "https://www.samelosangeles.com/products/the-relaxed-twist-jean-90-s-light-acid",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_45_1_eb66eebe-8e6b-459e-9948-352cacd6e7b1.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_45_1_eb66eebe-8e6b-459e-9948-352cacd6e7b1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1306.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME41_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME54_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_57_4.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-relaxed-twist-jean-90-s-medium-w-whisker",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Relaxed Twist Jean",
+    "price": 458,
+    "url": "https://www.samelosangeles.com/products/the-relaxed-twist-jean-90-s-medium-w-whisker",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_7.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_7.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME24_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_33.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME29_2.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-relaxed-twist-jean-optic-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Relaxed Twist Jean",
+    "price": 458,
+    "url": "https://www.samelosangeles.com/products/the-relaxed-twist-jean-optic-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME67.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME67.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME71_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME73_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME75_a35a06b9-9d59-44a0-b48f-f8d64dfbfa78.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-skinny-jean-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Skinny Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-skinny-jean-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2260_bf508c2e-cdd5-404c-b106-9acb65707738.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2260_bf508c2e-cdd5-404c-b106-9acb65707738.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2306_700d00b7-4290-4552-9281-3623449b5600.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2269_73a00773-a0ba-4fbf-b959-1c166b3cb190.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2295_fbeb1662-625d-4ce8-b50d-2e71359f5f75.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2303_4e5812a9-e42b-4c5a-ae5d-204c019cb4ef.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-skinny-jean-vintage-dark",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Skinny Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-skinny-jean-vintage-dark",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2156_b114a383-a239-4c32-8501-9fd11378d821.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2156_b114a383-a239-4c32-8501-9fd11378d821.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2183_d87c1d29-bb04-4f95-a275-0c804b361811.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2161_c7264eba-8d11-453a-a62b-5194f1b5cace.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2180_ce2ff1be-44ba-4483-afad-0daeacf42656.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2184_27d2e88a-a683-4c48-9e8a-89bb1b864ca3.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-straight-ankle-jean-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Straight Ankle Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-straight-ankle-jean-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same630_acceae52-9bcf-4605-8f79-875318096121.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same630_acceae52-9bcf-4605-8f79-875318096121.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same633_e8a00f8d-adda-4670-b8ff-51cca653d379.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same637_6c5f719f-4228-4b88-88ef-f02ec3d8c50c.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-straight-ankle-jean-classic-blue",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Straight Ankle Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-straight-ankle-jean-classic-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2200_9414d911-0441-42f8-ad67-2f534ea83854.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2200_9414d911-0441-42f8-ad67-2f534ea83854.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2205_ed83ef11-9ac7-42b2-8179-d633dc277af4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2249_ff334b76-ea30-43db-82c3-a73224d831c8.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2252_7b4820b6-93d7-4866-9693-61e47ae0cf64.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-straight-ankle-jean-dark-indigo",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Straight Ankle Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-straight-ankle-jean-dark-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2355_bc91ac22-3c15-43f8-8191-96585408f37a.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2355_bc91ac22-3c15-43f8-8191-96585408f37a.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2383_b3b179dc-0cb3-49c5-bb2b-40d1eb0630e8.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2380_f8101180-c3ab-44ca-9798-b801e5a5faaf.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2388_dedc46a9-0895-4901-a769-4ed3300ec0a2.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-straight-ankle-jean-off-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Straight Ankle Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-straight-ankle-jean-off-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1866_3c9f3f06-21b7-48ad-a95d-0b626951d203.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1866_3c9f3f06-21b7-48ad-a95d-0b626951d203.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1880_02bb83a2-3c66-4d70-b070-7700124b912d.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1895_114494bd-cf26-41e2-9919-46d5ee28756d.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-straight-ankle-jean-stone-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Straight Ankle Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-straight-ankle-jean-stone-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same519_5dc3b557-ee7c-43c7-9d65-ad98483ba91b.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same519_5dc3b557-ee7c-43c7-9d65-ad98483ba91b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2102.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_2128_1e21497b-e80f-4d5f-bafe-0fd794194f39.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same521_e447c34c-8eda-4826-9daf-7805cd95fb1f.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same525_76f2af6a-2cfb-475d-bac1-f653a7c4fd00.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-straight-ankle-jean-vintage-dark",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Straight Ankle Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-straight-ankle-jean-vintage-dark",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same558_7a3939e3-a5e9-4733-99c7-badae51256f1.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same558_7a3939e3-a5e9-4733-99c7-badae51256f1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same560_d67be5b8-5431-46fc-81e2-5fe6a9c2d65f.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same564_a3d1e057-71e9-4988-a146-71cde44b1bc2.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-straight-ankle-jean-vintage-light",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Straight Ankle Jean",
+    "price": 428,
+    "url": "https://www.samelosangeles.com/products/the-straight-ankle-jean-vintage-light",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same547_4b6e24c4-e4d9-4f17-8b6f-3c441940d78f.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same547_4b6e24c4-e4d9-4f17-8b6f-3c441940d78f.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same551_63e720fe-45cc-4b69-876b-e2db506c4173.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same554_cbcc22c1-4a52-40cd-a0c0-abd4910b9259.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-suede-bomber-jacket-taupe",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "The Suede Bomber Jacket",
+    "price": 998,
+    "url": "https://www.samelosangeles.com/products/the-suede-bomber-jacket-taupe",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_650_fe963f1e-dd2c-42ae-a511-b007d59d8fda.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_650_fe963f1e-dd2c-42ae-a511-b007d59d8fda.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/image00011_62205773-ec94-4018-931a-3aa49242a508.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/image00013.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/image00010.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/image00002_9ab277de-5346-48ac-b6b9-a5354dadba49.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_653.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_655_6ce43736-8e6e-4f24-83ac-474a33d3011e.jpg?width=600"
+    ],
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-the-wide-leg-jean-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Wide Leg Jean",
+    "price": 398,
+    "url": "https://www.samelosangeles.com/products/the-wide-leg-jean-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Denim9_8e4f5112-a48b-4c99-8897-44301fe3d2c7.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Denim9_8e4f5112-a48b-4c99-8897-44301fe3d2c7.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1264.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1316.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1511.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Denim10_cb32af28-9d6d-47db-a7e0-a720a4051551.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-wide-leg-jean-classic-blue",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Wide Leg Jean",
+    "price": 398,
+    "url": "https://www.samelosangeles.com/products/the-wide-leg-jean-classic-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2426_9996c89b-f7b7-497b-ae4b-820e8142354d.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2426_9996c89b-f7b7-497b-ae4b-820e8142354d.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Denim3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2444_12837955-499b-49e9-b6c6-8fa756df4246.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2419_881ec04a-0681-4f22-8ea6-71a28acbb857.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2424_fb18a1fc-a768-4f84-88bc-3ed411ee6b86.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2427_7198cd4d-c5b8-43c8-8614-96170d266b6f.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_2437_485b6b49-df9e-4e75-b6dc-9799ba384360.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Denim4_4600c3f9-a3f8-4688-b253-7a6f3d995980.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-wide-leg-jean-dark-indigo",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Wide Leg Jean",
+    "price": 398,
+    "url": "https://www.samelosangeles.com/products/the-wide-leg-jean-dark-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/AAqX0.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/AAqX0.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_747.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_909.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SGWOh.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/K0xUm.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/gFXUm.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/t1HBo.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/4Wv4k.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-wide-leg-jean-off-white",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Wide Leg Jean",
+    "price": 398,
+    "url": "https://www.samelosangeles.com/products/the-wide-leg-jean-off-white",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1057.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/SAME_1057.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-wide-leg-jean-vintage-dark",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Wide Leg Jean",
+    "price": 398,
+    "url": "https://www.samelosangeles.com/products/the-wide-leg-jean-vintage-dark",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same763_bce64fa3-cd6b-4307-bf49-6aecbc155ec6.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same763_bce64fa3-cd6b-4307-bf49-6aecbc155ec6.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Denim5_d710cce4-4f6d-4ca1-b24a-dadcdab0b500.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/D303_0095.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same769_28c33560-5bb7-4417-b54d-337aa5221d60.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same773_df8465a7-98be-4597-be18-ca380e5d07a9.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_781.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Denim6_13f85d07-b42d-40c6-ae24-44b015be2ae0.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-the-wide-leg-jean-vintage-light",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Denim",
+    "name": "The Wide Leg Jean",
+    "price": 398,
+    "url": "https://www.samelosangeles.com/products/the-wide-leg-jean-vintage-light",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1425.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1425.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Denim1_8cdde526-df96-4623-975b-6a5e4c780162.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1073.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1068.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_1104.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Denim2.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": [],
+    "trim": "Sizes 29-32: 98% Organic Cotton, 2% elastane"
+  },
+  {
+    "id": "same-los-angeles-wool-mini-skirt-black",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Wool Mini Skirt",
+    "price": 265,
+    "url": "https://www.samelosangeles.com/products/wool-mini-skirt-black",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same249_1.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same249_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same254_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same258_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.28-857_copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.28-859_copy.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "same-los-angeles-wool-mini-skirt-gray",
+    "retailer": "SAME Los Angeles",
+    "brand": "SAME Los Angeles",
+    "name": "Wool Mini Skirt",
+    "price": 265,
+    "url": "https://www.samelosangeles.com/products/wool-mini-skirt-gray",
+    "image": "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_287_1.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same_287_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/image00021_4a4d1eac-8ad8-4a84-bb51-fb2c49a20b11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/image00014_9405de7c-8368-4f85-b67a-3963deb2657e.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same290_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/Same293_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.28-864_copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0964/1358/files/25.08.28-862_copy.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
   }
 ]
