@@ -4,7 +4,7 @@ import EditRail from '@/components/EditRail';
 import edits from '@/data/edits.json';
 import { GUIDES } from '@/lib/guides';
 import { slugify } from '@/lib/item';
-import { sectionPieces } from '@/lib/editrules';
+import { labelFor, sectionPieces } from '@/lib/editrules';
 import { BIG_BRANDS, CATEGORY_PAGES, MENUS, MIN_BRAND_PIECES } from '@/lib/shop';
 import { editHref } from '@/lib/edits';
 import { SITE } from '@/lib/site';
@@ -29,7 +29,7 @@ export default function HomePage() {
         {edits.map((block, i) => {
           if (block.type !== 'edit') return null;
           const meta = Object.fromEntries((block.picks || []).map((p) => [p.id, p]));
-          const pieces = sectionPieces(block, shown).map((item) => ({ item, ...(meta[item.id] || {}) }));
+          const pieces = sectionPieces(block, shown).map((item) => ({ item, label: labelFor(block, item), ...(meta[item.id] || {}) }));
           /* A section the catalog cannot fill yet would be a heading above
              nothing. Drop it until the pieces arrive. */
           if (pieces.length === 0) return null;

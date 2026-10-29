@@ -38,6 +38,7 @@ export default function EditPage({ params }) {
       <CatBar pages={CATEGORY_PAGES} menus={MENUS} />
       <Shop
         items={items}
+        groupSets={params.key === 'sets'}
         heading={{
           eyebrow: block?.by || 'The edit',
           title: rule.title,

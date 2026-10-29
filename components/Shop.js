@@ -2,6 +2,8 @@
 
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { subOf } from '@/lib/subcats';
+import { setGroups } from '@/lib/sets';
+import { attrMenus, attrsOf } from '@/lib/attrs';
 import { imageAllowed, isSoldOut, slugify } from '@/lib/item';
 import ProductCard from './ProductCard';
 import { EDIT_FILTERS } from '@/lib/edits';
@@ -27,6 +29,7 @@ const initial = (brand, category) => ({
   category,        // set on a category page
   tag: null,
   sub: null,       // sub-category label inside the category, see lib/subcats.js
+  attrs: {},       // { occasion: 'cocktail', length: 'midi' } inside a category, see lib/attrs.js
   nameHas: null,   // words in the name, used by edits like fringe that cut across categories
   colours: [],
   fibers: [],
@@ -40,6 +43,7 @@ const initial = (brand, category) => ({
  * match a cross-category edit uses. */
 const extra = (i, f) =>
   (!f.sub || subOf(i) === f.sub) &&
+  Object.entries(f.attrs || {}).every(([k, v]) => !v || attrsOf(i)[k] === v) &&
   (!f.nameHas || f.nameHas.words.some((w) => i.name.toLowerCase().includes(w)));
 const ok = (i, f) => passes(i, f) && extra(i, f);
 
@@ -64,7 +68,11 @@ const PAGE = 60;
 /* after: rendered under the grid. The category facts live there, folded up,
  * so the page opens on the pieces and the written summary is still on the
  * page for anything that reads rather than looks. */
-export default function Shop({ items, brand = null, category = null, menu = null, heading, children = null, after = null }) {
+/* groupSets: on a brand page and the sets edit, the matching separates
+ * (lib/sets.js) show first as rows, each set's pieces side by side, and come
+ * out of the grid below so nothing appears twice. Owner decision 2026-10-28:
+ * sets always sit together on a brand page. */
+export default function Shop({ items, brand = null, category = null, menu = null, heading, children = null, after = null, groupSets = false }) {
   const cat = category?.category || null;
   const [f, setF] = useState(() => initial(brand, cat));
   const set = (patch) => setF((prev) => ({ ...prev, ...patch }));
@@ -77,6 +85,8 @@ export default function Shop({ items, brand = null, category = null, menu = null
     }));
 
   const retailers = useMemo(() => [...new Set(items.map((i) => i.retailer))].sort(), [items]);
+  const attrGroups = useMemo(() => (cat ? attrMenus(cat, items) : []), [cat, items]);
+  const pickAttr = (key, value) => set({ attrs: { ...f.attrs, [key]: f.attrs[key] === value ? null : value } });
   const activeSubs = menu?.subs.length ? menu.subs : null;
 
   /* The part of the address after the # picks a starting point: a
@@ -119,6 +129,10 @@ export default function Shop({ items, brand = null, category = null, menu = null
       ? [...inStockFirst(withImage), ...inStockFirst(kept.filter((i) => !(imageAllowed(i) && i.image)))]
       : inStockFirst(kept);
   }, [f, items]);
+
+  const sets = useMemo(() => (groupSets ? setGroups(results) : []), [results, groupSets]);
+  const setIds = useMemo(() => new Set(sets.flatMap((g) => g.pieces.map((p) => p.id))), [sets]);
+  const loose = useMemo(() => (setIds.size ? results.filter((i) => !setIds.has(i.id)) : results), [results, setIds]);
 
   const [limit, setLimit] = useState(PAGE);
   const more = useRef(null);
@@ -196,6 +210,23 @@ export default function Shop({ items, brand = null, category = null, menu = null
             ))}
           </div>
         )}
+        {/* Occasion, length and sleeve for dresses, read from the product
+            page where the sweep has been, from the name where it has not. */}
+        {attrGroups.map((g) => (
+          <div className="subs attrs" data-nosnippet="" role="group" aria-label={`${category?.label} by ${g.label.toLowerCase()}`} key={g.key}>
+            <span className="attrlabel">{g.label}</span>
+            {g.values.map((v) => (
+              <button
+                key={v.value}
+                type="button"
+                aria-pressed={f.attrs[g.key] === v.value}
+                onClick={() => pickAttr(g.key, v.value)}
+              >
+                {v.value.replace(/\b[a-z]/, (c) => c.toUpperCase())}
+              </button>
+            ))}
+          </div>
+        ))}
         <div className="shop">
           <aside className="rail" aria-label="Filters" data-nosnippet="">
             <div className="fgroup">
@@ -351,13 +382,30 @@ export default function Shop({ items, brand = null, category = null, menu = null
 
             {results.length ? (
               <>
+              {sets.length > 0 && (
+                <section className="setrows" aria-label="Sets">
+                  <h2 className="setshead">Sets</h2>
+                  {sets.map((g) => (
+                    <div className="setrow" key={g.key}>
+                      <p className="setname">
+                        {g.name.replace(/\b[a-z]/g, (c) => c.toUpperCase())}, {g.colour.toLowerCase()}
+                        <span className="setcount"> {g.pieces.length} pieces</span>
+                      </p>
+                      <div className="grid setgrid">
+                        {g.pieces.map((item) => <ProductCard key={item.id} item={item} />)}
+                      </div>
+                    </div>
+                  ))}
+                  {loose.length > 0 && <h2 className="setshead">Everything else</h2>}
+                </section>
+              )}
               <div className="grid">
-                {results.slice(0, limit).map((item) => <ProductCard key={item.id} item={item} />)}
+                {loose.slice(0, limit).map((item) => <ProductCard key={item.id} item={item} />)}
               </div>
-              {limit < results.length && (
+              {limit < loose.length && (
                 <div className="moreline" ref={more}>
                   <button type="button" className="linkbtn" onClick={() => setLimit((n) => n + PAGE)}>
-                    Show more, {results.length - limit} to go
+                    Show more, {loose.length - limit} to go
                   </button>
                 </div>
               )}

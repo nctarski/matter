@@ -13,14 +13,18 @@ export default function GuidesPage() {
       <div className="fullhead">
         <p className="eyebrow">The guides</p>
         <h1>Shopping guides</h1>
-        <p>One question each, answered with every piece we carry that fits, read label first.</p>
+        <p>
+          Each guide takes one question a shopper actually asks and answers it: a verdict,
+          the three pieces that show the shape of the market, what to check on the label
+          before you buy, and then every piece we carry that qualifies, rebuilt at every update.
+        </p>
       </div>
       <ul className="guidelist">
         {GUIDES.map((g) => (
           <li key={g.slug}>
             <Link href={`/guides/${g.slug}`}>
               <span className="gtitle">{g.title}</span>
-              <span className="gdesc">{g.description}</span>
+              <span className="gdesc">{g.question || g.description}</span>
               <span className="gcount">{g.pieces.length} pieces</span>
             </Link>
           </li>

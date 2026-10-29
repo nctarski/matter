@@ -37,17 +37,61 @@ export default function GuidePage({ params }) {
       <div className="fullhead">
         <p className="eyebrow">{g.eyebrow}</p>
         <h1>{g.title}</h1>
-        {g.intro.map((p, i) => <p key={i}>{p}</p>)}
-        {g.learn && (
-          <p>
-            <Link className="linkbtn" href={`/learn/${g.learn}`}>Read the fiber guide &rarr;</Link>
-          </p>
-        )}
-        <p className="updated">{g.pieces.length} pieces, lowest price first. Updated {updated}.</p>
+        {g.question && <p className="gquestion">{g.question}</p>}
       </div>
-      <div className="grid guidegrid">
-        {g.pieces.map((item) => <ProductCard key={item.id} item={item} />)}
-      </div>
+
+      {/* A guide is an answer, not a grid. The verdict first, then the three
+          pieces that show the shape of the market, then what to check on any
+          piece, then every piece we carry that fits. */}
+      <section className="verdict" aria-labelledby="verdict-h">
+        <h2 id="verdict-h">Our answer</h2>
+        <p>{g.verdict}</p>
+        {g.intro.map((p, i) => <p key={i} className="gintro">{p}</p>)}
+      </section>
+
+      {g.three.length > 0 && (
+        <section className="edit-sec photos-model" aria-labelledby="three-h">
+          <div className="ehead">
+            <h2 id="three-h">Our three</h2>
+            <span className="by">Low, middle and top of the range</span>
+          </div>
+          <div className="trio">
+            {g.three.map((p, i) => (
+              <ProductCard
+                key={p.item.id}
+                item={p.item}
+                label={['Entry', 'Middle', 'Top'][i]}
+                note={p.note || undefined}
+              />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {g.check && (
+        <section className="checklist" aria-labelledby="check-h">
+          <h2 id="check-h">What to check before you buy</h2>
+          <ul>
+            {g.check.map((c, i) => <li key={i}>{c}</li>)}
+          </ul>
+          {g.learn && (
+            <p>
+              <Link className="linkbtn" href={`/learn/${g.learn}`}>Read the fiber guide &rarr;</Link>
+            </p>
+          )}
+        </section>
+      )}
+
+      <section aria-labelledby="all-h">
+        <div className="ehead">
+          <h2 id="all-h">Every one that qualifies</h2>
+          <span className="by">{g.pieces.length} pieces, lowest price first</span>
+        </div>
+        <p className="updated">Rebuilt from the catalog at every update. Updated {updated}.</p>
+        <div className="grid guidegrid">
+          {g.pieces.map((item) => <ProductCard key={item.id} item={item} />)}
+        </div>
+      </section>
     </main>
   );
 }

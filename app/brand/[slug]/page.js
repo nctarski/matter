@@ -40,6 +40,7 @@ export default function BrandPage({ params }) {
       <Shop
         items={pieces}
         brand={brand}
+        groupSets
         heading={{
           eyebrow: `${brand} at MATTER`,
           title: `${brand}, read label first`,

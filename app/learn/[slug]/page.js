@@ -44,17 +44,16 @@ export default function GuidePage({ params }) {
         }}
       />
       <article className="prose">
-        <p className="eyebrow">Know your fibers</p>
+        <p className="eyebrow">{guide.group === 'Reading the label' ? 'Reading the label' : 'Know your fibers'}</p>
 
         <nav className="fibertabs" aria-label="Fiber guides">
-          {guides.map((g) => (
+          {guides.filter((g) => (g.group || 'The fibers') === (guide.group || 'The fibers')).map((g) => (
             <Link
               key={g.slug}
               href={`/learn/${g.slug}`}
               aria-current={g.slug === guide.slug ? 'page' : undefined}
-            >
-              {g.title}
-            </Link>
+              dangerouslySetInnerHTML={{ __html: g.title }}
+            />
           ))}
         </nav>
 

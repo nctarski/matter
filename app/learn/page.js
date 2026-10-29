@@ -4,9 +4,11 @@ import guides from '@/data/guides.json';
 export const metadata = {
   title: 'Know your fibers',
   description:
-    'What each fiber is actually good at, how to care for it, and where it lets you down. Wool, linen, cotton, silk, cashmere and the regenerated cellulosics.',
+    'How to read a garment label, why the lining matters more than the shell, what you are paying for, and what each fiber is actually good at. Wool, linen, cotton, silk, cashmere, leather and the regenerated cellulosics.',
   alternates: { canonical: '/learn' },
 };
+
+const GROUPS = ['Reading the label', 'The fibers'];
 
 export default function LearnIndex() {
   return (
@@ -17,25 +19,24 @@ export default function LearnIndex() {
         <p>
           Composition is the one specification on a garment label that is both standardised
           and genuinely predictive. It tells you how a piece will feel, how it will age, how
-          often it needs cleaning, and whether the price is doing anything. Here is what each
-          fiber is actually good at, and where it lets you down.
+          often it needs cleaning, and whether the price is doing anything. Start with how to
+          read the label, then go fiber by fiber.
         </p>
 
-        <nav className="fibertabs" aria-label="Fiber guides">
-          {guides.map((g) => (
-            <Link key={g.slug} href={`/learn/${g.slug}`}>{g.title}</Link>
-          ))}
-        </nav>
-
-        <ul>
-          {guides.map((g) => (
-            <li key={g.slug}>
-              <Link href={`/learn/${g.slug}`}>{g.title}</Link>
-              {' — '}
-              {g.specs.map((s) => `${s.label.toLowerCase()} ${s.value.toLowerCase()}`).join(', ')}
-            </li>
-          ))}
-        </ul>
+        {GROUPS.map((group) => (
+          <section key={group}>
+            <h2 className="prose-h">{group}</h2>
+            <ul>
+              {guides.filter((g) => (g.group || 'The fibers') === group).map((g) => (
+                <li key={g.slug}>
+                  <Link href={`/learn/${g.slug}`} dangerouslySetInnerHTML={{ __html: g.title }} />
+                  {': '}
+                  {g.specs.map((s) => `${s.label.toLowerCase()} ${s.value.toLowerCase()}`).join(', ')}
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))}
       </article>
     </main>
   );

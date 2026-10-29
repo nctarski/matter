@@ -9,7 +9,16 @@
       "Cashmere under $300 is where blends hide. A sweater sold as cashmere can be 30% cashmere and 70% something cheaper, and the label is the only place that says so. Every sweater on this page is 100% cashmere in the shell, read from the retailer's own product page.",
       "At this price, look for a dense knit that springs back when you stretch it. Expect a little pilling in the first few wears. That is short fibers working loose, not a fault, and it settles once they are gone."
     ],
-    "learn": "cashmere"
+    "learn": "cashmere",
+    "question": "Can I get real cashmere for under $300, and which one should I buy?",
+    "verdict": "Yes, and the catalog proves it: every sweater below is 100% cashmere in the shell at under $300. What you give up at this price is not the fiber, it is the yarn. Expect a two ply knit in a medium gauge rather than the heavy, cloud-like hand of a $900 sweater. Buy the densest knit you can find in the shape you will wear most, and buy one, not three.",
+    "check": [
+      "Ply and gauge, when the retailer says. Two ply holds its shape; single ply is softer and wears through at the elbows faster.",
+      "Weight. A sweater listed around 250 to 350 grams is a real sweater; under 200 grams is a layer.",
+      "Stretch the cuff in the photo zoom or in person. Good cashmere springs back; cheap cashmere stays stretched.",
+      "Pilling in the first month is normal at any price. Pilling that never stops means short fibers."
+    ],
+    "picksBy": "spread"
   },
   {
     "slug": "wool-coats-natural-lining",
@@ -21,7 +30,16 @@
       "A wool coat with a polyester lining is warm on the outside and clammy on the inside. The lining is the part that touches you, and it is the part most product pages bury. Every coat and jacket here is at least 80% wool or another animal fiber, and is either unlined or lined in a natural fiber.",
       "Unlined is not a compromise. Boiled and melton wools are felted dense enough to block wind on their own, which is why a good coat often needs no lining at all."
     ],
-    "learn": "wool"
+    "learn": "wool",
+    "question": "Which wool coats will not make me clammy inside?",
+    "verdict": "The ones below. Each is at least 80% wool or another animal fiber and is either unlined or lined in silk, cotton, viscose from wood or another breathable fiber. Our pick is almost always the unlined boiled or melton wool coat: the felted cloth blocks wind on its own, nothing synthetic sits against your clothes, and there is no lining to tear or sag years before the wool gives out.",
+    "check": [
+      "The lining line on the card. We show it separately on purpose; a polyester lining is the most common place a wool coat quietly stops being wool.",
+      "Cloth weight. Melton and boiled wool over 500 grams per metre need no lining; a lighter flannel does, so check what it is lined with.",
+      "Shoulder construction. A coat that hangs from the shoulder, not the chest, keeps its line without an interlining.",
+      "Buttons and seams. Horn or corozo buttons and a felled seam are the tells of a coat built to be relined, not replaced."
+    ],
+    "picksBy": "spread"
   },
   {
     "slug": "silk-dresses",
@@ -33,6 +51,15 @@
       "Polyester satin is made to look like silk, and in a photo the two are hard to tell apart. Every dress here is 100% silk in the shell, read from the retailer's product page, so what drapes in the picture is what drapes on you.",
       "Silk breathes, takes color beautifully, and is warmer than it looks. Check the care label before you buy. Many silk dresses are dry clean only, while washed and sandwashed silks are usually made to be hand washed."
     ],
-    "learn": "silk"
+    "learn": "silk",
+    "question": "Is this dress actually silk, and which silk should I buy?",
+    "verdict": "Every dress here is 100% silk in the shell, read from the retailer's own page, so the drape in the photo is the drape you get. Which silk matters more than which brand: charmeuse and satin for evening and anything bias cut, crepe de chine for a dress you will wear to work, habotai and twill for the washable, everyday ones. Our pick for most people is a crepe de chine or washed silk midi, because it hides creases, goes in a hand wash, and reads as expensive without reading as formal.",
+    "check": [
+      "The weave, when the retailer names it. Satin and charmeuse show every mark; crepe forgives.",
+      "Momme weight if given. 16 to 19 momme is a dress; under 14 is a lining.",
+      "The lining line. A silk dress with a polyester slip wears like polyester in July. We show it on every card.",
+      "Care. Washed and sandwashed silks are made for a cool hand wash; glossy satins are dry clean, so price in the cleaning."
+    ],
+    "picksBy": "spread"
   }
 ]

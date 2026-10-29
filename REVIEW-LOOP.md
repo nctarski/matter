@@ -75,8 +75,14 @@ final word, so also look at the photo of every top and knit for these.
 
 ## Curated edits on the homepage
 
-The homepage sections live in `data/edits.json`, in the order they show. The
-brand statement above them is `components/Statement.js`.
+Changed October 28, 2026. The homepage sections live in `data/edits.json`, in
+the order they show, and each one is fed by a rule in `lib/editrules.js`
+(`"rule"`) so it refreshes at every build: up to twelve photographed pieces,
+three at a time, each three from one retailer so the backgrounds match, and
+no style repeated from an earlier section. `picks` pins pieces to the front.
+Every rule has a page at `/edit/<rule>`. The brand statement
+(`components/Statement.js`) and the explainer strips (`data/strips.json`) are
+parked, not rendered.
 
 - Each edit sets `"photos"` to `"model"` or `"garment"`, and every pick in it
   must show that kind of photo, so a section reads as one set. Mood sections
@@ -93,8 +99,8 @@ brand statement above them is `components/Statement.js`.
   on 2026-10-23; its tag stays on the pieces and lives in `RESTING_TAGS` in
   `lib/fibers.js` until it comes back.
 - Sub-categories (`lib/subcats.js`) are read from product names for Sweaters,
-  Tops and Outerwear only. Dresses, pants and skirts need a tagging pass from
-  the photo before they can be split.
+  Tops and Outerwear only. Dresses narrow by `attrs` instead (see "Dress
+  attributes" below). Pants and skirts still need a pass before they can split.
 
 ## Retailers, and what works
 
@@ -321,7 +327,10 @@ WeWoreWhat, Retrofete, Atoir, With Jean, H&M, ASOS). Every other retailer is
    publish). If pending candidates plus new ones would exceed 450, stage only
    what fits, in queue order, and do NOT record the rest in the ledger.
 6. Every new piece gets a round file `data/review/round-<date>-nightly.json`
-   with `category` from the list above. Run `node scripts/audit.mjs` against a
+   with `category` from the list above. A Dresses piece also gets `attrs`
+   (see "Dress attributes" below) read from the product description, and
+   every piece's `image` is the plain studio shot with the other product
+   photos in `images` (see "Product photos: studio first" below). Run `node scripts/audit.mjs` against a
    temporary merged copy, then record ledger outcomes (staged for new pieces
    and the right negative outcome for each one rejected by the fiber rule or
    scope), update `data/sweep-status.json`, commit, and republish the review
@@ -515,3 +524,57 @@ from the catalog and the seen ledger at every push.
   month. Draft the words for her approval before adding one.
 - Vercel pings IndexNow once a day (app/api/indexnow, vercel.json), so Bing
   hears about new pages without a manual step.
+
+
+## Dress attributes, step by step
+
+Added October 28, 2026. Dresses carry `attrs` ({ occasion, length, sleeve })
+so a shopper can narrow /shop/dresses by chips. The product page is the
+source; the name is only a first pass (lib/attrs.js reads it at build time
+for pieces with no attrs). Pants and skirts can follow the same shape later.
+
+1. Build the list: every catalog piece with `category` Dresses and no
+   `attrs` key, as `[{ id, retailer, url, name }]`. Write it to
+   `~/Downloads/matter-attrs-pieces.json` with a short node one-liner.
+2. In Claude in Chrome, open any https page, paste the whole of
+   `scripts/attrs-check.browser.js`, then run
+   `window.matterAttrsRun = matterAttrsCheck(pieces)` with the list. Poll
+   `window.matterAttrsCheck.progress` until status is done. 300 dresses take
+   about three minutes. Stop at the first block and never try to get past it.
+3. `node scripts/apply-attrs.mjs ~/Downloads/matter-attrs-<date>.json`.
+4. Non-Shopify dresses (Massimo Dutti, Quince, Pact, Net-a-Porter, Revolve,
+   Intimissimi) come back as notChecked. If budget allows, open each product
+   page, read the description, and set attrs by hand in the catalog with the
+   same three keys and values: occasion everyday, cocktail or black tie;
+   length mini, midi or maxi; sleeve sleeveless, short sleeve or long sleeve.
+   Leave a key out rather than guess.
+5. `node scripts/audit.mjs`, `npm run build`, commit, push.
+
+The nightly pull does the same for every new dress it stages: read the
+description and set `attrs` on the candidate before it goes to the review page.
+
+## Product photos: studio first
+
+Owner decision October 28, 2026. The primary `image` for a piece is the
+retailer's plain, neutral studio shot (the garment on a model or alone
+against a white, cream or grey seamless), not an editorial or location
+photo. That gives the category grids one background across brands. When a
+product has several photos, pick the first plain-background one; keep the
+on-model studio shot over the flat lay when both exist. Store the rest of the
+product's photos in `images` (up to 8 URLs) so an edit can pick another one.
+For a piece already in the catalog whose `image` is editorial, set
+`imageStudio` to the studio URL instead of replacing `image`; the site shows
+`imageStudio` first wherever it exists.
+The homepage edits set `photos` to model or garment per section; a location
+or editorial photo is only ever used when an edit asks for it by `image`
+override in data/edits.json.
+
+## Sets
+
+Owner decision October 28, 2026. Matching separates are grouped as sets
+(lib/sets.js): same brand, same colour, same collection name once the garment
+words are stripped, with at least one piece above the waist and one below.
+Brand pages show sets first, each one's pieces side by side. When a retailer
+page says two pieces are sold together or shows them as a set, set `set` on
+each piece to the collection name so the grouping does not depend on the
+name reading.
