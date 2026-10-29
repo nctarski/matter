@@ -315,11 +315,16 @@
    "brand": "The Frankie Shop",
    "method": "shopify-json",
    "cadence": "regular",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
+   "status": "partial",
+   "cursor": {
+    "method": "products.json, all pages (2,919 products 2026-10-29)",
+    "resume": "re-pull products.json and stage passing pieces not yet in data/seen/the-frankie-shop.json",
+    "heldPassing": 47
+   },
+   "lastSweep": "2026-10-29",
    "lastDelta": null,
-   "note": ""
+   "note": "Swept 2026-10-29 from products.json (body_html carries Color, lining and composition). Multi-brand: vendor is the brand, vendor name stripped from the product name. Each colour is its own product. Tags gender: women/men decide scope. 449 staged in round 2026-10-29-frankie before the 450 photo limit; 47 passing pieces later in products.json order held and not recorded, so the next run stages them. 1,245 fiber, 451 not-womens, 495 out-of-scope (bags, jewelry, shoes, swim, beauty, home), 29 hoodies or argyle rejected by name, 19 tees with words or graphics rejected from the photo (The Frankie Shop souvenir tees), 19 St. Agni and Matteau pieces recorded as duplicate (both swept directly). Not recorded on purpose: 117 sold out, 46 whose composition did not parse cleanly (two linings, part-by-part compositions, lamb fur, Elastomultiester, bamboo), 1 cotton corduroy with 2% polyurethane (no tier for polyurethane in lib/fibers.js). Lined with no fiber given is stored as undisclosed. Studio photo swapped in for 16 pieces whose first image was editorial.",
+   "domain": "thefrankieshop.com"
   },
   {
    "order": 30,
@@ -895,7 +900,7 @@
   },
   {
    "order": 82,
-   "brand": "S\u00e9zane",
+   "brand": "Sézane",
    "method": "browse-listing",
    "cadence": "regular",
    "status": "todo",
