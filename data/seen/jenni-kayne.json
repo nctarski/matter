@@ -3366,5 +3366,1410 @@
  "jennikayne.com/products/shearling-moroccan-slipper-ivory": {
   "outcome": "no-composition",
   "date": "2026-10-26"
+ },
+ "jennikayne.com/products/classic-tee-natural": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/ojai-straight-jean-olive": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/malibu-canyon-crop-jean-bronze": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-crimson": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-turtleneck-crimson": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-cardigan-crimson": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cropped-cashmere-jet-turtleneck-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cropped-cashmere-jet-turtleneck-grey": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cropped-cashmere-cocoon-cardigan-bordeaux": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/classic-tee-white": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/classic-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-lowe-half-zip-taupe": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-leni-crewneck-burgundy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-leni-crewneck-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-fisherman-sweater-chartreuse": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-fisherman-sweater-heather-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/topanga-wide-leg-jean-ash-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/sweater-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/sweater-tee-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/slim-tee-warm-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/long-sleeve-slim-tee-white": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/topanga-wide-leg-jean-seeded-natural": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/malibu-canyon-crop-jean-seeded-natural": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/ojai-straight-jean-seeded-natural": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/archive-corduroy-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/archive-corduroy-burgundy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/teddy-crewneck-chocolate-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/long-sleeve-clean-classic-tee-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/long-sleeve-clean-classic-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/long-sleeve-clean-classic-tee-oatmeal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-turtleneck-charcoal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-turtleneck-undyed-stone": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-cardigan-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-cardigan-caramel": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-oversized-crewneck-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-oversized-crewneck-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-amelia-crewneck-chocolate": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cal-corduroy-jacket-burgundy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/ren-jean-solar": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/high-rise-ankle-crop-jeans-mid-70s": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/90s-pinch-waist-jean-pendulum": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/kelly-jean-essence": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/pocket-loose-flare-pant-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/parker-jean-surreal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/harper-straight-jean-tempo": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/fran-jean-milkshake": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/riley-crop-jean-dynamic": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/fran-jean-reign": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/loose-flare-pant-washed-khaki": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/riley-crop-jean-escape": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/loose-flare-pant-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/90s-pinch-waist-jean-drum": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/riley-long-jean-dividend": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/90s-pinch-waist-jean-navigate": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/parker-long-short-panna-cotta": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/high-rise-stove-pipe-jean-medium-vain": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/riley-crop-jean-dimension": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/riley-crop-jean-panoramic": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/riley-long-jean-cove": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/riley-crop-jean-silence": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/mid-rise-boy-short-whiskey-indigo": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/90s-jean-hooked": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/beachwood-baggy-pant-natural": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/beachwood-baggy-pant-ash-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/beachwood-baggy-pant-moss": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/merino-tee-dark-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/suede-wolfe-skirt-olive": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/rowan-turtleneck-warm-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/rowan-turtleneck-ash-heather": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/nell-v-neck-sweater-bronze": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/merino-tank-truffle": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/linden-turtleneck-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/hadley-cardigan-taupe": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-haze": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cropped-cashmere-jet-v-neck-almond": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cropped-cashmere-jet-v-neck-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/courtney-top-bordeaux": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/courtney-top-bronze": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-porter-turtleneck-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/timber-cardigan-bordeaux-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-crewneck-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-crewneck-oatmeal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-crewneck-grey": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/float-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/float-top-bronze": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/clean-classic-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/clean-classic-tee-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/california-tee-bronze": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-amelia-crewneck-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/clean-classic-tee-oat": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/clean-classic-tee-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/dree-v-neck-sweater-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/selma-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/sunset-crewneck-cream": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/dree-v-neck-sweater-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/clean-classic-tee-pewter-green": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/courtney-top-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-fisherman-sweater-pewter-green": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-cocoon-cardigan-faded-denim": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cambridge-shirt-oxford-blue": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/burke-polo-pale-gray": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/linen-logan-short-hemp": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/linen-logan-pant-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/linen-lara-top-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/linen-ease-shirt-hemp": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/hastings-dress-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/broderie-peninsula-dress-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/broderie-lauren-skirt-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/broderie-lauren-skirt-white": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/aire-crewneck-sage": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/sway-dress-baby-blue": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/sway-dress-warm-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/grayson-pullover-baby-blue": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-cardigan-baby-blue": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/ease-shirt-sky-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/daybreak-short-sky-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/boyfriend-shirt-golden-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/beck-trouser-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/arc-jean-32-tangent": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/arc-jean-32-chalk-white": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/claude-long-sleeve-tee-ivory-ocean-stripe": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/reverie-dress-white": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/reverie-dress-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/california-tee-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cove-dress-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/peninsula-dress-french-blue": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/peninsula-dress-tomato": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/selma-jacket-gold-rush": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/courtney-top-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/leo-trench-coat-dark-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/dree-v-neck-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/long-sleeve-slim-tee-dark-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-canyon": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cotton-fisherman-sweater-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/bay-sweatpant-chocolate": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/bay-sweatpant-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-chandler-long-sleeve-tee-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-chandler-long-sleeve-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/boyd-cashmere-sweater-dark-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/boyd-cashmere-sweater-oatmeal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-espresso": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/long-sleeve-slim-tee-chocolate": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/harper-jean-echo": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/harper-jean-radius": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/simone-vneck-rust": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/nell-v-neck-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/nell-v-neck-sweater-pine": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cropped-cashmere-cocoon-cardigan-pine": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-jet-turtleneck-chocolate": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-jet-turtleneck-warm-sand": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-cocoon-cardigan-chocolate": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/easy-straight-crop-rustic-indigo": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/90s-jean-worn-blue": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-porter-turtleneck-forest": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-porter-turtleneck-chocolate": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-jet-turtleneck-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-porter-turtleneck-shadow": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/mid-rise-wide-leg-pearl": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-porter-turtleneck-rust": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/colt-shirt-dark-denim": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/denim-newport-trouser-dark-denim": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/mccall-trench-coat-british-khaki": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-burke-polo-camel-donegal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-burke-polo-charcoal-donegal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/suede-lennox-jacket-honey": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-ballet": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-sage": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/ren-jean-shrine": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/california-tee-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/bay-sweatpant-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/linen-logan-short-sea-salt": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/linen-colby-shirt-natural": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/harper-jean-beam": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/harper-jean-white-wash": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/kinney-skirt-natural": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/kinney-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/mira-cardigan-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/mira-cardigan-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cotton-rib-tank-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cotton-rib-tank-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/grayson-pullover-oat": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/grayson-pullover-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cropped-cashmere-cocoon-cardigan-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/simone-vneck-doe": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/california-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/kinney-dress-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/kinney-dress-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-dark-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/harper-dress-warm-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/90s-jean-imagine": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cotton-fisherman-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/newport-trouser-white": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/newport-short-khaki": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/leo-trench-coat-dark-khaki": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/newport-trouser-denim": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-camel": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/merino-tee-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/merino-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cable-nell-turtleneck-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/long-sleeve-slim-tee-warm-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/long-sleeve-slim-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/easy-straight-crop-washed-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/slim-tee-white": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/90s-pinch-waist-long-jean-crushed": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/90s-pinch-waist-long-jean-polished": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cooper-cardigan-chocolate": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-half-zip-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cotton-hayes-crewneck-cardigan-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/lauren-skirt-white": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/lauren-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/linen-logan-pant-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/linen-logan-pant-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/merino-tank-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/merino-tank-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/merino-tank-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cove-dress-olive": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-fisherman-sweater-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/grayson-pullover-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/grayson-pullover-dark-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cameron-crewneck-cream": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/ren-jean-disclosure": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/ren-jean-control": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-amelia-crewneck-grey": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-grey": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cooper-cardigan-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cropped-cashmere-cocoon-cardigan-undyed-stone": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-half-zip-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-amelia-crewneck-warm-sand": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/linen-logan-shirt-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/flynn-cashmere-sweater-oatmeal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cotton-cable-half-zip-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cooper-cardigan-warm-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-half-zip-undyed-stone": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/vintage-pocket-tee-white": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cooper-cardigan-taupe": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cropped-cashmere-cocoon-cardigan-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cropped-cashmere-cocoon-cardigan-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-fisherman-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-fisherman-sweater-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-fisherman-sweater-navy": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-fisherman-sweater-oatmeal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-cocoon-cardigan-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-cocoon-cardigan-heather-grey": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-cocoon-cardigan-ivory": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cashmere-cocoon-cardigan-oatmeal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/cotton-fisherman-sweater-oatmeal": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/slim-tee-black": {
+  "outcome": "staged",
+  "date": "2026-10-29",
+  "round": "round-2026-10-29-jk.json"
+ },
+ "jennikayne.com/products/jacquard-nina-slip-skirt-pine": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/jacquard-cleo-slip-dress-bordeaux": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/remy-shirt-bordeaux": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/pleated-skirt-bordeaux": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/pleated-skirt-silver-lame": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/rider-jacket-bordeaux": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/rider-jacket-black": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/cashmere-fisherman-hoodie-heather-grey": {
+  "outcome": "rejected",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/wynn-dress-cream": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/wynn-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/cove-dress-summer-check": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/iris-dress-brown": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/iris-dress-ivory": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/ren-32-measure": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/bay-hoodie-chocolate": {
+  "outcome": "rejected",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/bay-hoodie-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/bay-hoodie-navy": {
+  "outcome": "rejected",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/cashmere-fisherman-hoodie-black": {
+  "outcome": "rejected",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/saturday-sweatshirt-cream": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/saturday-sweatshirt-oatmeal": {
+  "outcome": "fiber",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/cashmere-fisherman-hoodie-oatmeal": {
+  "outcome": "rejected",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/mid-rise-wide-leg-west-coast-fade": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/the-short-indigo": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/courtney-top-dark-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/chloe-cardigan-ivory-oat-stripe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/leather-card-holder-taupe": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/leather-card-holder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/peninsula-dress-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/gift-card": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/raf5c7s5": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/cotton-cocoon-cardigan-navy": {
+  "outcome": "no-composition",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/alpaca-eye-mask-oatmeal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/alpaca-eye-mask-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/cotton-cocoon-cardigan-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/cotton-cocoon-cardigan-ivory": {
+  "outcome": "no-composition",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/boyfriend-shirt-french-blue": {
+  "outcome": "no-composition",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/boyfriend-long-sleeve-tee-ivory": {
+  "outcome": "no-composition",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/boyfriend-long-sleeve-tee-black": {
+  "outcome": "no-composition",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/jkh-membership": {
+  "outcome": "out-of-scope",
+  "date": "2026-10-29"
+ },
+ "jennikayne.com/products/boyfriend-shirt-white": {
+  "outcome": "no-composition",
+  "date": "2026-10-29"
  }
 }
