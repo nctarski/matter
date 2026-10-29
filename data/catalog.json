@@ -90784,5 +90784,2574 @@
     "lining": null,
     "isNew": false,
     "tags": []
+  },
+  {
+    "id": "jenni-kayne-90s-jean-hooked",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "90's Jean",
+    "price": 218,
+    "url": "https://jennikayne.com/products/90s-jean-hooked",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/90s-jean-hooked.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-90s-jean-worn-blue",
+    "retailer": "Jenni Kayne",
+    "brand": "RE/DONE",
+    "name": "90s Jean",
+    "price": 295,
+    "url": "https://jennikayne.com/products/90s-jean-worn-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/90s-jean-worn-blue.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-90s-pinch-waist-jean-drum",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "90's Pinch Waist Jean",
+    "price": 178,
+    "url": "https://jennikayne.com/products/90s-pinch-waist-jean-drum",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/90s-pinch-waist-drum.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-90s-pinch-waist-jean-navigate",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "90's Pinch Waist Jean",
+    "price": 188,
+    "url": "https://jennikayne.com/products/90s-pinch-waist-jean-navigate",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/90s-pinch-waist-navigate.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-90s-pinch-waist-jean-pendulum",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "90's Pinch Waist Jean",
+    "price": 238,
+    "url": "https://jennikayne.com/products/90s-pinch-waist-jean-pendulum",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/90s-pinch-waist-pendulum-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Regenerative cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-90s-pinch-waist-long-jean-crushed",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "90's Pinch Waist Long Jean",
+    "price": 238,
+    "url": "https://jennikayne.com/products/90s-pinch-waist-long-jean-crushed",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/90s-pinch-waist-long-crushed.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-90s-pinch-waist-long-jean-polished",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "90's Pinch Waist Long Jean",
+    "price": 238,
+    "url": "https://jennikayne.com/products/90s-pinch-waist-long-jean-polished",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/90s-pinch-waist-long-polished.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-arc-jean-32-chalk-white",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Arc Jean 32",
+    "price": 238,
+    "url": "https://jennikayne.com/products/arc-jean-32-chalk-white",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/arc-jean-chalk-white.jpg?width=600",
+    "category": "Denim",
+    "colour": "White",
+    "shell": [
+      [
+        "Regenerative cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-arc-jean-32-tangent",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Arc Jean 32",
+    "price": 258,
+    "url": "https://jennikayne.com/products/arc-jean-32-tangent",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/arc-jean-chalk-tangent-2.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Regenerative cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-archive-corduroy-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Archive Corduroy Pant",
+    "price": 325,
+    "url": "https://jennikayne.com/products/archive-corduroy-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/ARCHIVE-CORDUROY-PANT-BLACK.png?width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-archive-corduroy-burgundy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Archive Corduroy Pant",
+    "price": 325,
+    "url": "https://jennikayne.com/products/archive-corduroy-burgundy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/ARCHIVE-CORDUROY-PANT-BURGUNDY-1.png?width=600",
+    "category": "Pants",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-bay-sweatpant-chocolate",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Bay Sweatpant",
+    "price": 245,
+    "url": "https://jennikayne.com/products/bay-sweatpant-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Bay-Sweatpant_Chocolate_bda01926-cefa-4f20-95ef-2f616ecb9be5.jpg?width=600",
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-bay-sweatpant-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Bay Sweatpant",
+    "price": 245,
+    "url": "https://jennikayne.com/products/bay-sweatpant-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/bay-sweatpant-navy.jpg?width=600",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-bay-sweatpant-washed-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Bay Sweatpant",
+    "price": 245,
+    "url": "https://jennikayne.com/products/bay-sweatpant-washed-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/bay-sweatpant-washed-black-1.jpg?width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-beck-trouser-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Beck Trouser",
+    "price": 325,
+    "url": "https://jennikayne.com/products/beck-trouser-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/beck-trouser-ivory-1.jpg?width=600",
+    "category": "Pants",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-boyfriend-shirt-golden-stripe",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Boyfriend Shirt",
+    "price": 285,
+    "url": "https://jennikayne.com/products/boyfriend-shirt-golden-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/boyfriend-shirt-golden-stripe.jpg?width=600",
+    "category": "Tops",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-broderie-lauren-skirt-white",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Broderie Lauren Skirt",
+    "price": 445,
+    "url": "https://jennikayne.com/products/broderie-lauren-skirt-white",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/broderie-lauren-skirt-white.jpg?width=600",
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cal-corduroy-jacket-burgundy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cal Corduroy Jacket",
+    "price": 495,
+    "url": "https://jennikayne.com/products/cal-corduroy-jacket-burgundy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Cal-Corduroy-Jacket_Burgundy.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-california-tee-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "California Tee",
+    "price": 115,
+    "url": "https://jennikayne.com/products/california-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/california-tee-black-3.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-california-tee-bronze",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "California Tee",
+    "price": 115,
+    "url": "https://jennikayne.com/products/california-tee-bronze",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/California-Tee_Bronze-3.jpg?width=600",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-california-tee-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "California Tee",
+    "price": 115,
+    "url": "https://jennikayne.com/products/california-tee-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/california-tee-ivory.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-california-tee-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "California Tee",
+    "price": 115,
+    "url": "https://jennikayne.com/products/california-tee-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/crosby-tee-navy-5_61db289e-28fa-4b7d-8301-e85137409aa1.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cambridge-shirt-oxford-blue",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cambridge Shirt",
+    "price": 395,
+    "url": "https://jennikayne.com/products/cambridge-shirt-oxford-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cambridge-shirt-oxford-blue.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-cocoon-cardigan-heather-grey",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Cocoon Cardigan",
+    "price": 475,
+    "url": "https://jennikayne.com/products/cashmere-cocoon-cardigan-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-cocoon-cardigan-black_5545c16b-7e4c-4792-a6fb-ae184b63d1ad.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-cocoon-cardigan-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Cocoon Cardigan",
+    "price": 475,
+    "url": "https://jennikayne.com/products/cashmere-cocoon-cardigan-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-cocoon-cardigan-ivory-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-cocoon-cardigan-oatmeal",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Cocoon Cardigan",
+    "price": 475,
+    "url": "https://jennikayne.com/products/cashmere-cocoon-cardigan-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-cocoon-cardigan-oatmeal-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-classic-tee-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Classic Tee",
+    "price": 75,
+    "url": "https://jennikayne.com/products/classic-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CLASSIC-TEE-BLACK-3.png?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Recycled cotton",
+        50
+      ],
+      [
+        "Cotton",
+        50
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-classic-tee-natural",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Classic Tee",
+    "price": 75,
+    "url": "https://jennikayne.com/products/classic-tee-natural",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CLASSIC-TEE-NATURAL.png?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Recycled cotton",
+        50
+      ],
+      [
+        "Cotton",
+        50
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-classic-tee-white",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Classic Tee",
+    "price": 75,
+    "url": "https://jennikayne.com/products/classic-tee-white",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CLASSIC-TEE-WHITE-3.png?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Recycled cotton",
+        50
+      ],
+      [
+        "Cotton",
+        50
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-claude-long-sleeve-tee-ivory-ocean-stripe",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Claude Long-Sleeve Tee",
+    "price": 195,
+    "url": "https://jennikayne.com/products/claude-long-sleeve-tee-ivory-ocean-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/claude-long-sleeve-tee-ivory-ocean-stripe.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-clean-classic-tee-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Clean Classic Tee",
+    "price": 85,
+    "url": "https://jennikayne.com/products/clean-classic-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Clean-Classic-Tee_Black.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-clean-classic-tee-heather-grey",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Clean Classic Tee",
+    "price": 85,
+    "url": "https://jennikayne.com/products/clean-classic-tee-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Clean-Classic-Tee_HeatherGrey-3.jpg?width=600",
+    "category": "Tops",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-clean-classic-tee-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Clean Classic Tee",
+    "price": 85,
+    "url": "https://jennikayne.com/products/clean-classic-tee-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/clean-classic-tee-ivory.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-clean-classic-tee-oat",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Clean Classic Tee",
+    "price": 85,
+    "url": "https://jennikayne.com/products/clean-classic-tee-oat",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/clean-classic-tee-oat-1.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-clean-classic-tee-pewter-green",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Clean Classic Tee",
+    "price": 85,
+    "url": "https://jennikayne.com/products/clean-classic-tee-pewter-green",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/clean-classic-tee-pewter-green.jpg?width=600",
+    "category": "Tops",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-colt-shirt-dark-denim",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Colt Shirt",
+    "price": 345,
+    "url": "https://jennikayne.com/products/colt-shirt-dark-denim",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/colt-sirt-dark-denim.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cotton-fisherman-sweater-oatmeal",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cotton Fisherman Sweater",
+    "price": 295,
+    "url": "https://jennikayne.com/products/cotton-fisherman-sweater-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cotton-fisherman-sweater-oatmeal.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cotton-rib-tank-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cotton Rib Tank",
+    "price": 115,
+    "url": "https://jennikayne.com/products/cotton-rib-tank-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cotton-rib-tee-black.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        99
+      ],
+      [
+        "Spandex",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cotton-rib-tank-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cotton Rib Tank",
+    "price": 115,
+    "url": "https://jennikayne.com/products/cotton-rib-tank-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cotton-rib-tee-ivory.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        99
+      ],
+      [
+        "Spandex",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-courtney-top-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Courtney Top",
+    "price": 265,
+    "url": "https://jennikayne.com/products/courtney-top-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/courtney-top-black.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-courtney-top-bordeaux",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Courtney Top",
+    "price": 265,
+    "url": "https://jennikayne.com/products/courtney-top-bordeaux",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Courtney-Top_Bordeaux-5.jpg?width=600",
+    "category": "Tops",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-courtney-top-bronze",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Courtney Top",
+    "price": 265,
+    "url": "https://jennikayne.com/products/courtney-top-bronze",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Courtney-Top_DarkBronze-1.jpg?width=600",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-courtney-top-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Courtney Top",
+    "price": 265,
+    "url": "https://jennikayne.com/products/courtney-top-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/courtney-top-ivory.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-daybreak-short-sky-stripe",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Daybreak Short",
+    "price": 225,
+    "url": "https://jennikayne.com/products/daybreak-short-sky-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/daybreak-short-sky-stripe.jpg?width=600",
+    "category": "Shorts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-denim-newport-trouser-dark-denim",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Denim Newport Trouser",
+    "price": 345,
+    "url": "https://jennikayne.com/products/denim-newport-trouser-dark-denim",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/denim-newport-trousers-dark-denim.jpg?width=600",
+    "category": "Pants",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-ease-shirt-sky-stripe",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Ease Shirt",
+    "price": 290,
+    "url": "https://jennikayne.com/products/ease-shirt-sky-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/ease-shirt-sky-stripe.jpg?width=600",
+    "category": "Tops",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-easy-straight-crop-rustic-indigo",
+    "retailer": "Jenni Kayne",
+    "brand": "RE/DONE",
+    "name": "Easy Straight Crop",
+    "price": 295,
+    "url": "https://jennikayne.com/products/easy-straight-crop-rustic-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/easy-straight-crop-rustic-indigo.jpg?width=600",
+    "category": "Pants",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-easy-straight-crop-washed-black",
+    "retailer": "Jenni Kayne",
+    "brand": "RE/DONE",
+    "name": "Easy Straight Crop",
+    "price": 275,
+    "url": "https://jennikayne.com/products/easy-straight-crop-washed-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/easy-straight-crop-washed-black-1.jpg?width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-float-top-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Float Top",
+    "price": 225,
+    "url": "https://jennikayne.com/products/float-top-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Float-Top_Black-1.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-float-top-bronze",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Float Top",
+    "price": 225,
+    "url": "https://jennikayne.com/products/float-top-bronze",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Float-Top_Bronze-1.jpg?width=600",
+    "category": "Tops",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-fran-jean-milkshake",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Fran Jean",
+    "price": 228,
+    "url": "https://jennikayne.com/products/fran-jean-milkshake",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Fran-Jean-Milkshake-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Regenerative cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-fran-jean-reign",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Fran Jean",
+    "price": 238,
+    "url": "https://jennikayne.com/products/fran-jean-reign",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/fran-jean-reign.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Regenerative cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-harper-jean-beam",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Harper Jean",
+    "price": 238,
+    "url": "https://jennikayne.com/products/harper-jean-beam",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Harper-Jean-Beam.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        88
+      ],
+      [
+        "Recycled cotton",
+        11
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-harper-jean-echo",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Harper Jean",
+    "price": 228,
+    "url": "https://jennikayne.com/products/harper-jean-echo",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/harper-jean-echo.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        88
+      ],
+      [
+        "Recycled cotton",
+        11
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-harper-jean-radius",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Harper Jean",
+    "price": 238,
+    "url": "https://jennikayne.com/products/harper-jean-radius",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/harper-jean-radius.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        88
+      ],
+      [
+        "Recycled cotton",
+        11
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-harper-jean-white-wash",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Harper Jean",
+    "price": 228,
+    "url": "https://jennikayne.com/products/harper-jean-white-wash",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/harper-jean-white.jpg?width=600",
+    "category": "Denim",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        88
+      ],
+      [
+        "Recycled cotton",
+        11
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-harper-straight-jean-tempo",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Harper Straight Jean",
+    "price": 218,
+    "url": "https://jennikayne.com/products/harper-straight-jean-tempo",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/agolde-denim-harper-tempo.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        88
+      ],
+      [
+        "Recycled cotton",
+        11
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-high-rise-stove-pipe-jean-medium-vain",
+    "retailer": "Jenni Kayne",
+    "brand": "RE/DONE",
+    "name": "High Rise Stove Pipe Jean",
+    "price": 250,
+    "url": "https://jennikayne.com/products/high-rise-stove-pipe-jean-medium-vain",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/redone-cotton-high-rise-stovepipe-jean-medium-vain-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-kinney-dress-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Kinney Dress",
+    "price": 445,
+    "url": "https://jennikayne.com/products/kinney-dress-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/kinney-dress-black_0325cfa2-bdeb-4e43-8762-883425d6cc56.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-kinney-dress-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Kinney Dress",
+    "price": 445,
+    "url": "https://jennikayne.com/products/kinney-dress-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/kinney-dress-ivory_49023808-2f41-4ad1-9f3b-15712c50654a.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-kinney-skirt-natural",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Kinney Skirt",
+    "price": 325,
+    "url": "https://jennikayne.com/products/kinney-skirt-natural",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/kinney-skirt-natural_ec5372b7-21bc-40f2-a7a8-8a9ec53f3234.jpg?width=600",
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-leo-trench-coat-dark-khaki",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Leo Trench Coat",
+    "price": 625,
+    "url": "https://jennikayne.com/products/leo-trench-coat-dark-khaki",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/leo-trench.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-leo-trench-coat-dark-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Leo Trench Coat",
+    "price": 625,
+    "url": "https://jennikayne.com/products/leo-trench-coat-dark-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/leo-trench-coat-dark-navy.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-linen-colby-shirt-natural",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Linen Colby Shirt",
+    "price": 345,
+    "url": "https://jennikayne.com/products/linen-colby-shirt-natural",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Linen-Colby-Shirt-Natural-1_d3689082-97eb-4b98-a30c-7b51adfb97fa.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-linen-ease-shirt-hemp",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Linen Ease Shirt",
+    "price": 345,
+    "url": "https://jennikayne.com/products/linen-ease-shirt-hemp",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/linen-ease-shirt-hemp.jpg?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-linen-lara-top-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Linen Lara Top",
+    "price": 275,
+    "url": "https://jennikayne.com/products/linen-lara-top-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/linen-lara-top-navy.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-linen-logan-pant-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Linen Logan Pant",
+    "price": 295,
+    "url": "https://jennikayne.com/products/linen-logan-pant-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Linen-Logan-Short-Black_1.jpg?width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-linen-logan-pant-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Linen Logan Pant",
+    "price": 295,
+    "url": "https://jennikayne.com/products/linen-logan-pant-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/linen-logan-pant-ivory.jpg?width=600",
+    "category": "Pants",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-linen-logan-pant-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Linen Logan Pant",
+    "price": 295,
+    "url": "https://jennikayne.com/products/linen-logan-pant-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/linen-logan-pant-navy.jpg?width=600",
+    "category": "Pants",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-linen-logan-shirt-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Linen Logan Shirt",
+    "price": 245,
+    "url": "https://jennikayne.com/products/linen-logan-shirt-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/linen-logan-shirt-black_4.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-linen-logan-short-hemp",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Linen Logan Short",
+    "price": 235,
+    "url": "https://jennikayne.com/products/linen-logan-short-hemp",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/linen-logan-short-hemp-1.jpg?width=600",
+    "category": "Shorts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-linen-logan-short-sea-salt",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Linen Logan Short",
+    "price": 235,
+    "url": "https://jennikayne.com/products/linen-logan-short-sea-salt",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Linen-Logan-Shorts-Sea-Salt-1.jpg?width=600",
+    "category": "Shorts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-long-sleeve-clean-classic-tee-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Long-Sleeve Clean Classic Tee",
+    "price": 95,
+    "url": "https://jennikayne.com/products/long-sleeve-clean-classic-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/LONG-SLEEVE-CLASSIC-TEE-BLACK_128.png?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-long-sleeve-clean-classic-tee-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Long-Sleeve Clean Classic Tee",
+    "price": 95,
+    "url": "https://jennikayne.com/products/long-sleeve-clean-classic-tee-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/LONG-SLEEVE-CLASSIC-TEE-IVORY_073.png?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-long-sleeve-clean-classic-tee-oatmeal",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Long-Sleeve Clean Classic Tee",
+    "price": 95,
+    "url": "https://jennikayne.com/products/long-sleeve-clean-classic-tee-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/LONG-SLEEVE-CLASSIC-TEE-OATMEAL_005.png?width=600",
+    "category": "Tops",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-long-sleeve-slim-tee-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Long-Sleeve Slim Tee",
+    "price": 125,
+    "url": "https://jennikayne.com/products/long-sleeve-slim-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Long-Sleeve-Slim-Tee_Black-1_9eb4bb9a-21d5-4654-aa7d-2e13dda89112.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-long-sleeve-slim-tee-chocolate",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Long-Sleeve Slim Tee",
+    "price": 125,
+    "url": "https://jennikayne.com/products/long-sleeve-slim-tee-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/LONG-SLEEVE-SLIM-TEE-CHOCOLATE_042.png?width=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-long-sleeve-slim-tee-dark-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Long-Sleeve Slim Tee",
+    "price": 125,
+    "url": "https://jennikayne.com/products/long-sleeve-slim-tee-dark-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/long-sleeve-slim-tee-dark-navy.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-long-sleeve-slim-tee-warm-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Long-Sleeve Slim Tee",
+    "price": 125,
+    "url": "https://jennikayne.com/products/long-sleeve-slim-tee-warm-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/long-sleeve-slim-tee-warm-ivory_197b3d56-9440-4ced-8612-cd804717f0b4.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-long-sleeve-slim-tee-white",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Long-Sleeve Slim Tee",
+    "price": 125,
+    "url": "https://jennikayne.com/products/long-sleeve-slim-tee-white",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Long-Sleeve-Slim-Tee_White.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-loose-flare-pant-washed-black",
+    "retailer": "Jenni Kayne",
+    "brand": "RE/DONE",
+    "name": "Loose Flare Pant",
+    "price": 295,
+    "url": "https://jennikayne.com/products/loose-flare-pant-washed-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/redone-loose-flare-pant-washed-black-01.jpg?width=600",
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-loose-flare-pant-washed-khaki",
+    "retailer": "Jenni Kayne",
+    "brand": "RE/DONE",
+    "name": "Loose Flare Pant",
+    "price": 295,
+    "url": "https://jennikayne.com/products/loose-flare-pant-washed-khaki",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/redone-loose-flare-pant-washed-khaki-01.jpg?width=600",
+    "category": "Pants",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-malibu-canyon-crop-jean-bronze",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Malibu Canyon Crop Jean",
+    "price": 265,
+    "url": "https://jennikayne.com/products/malibu-canyon-crop-jean-bronze",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/MALIBU-CANYON-CROP-JEAN-BRONZE.png?width=600",
+    "category": "Denim",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-malibu-canyon-crop-jean-seeded-natural",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Malibu Canyon Crop Jean",
+    "price": 265,
+    "url": "https://jennikayne.com/products/malibu-canyon-crop-jean-seeded-natural",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/MALIBU-CANYON-CROP-JEAN-SEEDED-NATURAL_442.png?width=600",
+    "category": "Denim",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-mccall-trench-coat-british-khaki",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "McCall Trench Coat",
+    "price": 795,
+    "url": "https://jennikayne.com/products/mccall-trench-coat-british-khaki",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Mccall-Trench-Coat_BritishKhaki.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-merino-tank-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Merino Tank",
+    "price": 175,
+    "url": "https://jennikayne.com/products/merino-tank-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Merino-Tank_Black.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-merino-tank-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Merino Tank",
+    "price": 175,
+    "url": "https://jennikayne.com/products/merino-tank-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/merino-tank-ivory.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-merino-tank-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Merino Tank",
+    "price": 175,
+    "url": "https://jennikayne.com/products/merino-tank-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Merino-Tank-Navy-1.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-merino-tank-truffle",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Merino Tank",
+    "price": 175,
+    "url": "https://jennikayne.com/products/merino-tank-truffle",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Merino-Tank_Truffle.jpg?width=600",
+    "category": "Tops",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-merino-tee-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Merino Tee",
+    "price": 225,
+    "url": "https://jennikayne.com/products/merino-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Merino-Tee_Black.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-merino-tee-dark-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Merino Tee",
+    "price": 225,
+    "url": "https://jennikayne.com/products/merino-tee-dark-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Merino-Tee-Dark-Navy.jpg?width=600",
+    "category": "Tops",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-merino-tee-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Merino Tee",
+    "price": 225,
+    "url": "https://jennikayne.com/products/merino-tee-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Merino-Tee_Ivory.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-mid-rise-boy-short-whiskey-indigo",
+    "retailer": "Jenni Kayne",
+    "brand": "RE/DONE",
+    "name": "Mid Rise Boy Short",
+    "price": 215,
+    "url": "https://jennikayne.com/products/mid-rise-boy-short-whiskey-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/redone-mid-rise-boy-short-whiskey-indigo-2.jpg?width=600",
+    "category": "Shorts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-mid-rise-wide-leg-pearl",
+    "retailer": "Jenni Kayne",
+    "brand": "RE/DONE",
+    "name": "Mid Rise Wide Leg",
+    "price": 295,
+    "url": "https://jennikayne.com/products/mid-rise-wide-leg-pearl",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/mid-rise-wide-leg-pearl.jpg?width=600",
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        98
+      ],
+      [
+        "Elastane",
+        2
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-newport-short-khaki",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Newport Short",
+    "price": 345,
+    "url": "https://jennikayne.com/products/newport-short-khaki",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/newport-short-khaki-1_68be74da-7a5a-4c81-b0f1-aa5fa5c0b2dd.jpg?width=600",
+    "category": "Shorts",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-newport-trouser-denim",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Denim Newport Trouser",
+    "price": 345,
+    "url": "https://jennikayne.com/products/newport-trouser-denim",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Chambray-Newport-Trouser-Denim-1.jpg?width=600",
+    "category": "Pants",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-ojai-straight-jean-seeded-natural",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Ojai Straight Jean",
+    "price": 265,
+    "url": "https://jennikayne.com/products/ojai-straight-jean-seeded-natural",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/OJAI-STRAIGHT-JEAN-SEEDED-NATURAL_500.jpg?width=600",
+    "category": "Denim",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-parker-jean-surreal",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Parker Jean",
+    "price": 228,
+    "url": "https://jennikayne.com/products/parker-jean-surreal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/parker-jean-surreal-v2-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-pocket-loose-flare-pant-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "RE/DONE",
+    "name": "Pocket Loose Flare Pant",
+    "price": 295,
+    "url": "https://jennikayne.com/products/pocket-loose-flare-pant-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/redone-pocket-loose-flare-pant-vintage-ivory-01.jpg?width=600",
+    "category": "Pants",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-ren-jean-control",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Ren Jean",
+    "price": 238,
+    "url": "https://jennikayne.com/products/ren-jean-control",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/agolde-cotton-ren-denim-jean-pant-control-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-ren-jean-disclosure",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Ren Jean",
+    "price": 238,
+    "url": "https://jennikayne.com/products/ren-jean-disclosure",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/agolde-cotton-ren-denim-jean-pant-disclosure-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-ren-jean-shrine",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Ren jean",
+    "price": 238,
+    "url": "https://jennikayne.com/products/ren-jean-shrine",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/ren-jean-shrine.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Regenerative cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-ren-jean-solar",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Ren jean",
+    "price": 238,
+    "url": "https://jennikayne.com/products/ren-jean-solar",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Ren-Solar.jpg?width=600",
+    "category": "Denim",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Regenerative cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-reverie-dress-white",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Reverie Dress",
+    "price": 365,
+    "url": "https://jennikayne.com/products/reverie-dress-white",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/reverie-dress-white-2.jpg?width=600",
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-riley-crop-jean-dimension",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Riley Crop Jean",
+    "price": 188,
+    "url": "https://jennikayne.com/products/riley-crop-jean-dimension",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/agolde-riley-crop-denim-jean-dimension-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-riley-crop-jean-dynamic",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Riley Crop Jean",
+    "price": 208,
+    "url": "https://jennikayne.com/products/riley-crop-jean-dynamic",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/cotton-agolde-riley-crop-jean-denim-dynamic-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-riley-crop-jean-escape",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Riley Crop Jean",
+    "price": 208,
+    "url": "https://jennikayne.com/products/riley-crop-jean-escape",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/cotton-agolde-riley-crop-jean-denim-escape-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-riley-crop-jean-panoramic",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Riley Crop Jean",
+    "price": 198,
+    "url": "https://jennikayne.com/products/riley-crop-jean-panoramic",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/agolde-panoramic-denim-jean-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-riley-crop-jean-silence",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Riley Crop Jean",
+    "price": 188,
+    "url": "https://jennikayne.com/products/riley-crop-jean-silence",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/agolde-riley-crop-jean-silence-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-riley-long-jean-cove",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Riley Long Jean",
+    "price": 198,
+    "url": "https://jennikayne.com/products/riley-long-jean-cove",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/agolde-riley-long-jean-denim-cove-5.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-riley-long-jean-dividend",
+    "retailer": "Jenni Kayne",
+    "brand": "AGOLDE",
+    "name": "Riley Long Jean",
+    "price": 188,
+    "url": "https://jennikayne.com/products/riley-long-jean-dividend",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/products/agolde-cotton-riley-long-jean-denim-divided-1.jpg?width=600",
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Organic cotton",
+        99
+      ],
+      [
+        "Elastane",
+        1
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-selma-jacket-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Selma Jacket",
+    "price": 525,
+    "url": "https://jennikayne.com/products/selma-jacket-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/selma-jacket-black-1.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Black",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-selma-jacket-gold-rush",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Selma Jacket",
+    "price": 525,
+    "url": "https://jennikayne.com/products/selma-jacket-gold-rush",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/selma-jacket-gold-rush.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-slim-tee-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Slim Tee",
+    "price": 95,
+    "url": "https://jennikayne.com/products/slim-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cotton-slim-tee-black-2.jpg?width=600",
+    "category": "Tops",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-slim-tee-warm-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Slim Tee",
+    "price": 95,
+    "url": "https://jennikayne.com/products/slim-tee-warm-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Cotton-Slim-Tee_WarmIvory-2_a646d23b-d457-4344-92e0-97ecb53ee556.jpg?width=600",
+    "category": "Tops",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-slim-tee-white",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Slim Tee",
+    "price": 95,
+    "url": "https://jennikayne.com/products/slim-tee-white",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Cotton-Slim-Tee_WarmIvory.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-suede-lennox-jacket-honey",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Suede Lennox Jacket",
+    "price": 1395,
+    "url": "https://jennikayne.com/products/suede-lennox-jacket-honey",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/suede-lennox-jacket-honey.jpg?width=600",
+    "category": "Outerwear",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-suede-wolfe-skirt-olive",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Suede Wolfe Skirt",
+    "price": 1295,
+    "url": "https://jennikayne.com/products/suede-wolfe-skirt-olive",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Suede-Wolfe-Skirt_Olive-1_bf368219-2d1a-42b2-b8b8-4ff55abd216d.jpg?width=600",
+    "category": "Skirts",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Suede",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-sway-dress-baby-blue",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Sway Dress",
+    "price": 445,
+    "url": "https://jennikayne.com/products/sway-dress-baby-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/sway-dress-baby-blue.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-sway-dress-warm-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Sway Dress",
+    "price": 445,
+    "url": "https://jennikayne.com/products/sway-dress-warm-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/sway-dress-warm-ivory.jpg?width=600",
+    "category": "Dresses",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-topanga-wide-leg-jean-ash-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Topanga Wide Leg Jean",
+    "price": 265,
+    "url": "https://jennikayne.com/products/topanga-wide-leg-jean-ash-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/TOPANGA_WIDE-LEG-JEAN-ASH-BLACK.png?width=600",
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-topanga-wide-leg-jean-seeded-natural",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Topanga Wide Leg Jean",
+    "price": 265,
+    "url": "https://jennikayne.com/products/topanga-wide-leg-jean-seeded-natural",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/TOPANGA-WIDE-LEG-JEAN-SEEDED-NATURAL_600.png?width=600",
+    "category": "Denim",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-vintage-pocket-tee-white",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Vintage Pocket Tee",
+    "price": 95,
+    "url": "https://jennikayne.com/products/vintage-pocket-tee-white",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/vintage-pocket-tee-white-2_a108535e-1520-4ada-847d-8075bbc56df1.jpg?width=600",
+    "category": "Tops",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
   }
 ]
