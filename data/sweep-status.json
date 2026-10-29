@@ -260,11 +260,11 @@
    "brand": "SAME Los Angeles",
    "method": "shopify-json",
    "cadence": "regular",
-   "status": "todo",
+   "status": "done",
    "cursor": null,
-   "lastSweep": null,
+   "lastSweep": "2026-10-29",
    "lastDelta": null,
-   "note": ""
+   "note": "2026-10-29: Shopify products.json, 923 products, composition on the product page under Details + Care (DETAILS and CARE blocks), not in body_html. Scope is the RTW and DENIM product types (380); swim, jewelry, sarongs, scarves and kids recorded out-of-scope. 101 staged, 207 failed the fiber rule (viscose, nylon, silk with 8% spandex), 56 held unrecorded (shearling, pony hair, lace/chiffon/denim with no fiber stated, no-composition knits, a few parses). Sizes 23-28 vs 29-32 denim differ (100% cotton vs 98/2 elastane); staged at the 100% figure with a trim note."
   },
   {
    "order": 25,
