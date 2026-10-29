@@ -98,9 +98,17 @@ The homepage, in order. Two kinds of block.
 }
 ```
 
-`apply` wires the bottom link to a filter state. The available keys are defined
-in `EDIT_FILTERS` at the top of `components/Shop.js`. Add a new one there and
-you can use it here.
+Changed October 28, 2026. Each edit is now fed by a rule in
+`lib/editrules.js` (`"rule": "holiday"`), so it refreshes at every build, and
+shows up to twelve photographed pieces three at a time, each three from one
+retailer so the backgrounds match. `picks` is optional and pins pieces to the
+front, with an editor `note`, a `label`, or an `image` override. A block with
+no rule shows exactly its picks. Every rule also gets a page at `/edit/<rule>`
+with the full filter rail, which is where the bottom link goes. `apply` still
+works for category links (`EDIT_CATEGORIES` in `lib/edits.js`) and the old hash
+filters (`EDIT_FILTERS`). The brand statement is parked in
+`components/Statement.js` and the explainer strips in `data/strips.json`,
+neither rendered for now.
 
 ### `data/guides.json`
 

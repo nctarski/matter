@@ -15,11 +15,7 @@ export default function ShopAllPage() {
       <CatBar pages={CATEGORY_PAGES} menus={MENUS} current="All" />
       <Shop
         items={catalog}
-        heading={{
-          eyebrow: 'The full edit',
-          title: 'Set your own standard',
-          body: `${catalog.length} pieces, every composition read shell and lining separately. Move the bar and watch what survives it.`,
-        }}
+        heading={{ eyebrow: 'The full edit', title: 'Set your own standard' }}
       />
     </>
   );

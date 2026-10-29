@@ -61,7 +61,10 @@ const clearHash = () => {
  * on a phone, so the next batch draws as the shopper nears the bottom. */
 const PAGE = 60;
 
-export default function Shop({ items, brand = null, category = null, menu = null, heading, children = null }) {
+/* after: rendered under the grid. The category facts live there, folded up,
+ * so the page opens on the pieces and the written summary is still on the
+ * page for anything that reads rather than looks. */
+export default function Shop({ items, brand = null, category = null, menu = null, heading, children = null, after = null }) {
   const cat = category?.category || null;
   const [f, setF] = useState(() => initial(brand, cat));
   const set = (patch) => setF((prev) => ({ ...prev, ...patch }));
@@ -153,14 +156,18 @@ export default function Shop({ items, brand = null, category = null, menu = null
       <div className="fullhead">
         <p className="eyebrow">{heading.eyebrow}</p>
         <h1>{heading.title}</h1>
-        <p>{heading.body}</p>
-        {/* Says out loud why some tiles are blank. A shopper reads it as a
-            design choice and an affiliate reviewer reads it as someone who
-            understands that product photography is licensed, not taken. */}
-        <p className="photonote" data-nosnippet="">
-          Photography appears as each retailer partnership is approved. Until then a
-          piece shows its colour.
-        </p>
+        {heading.body && <p>{heading.body}</p>}
+        {/* Says out loud why some tiles are blank, on the pages that still
+            have blank tiles (brand pages for retailers not yet approved). A
+            shopper reads it as a design choice and an affiliate reviewer reads
+            it as someone who understands that product photography is
+            licensed, not taken. */}
+        {heading.photonote && (
+          <p className="photonote" data-nosnippet="">
+            Photography appears as each retailer partnership is approved. Until then a
+            piece shows its colour.
+          </p>
+        )}
       </div>
 
       {children}
@@ -383,6 +390,7 @@ export default function Shop({ items, brand = null, category = null, menu = null
             )}
           </div>
         </div>
+      {after}
     </main>
   );
 }

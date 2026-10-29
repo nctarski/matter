@@ -1,32 +1,48 @@
 [
   {
     "type": "edit",
-    "title": "The Fall Edit",
-    "by": "Hand selected by our editors",
-    "note": "Three pieces that earned it. Chosen for the cut first, then held to the same composition standard as everything else here.",
-    "cta": "Shop all outerwear",
-    "apply": "outerwear",
-    "picks": [
-      {
-        "id": "brochu-walker-blake-coat",
-        "note": "One hundred percent wool and unlined, so what you feel against you is the wool itself."
-      },
-      {
-        "id": "christy-dawn-the-eleanor-coat",
-        "note": "One hundred percent virgin wool in a yarn dyed plaid, cut and sewn in Los Angeles."
-      },
-      {
-        "id": "massimo-dutti-high-neck-suede-jacket",
-        "note": "Full suede and unlined. It will soften and darken where you wear it most.",
-        "image": "https://static.massimodutti.net/assets/public/c9ae/0455/c3af493cbfb0/53dba5013dca/04716675505-o7/04716675505-o7.jpg?w=1000"
-      }
-    ],
-    "photos": "model"
+    "key": "holiday",
+    "title": "The Holiday Party Edit",
+    "by": "Silk, mostly",
+    "photos": "model",
+    "note": "Silk is a protein fiber spun by the silkworm. It takes dye deeper than any other fiber and weighs almost nothing, which is why it moves and catches light the way nothing else does in a dark room.",
+    "cta": "Shop the holiday edit",
+    "rule": "holiday",
+    "picks": []
   },
   {
-    "type": "strip",
-    "heading": "We read the label so you don’t have to.",
-    "body": "Every piece here has been through the same check. Shell composition and lining composition, pulled apart, parsed into percentages, and shown on the card before you click anything. No scrolling to the bottom of a product page to find out what you are actually buying."
+    "type": "edit",
+    "key": "new",
+    "title": "New Arrivals",
+    "by": "Just read, just added",
+    "photos": "model",
+    "note": "The newest pieces to pass the label check, shell and lining read separately.",
+    "cta": "Shop new arrivals",
+    "rule": "new",
+    "picks": []
+  },
+  {
+    "type": "edit",
+    "key": "sweaters",
+    "title": "Sweaters",
+    "by": "Cashmere, wool, alpaca",
+    "photos": "model",
+    "note": "Animal fiber all the way through. No acrylic to pill, no nylon to trap heat, and a sweater that gets softer with every wash instead of worse.",
+    "cta": "Shop all sweaters",
+    "rule": "sweaters",
+    "apply": "sweaters",
+    "picks": []
+  },
+  {
+    "type": "edit",
+    "key": "blacktie",
+    "title": "Black Tie Ready",
+    "by": "Floor length and silk",
+    "photos": "model",
+    "note": "Gowns, columns and bias cuts in silk or velvet. Check the lining line on each card, because that is where a formal dress most often gives up the fiber story.",
+    "cta": "Shop black tie",
+    "rule": "blacktie",
+    "picks": []
   },
   {
     "type": "edit",
@@ -54,21 +70,18 @@
         "note": "One hundred percent cashmere in a softer, easier shape.",
         "image": "https://cdn.shopify.com/s/files/1/0150/1528/files/LEE_POLO_SWEATER_-_NAVY_A-09-12289-NYA1_PACKSHOT_01.jpg?width=900"
       }
-    ]
-  },
-  {
-    "type": "strip",
-    "heading": "The lining is where it hides.",
-    "body": "A wool crepe dress with a polyester lining breathes like polyester. Most sites fold the lining into one composition line, or leave it off entirely. We show it separately on every card, and you can filter on it."
+    ],
+    "key": "lmh"
   },
   {
     "type": "edit",
+    "key": "fringe",
     "title": "This Moment: Fringe",
     "by": "What is moving this fall",
     "photos": "model",
     "note": "Fringe is back on knits, coats and skirts. These are leather, wool and cashmere all the way through, so the movement comes from the material itself.",
     "cta": "Shop all fringe",
-    "apply": "fringe",
+    "rule": "fringe",
     "picks": [
       {
         "id": "white-warren-cashmere-blend-luxe-fringe-crewneck-ivory",
@@ -87,53 +100,35 @@
   },
   {
     "type": "edit",
-    "title": "Same Shell, Different Lining",
-    "by": "One brand, one name, two answers",
-    "note": "Sea New York's Michaela coat and Michaela cape share a name and a one hundred percent wool shell. The coat is lined in polyester and viscose. The cape is lined in cotton. Sea publishes both, and we put it on the front of the card.",
-    "cta": "Shop tailoring",
-    "apply": "tailoring",
-    "picks": [
-      {
-        "id": "sea-new-york-michaela-coat",
-        "note": "Wool shell, lined in polyester and viscose. Nothing about the outside tells you that."
-      },
-      {
-        "id": "sea-new-york-michaela-wool-cape",
-        "note": "The same wool, lined in cotton. It breathes all the way through."
-      },
-      {
-        "id": "massimo-dutti-100-wool-flannel-suit-blazer",
-        "note": "A third answer. Wool flannel lined in acetate and modal, both plant derived, at three hundred fifty dollars."
-      }
-    ],
-    "photos": "model"
+    "key": "sets",
+    "title": "Sets",
+    "by": "Bought together, worn apart",
+    "photos": "model",
+    "note": "Two pieces cut from one cloth, so they match now and still work alone in March. Jumpsuits included.",
+    "cta": "Shop sets and jumpsuits",
+    "rule": "sets",
+    "picks": []
   },
   {
     "type": "edit",
-    "title": "What Silk Looks Like",
-    "by": "Three pieces that are what they look like",
-    "note": "Satin is a weave, not a fiber, and most of what is sold as satin is polyester or viscose. These three are silk all the way through, which is what the word used to promise.",
-    "cta": "See what one hundred percent looks like",
-    "apply": "pure",
-    "picks": [
-      {
-        "id": "tibi-4-ply-silk-v-neck-dress-with-bra",
-        "note": "Four ply silk, heavy enough to hang straight. One hundred percent."
-      },
-      {
-        "id": "christy-dawn-the-helen-bias-skirt",
-        "note": "Silk cut on the bias, which is why it moves the way satin is supposed to."
-      },
-      {
-        "id": "brochu-walker-carina-blouse",
-        "note": "One hundred percent silk, unlined, in ivory."
-      }
-    ],
-    "photos": "model"
+    "key": "basics",
+    "title": "Quality Basics",
+    "by": "Under $250, 100% natural",
+    "photos": "garment",
+    "note": "Tees, tanks, turtlenecks, cardigans and trousers in cotton, wool, cashmere and silk with nothing synthetic in the shell. The price is the fiber, not the logo.",
+    "cta": "Shop the basics",
+    "rule": "basics",
+    "picks": []
   },
   {
-    "type": "strip",
-    "heading": "Natural is not the same as sustainable.",
-    "body": "Composition tells you how a garment will feel, wear and age. It does not tell you how the animal was treated, who sewed it, or what the dye house released. Those are real questions and we do not pretend a percentage answers them."
+    "type": "edit",
+    "key": "western",
+    "title": "The Western Edit",
+    "by": "Suede, shearling, snaps",
+    "photos": "model",
+    "note": "Suede and shearling are hides, which makes them the oldest natural fibers on the site. They break in where you wear them and they do not come back from a wash, so buy them to keep.",
+    "cta": "Shop the western edit",
+    "rule": "western",
+    "picks": []
   }
 ]

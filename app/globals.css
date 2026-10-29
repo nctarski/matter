@@ -104,11 +104,14 @@ button, input, select { font-family: inherit; }
 .tally { color: var(--oxblood); font-variant-numeric: tabular-nums; }
 
 .catbar { border-top: 1px solid var(--hairline); background: var(--ivory); }
+/* Every category stays in view. The row wraps rather than scrolling, owner
+   decision on 2026-10-28, so a shopper never has to drag a bar sideways to
+   find out that Sleep & lounge exists. */
 .cats {
-  display: flex; gap: var(--s4); overflow-x: auto; padding-block: 11px;
-  scrollbar-width: none;
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 7px var(--s4);
+  padding-block: 11px;
 }
-.cats::-webkit-scrollbar { display: none; }
+@media (max-width: 859px) { .cats { gap: 6px var(--s3); } }
 .cats a, .cats button {
   background: none; border: 0; padding: 0; white-space: nowrap; font-size: 11px;
   letter-spacing: .14em; text-transform: uppercase; color: var(--faint); cursor: pointer;
@@ -212,6 +215,36 @@ button, input, select { font-family: inherit; }
   border-bottom: 1px solid var(--oxblood);
 }
 .linkbtn:hover { color: var(--charcoal); border-bottom-color: var(--charcoal); }
+
+/* ---------- The homepage rail: three at a time ---------- */
+.rail-wrap { position: relative; }
+.rail-track {
+  display: grid; grid-auto-flow: column; grid-auto-columns: calc((100% - var(--s4)) / 1.6);
+  gap: var(--s4); overflow-x: auto; padding-bottom: var(--s3);
+  scroll-snap-type: x mandatory; scroll-behavior: smooth; scrollbar-width: none;
+}
+.rail-track::-webkit-scrollbar { display: none; }
+@media (min-width: 860px) {
+  .rail-track {
+    grid-auto-columns: calc((100% - 2 * var(--s4)) / 3);
+    gap: var(--s4); padding-bottom: 0;
+  }
+}
+.rail-track .card { scroll-snap-align: start; }
+/* The arrows sit on the edge of the row, level with the middle of the photos,
+   clear of the heart in each card's corner. */
+.rail-btn {
+  position: absolute; top: 0; margin-top: calc(100% * 2 / 9 - 30px);
+  width: 40px; height: 40px; border-radius: 50%; border: 1px solid var(--rule);
+  background: var(--ivory); color: var(--charcoal); font-size: 16px; line-height: 1;
+  cursor: pointer; box-shadow: 0 6px 18px rgba(31, 32, 32, .08); z-index: 2;
+  display: grid; place-items: center;
+}
+.rail-btn.next { right: -12px; }
+.rail-btn.prev { left: -12px; }
+.rail-btn:hover { border-color: var(--oxblood); color: var(--oxblood); }
+.rail-btn[hidden] { display: none; }
+@media (max-width: 859px) { .rail-btn { margin-top: calc(100% / 1.6 * .66 - 20px); } .rail-btn.next { right: 0; } .rail-btn.prev { left: 0; } }
 
 /* ---------- Explainer strips ---------- */
 .strip {
@@ -465,6 +498,26 @@ footer a { color: var(--muted); }
   color: var(--muted); text-decoration: none;
 }
 .footlinks a:hover { color: var(--charcoal); }
+/* The notices, folded. */
+.fineprint { display: grid; gap: var(--s2); }
+.fineprint summary {
+  cursor: pointer; list-style: none; font-size: 10px; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--faint);
+}
+.fineprint summary::-webkit-details-marker { display: none; }
+.fineprint summary::after { content: ' +'; }
+.fineprint[open] summary::after { content: ' \2212'; }
+.fineprint summary:hover { color: var(--charcoal); }
+/* The brand index. */
+.brandindex { list-style: none; margin: 0; padding: 0 0 var(--s4); }
+.brandindex a {
+  display: grid; gap: var(--s1); padding-block: var(--s3); border-top: 1px solid var(--hairline);
+  text-decoration: none;
+}
+.brandindex .bname { font-family: var(--display); font-size: 23px; line-height: 1.2; }
+.brandindex .bfacts { color: var(--muted); font-size: 13px; max-width: 70ch; }
+.brandindex a:hover .bname { color: var(--oxblood); }
+.bcount { color: var(--faint); font-size: 12px; }
 
 /* Report an error, on every product card. The one control that lets shoppers
    do QA for us, which they do faster than any sampling process. */
@@ -502,6 +555,17 @@ footer a { color: var(--muted); }
 
 /* ---------- At a glance facts on brand and category pages ---------- */
 .facts { display: grid; gap: var(--s3); max-width: 62ch; padding-bottom: var(--s4); }
+/* Folded up at the foot of a category page. */
+.facts.folded { display: block; border-top: 1px solid var(--hairline); padding-block: var(--s4) var(--s5); }
+.facts.folded summary {
+  cursor: pointer; list-style: none; font-size: 10px; letter-spacing: .18em;
+  text-transform: uppercase; color: var(--muted);
+}
+.facts.folded summary::-webkit-details-marker { display: none; }
+.facts.folded summary::after { content: ' +'; color: var(--faint); }
+.facts.folded[open] summary::after { content: ' \2212'; }
+.facts.folded summary:hover { color: var(--charcoal); }
+.facts-body { display: grid; gap: var(--s3); padding-top: var(--s3); }
 .facts p { color: var(--charcoal); }
 .facts .updated, .updated { color: var(--faint); font-size: 12px; }
 .trend { display: grid; gap: var(--s2); }

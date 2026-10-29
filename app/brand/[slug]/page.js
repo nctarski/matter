@@ -44,6 +44,7 @@ export default function BrandPage({ params }) {
           eyebrow: `${brand} at MATTER`,
           title: `${brand}, read label first`,
           body: 'Every composition read from the product page and shown shell and lining separately. Sorted most natural first.',
+          photonote: true,
         }}
       >
         <Facts summary={brandSummary(f)} trend={brandTrend(f)} updated={updatedOn()} />

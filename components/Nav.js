@@ -7,6 +7,7 @@ import { useHearts } from './HeartsProvider';
 
 const LINKS = [
   { href: '/', label: 'Shop' },
+  { href: '/brands', label: 'Brands' },
   { href: '/guides', label: 'Guides' },
   { href: '/learn', label: 'Learn' },
   { href: '/about', label: 'About' },
@@ -16,7 +17,9 @@ export default function Nav() {
   const pathname = usePathname();
   const { hearts, ready } = useHearts();
   const current = (href) =>
-    href === '/' ? pathname === '/' : pathname.startsWith(href);
+    href === '/' ? pathname === '/'
+      : href === '/brands' ? pathname.startsWith('/brand')
+      : pathname.startsWith(href);
 
   return (
     <>

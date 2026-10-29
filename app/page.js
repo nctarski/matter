@@ -1,11 +1,10 @@
 import Link from 'next/link';
 import CatBar from '@/components/CatBar';
-import ProductCard from '@/components/ProductCard';
-import Statement from '@/components/Statement';
+import EditRail from '@/components/EditRail';
 import edits from '@/data/edits.json';
-import { catalog } from '@/lib/catalog';
 import { GUIDES } from '@/lib/guides';
 import { slugify } from '@/lib/item';
+import { sectionPieces } from '@/lib/editrules';
 import { BIG_BRANDS, CATEGORY_PAGES, MENUS, MIN_BRAND_PIECES } from '@/lib/shop';
 import { editHref } from '@/lib/edits';
 import { SITE } from '@/lib/site';
@@ -16,32 +15,28 @@ export const metadata = {
   alternates: { canonical: '/' },
 };
 
-const byId = Object.fromEntries(catalog.map((i) => [i.id, i]));
-
-/* The homepage is the edited front page: the statement, the curated edits,
- * and a way into each category and brand. The full grid lives on the shop
- * pages, so this page stays fast and every category has its own address. */
+/* The homepage is a run of edits, each one a rule over the catalog (see
+ * lib/editrules.js) shown three pieces at a time, in the order set in
+ * data/edits.json. The brand statement is parked for now, owner decision on
+ * 2026-10-28, so the sections carry what the site does on their own. The
+ * full grid lives on the shop pages. */
 export default function HomePage() {
+  const shown = new Set(); // styles already on the page, so no section repeats an earlier one
   return (
     <>
       <CatBar pages={CATEGORY_PAGES} menus={MENUS} />
       <main id="main" className="wrap">
-        <Statement />
-
-        {/* Curated edits and explainer strips, in the order set in data/edits.json. */}
-        {edits.map((block, i) =>
-          block.type === 'strip' ? (
-            <section className="strip" key={`strip-${i}`}>
-              <h2>{block.heading}</h2>
-              <p>{block.body}</p>
-            </section>
-          ) : /* An edit whose picks are all still pending confirmation would
-                 render as a heading above nothing. Drop the whole block
-                 instead, so the homepage never has a hole in it. */
-          block.picks.filter((p) => byId[p.id]).length === 0 ? null : (
+        {edits.map((block, i) => {
+          if (block.type !== 'edit') return null;
+          const meta = Object.fromEntries((block.picks || []).map((p) => [p.id, p]));
+          const pieces = sectionPieces(block, shown).map((item) => ({ item, ...(meta[item.id] || {}) }));
+          /* A section the catalog cannot fill yet would be a heading above
+             nothing. Drop it until the pieces arrive. */
+          if (pieces.length === 0) return null;
+          return (
             <section
               className={`edit-sec photos-${block.photos || 'model'}`}
-              key={`edit-${i}`}
+              key={block.key || i}
               aria-labelledby={`edit-h-${i}`}
             >
               <div className="ehead">
@@ -49,21 +44,15 @@ export default function HomePage() {
                 <span className="by">{block.by}</span>
               </div>
               <p className="enote">{block.note}</p>
-              <div className="trio">
-                {block.picks
-                  .filter((p) => byId[p.id])
-                  .map((p) => (
-                    <ProductCard key={p.id} item={byId[p.id]} note={p.note} image={p.image} label={p.label} />
-                  ))}
-              </div>
+              <EditRail pieces={pieces} label={block.title} />
               <div className="emore">
-                <Link className="linkbtn" href={editHref(block.apply)}>
+                <Link className="linkbtn" href={editHref(block)}>
                   {block.cta} &rarr;
                 </Link>
               </div>
             </section>
-          )
-        )}
+          );
+        })}
 
         <section className="browse" aria-labelledby="browse-cats">
           <p className="eyebrow">The full edit</p>

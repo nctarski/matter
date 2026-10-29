@@ -39,14 +39,9 @@ export default function CategoryPage({ params }) {
         items={items}
         category={{ label: c.label, category: c.category }}
         menu={MENUS[c.category] || null}
-        heading={{
-          eyebrow: 'Shop',
-          title: c.label,
-          body: 'Every composition read from the product page and shown shell and lining separately.',
-        }}
-      >
-        <Facts summary={categorySummary(c.label, categoryFacts(c.category))} updated={updatedOn()} />
-      </Shop>
+        heading={{ eyebrow: 'Shop', title: c.label }}
+        after={<Facts summary={categorySummary(c.label, categoryFacts(c.category))} updated={updatedOn()} collapsed />}
+      />
     </>
   );
 }
