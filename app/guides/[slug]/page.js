@@ -52,15 +52,15 @@ export default function GuidePage({ params }) {
       {g.three.length > 0 && (
         <section className="edit-sec photos-model" aria-labelledby="three-h">
           <div className="ehead">
-            <h2 id="three-h">Our three</h2>
-            <span className="by">Low, middle and top of the range</span>
+            <h2 id="three-h">{g.threeHeading}</h2>
+            <span className="by">{g.threeBy}</span>
           </div>
           <div className="trio">
-            {g.three.map((p, i) => (
+            {g.three.map((p) => (
               <ProductCard
                 key={p.item.id}
                 item={p.item}
-                label={['Entry', 'Middle', 'Top'][i]}
+                label={p.label}
                 note={p.note || undefined}
               />
             ))}
@@ -85,7 +85,7 @@ export default function GuidePage({ params }) {
       <section aria-labelledby="all-h">
         <div className="ehead">
           <h2 id="all-h">Every one that qualifies</h2>
-          <span className="by">{g.pieces.length} pieces, lowest price first</span>
+          <span className="by">{g.pieces.length} pieces, {g.orderNote.charAt(0).toLowerCase() + g.orderNote.slice(1)}</span>
         </div>
         <p className="updated">Rebuilt from the catalog at every update. Updated {updated}.</p>
         <div className="grid guidegrid">

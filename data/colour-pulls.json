@@ -1,0 +1,41 @@
+[
+  {
+    "tag": "bright-purple",
+    "requested": "2026-10-28",
+    "status": "open",
+    "target": 24,
+    "colourWords": [
+      "purple",
+      "violet",
+      "ultraviolet",
+      "ultra violet",
+      "amethyst",
+      "grape",
+      "royal purple",
+      "electric purple",
+      "bright purple"
+    ],
+    "notWords": [
+      "plum",
+      "fig",
+      "raisin",
+      "aubergine",
+      "eggplant",
+      "mulberry",
+      "wine",
+      "burgundy",
+      "lilac",
+      "lavender",
+      "mauve",
+      "wisteria",
+      "heather",
+      "dusty"
+    ],
+    "hue": {
+      "min": 258,
+      "max": 305,
+      "minShare": 0.05
+    },
+    "note": "Bright purple only. Fuchsia, magenta, lilac and plum do not count. Natalie asked 2026-10-28 for a homepage edit and a guide."
+  }
+]

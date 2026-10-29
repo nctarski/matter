@@ -35379,7 +35379,9 @@
     ],
     "lining": null,
     "isNew": true,
-    "tags": []
+    "tags": [
+      "bright-purple"
+    ]
   },
   {
     "id": "naadam-signature-cashmere-three-quarter-sleeve-cardigan",
@@ -41776,7 +41778,9 @@
     ],
     "lining": null,
     "isNew": false,
-    "tags": []
+    "tags": [
+      "bright-purple"
+    ]
   },
   {
     "id": "kotn-womens-cable-zip-sweater-in-dark-charcoal",
@@ -42275,7 +42279,7 @@
     "url": "https://kotn.com/products/womens-elara-zip-up-sweater-in-violet",
     "image": "https://cdn.shopify.com/s/files/1/0932/1356/files/WOMENS_ELARA_ZIP_UP_SWEATER_VIOLET_02.jpg?width=600",
     "category": "Sweaters",
-    "colour": "Navy",
+    "colour": "Violet",
     "shell": [
       [
         "Cotton",
@@ -42284,7 +42288,9 @@
     ],
     "lining": null,
     "isNew": false,
-    "tags": []
+    "tags": [
+      "bright-purple"
+    ]
   },
   {
     "id": "kotn-womens-elina-convertible-sweater-in-black-melange",
@@ -43172,7 +43178,9 @@
     ],
     "lining": null,
     "isNew": false,
-    "tags": []
+    "tags": [
+      "bright-purple"
+    ]
   },
   {
     "id": "kotn-womens-micro-rib-tee-in-barely-pink",
@@ -43292,7 +43300,9 @@
     ],
     "lining": null,
     "isNew": true,
-    "tags": []
+    "tags": [
+      "bright-purple"
+    ]
   },
   {
     "id": "kotn-womens-mona-merino-cardigan-in-charcoal-melange",

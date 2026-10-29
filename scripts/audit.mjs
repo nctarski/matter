@@ -31,14 +31,14 @@ const fibers = await import(
 
 const {
   TIER_1_NATURAL, TIER_2_CELLULOSIC, LYOCELL, TIER_3_SYNTHETIC,
-  FIBER_ALIASES, CATEGORIES, COLOURS, NAV, RESTING_TAGS,
+  FIBER_ALIASES, CATEGORIES, COLOURS, NAV, RESTING_TAGS, EDIT_TAGS,
   naturalPct, cellulosicPct, effectiveNatural, formatComposition,
 } = fibers;
 
 const KNOWN_FIBERS = new Set([
   ...TIER_1_NATURAL, ...TIER_2_CELLULOSIC, ...LYOCELL, ...TIER_3_SYNTHETIC,
 ]);
-const KNOWN_TAGS = new Set([...NAV.filter((n) => n.tag).map((n) => n.tag), ...RESTING_TAGS]);
+const KNOWN_TAGS = new Set([...NAV.filter((n) => n.tag).map((n) => n.tag), ...RESTING_TAGS, ...EDIT_TAGS]);
 const KNOWN_COLOURS = new Set(Object.keys(COLOURS));
 
 const catalog = JSON.parse(read('data/catalog.json'));

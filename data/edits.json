@@ -100,6 +100,18 @@
   },
   {
     "type": "edit",
+    "key": "purple",
+    "title": "This Moment: Bright Purple",
+    "by": "Violet, orchid, ultraviolet",
+    "photos": "model",
+    "note": "The colour of the season. Every piece here was picked by looking at the photo, not the colour name, so the purple is actually bright. Silk, wool and cashmere lead, because protein fibers take a saturated dye deepest and hold it longest.",
+    "cta": "Shop bright purple",
+    "rule": "purple",
+    "picks": [],
+    "min": 6
+  },
+  {
+    "type": "edit",
     "key": "sets",
     "title": "Sets",
     "by": "Bought together, worn apart",

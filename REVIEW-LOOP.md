@@ -326,6 +326,11 @@ WeWoreWhat, Retrofete, Atoir, With Jean, H&M, ASOS). Every other retailer is
    that are published or rejected (pass null for those img files in the
    publish). If pending candidates plus new ones would exceed 450, stage only
    what fits, in queue order, and do NOT record the rest in the ledger.
+5b. Colour pulls come first. If `data/colour-pulls.json` has an entry with
+   status "open", do it before the sweep, inside the same nightly budget (see
+   "Colour pulls" below). Mark it "done" once `target` tagged pieces are in
+   the catalog plus the review page, or "partial" with a note if the stores
+   ran out.
 6. Every new piece gets a round file `data/review/round-<date>-nightly.json`
    with `category` from the list above. A Dresses piece also gets `attrs`
    (see "Dress attributes" below) read from the product description, and
@@ -578,3 +583,33 @@ Brand pages show sets first, each one's pieces side by side. When a retailer
 page says two pieces are sold together or shows them as a set, set `set` on
 each piece to the collection name so the grouping does not depend on the
 name reading.
+
+
+## Colour pulls
+
+Added October 28, 2026. A colour pull fills a colour edit (the homepage
+"This Moment: Bright Purple" section and the bright purple guide) from the
+stores, rather than waiting for the sweep to stumble on the colour. Each open
+entry in `data/colour-pulls.json` names the tag, the colour words to search
+for, the words that rule a piece out, and a hue window.
+
+1. Search. Shopify stores: page products.json and keep products with a
+   variant whose colour option matches a colour word and no not word. Revolve:
+   the women's clothing listing with its Purple colour filter, inside the
+   Revolve pacing. Massimo Dutti: colour names from the catalog API. Other
+   stores: their own colour filter if they have one; skip them if not.
+2. Read each composition and apply the fiber rule exactly as for any piece.
+   Stage the specific colour variant (its own URL, image and price), with
+   `tags: [<the tag>]` and `colour` set to the closest swatch (Violet for
+   purple).
+3. Check the photos. Paste `scripts/colour-check.browser.js` into Chrome and
+   run it on the staged pieces with the entry's hue window. Keep a piece only
+   if its share is at least `minShare` AND you have looked at the photo and
+   it is the colour asked for. Bright purple means violet to royal purple.
+   Fuchsia, magenta, lilac, lavender, plum, fig and raisin do not count, even
+   when the retailer calls them purple. Drop the tag (not the piece, if it
+   otherwise passes) on anything that fails.
+4. Existing catalog pieces whose colour field is wrong for the photo can be
+   corrected and tagged in the same pass.
+5. The edit hides itself until it has at least `min` pieces (data/edits.json),
+   so nothing half empty ever shows on the homepage.

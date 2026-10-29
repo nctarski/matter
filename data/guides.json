@@ -305,7 +305,7 @@
     "intro": [
       "Viscose, modal, cupro, acetate and lyocell are made from plant cellulose, usually wood pulp, dissolved in chemicals and extruded as fiber. They are neither natural nor synthetic in any useful sense, so we show them as their own tier rather than quietly counting them toward either.",
       "This matters because the most common way a garment is made to look more natural than it is involves putting viscose in the lining and nothing in the headline.",
-      "People search for these three names constantly and get three different answers. The short version: viscose and bamboo are the same fiber made the same way, lyocell is the same idea made a cleaner way, and none of them are what the word natural means on this site."
+      "People search for these three names constantly and get three different answers. The short version is that viscose and bamboo are the same fiber made the same way, lyocell is the same idea made a cleaner way, and none of them are what the word natural means on this site."
     ],
     "sections": [
       {
@@ -320,7 +320,7 @@
       },
       {
         "heading": "What bamboo on a label actually means",
-        "body": "Bamboo fiber exists in two forms. Bamboo linen, made mechanically the way flax is, is rare, coarse and expensive, and you would know if you had bought it. Everything else sold as bamboo, including nearly all bamboo sheets, tees and underwear, is bamboo viscose: the plant dissolved in the same solvents as any other viscose and extruded as a new fiber. The softness, the drape and the weakness when wet all come from the process, not the plant. The United States Federal Trade Commission has fined retailers for labelling it as bamboo without the word rayon or viscose, which is why you now see bamboo viscose or rayon from bamboo. We index all of it as viscose."
+        "body": "Bamboo fiber exists in two forms. Bamboo linen, made mechanically the way flax is, is rare, coarse and expensive, and you would know if you had bought it. Everything else sold as bamboo, including nearly all bamboo sheets, tees and underwear, is bamboo viscose, the plant dissolved in the same solvents as any other viscose and extruded as a new fiber. The softness, the drape and the weakness when wet all come from the process, not the plant. The United States Federal Trade Commission has fined retailers for labelling it as bamboo without the word rayon or viscose, which is why you now see bamboo viscose or rayon from bamboo. We index all of it as viscose."
       },
       {
         "heading": "Lyocell, and why we separate it",
@@ -329,11 +329,11 @@
       {
         "heading": "How to read them on a label",
         "list": [
-          "<strong>Viscose, rayon, bamboo viscose, rayon from bamboo:</strong> the same fiber. Fine in a lining, weak when wet, do not count as natural here.",
-          "<strong>Modal:</strong> a stronger viscose from beech. Washes well. Still a cellulosic.",
-          "<strong>Lyocell, TENCEL:</strong> the closed loop version. Strong, washable, separated on the card.",
-          "<strong>Cupro, Bemberg:</strong> from cotton linter. The best lining short of silk.",
-          "<strong>Acetate, triacetate:</strong> cellulose acetate, shinier and less breathable than the rest. Common in cheap linings and we treat it like viscose."
+          "<strong>Viscose, rayon, bamboo viscose, rayon from bamboo.</strong> The same fiber. Fine in a lining, weak when wet, do not count as natural here.",
+          "<strong>Modal.</strong> A stronger viscose from beech. Washes well. Still a cellulosic.",
+          "<strong>Lyocell, TENCEL.</strong> The closed loop version. Strong, washable, separated on the card.",
+          "<strong>Cupro, Bemberg.</strong> From cotton linter. The best lining short of silk.",
+          "<strong>Acetate, triacetate.</strong> Cellulose acetate, shinier and less breathable than the rest. Common in cheap linings and we treat it like viscose."
         ]
       },
       {
@@ -409,7 +409,7 @@
       },
       {
         "heading": "What we do not count",
-        "body": "Thread, interfacing, buttons, zips, pocket bags and labels are not part of the composition on this site and should not be on yours. Elastic, lace and embroidery thread are a grey area: they touch you, they are often synthetic, and a retailer that lists them is being unusually honest. We show them as a trim note on the card when the retailer says."
+        "body": "Thread, interfacing, buttons, zips, pocket bags and labels are not part of the composition on this site and should not be on yours. Elastic, lace and embroidery thread are a grey area. They touch you, they are often synthetic, and a retailer that lists them is being unusually honest. We show them as a trim note on the card when the retailer says."
       },
       {
         "heading": "Our default, and how to move it",
@@ -437,13 +437,13 @@
       }
     ],
     "intro": [
-      "A lining does three jobs: it lets a garment slide on over other clothes, it hides the seams, and it gives a loosely woven cloth a stable layer to hang from. Done well it is invisible. Done cheaply it is the reason a wool coat feels clammy, a silk dress sticks in July, and a tailored jacket wears out from the inside before the cloth does.",
+      "A lining does three jobs. It lets a garment slide on over other clothes, it hides the seams, and it gives a loosely woven cloth a stable layer to hang from. Done well it is invisible. Done cheaply it is the reason a wool coat feels clammy, a silk dress sticks in July, and a tailored jacket wears out from the inside before the cloth does.",
       "Most sites fold the lining into one composition line, or leave it off entirely. We read it separately on every piece, show it on the card, and let you filter on it. This page is why."
     ],
     "sections": [
       {
         "heading": "Why it matters more than the shell",
-        "body": "The shell faces the room. The lining faces you. A coat that is 100% wool outside and 100% polyester inside is a wool coat in the photo and a polyester coat on your body. Breathability, warmth without sweat, how it smells after a long day: all of that is decided by the layer nearest your skin, and that is the layer the product page is least likely to describe."
+        "body": "The shell faces the room. The lining faces you. A coat that is 100% wool outside and 100% polyester inside is a wool coat in the photo and a polyester coat on your body. Breathability, warmth without sweat, how it smells after a long day. All of that is decided by the layer nearest your skin, and that is the layer the product page is least likely to describe."
       },
       {
         "pull": "Lined, with nothing after it, is not a composition. It is a retailer deciding you would rather not know."
@@ -456,7 +456,7 @@
           "<strong>Cupro</strong>. Made from cotton linter in a cellulose process. Cool, silky, hard wearing, and the best lining short of silk. Bemberg is the brand name you will see.",
           "<strong>Cotton and cotton voile</strong>. Breathable and honest, with a little friction, so it suits dresses and jackets more than coats you pull on over a sweater.",
           "<strong>Viscose</strong>. Breathes better than polyester, weaker when wet, and fine in a dress. We show it as regenerated cellulosic and do not count it as natural.",
-          "<strong>Acetate</strong>. Shiny, cheap, and the lining that sweat marks and splits first. Common in mid-price tailoring.",
+          "<strong>Acetate</strong>. Shiny, cheap, and the lining that sweat marks and splits first. Common in tailoring at the middle of the market.",
           "<strong>Polyester and nylon</strong>. Slides well, costs nothing, does not breathe, and outlives the garment. The default in most of the market, and the reason this page exists."
         ]
       },
@@ -496,15 +496,15 @@
     ],
     "intro": [
       "A $200 cashmere sweater and a $900 cashmere sweater can both be 100% cashmere, and both are telling the truth. The label stops at the fiber. The price goes on from there, into the yarn, the knitting, the finishing, where it was made and whose name is on it. This page is about telling those apart, so you pay for the parts you can feel.",
-      "The short version: fiber sets the floor, construction sets the middle, and the brand sets the ceiling. Our Low, Mid, High sections on the homepage exist to show that spread on one garment at a time."
+      "The short version is that fiber sets the floor, construction sets the middle, and the brand sets the ceiling. Our Low, Mid, High sections on the homepage exist to show that spread on one garment at a time."
     ],
     "sections": [
       {
-        "heading": "Fiber: the floor",
+        "heading": "Fiber sets the floor",
         "body": "Raw fiber is the part of the price that cannot be faked down. Cashmere costs more than merino, merino more than lambswool, long staple cotton more than short, mulberry silk more than tussah. A 100% cashmere sweater under $150 is possible only with short, coarse fibers, and you will feel that in a season. Below a certain price the label can be true and the garment still poor; above it, the fiber is no longer where the money goes."
       },
       {
-        "heading": "Yarn and construction: the middle",
+        "heading": "Yarn and construction set the middle",
         "list": [
           "<strong>Fiber length and grade.</strong> Long fibers pill less and last longer. Cashmere graded by diameter and length, cotton by staple, wool by micron. Retailers rarely say, but the ones that do are usually proud of the number.",
           "<strong>Ply.</strong> Two ply yarn is two strands twisted together, which is stronger and holds its shape. Single ply is softer and cheaper to knit and wears through sooner.",
@@ -517,8 +517,8 @@
         "pull": "Under $300, buy the fiber. Over $600, you are buying the make. Above that, you are buying the name, and that is allowed, as long as you know it."
       },
       {
-        "heading": "Brand: the ceiling",
-        "body": "Past a point, price is design, scarcity and reputation. That is not a trick. A cut that drapes, a colour nobody else has, a house that gets it right every season: those are real and people pay for them on purpose. The problem is only when a brand price is attached to a fiber floor. A $700 sweater that is 70% wool and 30% nylon is charging you for the name and giving you the blend. The label will say so, and it is the one part of the price you can check."
+        "heading": "The brand sets the ceiling",
+        "body": "Past a point, price is design, scarcity and reputation. That is not a trick. A cut that drapes, a colour nobody else has, a house that gets it right every season. Those are real and people pay for them on purpose. The problem is only when a brand price is attached to a fiber floor. A $700 sweater that is 70% wool and 30% nylon is charging you for the name and giving you the blend. The label will say so, and it is the one part of the price you can check."
       },
       {
         "heading": "How to use this",
@@ -551,7 +551,7 @@
       }
     ],
     "intro": [
-      "Natural fibers last longer than synthetics and need less washing, not more. Most of what shortens their life is cleaning they did not need: heat, agitation, and solvents that strip the oils the fiber came with. The habit that matters most is airing a piece overnight instead of washing it, which handles smell and most creasing on its own.",
+      "Natural fibers last longer than synthetics and need less washing, not more. Most of what shortens their life is cleaning they did not need, the heat, agitation and solvents that strip the oils the fiber came with. The habit that matters most is airing a piece overnight instead of washing it, which handles smell and most creasing on its own.",
       "Below, the short version for every fiber we carry. The longer version lives on each fiber's own page."
     ],
     "sections": [
@@ -568,8 +568,8 @@
       {
         "heading": "Silk",
         "list": [
-          "Washed, sandwashed and crepe silks: hand wash cool with a silk or gentle detergent, no soaking, roll in a towel, hang to dry out of the sun.",
-          "Satin, charmeuse and anything structured or lined: dry clean, and price that in before you buy.",
+          "Washed, sandwashed and crepe silks. Hand wash cool with a silk or gentle detergent, no soaking, roll in a towel, hang to dry out of the sun.",
+          "Satin, charmeuse and anything structured or lined. Dry clean, and price that in before you buy.",
           "Iron on low, on the reverse, while still slightly damp. Steam is kinder than an iron.",
           "Never spot clean with water; it leaves a ring on satin. Treat the whole piece or hand it over."
         ]
@@ -643,7 +643,7 @@
         "list": [
           "<strong>Full grain</strong> keeps the whole top surface of the hide, scars and all. The strongest and the one that develops a patina. Rarely used in womenswear because it is stiff and heavy.",
           "<strong>Top grain</strong> has the very top sanded off and is the standard for good garments. Supple, even, still strong.",
-          "<strong>Nappa</strong> is not a grade but a finish: a soft, fine, full or top grain leather, usually lamb or kid. The word most luxury jackets use, and usually earned.",
+          "<strong>Nappa</strong> is not a grade but a finish, a soft, fine, full or top grain leather, usually lamb or kid. The word most luxury jackets use, and usually earned.",
           "<strong>Lambskin, kidskin, calfskin, goat</strong> name the animal. Lamb is the softest and the least hard wearing; goat and calf are tougher.",
           "<strong>Genuine leather</strong> is a legal term, not a quality one. It is leather, and it is the layer left after the better layers were sold. Treat it as a warning.",
           "<strong>Bonded leather</strong> is leather dust in a binder on a backing. We do not count it as leather and the fiber rule would not pass it anyway.",

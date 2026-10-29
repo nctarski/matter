@@ -11,7 +11,7 @@
     ],
     "learn": "cashmere",
     "question": "Can I get real cashmere for under $300, and which one should I buy?",
-    "verdict": "Yes, and the catalog proves it: every sweater below is 100% cashmere in the shell at under $300. What you give up at this price is not the fiber, it is the yarn. Expect a two ply knit in a medium gauge rather than the heavy, cloud-like hand of a $900 sweater. Buy the densest knit you can find in the shape you will wear most, and buy one, not three.",
+    "verdict": "Yes, and the catalog proves it. Every sweater below is 100% cashmere in the shell at under $300. What you give up at this price is not the fiber, it is the yarn. Expect a two ply knit in a medium gauge rather than the heavy, lofty hand of a $900 sweater. Buy the densest knit you can find in the shape you will wear most, and buy one, not three.",
     "check": [
       "Ply and gauge, when the retailer says. Two ply holds its shape; single ply is softer and wears through at the elbows faster.",
       "Weight. A sweater listed around 250 to 350 grams is a real sweater; under 200 grams is a layer.",
@@ -32,7 +32,7 @@
     ],
     "learn": "wool",
     "question": "Which wool coats will not make me clammy inside?",
-    "verdict": "The ones below. Each is at least 80% wool or another animal fiber and is either unlined or lined in silk, cotton, viscose from wood or another breathable fiber. Our pick is almost always the unlined boiled or melton wool coat: the felted cloth blocks wind on its own, nothing synthetic sits against your clothes, and there is no lining to tear or sag years before the wool gives out.",
+    "verdict": "The ones below. Each is at least 80% wool or another animal fiber and is either unlined or lined in silk, cotton, viscose from wood or another breathable fiber. Our pick is almost always the unlined boiled or melton wool coat. The felted cloth blocks wind on its own, nothing synthetic sits against your clothes, and there is no lining to tear or sag years before the wool gives out.",
     "check": [
       "The lining line on the card. We show it separately on purpose; a polyester lining is the most common place a wool coat quietly stops being wool.",
       "Cloth weight. Melton and boiled wool over 500 grams per metre need no lining; a lighter flannel does, so check what it is lined with.",
@@ -53,7 +53,7 @@
     ],
     "learn": "silk",
     "question": "Is this dress actually silk, and which silk should I buy?",
-    "verdict": "Every dress here is 100% silk in the shell, read from the retailer's own page, so the drape in the photo is the drape you get. Which silk matters more than which brand: charmeuse and satin for evening and anything bias cut, crepe de chine for a dress you will wear to work, habotai and twill for the washable, everyday ones. Our pick for most people is a crepe de chine or washed silk midi, because it hides creases, goes in a hand wash, and reads as expensive without reading as formal.",
+    "verdict": "Every dress here is 100% silk in the shell, read from the retailer's own page, so the drape in the photo is the drape you get. Which silk matters more than which brand. Charmeuse and satin for evening and anything bias cut, crepe de chine for a dress you will wear to work, habotai and twill for the washable, everyday ones. Our pick for most people is a crepe de chine or washed silk midi, because it hides creases, goes in a hand wash, and reads as expensive without reading as formal.",
     "check": [
       "The weave, when the retailer names it. Satin and charmeuse show every mark; crepe forgives.",
       "Momme weight if given. 16 to 19 momme is a dress; under 14 is a lining.",
@@ -61,5 +61,157 @@
       "Care. Washed and sandwashed silks are made for a cool hand wash; glossy satins are dry clean, so price in the cleaning."
     ],
     "picksBy": "spread"
+  },
+  {
+    "slug": "is-quince-cashmere-good",
+    "rule": "quince-cashmere",
+    "title": "Is Quince Cashmere Any Good?",
+    "eyebrow": "The guide",
+    "question": "Quince sells a 100% cashmere sweater for about $120. Is it any good, and what am I giving up?",
+    "description": "What the label and Quince's own spec sheet say about its cashmere, how it compares to the same sweater at two and three times the price, and every Quince cashmere piece we carry.",
+    "verdict": "The fiber holds up. Every Quince sweater we carry is 100% cashmere in the shell, and Quince publishes a spec most brands at four times the price do not. On its oversized crewneck, it lists 15.8 to 16.2 microns and fibers 34 to 36 millimetres long. Both numbers sit in the range the trade treats as fine, long cashmere. What the label cannot tell you is the make. Knit weight varies a lot across the range, so judge each style on its own. The featherweight and shrunken styles are layers; the cozy weight and fisherman knits are winter sweaters. Our read is to buy Quince for the fiber at a fair price, buy the heavier styles, and read the coat labels twice.",
+    "intro": [
+      "Two things to know before you shop the list below. Quince's coats called Wool Cashmere are 90% wool and 10% cashmere, which is a good wool coat, not a cashmere one, and the card says so. And cashmere in the United States has a legal definition. The fibers must average 19 microns or finer. Quince's published 16 microns clears that comfortably."
+    ],
+    "check": [
+      "The style name. Featherweight and shrunken mean a light layer. Cozy weight, fisherman and boxy usually mean a real sweater.",
+      "The gauge if Quince lists it. Seven gauge is a medium knit with some body. A higher number is finer and lighter.",
+      "Wool Cashmere in a coat name means 90% wool. The composition line on every card here shows it.",
+      "The first month. Some pilling is normal at any price. Pilling that keeps coming back after a gentle comb means short fibers, and that is the thing to return it for.",
+      "Compare like with like. Our three below are one shape, one fiber, three prices. Hold the cheapest to the same bar as the dearest."
+    ],
+    "three": {
+      "heading": "Same fiber, same shape, three prices",
+      "by": "Oversized crewnecks, all 100% cashmere",
+      "labels": [
+        "Quince",
+        "Twice the price",
+        "Three and a half times"
+      ],
+      "picks": [
+        {
+          "id": "quince-mongolian-cashmere-oversized-crewneck",
+          "note": "15.8 to 16.2 microns and 34 to 36 millimetre fibers in a 7 gauge knit, by Quince's own spec."
+        },
+        {
+          "id": "naadam-luxe-cashmere-oversized-crewneck-sweater"
+        },
+        {
+          "id": "guest-in-residence-oversized-crew-cream"
+        }
+      ]
+    },
+    "learn": "cashmere"
+  },
+  {
+    "slug": "merino-or-cashmere",
+    "rule": "merino-or-cashmere",
+    "sort": "merino-first",
+    "orderNote": "Merino first, then blends, then cashmere, each lowest price first",
+    "title": "Merino or Cashmere for an Everyday Sweater",
+    "eyebrow": "The guide",
+    "question": "I want one good sweater I will wear most days. Merino or cashmere?",
+    "description": "Which fiber holds up to daily wear, which is softer against the skin, and every everyday shape we carry in merino, cashmere and the blends between them.",
+    "verdict": "For a sweater you will wear most days, merino. Its fibers are two to three times longer than cashmere's and naturally crimped, so a merino knit holds its shape, recovers overnight from a day at a desk, and pills far less under a bag strap or a coat sleeve. Some merino is treated to go in a gentle machine wash, and the label will say. Cashmere is softer and warmer for its weight, which makes it the better choice against bare skin and in real cold, but daily friction wears it faster. If you want most of both, a merino and cashmere blend keeps the softness and gives up little of the strength.",
+    "intro": [
+      "Both are fine fibers. Superfine merino runs about 16 to 19 microns, close to cashmere's 14 to 19, which is why a good merino sweater does not itch. The difference that matters for daily wear is length and spring, not softness."
+    ],
+    "check": [
+      "Micron, when the brand gives it. Under 19 is next to skin soft in either fiber. Over 21 is a sweater for over a shirt.",
+      "Superwash or machine washable on a merino label means a treatment that lets it take a gentle wash. Untreated merino is hand wash only, like cashmere.",
+      "A blend's percentages. 90% merino and 10% cashmere wears like merino with a softer hand. 30% cashmere starts to feel like cashmere.",
+      "The shape. A crewneck or a V gets worn most. A cropped or cut out style is not an everyday sweater whatever it is made of."
+    ],
+    "three": {
+      "heading": "One brand, one shape, three answers",
+      "by": "Crewnecks in merino, cashmere and a blend",
+      "labels": [
+        "Merino",
+        "Cashmere",
+        "Both"
+      ],
+      "picks": [
+        {
+          "id": "anine-bing-mia-sweater",
+          "note": "100% merino. The everyday answer."
+        },
+        {
+          "id": "anine-bing-lee-sweater",
+          "note": "100% cashmere from the same house. Softer, warmer, wears faster."
+        },
+        {
+          "id": "guest-in-residence-open-stripe-crew-butter",
+          "note": "Merino with cashmere and silk. The strength of one, the hand of the others."
+        }
+      ]
+    },
+    "learn": "wool"
+  },
+  {
+    "slug": "linen-that-doesnt-wrinkle",
+    "rule": "linen",
+    "sort": "crease-first",
+    "orderNote": "Blends first, then washed and twill linen, then the rest, each lowest price first",
+    "title": "Linen That Doesn't Wrinkle",
+    "eyebrow": "The guide",
+    "question": "Is there linen that does not wrinkle?",
+    "description": "Why every linen creases, the three ways to choose how it creases, and every linen piece we carry, blends first.",
+    "verdict": "No, and that is a trick question. Linen creases because the flax fiber has almost no stretch, which is the same reason it is cool, strong and softer every year. Anything sold as wrinkle free linen has either been treated with a resin finish or blended with polyester, and either one takes away what you bought linen for. What you can choose is how it creases. Blend it with cotton and the creases go rounder and softer. Blend it with silk and the weight of the cloth pulls them out as you wear it. Buy it washed or in a heavy twill and it arrives already lived in, so a crease reads as texture. And cut it loose, because on a relaxed shape a crease looks like movement, while on a fitted one it looks like strain.",
+    "intro": [
+      "The list below puts the blends first, then the washed and twill linens, then everything else. Every piece is at least half linen and at least 95% natural fiber in the shell."
+    ],
+    "check": [
+      "Wrinkle free, easy care or non iron on a linen label means a resin finish or a synthetic in the blend. Check the composition line before you trust it.",
+      "Linen and cotton, about half and half, is the everyday choice. It creases, but softly.",
+      "Linen and silk drapes and recovers better than either fiber alone, and costs more.",
+      "Washed, stonewashed or garment dyed means the shrinking and softening has been done for you.",
+      "Hang it to dry and wear it. Ironing linen is optional, and most of it looks better without."
+    ],
+    "three": {
+      "heading": "Three ways to choose the crease",
+      "by": "A blend, a silk blend, and all linen cut loose",
+      "labels": [
+        "Linen and cotton",
+        "Linen and silk",
+        "All linen, cut loose"
+      ],
+      "picks": [
+        {
+          "id": "faherty-ls-relaxed-shirt-shadowed-garden",
+          "note": "58% linen, 42% organic cotton. Creases soft and round."
+        },
+        {
+          "id": "guest-in-residence-allday-crew-in-linen-blend-sandstone",
+          "note": "54% linen, 46% silk, knitted. Drapes the creases out."
+        },
+        {
+          "id": "massimo-dutti-100-linen-flowing-pants",
+          "note": "100% linen in a relaxed leg, where a crease reads as movement."
+        }
+      ]
+    },
+    "learn": "linen"
+  },
+  {
+    "slug": "bright-purple",
+    "rule": "bright-purple",
+    "sort": "protein-first",
+    "orderNote": "Silk, wool and cashmere first, then everything else, each lowest price first",
+    "title": "Bright Purple That Stays Bright",
+    "eyebrow": "The guide",
+    "question": "Bright purple is everywhere this season. Which pieces will still be bright next year?",
+    "description": "Which fibers hold a saturated purple, how to keep it from fading, and every bright purple piece we carry, picked by looking at the photo rather than the colour name.",
+    "verdict": "Buy it in silk, wool or cashmere. These are protein fibers, and the dyes made for them bond deep into the fiber itself, which is why a violet silk or a purple cashmere reads saturated and stays that way. Silk adds its sheen on top, so the same dye looks brighter on silk than on anything else. Cotton and linen can be dyed just as bright and good dyes wash well, but plant fibers wear at the surface, linen especially, and purples and pinks are often the first shades to go in strong sun. Suede takes purple beautifully and rubs off on whatever it touches when it is new. Our read: a protein fiber for the piece you want to keep, cotton for the tee you will wear hard this season and replace.",
+    "intro": [
+      "Colour names are no help here. Retailers call the same shade violet, orchid, iris, grape and ultraviolet, and call a dusty mauve purple. Every piece below was picked by measuring the colour in its photo and then looking at it, so what you see is a bright purple."
+    ],
+    "check": [
+      "Dry it inside out and out of direct sun. Light fades purple faster than washing does.",
+      "Wash it alone and cold the first time. A saturated purple can bleed, on cotton and silk especially.",
+      "Yarn dyed, or knitted from dyed yarn, holds its colour through wear. Garment dyed fades first at the seams and edges, which some people like.",
+      "On suede, rub a white cloth on an inside seam before you wear it over anything pale.",
+      "Look at more than one photo. Bright purple is hard to photograph and screens push it toward blue, so trust the shot on the model in daylight."
+    ],
+    "learn": "silk"
   }
 ]

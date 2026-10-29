@@ -32,7 +32,7 @@ export default function HomePage() {
           const pieces = sectionPieces(block, shown).map((item) => ({ item, label: labelFor(block, item), ...(meta[item.id] || {}) }));
           /* A section the catalog cannot fill yet would be a heading above
              nothing. Drop it until the pieces arrive. */
-          if (pieces.length === 0) return null;
+          if (pieces.length < (block.min || 1)) return null;
           return (
             <section
               className={`edit-sec photos-${block.photos || 'model'}`}
