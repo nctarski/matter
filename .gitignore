@@ -7,3 +7,7 @@ out/
 
 # GitHub token for scripts/push.sh, never committed
 .secrets/
+
+# Edit board build output, published as an artifact, not served by the site
+tools/curate-board/board.zip
+tools/curate-board/img/

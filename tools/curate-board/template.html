@@ -1,0 +1,219 @@
+<title>MATTER Edit Board</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;0,6..96,600;1,6..96,500&family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Layout: sticky bar with the section chips, then one section at a time: what I pull now, your note, and a shop-style grid where each card takes a yes or a not this. Same tokens as the MATTER review page. */
+:root {
+  --bg: #f7f5ef; --surface: #ffffff; --ink: #1f2020; --muted: #6e6660; --faint: #8f877f;
+  --hairline: #e3ded4; --accent: #5c1a1f; --accent-ink: #f7f5ef; --yes: #3f5a45; --veil: rgba(247,245,239,.72);
+  --display: 'Bodoni Moda', Didot, 'Bodoni MT', Georgia, serif;
+  --ui: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #161615; --surface: #1f1f1d; --ink: #ece8df; --muted: #a39b92; --faint: #7d766f;
+  --hairline: #33312d; --accent: #c98a8e; --accent-ink: #161615; --yes: #9cbfa3; --veil: rgba(22,22,21,.72); color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #161615; --surface: #1f1f1d; --ink: #ece8df; --muted: #a39b92; --faint: #7d766f;
+  --hairline: #33312d; --accent: #c98a8e; --accent-ink: #161615; --yes: #9cbfa3; --veil: rgba(22,22,21,.72); color-scheme: dark; }
+body { background: var(--bg); color: var(--ink); font-family: var(--ui); font-size: 14px; line-height: 1.45; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); max-width: 1240px; margin: 0 auto; }
+header.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); border-bottom: 1px solid var(--hairline); }
+.bar-inner { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 20px; padding-block: 12px 4px; }
+.mark { font-family: var(--display); font-weight: 600; font-size: 22px; letter-spacing: .18em; }
+.mark small { font-family: var(--ui); font-weight: 500; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin-left: 10px; }
+.status { font-size: 12px; color: var(--muted); }
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-block: 8px 12px; scrollbar-width: none; }
+.chips::-webkit-scrollbar { display: none; }
+.chip { flex: none; font: 500 12px var(--ui); letter-spacing: .03em; padding: 7px 12px; border-radius: 999px; border: 1px solid var(--hairline); background: transparent; color: var(--ink); cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.chip .n { margin-left: 6px; font-variant-numeric: tabular-nums; color: var(--faint); }
+.chip[aria-pressed="true"] .n { color: var(--bg); opacity: .7; }
+.chip:focus-visible, .act:focus-visible, .save:focus-visible, textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+main { padding-block: 24px 64px; display: grid; gap: 22px; }
+.head { display: grid; gap: 10px; max-width: 70ch; }
+.head h1 { font-family: var(--display); font-weight: 500; font-size: clamp(28px, 4.4vw, 40px); line-height: 1.1; margin: 0; text-wrap: balance; }
+.head .now { color: var(--muted); margin: 0; }
+.head .now b { font-weight: 600; color: var(--ink); letter-spacing: .08em; text-transform: uppercase; font-size: 10.5px; margin-right: 6px; }
+.head .ask { margin: 0; font-family: var(--display); font-style: italic; font-size: 17px; }
+.note { display: grid; gap: 8px; max-width: 70ch; }
+.note label { font-size: 10.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--faint); }
+.note textarea { font: 14px/1.5 var(--ui); color: var(--ink); background: var(--surface); border: 1px solid var(--hairline); border-radius: 2px; padding: 10px 12px; min-height: 72px; resize: vertical; width: 100%; box-sizing: border-box; }
+.note-row { display: flex; align-items: center; gap: 12px; }
+.save { font: 600 12px var(--ui); letter-spacing: .06em; padding: 8px 14px; border-radius: 2px; border: 1px solid var(--accent); background: var(--accent); color: var(--accent-ink); cursor: pointer; }
+.save:disabled { background: transparent; color: var(--faint); border-color: var(--hairline); cursor: default; }
+.saved { font-size: 12px; color: var(--muted); }
+.tally { font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 14px; }
+@media (min-width: 720px) { .grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+@media (min-width: 1100px) { .grid { grid-template-columns: repeat(5, minmax(0, 1fr)); } }
+.card { display: grid; gap: 7px; min-width: 0; align-content: start; }
+.group { font-family: var(--display); font-style: italic; font-size: 13px; color: var(--accent); min-height: 1.3em; margin: 0; }
+.shot { position: relative; aspect-ratio: 3 / 4; max-width: 100%; background: var(--surface); overflow: hidden; outline: 2px solid transparent; outline-offset: 2px; transition: outline-color .15s; }
+.shot img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
+.card.yes .shot { outline-color: var(--yes); }
+.card.no .shot::after { content: ""; position: absolute; inset: 0; background: var(--veil); }
+.pill { position: absolute; top: 8px; left: 8px; z-index: 1; font: 600 10.5px var(--ui); letter-spacing: .1em; text-transform: uppercase; padding: 4px 8px; border-radius: 2px; background: var(--yes); color: var(--bg); }
+.card.no .pill { background: var(--ink); color: var(--bg); }
+.meta { display: grid; gap: 1px; min-width: 0; }
+.brand { font-size: 10.5px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+.name { font-size: 13.5px; line-height: 1.3; overflow-wrap: anywhere; }
+.sub { font-size: 12px; color: var(--faint); font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.acts { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+.act { font: 500 12px var(--ui); padding: 7px 6px; border-radius: 2px; border: 1px solid var(--hairline); background: transparent; color: var(--ink); cursor: pointer; }
+.act.y[aria-pressed="true"] { background: var(--yes); border-color: var(--yes); color: var(--bg); }
+.act.n[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+.act:disabled { opacity: .5; cursor: default; }
+.banner { padding: 12px 14px; border: 1px solid var(--hairline); background: var(--surface); color: var(--muted); max-width: 70ch; }
+@media (prefers-reduced-motion: reduce) { .shot { transition: none; } }
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <div class="bar-inner">
+      <div class="mark">MATTER<small>Edit board</small></div>
+      <div class="status" id="status">Loading your picks</div>
+    </div>
+    <nav class="chips" id="chips" aria-label="Sections"></nav>
+  </div>
+</header>
+<main class="wrap" id="main"></main>
+
+<script type="application/json" id="data">__DATA__</script>
+<script>
+(() => {
+  const SECTIONS = [
+    { key: 'western', title: 'The Western Edit', now: 'Suede, shearling, leather and denim, anything with fringe, and names that say western, ranch, snap or yoke. Sleep, lounge and underwear left out.', ask: 'Which of these is the western you mean? Mark the ones that nail it and the ones that miss.' },
+    { key: 'holiday', title: 'The Holiday Party Edit', now: 'Silk, velvet, satin, metallic, feathers and beading in dresses, tops, skirts, pants and tailoring, short of floor length. As of tonight also limited to black, silver and gold, and jewel tones.', ask: 'Which read holiday party, and which read resort?' },
+    { key: 'blacktie', title: 'Black Tie Ready', now: 'Gowns, maxis, columns and slips in silk, velvet or satin. As of tonight also limited to black, silver and gold, and jewel tones.', ask: 'Which would you actually wear to black tie?' },
+    { key: 'new', title: 'New Arrivals', now: 'The newest pieces to pass the label check, newest first.', ask: 'Should this be everything new, or new and good? Mark what earns the top of the homepage.' },
+    { key: 'sweaters', title: 'Sweaters', now: 'Sweaters 95% or more cashmere, wool, alpaca, mohair or yak, cashmere first.', ask: 'Which shapes and brands say MATTER sweater?' },
+    { key: 'fringe', title: 'This Moment: Fringe', now: 'Anything with fringe in the name, any category.', ask: 'Which fringe is right for the moment, and which is costume?' },
+    { key: 'purple', title: 'This Moment: Bright Purple', now: 'Picked from the photos, not the colour names. Only these five so far; tonight’s colour pull adds more for you to review.', ask: 'Is this the purple you mean?' },
+    { key: 'sets', title: 'Sets', now: 'Matching separates from one brand, colour and collection, a top and a bottom. Plus jumpsuits and rompers.', ask: 'Which pairs read as a set you would buy together?' },
+    { key: 'basics', title: 'Quality Basics', now: 'Tees, tanks, turtlenecks, cardigans, shirts and trousers at $250 or under, 95% or more natural fiber.', ask: 'What counts as a quality basic to you? Mark the ones that do and the ones that are too plain or too much.' },
+  ];
+  const ALL = JSON.parse(document.getElementById('data').textContent);
+  const state = { db: null, votes: new Map(), notes: new Map(), busy: new Set(), canWrite: true, live: false };
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const money = (n) => '$' + Number(n).toLocaleString('en-US');
+  const current = () => { const h = decodeURIComponent(location.hash.slice(1)); return SECTIONS.some((s) => s.key === h) ? h : 'western'; };
+  const keyOf = (s, id) => `${s}__${id}`;
+  const tallies = (s) => { let y = 0, n = 0; for (const [k, v] of state.votes) if (k.startsWith(s + '__')) v === 'yes' ? y++ : n++; return { y, n }; };
+
+  function renderChips() {
+    const cur = current();
+    $('chips').innerHTML = SECTIONS.map((s) => {
+      const t = tallies(s.key);
+      const n = t.y + t.n ? `<span class="n">${t.y} yes · ${t.n} no</span>` : `<span class="n">${ALL.filter((x) => x.s === s.key).length}</span>`;
+      return `<button class="chip" type="button" data-k="${s.key}" aria-pressed="${s.key === cur}">${esc(s.title.replace('This Moment: ', ''))}${n}</button>`;
+    }).join('');
+  }
+
+  function renderMain() {
+    const cur = current();
+    const sec = SECTIONS.find((s) => s.key === cur);
+    const items = ALL.filter((x) => x.s === cur);
+    const t = tallies(cur);
+    const note = state.notes.get(cur) || '';
+    $('main').innerHTML = `
+      <section class="head" aria-labelledby="h">
+        <h1 id="h">${esc(sec.title)}</h1>
+        <p class="now"><b>What I pull now</b>${esc(sec.now)}</p>
+        <p class="ask">${esc(sec.ask)}</p>
+      </section>
+      <section class="note">
+        <label for="note-${cur}">Your direction for this section</label>
+        <textarea id="note-${cur}" placeholder="What the edit should feel like, brands or pieces to always include, anything to keep out">${esc(note)}</textarea>
+        <div class="note-row"><button class="save" type="button" id="save" ${state.live && state.canWrite ? '' : 'disabled'}>Save note</button><span class="saved" id="saved"></span><span class="tally">${t.y} yes, ${t.n} not this, ${items.length} shown</span></div>
+      </section>
+      ${state.live ? '' : '<p class="banner" id="offline">Open this page in Claude to save your picks. You can look through every section in the meantime.</p>'}
+      <div class="grid">${items.map((x) => card(cur, x)).join('')}</div>`;
+  }
+
+  function card(s, x) {
+    const v = state.votes.get(keyOf(s, x.id));
+    const dis = state.live && state.canWrite ? '' : 'disabled';
+    return `<article class="card ${v || ''}" data-id="${esc(x.id)}">
+      ${s === 'sets' ? `<p class="group">${esc(x.group)}</p>` : ''}
+      <div class="shot">${v ? `<span class="pill">${v === 'yes' ? 'Yes' : 'Not this'}</span>` : ''}<img src="img/${esc(x.id)}.jpg" alt="${esc(x.brand + ' ' + x.name)}" loading="lazy"></div>
+      <div class="meta"><span class="brand">${esc(x.brand)}</span><span class="name">${esc(x.name)}</span><span class="sub">${money(x.price)} · ${esc(x.comp)}</span></div>
+      <div class="acts">
+        <button class="act y" type="button" data-v="yes" aria-pressed="${v === 'yes'}" ${dis}>Yes, this</button>
+        <button class="act n" type="button" data-v="no" aria-pressed="${v === 'no'}" ${dis}>Not this</button>
+      </div>
+    </article>`;
+  }
+
+  function render() { renderChips(); renderMain(); }
+
+  $('chips').addEventListener('click', (e) => {
+    const b = e.target.closest('.chip'); if (!b) return;
+    location.hash = b.dataset.k;
+  });
+  window.addEventListener('hashchange', () => { render(); window.scrollTo(0, 0); });
+
+  $('main').addEventListener('click', async (e) => {
+    const b = e.target.closest('.act');
+    if (b && state.db) {
+      const id = b.closest('.card').dataset.id; const s = current(); const k = keyOf(s, id);
+      if (state.busy.has(k)) return;
+      const prev = state.votes.get(k); const next = prev === b.dataset.v ? null : b.dataset.v;
+      state.busy.add(k);
+      next ? state.votes.set(k, next) : state.votes.delete(k);
+      render();
+      try {
+        const ref = state.db.doc('votes/' + k);
+        next ? await ref.set({ section: s, id, vote: next, at: new Date().toISOString() }) : await ref.delete();
+        $('status').textContent = 'Saved';
+      } catch (err) {
+        prev ? state.votes.set(k, prev) : state.votes.delete(k);
+        $('status').textContent = 'That pick did not save. Try again.';
+        render();
+      } finally { state.busy.delete(k); }
+      return;
+    }
+    if (e.target.id === 'save' && state.db) {
+      const s = current(); const text = $('note-' + s).value.trim();
+      e.target.disabled = true;
+      try {
+        await state.db.doc('notes/' + s).set({ section: s, text, at: new Date().toISOString() });
+        state.notes.set(s, text);
+        $('saved').textContent = 'Saved';
+      } catch (err) { $('saved').textContent = 'Not saved. Try again.'; }
+      finally { e.target.disabled = false; }
+    }
+  });
+
+  render();
+
+  (async () => {
+    const claude = window.claude;
+    const db = claude && claude.use ? await claude.use('db') : null;
+    if (!db) { $('status').textContent = 'View only here'; return; }
+    state.db = db; state.live = true;
+    try {
+      const user = await claude.use('user');
+      if (user && user.can) { const w = await user.can('data.write'); if (w === false) { state.canWrite = false; $('status').textContent = 'You can look. Only Natalie can pick.'; } }
+    } catch (e) {}
+    db.collection('votes').onSnapshot((snap) => {
+      const next = new Map();
+      for (const d of snap.docs) { const v = d.data(); if (v && v.vote) next.set(d.id, v.vote); }
+      for (const k of state.busy) { if (state.votes.has(k)) next.set(k, state.votes.get(k)); else next.delete(k); }
+      state.votes = next;
+      if (state.canWrite) $('status').textContent = 'Your picks save as you go';
+      const ta = document.querySelector('.note textarea'); const keep = ta ? ta.value : null; const focused = ta && document.activeElement === ta;
+      render();
+      if (keep !== null && focused) { const t2 = document.querySelector('.note textarea'); t2.value = keep; t2.focus(); }
+    }, () => { $('status').textContent = 'Stopped updating. Reload the page.'; });
+    db.collection('notes').onSnapshot((snap) => {
+      for (const d of snap.docs) { const v = d.data(); if (v) state.notes.set(d.id, v.text || ''); }
+      const ta = document.querySelector('.note textarea');
+      if (!ta || document.activeElement !== ta) render();
+    }, () => {});
+  })();
+})();
+</script>
