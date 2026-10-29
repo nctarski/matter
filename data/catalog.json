@@ -88660,5 +88660,2129 @@
     "lining": null,
     "isNew": false,
     "tags": []
+  },
+  {
+    "id": "jenni-kayne-aire-crewneck-sage",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Aire Crewneck",
+    "price": 370,
+    "url": "https://jennikayne.com/products/aire-crewneck-sage",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/aire-crewneck-sage-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-boyd-cashmere-sweater-dark-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Boyd Cashmere Sweater",
+    "price": 625,
+    "url": "https://jennikayne.com/products/boyd-cashmere-sweater-dark-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-boyd-sweater-navy.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-boyd-cashmere-sweater-oatmeal",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Boyd Cashmere Sweater",
+    "price": 625,
+    "url": "https://jennikayne.com/products/boyd-cashmere-sweater-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-boyd-sweater-oatmeal.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-burke-polo-pale-gray",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Burke Polo",
+    "price": 395,
+    "url": "https://jennikayne.com/products/burke-polo-pale-gray",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/burke-polo-pale-grey.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Alpaca",
+        68
+      ],
+      [
+        "Pima cotton",
+        32
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cable-nell-turtleneck-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cable Nell Turtleneck",
+    "price": 345,
+    "url": "https://jennikayne.com/products/cable-nell-turtleneck-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cable-nell-turtleneck-ivory-2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Wool",
+        71
+      ],
+      [
+        "Cashmere",
+        29
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cameron-crewneck-cream",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cameron Crewneck",
+    "price": 365,
+    "url": "https://jennikayne.com/products/cameron-crewneck-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Cameron-Crewneck-Cream-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Merino wool",
+        54
+      ],
+      [
+        "Cotton",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-amelia-crewneck-chocolate",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Amelia Crewneck",
+    "price": 545,
+    "url": "https://jennikayne.com/products/cashmere-amelia-crewneck-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CASHMERE-AMELIA-CREWNECK-CHOCOLATE_032.png?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-amelia-crewneck-grey",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Amelia Crewneck",
+    "price": 545,
+    "url": "https://jennikayne.com/products/cashmere-amelia-crewneck-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-amelia-crewneck-grey-7_428fa1e4-d79b-4314-884b-1e8ff9b66a84.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-amelia-crewneck-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Amelia Crewneck",
+    "price": 545,
+    "url": "https://jennikayne.com/products/cashmere-amelia-crewneck-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-amelia-crewneck-ivory-3_74e96984-79e4-4934-ad40-743418076d61.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-amelia-crewneck-warm-sand",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Amelia Crewneck",
+    "price": 545,
+    "url": "https://jennikayne.com/products/cashmere-amelia-crewneck-warm-sand",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-amelia-crewneck-warm-sand-4_e46207b2-c50f-40f1-b886-d3bbf1675e02.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-burke-polo-camel-donegal",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Burke Polo",
+    "price": 445,
+    "url": "https://jennikayne.com/products/cashmere-burke-polo-camel-donegal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-burke-polo-camel-donegal_1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-burke-polo-charcoal-donegal",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Burke Polo",
+    "price": 445,
+    "url": "https://jennikayne.com/products/cashmere-burke-polo-charcoal-donegal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-burke-polo-charcoal-donegal.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-chandler-long-sleeve-tee-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Chandler Long-Sleeve Tee",
+    "price": 425,
+    "url": "https://jennikayne.com/products/cashmere-chandler-long-sleeve-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-chandler-long-sleeve-black.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-chandler-long-sleeve-tee-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Chandler Long-Sleeve Tee",
+    "price": 425,
+    "url": "https://jennikayne.com/products/cashmere-chandler-long-sleeve-tee-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-chandler-long-sleeve-ivory.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-cocoon-cardigan-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Cocoon Cardigan",
+    "price": 475,
+    "url": "https://jennikayne.com/products/cashmere-cocoon-cardigan-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-cocoon-cardigan-black-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-cocoon-cardigan-chocolate",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Cocoon Cardigan",
+    "price": 475,
+    "url": "https://jennikayne.com/products/cashmere-cocoon-cardigan-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Cashmere-Cocoon-Cardigan_Chocolate_a718327c-9bbb-4c2a-973d-5bbbe168d08a.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-cocoon-cardigan-faded-denim",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Cocoon Cardigan",
+    "price": 475,
+    "url": "https://jennikayne.com/products/cashmere-cocoon-cardigan-faded-denim",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-cocoon-cardigan-faded-denim-2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-fisherman-sweater-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Fisherman Sweater",
+    "price": 395,
+    "url": "https://jennikayne.com/products/cashmere-fisherman-sweater-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-fisherman-sweater-black-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-fisherman-sweater-heather-grey",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Fisherman Sweater",
+    "price": 395,
+    "url": "https://jennikayne.com/products/cashmere-fisherman-sweater-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-fisherman-sweater-grey-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-fisherman-sweater-heather-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Fisherman Sweater",
+    "price": 395,
+    "url": "https://jennikayne.com/products/cashmere-fisherman-sweater-heather-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CASHMERE-FISHERMAN-CREWNECK-HEATHER-NAVY_059.png?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-fisherman-sweater-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Fisherman Sweater",
+    "price": 395,
+    "url": "https://jennikayne.com/products/cashmere-fisherman-sweater-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-fisherman-sweater-ivory-2_2572215f-9db6-40c8-abb2-63d45315b621.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-fisherman-sweater-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Fisherman Sweater",
+    "price": 395,
+    "url": "https://jennikayne.com/products/cashmere-fisherman-sweater-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-fisherman-sweater-dark-navy-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-fisherman-sweater-oatmeal",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Fisherman Sweater",
+    "price": 395,
+    "url": "https://jennikayne.com/products/cashmere-fisherman-sweater-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-fisherman-sweater-oatmeal-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-fisherman-sweater-pewter-green",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Fisherman Sweater",
+    "price": 395,
+    "url": "https://jennikayne.com/products/cashmere-fisherman-sweater-pewter-green",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-fisherman-sweater-pewter-green.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-half-zip-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Half Zip",
+    "price": 495,
+    "url": "https://jennikayne.com/products/cashmere-half-zip-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-half-zip-black-2_142af76b-2353-4727-ab20-7835686e7da4.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-half-zip-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Half Zip",
+    "price": 495,
+    "url": "https://jennikayne.com/products/cashmere-half-zip-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-half-zip-ivory_f9cf16cf-9e80-40fc-9b3d-b402b2e5abe8.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-half-zip-undyed-stone",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Half Zip",
+    "price": 495,
+    "url": "https://jennikayne.com/products/cashmere-half-zip-undyed-stone",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-half-zip-undyed-stone.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-jet-turtleneck-chocolate",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Jet Turtleneck",
+    "price": 575,
+    "url": "https://jennikayne.com/products/cashmere-jet-turtleneck-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-jet-turtleneck-chocolate-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-jet-turtleneck-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Jet Turtleneck",
+    "price": 575,
+    "url": "https://jennikayne.com/products/cashmere-jet-turtleneck-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-jet-turtleneck-ivory-v2-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-jet-turtleneck-warm-sand",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Jet Turtleneck",
+    "price": 575,
+    "url": "https://jennikayne.com/products/cashmere-jet-turtleneck-warm-sand",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-jet-turtleneck-warm-sand.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-leni-crewneck-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Leni Crewneck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/cashmere-leni-crewneck-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CASHMERE-LENI-CREWNECK-BLACK_008.png?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-leni-crewneck-burgundy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Leni Crewneck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/cashmere-leni-crewneck-burgundy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CASHMERE-LENI-CREWNECK-BURGUNDY_137.png?width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-lowe-half-zip-taupe",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Lowe Half Zip",
+    "price": 525,
+    "url": "https://jennikayne.com/products/cashmere-lowe-half-zip-taupe",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CASHMERE-LOWE-HALF-ZIP-TAUPE_013.png?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-oversized-crewneck-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Oversized Crewneck",
+    "price": 495,
+    "url": "https://jennikayne.com/products/cashmere-oversized-crewneck-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CASHMERE-OVERSIZED-CREWNECK-BLACK_235.png?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-oversized-crewneck-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Oversized Crewneck",
+    "price": 495,
+    "url": "https://jennikayne.com/products/cashmere-oversized-crewneck-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CASHMERE-OVERSIZED-CREWNECK-IVORY_044.png?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-porter-turtleneck-chocolate",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Porter Turtleneck",
+    "price": 545,
+    "url": "https://jennikayne.com/products/cashmere-porter-turtleneck-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-porter-turtleneck-v2-2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-porter-turtleneck-forest",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Porter Turtleneck",
+    "price": 545,
+    "url": "https://jennikayne.com/products/cashmere-porter-turtleneck-forest",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-porter-turtleneck-forest-1_1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-porter-turtleneck-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Porter Turtleneck",
+    "price": 545,
+    "url": "https://jennikayne.com/products/cashmere-porter-turtleneck-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Cashmere-Porter-Turtleneck_Ivory.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-porter-turtleneck-rust",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Porter Turtleneck",
+    "price": 545,
+    "url": "https://jennikayne.com/products/cashmere-porter-turtleneck-rust",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-porter-turtleneck-rust.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cashmere-porter-turtleneck-shadow",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cashmere Porter Turtleneck",
+    "price": 545,
+    "url": "https://jennikayne.com/products/cashmere-porter-turtleneck-shadow",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-porter-turtleneck-shadow.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cooper-cardigan-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cooper Cardigan",
+    "price": 525,
+    "url": "https://jennikayne.com/products/cooper-cardigan-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cooper-cardigan-black.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cooper-cardigan-chocolate",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cooper Cardigan",
+    "price": 525,
+    "url": "https://jennikayne.com/products/cooper-cardigan-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cooper-cardigan-chocolate-v2-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cooper-cardigan-taupe",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cooper Cardigan",
+    "price": 525,
+    "url": "https://jennikayne.com/products/cooper-cardigan-taupe",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cooper-cardigan-taupe_a35b78bf-bdb5-457a-bb2e-925589b06fda.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cooper-cardigan-warm-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cooper Cardigan",
+    "price": 525,
+    "url": "https://jennikayne.com/products/cooper-cardigan-warm-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cooper-cardigan-warm-ivory_34c1283c-d331-4ae4-8d54-826cf1b36587.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cotton-cable-half-zip-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cotton Cable Half Zip",
+    "price": 395,
+    "url": "https://jennikayne.com/products/cotton-cable-half-zip-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cotton-cable-half-zip-ivory_c963e0ab-b759-4aec-8689-94d3faefba6d.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cotton-fisherman-sweater-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cotton Fisherman Sweater",
+    "price": 295,
+    "url": "https://jennikayne.com/products/cotton-fisherman-sweater-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cotton-fisherman-sweater-black-3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cotton-fisherman-sweater-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cotton Fisherman Sweater",
+    "price": 295,
+    "url": "https://jennikayne.com/products/cotton-fisherman-sweater-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cotton-fisherman-sweater-ivory.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cotton-hayes-crewneck-cardigan-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cotton Hayes Crewneck Cardigan",
+    "price": 325,
+    "url": "https://jennikayne.com/products/cotton-hayes-crewneck-cardigan-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Cotton-Hayes-Crewneck-Cardigan-Ivory.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cropped-cashmere-cocoon-cardigan-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cropped Cashmere Cocoon Cardigan",
+    "price": 445,
+    "url": "https://jennikayne.com/products/cropped-cashmere-cocoon-cardigan-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cropped-cashmere-cocoon-cardigan-black-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cropped-cashmere-cocoon-cardigan-bordeaux",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cropped Cashmere Cocoon Cardigan",
+    "price": 445,
+    "url": "https://jennikayne.com/products/cropped-cashmere-cocoon-cardigan-bordeaux",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CROPPED-CASHMERE-COCOON-CARDIGAN-BORDEAUX_058.png?width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cropped-cashmere-cocoon-cardigan-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cropped Cashmere Cocoon Cardigan",
+    "price": 445,
+    "url": "https://jennikayne.com/products/cropped-cashmere-cocoon-cardigan-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cropped-cashmere-cocoon-cardigan-ivory_1632b620-41e8-4654-a2e4-41571790f41c.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cropped-cashmere-cocoon-cardigan-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cropped Cashmere Cocoon Cardigan",
+    "price": 445,
+    "url": "https://jennikayne.com/products/cropped-cashmere-cocoon-cardigan-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cropped-cashmere-cocoon-cardigan-navy-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cropped-cashmere-cocoon-cardigan-pine",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cropped Cashmere Cocoon Cardigan",
+    "price": 445,
+    "url": "https://jennikayne.com/products/cropped-cashmere-cocoon-cardigan-pine",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cropped-cashmere-cocoon-pine.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cropped-cashmere-cocoon-cardigan-undyed-stone",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cropped Cashmere Cocoon Cardigan",
+    "price": 445,
+    "url": "https://jennikayne.com/products/cropped-cashmere-cocoon-cardigan-undyed-stone",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cropped-cashmere-cocoon-cardigan-undyed-stone-3_d163f493-66e7-481b-bd44-ff43b6a6b49c.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cropped-cashmere-jet-turtleneck-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cropped Cashmere Jet Turtleneck",
+    "price": 495,
+    "url": "https://jennikayne.com/products/cropped-cashmere-jet-turtleneck-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CROPPED-CASHMERE-JET-TURTLENECK-BLACK_005.png?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cropped-cashmere-jet-turtleneck-grey",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cropped Cashmere Jet Turtleneck",
+    "price": 495,
+    "url": "https://jennikayne.com/products/cropped-cashmere-jet-turtleneck-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/CROPPED-CASHMERE-JET-TURTLENECK-GREY_164.png?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cropped-cashmere-jet-v-neck-almond",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cropped Cashmere Jet V-Neck",
+    "price": 485,
+    "url": "https://jennikayne.com/products/cropped-cashmere-jet-v-neck-almond",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Cropped-Cashmere-Jet-V-Neck_Almond-4.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-cropped-cashmere-jet-v-neck-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Cropped Cashmere Jet V-Neck",
+    "price": 485,
+    "url": "https://jennikayne.com/products/cropped-cashmere-jet-v-neck-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Cropped-Cashmere-Jet-V-Neck_Ivory-4.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-dree-v-neck-sweater-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Dree V-Neck Sweater",
+    "price": 295,
+    "url": "https://jennikayne.com/products/dree-v-neck-sweater-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Dree-V-Neck-Sweater-2.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-dree-v-neck-sweater-heather-grey",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Dree V-Neck Sweater",
+    "price": 295,
+    "url": "https://jennikayne.com/products/dree-v-neck-sweater-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/dree-v-neck-sweater-heather-grey.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-dree-v-neck-sweater-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Dree V-Neck Sweater",
+    "price": 295,
+    "url": "https://jennikayne.com/products/dree-v-neck-sweater-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/dree-v-neck-sweater-ivory.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-cardigan-baby-blue",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere Cardigan",
+    "price": 345,
+    "url": "https://jennikayne.com/products/flynn-cashmere-cardigan-baby-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/FLYNN-CASHMERE-CARDIGAN-BABY-BLUE.png?width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-cardigan-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere Cardigan",
+    "price": 345,
+    "url": "https://jennikayne.com/products/flynn-cashmere-cardigan-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/FLYNN-CASHMERE-CARDIGAN-BLACK_011.png?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-cardigan-caramel",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere Cardigan",
+    "price": 345,
+    "url": "https://jennikayne.com/products/flynn-cashmere-cardigan-caramel",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/FLYNN-CASHMERE-CARDIGAN-CARMEL_035-1.png?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-cardigan-crimson",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere Cardigan",
+    "price": 345,
+    "url": "https://jennikayne.com/products/flynn-cashmere-cardigan-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/FLYNN-CASHMERE-CARDIGAN-CRIMSON_008-1.png?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-crewneck-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere Crewneck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-crewneck-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Flynn-Cashmere-Crewneck_Black-3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-crewneck-grey",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere Crewneck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-crewneck-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Flynn-Cashmere-Crewneck_HeatherGrey-4.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-crewneck-oatmeal",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere Crewneck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-crewneck-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Flynn-Cashmere-Crewneck_Oatmeal.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-ballet",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-ballet",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/flynn-cashmere-sweater-ballet_1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blush",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/flynn-cashmere-sweater-black_3523c9c2-f4cc-4fc9-8aa7-9f843c33173c.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-camel",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-camel",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/cashmere-flynn-sweater-camel-1_e4cf103e-02c4-412c-9c65-2a68845d0bac.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-canyon",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-canyon",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/flynn-cashmere-sweater-canyon.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-crimson",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/FLYNN-V-NECK-CRIMSON.png?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-dark-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-dark-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/flynn-cashmere-sweater-navy-3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-espresso",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-espresso",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Flynn-Cashmere-V-Neck_Espresso.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-grey",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/flynn-cashmere-sweater-grey-4_f3ab5ba0-e9e6-4fd7-8f3b-c3e501c4d85a.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-haze",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-haze",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Flynn-Cashmere-V-Neck_Haze.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/flynn-cashmere-sweater-grey-1_e5cfcece-c407-480a-99bb-c0eb5aedf738.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-oatmeal",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-oatmeal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/flynn-cashmere-sweater-oatmeal_f2fa195b-a913-4636-bdd2-9b75a05bd630.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-sweater-sage",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere V-Neck",
+    "price": 325,
+    "url": "https://jennikayne.com/products/flynn-cashmere-sweater-sage",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/flynn-cashmere-sweater-sage.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-turtleneck-charcoal",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere Turtleneck",
+    "price": 365,
+    "url": "https://jennikayne.com/products/flynn-cashmere-turtleneck-charcoal",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/FLYNN-CASHMERE-TURTLENECK-CHARCOAL_003.png?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-turtleneck-crimson",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere Turtleneck",
+    "price": 365,
+    "url": "https://jennikayne.com/products/flynn-cashmere-turtleneck-crimson",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/FLYNN-CASHMERE-TURTLENECK-CRIMSON_047.png?width=600",
+    "category": "Sweaters",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-flynn-cashmere-turtleneck-undyed-stone",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Flynn Cashmere Turtleneck",
+    "price": 365,
+    "url": "https://jennikayne.com/products/flynn-cashmere-turtleneck-undyed-stone",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/FLYNN-CASHMERE-TURTLENECK-UNDYEDSTONE_034-1.png?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cashmere",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-grayson-pullover-baby-blue",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Grayson Pullover",
+    "price": 275,
+    "url": "https://jennikayne.com/products/grayson-pullover-baby-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/grayson-pullover-baby-blue-video.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-grayson-pullover-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Grayson Pullover",
+    "price": 275,
+    "url": "https://jennikayne.com/products/grayson-pullover-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Grayson-Pullover_Black.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-grayson-pullover-dark-navy",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Grayson Pullover",
+    "price": 275,
+    "url": "https://jennikayne.com/products/grayson-pullover-dark-navy",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Grayson-Pullover_DarkNavy.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-grayson-pullover-oat",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Grayson Pullover",
+    "price": 275,
+    "url": "https://jennikayne.com/products/grayson-pullover-oat",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Grayson-Pullover-Oat-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-hadley-cardigan-taupe",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Hadley Cardigan",
+    "price": 495,
+    "url": "https://jennikayne.com/products/hadley-cardigan-taupe",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Hadley-Cardigan_Taupe.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        71
+      ],
+      [
+        "Cashmere",
+        29
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-linden-turtleneck-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Linden Turtleneck",
+    "price": 285,
+    "url": "https://jennikayne.com/products/linden-turtleneck-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Linden-Turtleneck_Ivory.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-mira-cardigan-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Mira Cardigan",
+    "price": 275,
+    "url": "https://jennikayne.com/products/mira-cardigan-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Mira-Cardigan_Black.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-mira-cardigan-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Mira Cardigan",
+    "price": 275,
+    "url": "https://jennikayne.com/products/mira-cardigan-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/mira-cardigan-ivory-7_5f195241-b17a-4c32-a97a-2ddfe8bc9d77.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-nell-v-neck-sweater-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Nell V-Neck Sweater",
+    "price": 395,
+    "url": "https://jennikayne.com/products/nell-v-neck-sweater-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/nell-v-neck-black.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-nell-v-neck-sweater-bronze",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Nell V-Neck Sweater",
+    "price": 395,
+    "url": "https://jennikayne.com/products/nell-v-neck-sweater-bronze",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Nell-V-Neck-Sweater_Bronze.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-nell-v-neck-sweater-pine",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Nell V-Neck Sweater",
+    "price": 395,
+    "url": "https://jennikayne.com/products/nell-v-neck-sweater-pine",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/nell-v-neck-sweater-pine.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Green",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-rowan-turtleneck-ash-heather",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Rowan Turtleneck",
+    "price": 425,
+    "url": "https://jennikayne.com/products/rowan-turtleneck-ash-heather",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Rowan-Turtleneck_AshHeather_b4ff2bad-72c9-4514-a622-eb480c020865.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        71
+      ],
+      [
+        "Cashmere",
+        29
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-rowan-turtleneck-warm-ivory",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Rowan Turtleneck",
+    "price": 425,
+    "url": "https://jennikayne.com/products/rowan-turtleneck-warm-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Rowan-Turtleneck_WarmIvory-5.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Wool",
+        71
+      ],
+      [
+        "Cashmere",
+        29
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-simone-vneck-doe",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Simone V-Neck",
+    "price": 225,
+    "url": "https://jennikayne.com/products/simone-vneck-doe",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Simone-V-Neck-Doe-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Merino wool",
+        54
+      ],
+      [
+        "Cotton",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-simone-vneck-rust",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Simone V-Neck",
+    "price": 225,
+    "url": "https://jennikayne.com/products/simone-vneck-rust",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/simone-v-neck-rust-1_3.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Orange",
+    "shell": [
+      [
+        "Merino wool",
+        54
+      ],
+      [
+        "Cotton",
+        46
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-sweater-tee-black",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Sweater Tee",
+    "price": 245,
+    "url": "https://jennikayne.com/products/sweater-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/SWEATER-TEE-BLACK_029-1.png?width=600",
+    "category": "Sweaters",
+    "colour": "Black",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-sweater-tee-heather-grey",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Sweater Tee",
+    "price": 245,
+    "url": "https://jennikayne.com/products/sweater-tee-heather-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/SWEATER-TEE-HEATHERGREY_010.png?width=600",
+    "category": "Sweaters",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Wool",
+        70
+      ],
+      [
+        "Cashmere",
+        30
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-teddy-crewneck-chocolate-stripe",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Teddy Crewneck",
+    "price": 395,
+    "url": "https://jennikayne.com/products/teddy-crewneck-chocolate-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/TEDDY-CREWNECK-CHOCOLATE-STRIPE_002-1.png?width=600",
+    "category": "Sweaters",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Alpaca",
+        74
+      ],
+      [
+        "Merino wool",
+        22
+      ],
+      [
+        "Polyamide",
+        4
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "jenni-kayne-timber-cardigan-bordeaux-stripe",
+    "retailer": "Jenni Kayne",
+    "brand": "Jenni Kayne",
+    "name": "Timber Cardigan",
+    "price": 425,
+    "url": "https://jennikayne.com/products/timber-cardigan-bordeaux-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/0565/1234/8333/files/Timber-Crewneck-Cardigan_BordeauxStripe-1.jpg?width=600",
+    "category": "Sweaters",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Alpaca",
+        74
+      ],
+      [
+        "Merino wool",
+        22
+      ],
+      [
+        "Polyamide",
+        4
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
   }
 ]
