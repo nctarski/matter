@@ -558,36 +558,6 @@
     "tags": []
   },
   {
-    "id": "polo-ralph-lauren-linen-blazer-pastel-yellow",
-    "retailer": "Net-a-Porter",
-    "brand": "Polo Ralph Lauren",
-    "name": "Linen blazer",
-    "price": 500,
-    "url": "https://www.net-a-porter.com/en-us/shop/product/polo-ralph-lauren/clothing/blazers/linen-blazer/46376663163106803",
-    "image": "",
-    "category": "Tailoring",
-    "colour": "Yellow",
-    "shell": [
-      [
-        "Linen",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        55
-      ],
-      [
-        "Viscose",
-        45
-      ]
-    ],
-    "liningLabel": "Sleeve lining",
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "hanro-cotton-seamless-high-cut-full-brief",
     "retailer": "Hanro",
     "brand": "Hanro",
@@ -5721,60 +5691,6 @@
     }
   },
   {
-    "id": "massimo-dutti-100-wool-button-detail-blazer",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "100% wool button detail blazer",
-    "price": 350,
-    "url": "https://www.massimodutti.com/us/100-wool-button-detail-blazer-l06052778",
-    "image": "https://static.massimodutti.net/assets/public/7e4e/1558/627f4612ad44/aacef84eb42c/06052778700-o1/06052778700-o1.jpg?w=600",
-    "category": "Tailoring",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Wool",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Modal",
-        52
-      ],
-      [
-        "Polyester",
-        48
-      ]
-    ],
-    "isNew": false,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "2",
-          "available": true
-        },
-        {
-          "size": "4",
-          "available": true
-        },
-        {
-          "size": "6",
-          "available": true
-        },
-        {
-          "size": "8",
-          "available": true
-        },
-        {
-          "size": "10",
-          "available": true
-        }
-      ]
-    }
-  },
-  {
     "id": "massimo-dutti-100-wool-darted-trousers-with-hem-detail",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -6464,52 +6380,6 @@
     }
   },
   {
-    "id": "massimo-dutti-cargo-pants-with-suede-leather-hem-detail",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Cargo pants with Suede leather hem detail",
-    "price": 590,
-    "url": "https://www.massimodutti.com/us/cargo-pants-with-suede-leather-hem-detail-l05354755",
-    "image": "https://static.massimodutti.net/assets/public/013e/0faf/ad604cd1adcc/06cf18107b34/05354755717-o1/05354755717-o1.jpg?w=600",
-    "category": "Pants",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "XS",
-          "available": true
-        },
-        {
-          "size": "S",
-          "available": true
-        },
-        {
-          "size": "M",
-          "available": true
-        },
-        {
-          "size": "L",
-          "available": true
-        }
-      ]
-    }
-  },
-  {
     "id": "massimo-dutti-cotton-poplin-blouse-with-v-neck",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -6736,52 +6606,6 @@
       ]
     ],
     "lining": null,
-    "isNew": false,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "XS",
-          "available": true
-        },
-        {
-          "size": "S",
-          "available": true
-        },
-        {
-          "size": "M",
-          "available": true
-        },
-        {
-          "size": "L",
-          "available": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "massimo-dutti-distressed-effect-leather-blazer",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Distressed effect leather blazer",
-    "price": 890,
-    "url": "https://www.massimodutti.com/us/distressed-effect-leather-blazer-l04704304",
-    "image": "https://static.massimodutti.net/assets/public/e8ec/24b7/c58842a0bb2a/3602bae165cf/04704304700-o1/04704304700-o1.jpg?w=600",
-    "category": "Tailoring",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
     "isNew": false,
     "tags": [],
     "stock": {
@@ -7554,52 +7378,6 @@
     }
   },
   {
-    "id": "massimo-dutti-suede-blazer",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Suede blazer",
-    "price": 790,
-    "url": "https://www.massimodutti.com/us/suede-blazer-l04710670",
-    "image": "https://static.massimodutti.net/assets/public/5dd5/2591/e6034abb85c0/2fa338e2a885/04710670830-o1/04710670830-o1.jpg?w=600",
-    "category": "Tailoring",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "XS",
-          "available": true
-        },
-        {
-          "size": "S",
-          "available": true
-        },
-        {
-          "size": "M",
-          "available": true
-        },
-        {
-          "size": "L",
-          "available": true
-        }
-      ]
-    }
-  },
-  {
     "id": "massimo-dutti-suede-flared-midi-skirt-with-waistband",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -7699,52 +7477,6 @@
       ]
     ],
     "lining": null,
-    "isNew": false,
-    "tags": [],
-    "stock": {
-      "checkedAt": "2026-10-23",
-      "sizes": [
-        {
-          "size": "XS",
-          "available": true
-        },
-        {
-          "size": "S",
-          "available": true
-        },
-        {
-          "size": "M",
-          "available": true
-        },
-        {
-          "size": "L",
-          "available": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "massimo-dutti-suede-leather-blazer-with-lapel",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Suede leather blazer with lapel",
-    "price": 590,
-    "url": "https://www.massimodutti.com/us/suede-leather-blazer-with-lapel-l04754854",
-    "image": "https://static.massimodutti.net/assets/public/11a6/b8c7/847f4022bd90/24134ccf3029/04754854711-o1/04754854711-o1.jpg?w=600",
-    "category": "Tailoring",
-    "colour": "Cream",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
     "isNew": false,
     "tags": [],
     "stock": {
@@ -40992,39 +40724,6 @@
     "trim": "Embroidery 100% polyester"
   },
   {
-    "id": "sea-new-york-garrett-blazer",
-    "retailer": "Sea New York",
-    "brand": "Sea New York",
-    "name": "Garrett Blazer",
-    "price": 495,
-    "url": "https://sea-ny.com/products/garrett-blazer",
-    "image": "https://cdn.shopify.com/s/files/1/1976/1879/files/AW26-083-NAVY-1.jpg?width=600",
-    "category": "Tailoring",
-    "colour": "Navy",
-    "shell": [
-      [
-        "Cotton",
-        98
-      ],
-      [
-        "Elastane",
-        2
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        55
-      ],
-      [
-        "Viscose",
-        45
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "sea-new-york-honore-lace-top",
     "retailer": "Sea New York",
     "brand": "Sea New York",
@@ -41216,35 +40915,6 @@
     "tags": []
   },
   {
-    "id": "sea-new-york-samantha-jacket",
-    "retailer": "Sea New York",
-    "brand": "Sea New York",
-    "name": "Samantha Jacket",
-    "price": 1295,
-    "url": "https://sea-ny.com/products/samantha-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/1976/1879/files/RS27-093-COGNAC-1.jpg?width=600",
-    "category": "Outerwear",
-    "colour": "Camel",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Viscose",
-        50
-      ],
-      [
-        "Polyester",
-        50
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
     "id": "sea-new-york-sheep-pj-set",
     "retailer": "Sea New York",
     "brand": "Sea New York",
@@ -41285,31 +40955,6 @@
     "isNew": false,
     "tags": [],
     "trim": "Embroidery 100% polyester"
-  },
-  {
-    "id": "sea-new-york-thompson-jacket",
-    "retailer": "Sea New York",
-    "brand": "Sea New York",
-    "name": "Thompson Jacket",
-    "price": 1395,
-    "url": "https://sea-ny.com/products/thompson-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/1976/1879/files/PF26-146-BROWN-1.jpg?width=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
   },
   {
     "id": "sea-new-york-tristan-coat",
@@ -53632,35 +53277,6 @@
     "tags": []
   },
   {
-    "id": "massimo-dutti-barrel-fit-cargo-pants",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Barrel fit cargo pants",
-    "price": 160,
-    "url": "https://www.massimodutti.com/us/barrel-fit-cargo-pants-l05011711",
-    "image": "https://static.massimodutti.net/assets/public/ad01/9b24/7292498181cb/fa50fe3fa3a9/05011711800-o1/05011711800-o1.jpg?w=600",
-    "category": "Pants",
-    "colour": "Black",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Cotton",
-        59
-      ],
-      [
-        "Polyester",
-        41
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
     "id": "massimo-dutti-barrel-fit-jeans-with-pleat-detail",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -53802,26 +53418,6 @@
     "shell": [
       [
         "Cotton",
-        100
-      ]
-    ],
-    "lining": null,
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-cargo-pants-with-hem-button-detail",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Cargo pants with hem button detail",
-    "price": 180,
-    "url": "https://www.massimodutti.com/us/cargo-pants-with-hem-button-detail-l05052515",
-    "image": "https://static.massimodutti.net/assets/public/c13d/ef52/12064677bb8f/edbe2dbcf883/05052515800-o1/05052515800-o1.jpg?w=600",
-    "category": "Pants",
-    "colour": "Black",
-    "shell": [
-      [
-        "Wool",
         100
       ]
     ],
@@ -54892,31 +54488,6 @@
     "tags": []
   },
   {
-    "id": "massimo-dutti-high-neck-nappa-leather-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "High neck nappa leather jacket",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/high-neck-nappa-leather-jacket-l04710710",
-    "image": "https://static.massimodutti.net/assets/public/e346/292b/7a034672bef2/e3a5301d4d9b/04710710800-o1/04710710800-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
     "id": "massimo-dutti-kick-flare-fit-pants",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -55093,31 +54664,6 @@
     "url": "https://www.massimodutti.com/us/leather-midi-skirt-with-pockets-l05301701",
     "image": "https://static.massimodutti.net/assets/public/4128/edbb/039b401db0fe/5cbdf9519710/05301701717-o1/05301701717-o1.jpg?w=600",
     "category": "Skirts",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-leather-nappa-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Leather nappa jacket",
-    "price": 790,
-    "url": "https://www.massimodutti.com/us/leather-nappa-jacket-l04704664",
-    "image": "https://static.massimodutti.net/assets/public/9bc3/ee06/af254fd68576/3c64feff9fd1/04704664700-o1/04704664700-o1.jpg?w=600",
-    "category": "Outerwear",
     "colour": "Chocolate",
     "shell": [
       [
@@ -55604,231 +55150,6 @@
     "tags": []
   },
   {
-    "id": "massimo-dutti-nappa-leather-blazer",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather blazer",
-    "price": 790,
-    "url": "https://www.massimodutti.com/us/nappa-leather-blazer-l04791648",
-    "image": "https://static.massimodutti.net/assets/public/3a67/8a70/fa2246b39b9e/bb82d7ca2903/04791648323-o1/04791648323-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Ivory",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-blazer-with-pocket-detail",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather blazer with pocket detail",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/nappa-leather-blazer-with-pocket-detail-l04719679",
-    "image": "https://static.massimodutti.net/assets/public/6d7e/0681/0ff24a0e9d8a/a90ec4573586/04719679700-o1/04719679700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-bomber-gilet",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather bomber gilet",
-    "price": 590,
-    "url": "https://www.massimodutti.com/us/nappa-leather-bomber-gilet-l04757657",
-    "image": "https://static.massimodutti.net/assets/public/8fe7/500c/7e1248a4b778/3a2980c00928/04757657700-o1/04757657700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-bomber-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather bomber jacket",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/nappa-leather-bomber-jacket-l04703703",
-    "image": "https://static.massimodutti.net/assets/public/7ea5/fbee/c25f49138771/199518325f53/04703703700-o1/04703703700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-bomber-jacket-04753323",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather bomber jacket",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/nappa-leather-bomber-jacket-l04753323",
-    "image": "https://static.massimodutti.net/assets/public/4f37/68a0/984a4b7aa587/c6503d87d2b8/04753323250-o1/04753323250-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "White",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-bomber-jacket-with-button-detail",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather bomber jacket with button detail",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/nappa-leather-bomber-jacket-with-button-detail-l04715675",
-    "image": "https://static.massimodutti.net/assets/public/666a/2929/412843b6ad0d/ba9f8e0d2c53/04715675800-o1/04715675800-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-bomber-jacket-with-lapel-collar",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather bomber jacket with lapel collar",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/nappa-leather-bomber-jacket-with-lapel-collar-l04750796",
-    "image": "https://static.massimodutti.net/assets/public/6f53/b9ff/c9d249d695cd/e00fcdab50df/04750796544-o1/04750796544-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Olive",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-bomber-jacket-with-pleat-detail",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather bomber jacket with pleat detail",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/nappa-leather-bomber-jacket-with-pleat-detail-l04701680",
-    "image": "https://static.massimodutti.net/assets/public/de3b/4ca7/313945d881d0/6dcc12dfc7fe/04701680700-o1/04701680700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-bomber-jacket-with-pockets",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather bomber jacket with pockets",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/nappa-leather-bomber-jacket-with-pockets-l04707707",
-    "image": "https://static.massimodutti.net/assets/public/7ed6/e5f0/3ac34c198a46/c3fdbb685a4d/04707707605-o1/04707707605-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Oxblood",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
     "id": "massimo-dutti-nappa-leather-buttonplacket-jacket",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -55887,56 +55208,6 @@
     "image": "https://static.massimodutti.net/assets/public/bbad/a39f/3707405ba288/be8dc46e17c6/05355755700-o1/05355755700-o1.jpg?w=600",
     "category": "Pants",
     "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-jacket-with-pocket-detail",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather jacket with pocket detail",
-    "price": 890,
-    "url": "https://www.massimodutti.com/us/nappa-leather-jacket-with-pocket-detail-l04701701",
-    "image": "https://static.massimodutti.net/assets/public/a8c5/9cdd/f73744b0a603/074e42d0fda4/04701701700-o1/04701701700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-jacket-with-pocket-details",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather jacket with pocket details",
-    "price": 890,
-    "url": "https://www.massimodutti.com/us/nappa-leather-jacket-with-pocket-details-l04702902",
-    "image": "https://static.massimodutti.net/assets/public/3e50/8b47/b869466a8d03/b59a7d13e8ba/04702902800-o1/04702902800-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
     "shell": [
       [
         "Leather",
@@ -56012,31 +55283,6 @@
     "image": "https://static.massimodutti.net/assets/public/acc4/42fe/cb6c4a438aab/bab4249456c3/04780671800-o1/04780671800-o1.jpg?w=600",
     "category": "Outerwear",
     "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-nappa-leather-zip-bomber-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Nappa leather zip bomber jacket",
-    "price": 790,
-    "url": "https://www.massimodutti.com/us/nappa-leather-zip-bomber-jacket-l04702702",
-    "image": "https://static.massimodutti.net/assets/public/3d77/aaec/ff854b1e81f2/f7f0c79b5d9a/04702702700-o1/04702702700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
     "shell": [
       [
         "Leather",
@@ -56139,31 +55385,6 @@
       ]
     ],
     "lining": null,
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-oversize-suede-leather-bomber-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Oversize suede leather bomber jacket",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/oversize-suede-leather-bomber-jacket-l04752752",
-    "image": "https://static.massimodutti.net/assets/public/5128/3ced/bc184949a0ed/239f7fc2c53c/04752752700-o1/04752752700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
     "isNew": true,
     "tags": []
   },
@@ -56347,31 +55568,6 @@
     "tags": []
   },
   {
-    "id": "massimo-dutti-pleateddetail-nappa-leather-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Pleated-detail Nappa leather jacket",
-    "price": 790,
-    "url": "https://www.massimodutti.com/us/pleateddetail-nappa-leather-jacket-l04794654",
-    "image": "https://static.massimodutti.net/assets/public/c355/b85a/c1134c348520/2a814fa793fd/04794654700-o1/04794654700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
     "id": "massimo-dutti-poplin-strap-midi-dress",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -56505,56 +55701,6 @@
       ]
     ],
     "lining": null,
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-short-high-collar-nappa-leather-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Short high collar Nappa leather jacket",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/short-high-collar-nappa-leather-jacket-l04704305",
-    "image": "https://static.massimodutti.net/assets/public/52ae/23e3/26f64566a95d/e9f13e2b024f/04704305800-o1/04704305800-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-short-nappa-leather-bomber-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Short nappa leather bomber jacket",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/short-nappa-leather-bomber-jacket-l04759659",
-    "image": "https://static.massimodutti.net/assets/public/d916/0a5d/c0fe407c9b9e/8b876112507d/04759659700-o1/04759659700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
     "isNew": true,
     "tags": []
   },
@@ -57058,31 +56204,6 @@
     "tags": []
   },
   {
-    "id": "massimo-dutti-suede-bomber-jacket-with-pleat-detail",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Suede bomber jacket with pleat detail",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/suede-bomber-jacket-with-pleat-detail-l04719719",
-    "image": "https://static.massimodutti.net/assets/public/52cd/2278/75c04f3991f2/438018a399e7/04719719700-o1/04719719700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
     "id": "massimo-dutti-suede-high-neck-shirt",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -57132,31 +56253,6 @@
     "tags": []
   },
   {
-    "id": "massimo-dutti-suede-leather-high-collar-bomber-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Suede leather high collar bomber jacket",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/suede-leather-high-collar-bomber-jacket-l04706706",
-    "image": "https://static.massimodutti.net/assets/public/d327/b6e5/7b1547e0b4b3/b9f89617b7d6/04706706553-o1/04706706553-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Green",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": true,
-    "tags": []
-  },
-  {
     "id": "massimo-dutti-suede-sleeveless-top",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -57173,31 +56269,6 @@
       ]
     ],
     "lining": null,
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-suede-vneck-balloon-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Suede V-neck balloon jacket",
-    "price": 790,
-    "url": "https://www.massimodutti.com/us/suede-vneck-balloon-jacket-l04717677",
-    "image": "https://static.massimodutti.net/assets/public/7d47/8dfd/c978475ba42a/5ec18c002302/04717677742-o1/04717677742-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Camel",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
     "isNew": true,
     "tags": []
   },
@@ -57443,39 +56514,6 @@
       ]
     ],
     "lining": null,
-    "isNew": true,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-wool-blend-jacket-with-pocket-detail",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Wool blend jacket with pocket detail",
-    "price": 390,
-    "url": "https://www.massimodutti.com/us/wool-blend-jacket-with-pocket-detail-l06051765",
-    "image": "https://static.massimodutti.net/assets/public/0a45/320f/d09d484e973b/48685f33405e/06051765401-o1/06051765401-o1.jpg?w=600",
-    "category": "Tailoring",
-    "colour": "Navy",
-    "shell": [
-      [
-        "Wool",
-        97
-      ],
-      [
-        "Elastane",
-        3
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        56
-      ],
-      [
-        "Viscose",
-        44
-      ]
-    ],
     "isNew": true,
     "tags": []
   },
@@ -57731,31 +56769,6 @@
     "lining": [
       [
         "Cotton",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-100-leather-cropped-shirt-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Leather Cropped Jacket",
-    "price": 225,
-    "url": "https://www.quince.com/women/100-leather-cropped-shirt-jacket",
-    "image": "https://images.quince.com/6BwBBSpwuasYyiFx2qeOkq/537f7c696680f9c8dd36bab62eec4434/W-JKT-54-RBRN-01_EDITED.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
         100
       ]
     ],
@@ -58060,39 +57073,6 @@
     "url": "https://www.quince.com/women/italian-wool-straight-leg-pants",
     "image": "https://images.quince.com/4Nk7pQxWsvjwFHXG1bF1u1/427b2c2494f2c99856653106d34d57bc/W-PNT-143-NVY_0488_EDITED_1jpg.jpg?w=600",
     "category": "Pants",
-    "colour": "Navy",
-    "shell": [
-      [
-        "Wool",
-        96
-      ],
-      [
-        "Elastane",
-        4
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        95
-      ],
-      [
-        "Elastane",
-        5
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-italian-wool-tailored-blazer",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "Italian Wool Tailored Blazer",
-    "price": 120,
-    "url": "https://www.quince.com/women/italian-wool-tailored-blazer",
-    "image": "https://images.quince.com/3ntLPpfqvoBFVK4mU2xsxM/7299384d54779adbd5b090a048a2fb00/W-JKT-20-NVY_0657_EDITED_1.jpg?w=600",
-    "category": "Tailoring",
     "colour": "Navy",
     "shell": [
       [
@@ -58558,60 +57538,6 @@
     "tags": []
   },
   {
-    "id": "quince-womens-100-leather-oversized-bomber-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Leather Oversized Bomber Jacket",
-    "price": 250,
-    "url": "https://www.quince.com/women/womens-100-leather-oversized-bomber-jacket",
-    "image": "https://images.quince.com/5phrEiXBR4UX4W7IT3YvSS/a8e41b4e29435fc2d5ac42a16c0e088c/W-PNT-189-FRSTBL-1502_EDITED.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-wool-cashmere-classic-single-breasted-coat",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "Wool Cashmere Blazer Coat",
-    "price": 200,
-    "url": "https://www.quince.com/women/wool-cashmere-classic-single-breasted-coat",
-    "image": "https://images.quince.com/2gnjqGfp5aCSJ6KiBMoRPl/6d1497ddadc07f89aae38ef4ee76e0ea/W-JKT-194-HCHAR-01_EDITED.jpg?w=600",
-    "category": "Tailoring",
-    "colour": "Grey",
-    "shell": [
-      [
-        "Wool",
-        90
-      ],
-      [
-        "Cashmere",
-        10
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "quince-100-european-linen-blazer",
     "retailer": "Quince",
     "brand": "Quince",
@@ -58962,131 +57888,6 @@
     "tags": []
   },
   {
-    "id": "quince-100-leather-bomber-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Washed Leather Bomber Jacket",
-    "price": 225,
-    "url": "https://www.quince.com/women/100-leather-bomber-jacket",
-    "image": "https://images.quince.com/4IKfpThBuWzf6iF4rw1aX9/4d0619de6c56d9f194720e810cc49b8e/W-JKT-55-BLK_0992.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-100-leather-cafe-racer-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Leather Café Racer Jacket",
-    "price": 180,
-    "url": "https://www.quince.com/women/100-leather-cafe-racer-jacket",
-    "image": "https://images.quince.com/3z2so5vbAUhws0CmaQbwoW/9a7820f5d92de72e0db16bb7a62fd6cf/W-JKT-57-BLK_0121_copy.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-100-leather-cropped-collarless-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Leather Collarless Cropped Bubble Hem Jacket",
-    "price": 225,
-    "url": "https://www.quince.com/women/100-leather-cropped-collarless-jacket",
-    "image": "https://images.quince.com/2h6tW5obZ2bLfcGgTMHhBL/f9cddecf16868da5dad3165f3b58727f/W-JKT-176-RBRN-01_EDITED.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-100-leather-cropped-zip-front-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Leather Cropped Zip-Front Jacket",
-    "price": 225,
-    "url": "https://www.quince.com/women/100-leather-cropped-zip-front-jacket",
-    "image": "https://images.quince.com/1PMD2N4lYiHMznxiCx9y3j/44a57562519e4d712e6532031591f4bd/Denim-Editorial-11-2506_EDITED.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-100-leather-zip-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Leather Stand-Collar Jacket",
-    "price": 225,
-    "url": "https://www.quince.com/women/100-leather-zip-jacket",
-    "image": "https://images.quince.com/2iWFIbchTMBfqwYZgwi9Sv/a1761f1e6575a7e0306ab3a9f3ac9feb/W-JKT-28-TBLK-01-EDITED.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "quince-100-merino-wool-cold-weather-base-layer-1-4-zip",
     "retailer": "Quince",
     "brand": "Quince",
@@ -59103,35 +57904,6 @@
       ]
     ],
     "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-100-merino-wool-cropped-shirt-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Merino Wool Cropped Shirt Jacket",
-    "price": 94,
-    "url": "https://www.quince.com/women/100-merino-wool-cropped-shirt-jacket",
-    "image": "https://images.quince.com/5ZdvzlkBEoypITNimx96R6/445251a95863b916026f8969e84a7827/W-JKT-62-OLVGRV_0679_EDITED_copy.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Olive",
-    "shell": [
-      [
-        "Merino wool",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        80
-      ],
-      [
-        "Cotton",
-        20
-      ]
-    ],
     "isNew": false,
     "tags": []
   },
@@ -59479,81 +58251,6 @@
     "lining": [
       [
         "Cotton",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-100-suede-cropped-zip-front-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Suede Cropped Zip-Front Jacket",
-    "price": 225,
-    "url": "https://www.quince.com/women/100-suede-cropped-zip-front-jacket",
-    "image": "https://images.quince.com/YAS8gEcesq27XDuFNFqXG/6fb7983f97c0123b94116446da89163f/W-JKT-179-LIGSAB_01_EDITED.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Cream",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-100-suede-motorcycle-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Suede Biker Jacket",
-    "price": 200,
-    "url": "https://www.quince.com/women/100-suede-motorcycle-jacket",
-    "image": "https://images.quince.com/4ltmN1K31D4EUwdz4NkSno/8ab6cd4ba05b4477bff116ccee7ed18d/W-JKT-29-LIGSAB-01_EDITED.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Cream",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-100-suede-trucker-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Suede Trucker Jacket",
-    "price": 150,
-    "url": "https://www.quince.com/women/100-suede-trucker-jacket",
-    "image": "https://images.quince.com/7JgpQBoKoyllEEXzVXsAIK/9cccce60c01c9a99c3e91d274e06d2bb/W-JKT-87_-_BLK_0258.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
         100
       ]
     ],
@@ -59966,31 +58663,6 @@
       [
         "Elastane",
         10
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-100-washed-leather-biker-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Washed Leather Biker Jacket",
-    "price": 180,
-    "url": "https://www.quince.com/women/100-washed-leather-biker-jacket",
-    "image": "https://images.quince.com/4v2zRIicVXyPaF0cmX0beg/34f2627479c11037e42bb02abca10495/W-JKT-45-BLK_2077_1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
       ]
     ],
     "isNew": false,
@@ -60702,31 +59374,6 @@
     "tags": []
   },
   {
-    "id": "quince-leather-biker-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Leather Motorcycle Jacket",
-    "price": 200,
-    "url": "https://www.quince.com/women/leather-biker-jacket",
-    "image": "https://images.quince.com/4LpZmp6gYuc5Unn437IpZ4/211053584a83d2d9acbab103644de237/W-JKT-17-TBLK-01_EDITED.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "quince-lightweight-cotton-poplin-wide-leg-pants-26",
     "retailer": "Quince",
     "brand": "Quince",
@@ -60948,35 +59595,6 @@
       ]
     ],
     "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-merino-wool-shacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Merino Wool Shirt Jacket",
-    "price": 100,
-    "url": "https://www.quince.com/women/merino-wool-shacket",
-    "image": "https://images.quince.com/1ZYWpNvQJFHWANaQI1Snbh/a25eabde488b496366c1c948e8422ca1/W-JKT-32-HELM_1847_EDITED_copy.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Olive",
-    "shell": [
-      [
-        "Merino wool",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        80
-      ],
-      [
-        "Cotton",
-        20
-      ]
-    ],
     "isNew": false,
     "tags": []
   },
@@ -62176,56 +60794,6 @@
     "tags": []
   },
   {
-    "id": "quince-women-s-100-leather-blazer",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Leather Blazer",
-    "price": 250,
-    "url": "https://www.quince.com/women/women-s-100-leather-blazer",
-    "image": "https://images.quince.com/7MEjfrOClf9GloP0qfutsE/a57bda8d203d85495b0ddd8cc6ca83cc/W-JKT-49-RBRN-01_EDITED.jpg?w=600",
-    "category": "Tailoring",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-women-s-100-leather-oversized-biker-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Leather Oversized Biker Jacket",
-    "price": 250,
-    "url": "https://www.quince.com/women/women-s-100-leather-oversized-biker-jacket",
-    "image": "https://images.quince.com/40D2OewzJlyO7Fi4l8fOKD/3c9e56fb63d7845a962777a53e41bbc1/W-JKT-50-BLK-01_EDITED.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Black",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "quince-women-s-100-organic-cotton-cable-crew-cardigan",
     "retailer": "Quince",
     "brand": "Quince",
@@ -62410,35 +60978,6 @@
       ]
     ],
     "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-women-s-merino-wool-long-shacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Merino Wool Long Shirt Jacket",
-    "price": 130,
-    "url": "https://www.quince.com/women/women-s-merino-wool-long-shacket",
-    "image": "https://images.quince.com/1Oo2KcbUs90pRZmUIh1XXv/89df096e138edb65b4319a73f16b6315/W-JKT-46-MLWN_0181_EDITED_copy.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Oxblood",
-    "shell": [
-      [
-        "Merino wool",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        80
-      ],
-      [
-        "Cotton",
-        20
-      ]
-    ],
     "isNew": false,
     "tags": []
   },
@@ -62720,35 +61259,6 @@
     "tags": []
   },
   {
-    "id": "quince-womens-100-merino-wool-collarless-cropped-jacket",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "100% Merino Wool Collarless Cropped Jacket",
-    "price": 94,
-    "url": "https://www.quince.com/women/womens-100-merino-wool-collarless-cropped-jacket",
-    "image": "https://images.quince.com/4guLmvTNdWnYWsfYGRZoIU/9e5e374b52ae2e00dce3926e90212f53/W-JKT-119-HEAELM-03_EDITED.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Olive",
-    "shell": [
-      [
-        "Merino wool",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        55
-      ],
-      [
-        "Viscose",
-        45
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "quince-womens-100-mongolian-cashmere-double-faced-double-breasted-wrap-coat",
     "retailer": "Quince",
     "brand": "Quince",
@@ -62945,39 +61455,6 @@
       ]
     ],
     "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "quince-womens-italian-wool-slim-long-blazer",
-    "retailer": "Quince",
-    "brand": "Quince",
-    "name": "Italian Wool Long Blazer",
-    "price": 130,
-    "url": "https://www.quince.com/women/womens-italian-wool-slim-long-blazer",
-    "image": "https://images.quince.com/7nq7ce9pM9FSj1YHPiAJn3/56b28310643f348650fd0c0c68e5cd66/W-JKT-134-GRYMLG-01_EDITED.jpg?w=600",
-    "category": "Tailoring",
-    "colour": "Grey",
-    "shell": [
-      [
-        "Wool",
-        96
-      ],
-      [
-        "Elastane",
-        4
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        95
-      ],
-      [
-        "Elastane",
-        5
-      ]
-    ],
     "isNew": false,
     "tags": []
   },
@@ -67272,31 +65749,6 @@
     "shell": [
       [
         "Silk",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "few-moda-diana-barn-jacket",
-    "retailer": "Few Moda",
-    "brand": "CAARA",
-    "name": "Diana Barn Jacket",
-    "price": 222,
-    "url": "https://www.fewmoda.com/products/diana-barn-jacket_c24woui00300_midnight-moss",
-    "image": "https://cdn.shopify.com/s/files/1/0989/5178/files/C24WOUI00300_MDMOS_1.png?v=1756832622&width=600",
-    "category": "Outerwear",
-    "colour": "Olive",
-    "shell": [
-      [
-        "Cotton",
         100
       ]
     ],
@@ -74326,35 +72778,6 @@
     "tags": []
   },
   {
-    "id": "massimo-dutti-100-melange-wool-blazer",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "100% Melange Wool Blazer",
-    "price": 390,
-    "url": "https://www.massimodutti.com/us/100-melange-wool-blazer-l06048503",
-    "image": "https://static.massimodutti.net/assets/public/a844/d2e5/8c254331a186/b24d213c6c15/06048503506-o1/06048503506-o1.jpg?w=600",
-    "category": "Tailoring",
-    "colour": "Olive",
-    "shell": [
-      [
-        "Wool",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Modal",
-        52
-      ],
-      [
-        "Polyester",
-        48
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "massimo-dutti-100-mercerised-cotton-t-shirt",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -74391,31 +72814,6 @@
       ]
     ],
     "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-100-suede-lapel-blazer",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "100% Suede Lapel Blazer",
-    "price": 590,
-    "url": "https://www.massimodutti.com/us/100-suede-lapel-blazer-l04789649",
-    "image": "https://static.massimodutti.net/assets/public/200e/8f74/010d437f9051/879744196d96/04789649742-o1/04789649742-o1.jpg?w=600",
-    "category": "Tailoring",
-    "colour": "Camel",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
     "isNew": false,
     "tags": []
   },
@@ -74836,31 +73234,6 @@
       ]
     ],
     "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-cropped-nappa-leather-jacket-with-belt",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Cropped Nappa Leather Jacket With Belt",
-    "price": 690,
-    "url": "https://www.massimodutti.com/us/cropped-nappa-leather-jacket-with-belt-l04718678",
-    "image": "https://static.massimodutti.net/assets/public/4645/c80d/dc7149e18696/f64d94d1bf65/04718678700-o1/04718678700-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Oxblood",
-    "shell": [
-      [
-        "Leather",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
     "isNew": false,
     "tags": []
   },
@@ -76049,31 +74422,6 @@
     "tags": []
   },
   {
-    "id": "massimo-dutti-suede-leather-asymmetric-zip-up-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Suede Leather Asymmetric Zip-up Jacket",
-    "price": 420,
-    "url": "https://www.massimodutti.com/us/suede-leather-asymmetric-zipup-jacket-l04717675",
-    "image": "https://static.massimodutti.net/assets/public/626f/2d20/7106420db249/37c1ca8cc58c/04717675730-o1/04717675730-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Camel",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "massimo-dutti-suede-leather-blazer-with-pockets",
     "retailer": "Massimo Dutti",
     "brand": "Massimo Dutti",
@@ -76112,31 +74460,6 @@
     "lining": [
       [
         "Cotton",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "massimo-dutti-suede-leather-double-breasted-jacket",
-    "retailer": "Massimo Dutti",
-    "brand": "Massimo Dutti",
-    "name": "Suede Leather Double-breasted Jacket",
-    "price": 490,
-    "url": "https://www.massimodutti.com/us/suede-leather-doublebreasted-jacket-l04753753",
-    "image": "https://static.massimodutti.net/assets/public/7ef1/a976/1c294e65be87/5b04bac2f494/04753753742-o1/04753753742-o1.jpg?w=600",
-    "category": "Outerwear",
-    "colour": "Camel",
-    "shell": [
-      [
-        "Suede",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
         100
       ]
     ],
@@ -98832,40 +97155,6 @@
     "tags": []
   },
   {
-    "id": "frankie-danto-drawstring-utility-jacket-light-brown",
-    "retailer": "The Frankie Shop",
-    "brand": "The Frankie Shop",
-    "name": "Danto Drawstring Utility Jacket",
-    "price": 385,
-    "url": "https://thefrankieshop.com/products/danto-drawstring-utility-jacket-light-brown",
-    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/DANTO-DRAWSTRING-UTILITY-JACKET-LIGHT-BROWN-ANNELY-39087_55770662-f982-4c80-bd46-43d20642b33d.jpg?width=600",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/DANTO-DRAWSTRING-UTILITY-JACKET-LIGHT-BROWN-ANNELY-39087_55770662-f982-4c80-bd46-43d20642b33d.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/DANTO-DRAWSTRING-UTILITY-JACKET-LIGHT-BROWN-ANNELY-39094_7e60cb4f-1d04-49dd-8a8f-5234e54b7aa7.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/DANTO-DRAWSTRING-UTILITY-JACKET-LIGHT-BROWN-ANNELY-39085_202d83d9-f384-4a20-b5c3-39c5a4c50ac3.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/DANTO-DRAWSTRING-UTILITY-JACKET-LIGHT-BROWN-ANNELY-39102_c2de27e3-efa8-44f6-915a-dddaa62d5c9e.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/DANTO-DRAWSTRING-UTILITY-JACKET-LIGHT-BROWN-ANNELY-39098_6041cbb5-f89b-41ac-a576-ffdafd46c201.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/DANTO-DRAWSTRING-UTILITY-JACKET-LIGHT-BROWN-ANNELY-39104_d2226e63-b217-4954-b1f0-0e272d7a8ab1.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/DANTO-DRAWSTRING-UTILITY-JACKET-LIGHT-BROWN-PACKSHOT.jpg?width=600"
-    ],
-    "category": "Outerwear",
-    "colour": "Chocolate",
-    "shell": [
-      [
-        "Cotton",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
-    "isNew": false,
-    "tags": []
-  },
-  {
     "id": "frankie-darkpark-phebe-light-cotton-popeline-wide-leg-pants-blue-navy",
     "retailer": "The Frankie Shop",
     "brand": "Darkpark",
@@ -99753,41 +98042,6 @@
       ]
     ],
     "lining": null,
-    "isNew": false,
-    "tags": []
-  },
-  {
-    "id": "frankie-jade-wool-double-breasted-blazer-beige-melange",
-    "retailer": "The Frankie Shop",
-    "brand": "The Frankie Shop",
-    "name": "Jade Wool Double-Breasted Blazer",
-    "price": 550,
-    "url": "https://thefrankieshop.com/products/jade-wool-double-breasted-blazer-beige-melange",
-    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/JADE-DOUBLE-BREASTED-BLAZER-BEIGE-MELANGE-ANNELY-1339-W.jpg?width=600",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/JADE-DOUBLE-BREASTED-BLAZER-BEIGE-MELANGE-ANNELY-1339-W.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/JADE-DOUBLE-BREASTED-BLAZER-BEIGE-MELANGE-LEANNE-1006-W.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/JADE-DOUBLE-BREASTED-BLAZER-BEIGE-MELANGE-ANNELY-1336-W.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/JADE-DOUBLE-BREASTED-BLAZER-BEIGE-MELANGE-ANNELY-1340-W.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/JADE-DOUBLE-BREASTED-BLAZER-BEIGE-MELANGE-LEANNE-0994-W.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/JADE-DOUBLE-BREASTED-BLAZER-BEIGE-MELANGE.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/JADE-DOUBLE-BREASTED-BLAZER-BEIGE-MELANGE-ANNELY-1345-W.jpg?width=600",
-      "https://cdn.shopify.com/s/files/1/1527/0993/files/JADE-DOUBLE-BREASTED-BLAZER-BEIGE-MELANGE-PACKSHOT_9bc0e77d-6a1a-4954-921b-9509fd046150.jpg?width=600"
-    ],
-    "category": "Tailoring",
-    "colour": "Cream",
-    "shell": [
-      [
-        "Wool",
-        100
-      ]
-    ],
-    "lining": [
-      [
-        "Polyester",
-        100
-      ]
-    ],
     "isNew": false,
     "tags": []
   },

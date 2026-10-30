@@ -100,8 +100,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/samantha-jacket": {
-  "outcome": "catalog",
-  "date": "2026-10-24"
+  "outcome": "rejected",
+  "date": "2026-10-30"
  },
  "sea-ny.com/products/perrie-dress": {
   "outcome": "fiber",
@@ -936,8 +936,8 @@
   "date": "2026-10-24"
  },
  "sea-ny.com/products/garrett-blazer": {
-  "outcome": "catalog",
-  "date": "2026-10-24"
+  "outcome": "rejected",
+  "date": "2026-10-30"
  },
  "sea-ny.com/products/garrett-pants": {
   "outcome": "rejected",
@@ -1012,8 +1012,8 @@
   "date": "2026-10-23"
  },
  "sea-ny.com/products/thompson-jacket": {
-  "outcome": "catalog",
-  "date": "2026-10-24"
+  "outcome": "rejected",
+  "date": "2026-10-30"
  },
  "sea-ny.com/products/taliyah-blazer": {
   "outcome": "fiber",

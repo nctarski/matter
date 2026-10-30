@@ -73,6 +73,20 @@ them.
 Names are the first filter (peasant, argyle, hoodie, hooded); the photo is the
 final word, so also look at the photo of every top and knit for these.
 
+## The brand rule: no cargo pants, no polyester-lined jackets
+
+Natalie's call on 2026-10-30: MATTER does not carry cargo pants or jackets
+lined in polyester. Record them in the ledger as `rejected` instead of staging
+them.
+- Cargo: anything in Pants, Denim, Shorts or Skirts whose name says cargo.
+- Polyester-lined jackets: Outerwear or Tailoring pieces named jacket, blazer,
+  bomber, shacket, overshirt, gilet, vest or waistcoat whose lining includes
+  polyester or recycled polyester, alone or in a blend. Coats and trenches
+  are not covered unless Natalie extends the rule.
+62 live pieces were taken out of the catalog under this rule on 2026-10-30
+(3 Massimo Dutti cargo pants, 59 jackets and blazers, mostly Massimo Dutti and
+Quince) and recorded as rejected.
+
 ## Curated edits on the homepage
 
 Changed October 28, 2026. The homepage sections live in `data/edits.json`, in
