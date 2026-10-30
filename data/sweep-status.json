@@ -315,15 +315,11 @@
    "brand": "The Frankie Shop",
    "method": "shopify-json",
    "cadence": "regular",
-   "status": "partial",
-   "cursor": {
-    "method": "products.json, all pages (2,919 products 2026-10-29)",
-    "resume": "re-pull products.json and stage passing pieces not yet in data/seen/the-frankie-shop.json",
-    "heldPassing": 47
-   },
-   "lastSweep": "2026-10-29",
+   "status": "done",
+   "cursor": null,
+   "lastSweep": "2026-10-30",
    "lastDelta": null,
-   "note": "Swept 2026-10-29 from products.json (body_html carries Color, lining and composition). Multi-brand: vendor is the brand, vendor name stripped from the product name. Each colour is its own product. Tags gender: women/men decide scope. 449 staged in round 2026-10-29-frankie before the 450 photo limit; 47 passing pieces later in products.json order held and not recorded, so the next run stages them. 1,245 fiber, 451 not-womens, 495 out-of-scope (bags, jewelry, shoes, swim, beauty, home), 29 hoodies or argyle rejected by name, 19 tees with words or graphics rejected from the photo (The Frankie Shop souvenir tees), 19 St. Agni and Matteau pieces recorded as duplicate (both swept directly). Not recorded on purpose: 117 sold out, 46 whose composition did not parse cleanly (two linings, part-by-part compositions, lamb fur, Elastomultiester, bamboo), 1 cotton corduroy with 2% polyurethane (no tier for polyurethane in lib/fibers.js). Lined with no fiber given is stored as undisclosed. Studio photo swapped in for 16 pieces whose first image was editorial.",
+   "note": "Swept 2026-10-29 from products.json (body_html carries Color, lining and composition). Multi-brand: vendor is the brand, vendor name stripped from the product name. Each colour is its own product. Tags gender: women/men decide scope. 449 staged in round 2026-10-29-frankie before the 450 photo limit; 47 passing pieces later in products.json order held and not recorded, so the next run stages them. 1,245 fiber, 451 not-womens, 495 out-of-scope (bags, jewelry, shoes, swim, beauty, home), 29 hoodies or argyle rejected by name, 19 tees with words or graphics rejected from the photo (The Frankie Shop souvenir tees), 19 St. Agni and Matteau pieces recorded as duplicate (both swept directly). Not recorded on purpose: 117 sold out, 46 whose composition did not parse cleanly (two linings, part-by-part compositions, lamb fur, Elastomultiester, bamboo), 1 cotton corduroy with 2% polyurethane (no tier for polyurethane in lib/fibers.js). Lined with no fiber given is stored as undisclosed. Studio photo swapped in for 16 pieces whose first image was editorial. 2026-10-30: re-pulled products.json (2,944 products), 238 not in the ledger. 51 staged in round 2026-10-30-nightly; 36 fiber, 15 rejected (polyester-lined jackets and blazers, cargo), 14 out of scope, 1 men only. Not recorded on purpose: lamb and goat fur, the Darkpark feather tee, the Darkpark Wendy trousers (unlabelled second fabric), Caistor corduroy with 2% polyurethane, Tekla sateen pyjamas in Porter, Polo Stripes and Chelsea (colour not mappable without a photo check), sold-out passing pieces. Studio shot swapped in for 4 pieces.",
    "domain": "thefrankieshop.com"
   },
   {
@@ -342,22 +338,27 @@
    "brand": "Vrg Grl",
    "method": "shopify-json",
    "cadence": "regular",
-   "status": "todo",
+   "status": "done",
    "cursor": null,
-   "lastSweep": null,
+   "lastSweep": "2026-10-30",
    "lastDelta": null,
-   "note": ""
+   "note": "Swept 2026-10-30. products.json is in AUD; USD price read from /products/<handle>.js in a vrggrl.com tab (presentment currency USD). Composition only appears as prose in body_html (\"cut from 100% linen\"), for about a quarter of products; 726 in-stock pieces with no composition anywhere recorded as no-composition. 157 staged; lining \"lined in cotton\" stored as 100% cotton, \"fully lined\" with no fiber as undisclosed. Not recorded on purpose: 76 with lace, contrast, sheer, bead or blend parts, unmapped print colours (Muna, Parallel, Ryder Jones tees), or compositions that did not sum to 100.",
+   "domain": "www.vrggrl.com"
   },
   {
    "order": 32,
    "brand": "DISSH",
    "method": "shopify-json",
    "cadence": "regular",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
+   "status": "partial",
+   "cursor": {
+    "method": "products.json (2,509 products 2026-10-30), USD from the product page ld+json offer",
+    "resume": "re-pull products.json and stage passing pieces not yet in data/seen/dissh.json",
+    "heldPassing": 12
+   },
+   "lastSweep": "2026-10-30",
    "lastDelta": null,
-   "note": ""
+   "note": "2026-10-30: products.json at dissh.com; composition is a bullet in body_html (\"Sleeveless 100% cotton top\"), present for 215 of 1,340 in-stock clothing pieces; the other 1,125 recorded as no-composition. USD price from the product page offers. 157 staged before the 450 photo limit; 12 passing pieces held and not recorded. Not recorded on purpose: 46 with lace trim, sheer underlayers, contrast parts or a blend in the title. Internal or removable slip lining stored as undisclosed. Accessories, shoes and swim out of scope."
   },
   {
    "order": 33,
