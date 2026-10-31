@@ -109660,5 +109660,1894 @@
     "lining": "undisclosed",
     "isNew": true,
     "tags": []
+  },
+  {
+    "id": "dissh-adrienne-black-silk-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Adrienne Black Stripe Silk Pant",
+    "price": 80,
+    "url": "https://dissh.com/products/adrienne-black-silk-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135BK.600_11.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135BK.600.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135BK.600_10_5cc8f511-035f-4aa0-815b-07e0a4f4cfe6.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135BK.600_11_b4dffe5d-1309-4a81-bff2-2fff4b964020.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-adrienne-cream-silk-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Adrienne Cream Stripe Silk Pant",
+    "price": 80,
+    "url": "https://dissh.com/products/adrienne-cream-silk-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135CRM.115_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135CRM.115_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135CRM.115_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135CRM.115_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135CRM.115_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135CRM.115_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135CRM.115_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10135CRM.115_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-duke-bitter-choc-merino-knit-pants",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Duke Bitter Choc Merino Knit Pants",
+    "price": 147,
+    "url": "https://dissh.com/products/duke-bitter-choc-merino-knit-pants",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BCHO.572_10_99ccbac5-6771-4a9d-8106-b1ac7302eb6f.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BCHO.572_10_99ccbac5-6771-4a9d-8106-b1ac7302eb6f.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BCHO.572_11_82e191fe-e24e-4906-8ff4-e3f83caac39a.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BCHO.572_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BCHO.572_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BCHO.572_14_30529e01-9574-4d5b-b4c1-e4522023e3b9.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BCHO.572_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-duke-black-merino-knit-pants",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Duke Black Merino Knit Pants",
+    "price": 147,
+    "url": "https://dissh.com/products/duke-black-merino-knit-pants",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BK.600_10_91308bc8-6685-45e6-b7ff-41c909da1b58.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BK.600_10_91308bc8-6685-45e6-b7ff-41c909da1b58.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BK.600_11_50011f60-4151-4b84-82ca-cc6fdc10df70.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BK.600_13_b43628cf-f76a-458b-b07e-e2d653eebe48.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BK.600_14_24971a55-c92a-4c0b-b518-da68e423d937.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES10149BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-lela-white-linen-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Lela White Linen Pant",
+    "price": 68,
+    "url": "https://dissh.com/products/lela-white-linen-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10111WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10111WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10111WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10111WE.100_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10111WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10111WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF10111WE.100_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-micah-black-silk-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Micah Black Silk Pant",
+    "price": 260,
+    "url": "https://dissh.com/products/micah-black-silk-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016BK.600_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016BK.600_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016BK.600_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-micah-olive-silk-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Micah Olive Silk Pant",
+    "price": 260,
+    "url": "https://dissh.com/products/micah-olive-silk-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016OLI.545_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016OLI.545_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016OLI.545_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016OLI.545_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016OLI.545_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016OLI.545_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016OLI.545_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016OLI.545_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO10016OLI.545_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-noa-black-linen-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Noa Black Linen Pant",
+    "price": 147,
+    "url": "https://dissh.com/products/noa-black-linen-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336BK.600_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-noa-white-linen-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Noa White Linen Pant",
+    "price": 147,
+    "url": "https://dissh.com/products/noa-white-linen-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336WE.100_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336WE.100_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336WE.100_19.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10336WE.100_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-percy-sandstone-silk-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Percy Sandstone Silk Pant",
+    "price": 260,
+    "url": "https://dissh.com/products/percy-sandstone-silk-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10252SAND.164.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10252SAND.164.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10252SAND.164_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10252SAND.164_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10252SAND.164_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10252SAND.164_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10252SAND.164_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10252SAND.164_19.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10252SAND.164_15.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-scout-black-poplin-barrel-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Scout Black Cotton Barrel Leg Pant",
+    "price": 147,
+    "url": "https://dissh.com/products/scout-black-poplin-barrel-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379BK.600_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379BK.600_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379BK.600_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379BK.600_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379BK.600_19.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-scout-khaki-poplin-barrel-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Scout Khaki Cotton Barrel Leg Pant",
+    "price": 147,
+    "url": "https://dissh.com/products/scout-khaki-poplin-barrel-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379KHA.535_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379KHA.535_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379KHA.535_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379KHA.535_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379KHA.535_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379KHA.535_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379KHA.535_15_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379KHA.535_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379KHA.535.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-scout-plaster-poplin-barrel-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Scout Plaster Cotton Barrel Leg Pant",
+    "price": 147,
+    "url": "https://dissh.com/products/scout-plaster-poplin-barrel-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379PLA.194_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379PLA.194_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379PLA.194_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379PLA.194_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379PLA.194_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379PLA.194_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379PLA.194_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379PLA.194_19.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379PLA.194_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-scout-red-poplin-barrel-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Scout Red Cotton Barrel Leg Pant",
+    "price": 147,
+    "url": "https://dissh.com/products/scout-red-poplin-barrel-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379RED.300_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379RED.300_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379RED.300_4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379RED.300_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379RED.300_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379RED.300_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379RED.300_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379RED.300_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379RED.300_16.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-scout-wheat-poplin-barrel-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Scout Wheat Cotton Barrel Leg Pant",
+    "price": 147,
+    "url": "https://dissh.com/products/scout-wheat-poplin-barrel-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WHE.190.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WHE.190.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WHE.190_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WHE.190_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WHE.190_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WHE.190_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WHE.190_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WHE.190_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-scout-white-poplin-barrel-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Scout White Cotton Barrel Leg Pant",
+    "price": 147,
+    "url": "https://dissh.com/products/scout-white-poplin-barrel-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WE.100.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WE.100_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WE.100_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WE.100_19.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10379WE.100_4.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-zahara-black-poplin-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Zahara Black Cotton Pant",
+    "price": 102,
+    "url": "https://dissh.com/products/zahara-black-poplin-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404BK.600_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404BK.600_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-zahara-white-poplin-pant",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Zahara White Cotton Pant",
+    "price": 147,
+    "url": "https://dissh.com/products/zahara-white-poplin-pant",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404WE.100_4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404WE.100_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404WE.100_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS10404WE.100_19.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-bexley-jeans-cream",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Bexley Jeans",
+    "price": 99,
+    "url": "https://thefrankieshop.com/products/bexley-jeans-cream",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/BEXLEY-JEANS-WHITE-ANASTASIA-1215.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEXLEY-JEANS-WHITE-ANASTASIA-1215.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEXLEY-JEANS-WHITE-ANASTASIA-1229.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEXLEY-JEANS-WHITE-ANASTASIA-1228.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEXLEY-JEANS-WHITE-ATIKAH-01943.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEXLEY-JEANS-WHITE-ANASTASIA-1233.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEXLEY-JEANS-WHITE-ATIKAH-01948.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEXLEY-JEANS-WHITE-ATIKAH-01944.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEXLEY-JEANS-WHITE-ATIKAH-01958.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-clemmie-jeans-dark-indigo",
+    "retailer": "The Frankie Shop",
+    "brand": "Stage",
+    "name": "Clemmie Jeans",
+    "price": 165,
+    "url": "https://thefrankieshop.com/products/clemmie-jeans-dark-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/ClemmieJeans-DarkIndigo-SHOT4_123_1.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ClemmieJeans-DarkIndigo-SHOT4_123_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ClemmieJeans-DarkIndigo-SHOT4_163_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/Clemmie-Jeans-Dark-Indigo-SHOT-4_183_3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/Clemmie-Jeans-Dark-Indigo-SHOT-4_179_2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ClemmieJeans-DarkIndigo-SHOT4_189_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ClemmieJeans-DarkIndigo-SHOT4_195_4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ClemmieJeans-DarkIndigo-SHOT4_196_4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ClemmieJeans-DarkIndigo-SHOT4_177_1.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-hayla-contrast-denim-pants-light-wash-blue",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Hayla Contrast Denim Pants",
+    "price": 135,
+    "url": "https://thefrankieshop.com/products/hayla-contrast-denim-pants-light-wash-blue",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-LIGHT-WASH-BLUE-HANNAH-12517.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-LIGHT-WASH-BLUE-HANNAH-12517.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-LIGHT-WASH-BLUE-HANNAH-12561.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-LIGHT-WASH-BLUE-HANNAH-12558.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-LIGHT-WASH-BLUE-HANNAH-12539.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-LIGHT-WASH-BLUE-HANNAH-12562_6c32378c-0402-479d-aa2b-1bfb1cc00181.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-LIGHT-WASH-BLUE-HANNAH-12543.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-LIGHT-WASH-BLUE-HANNAH-12564_1e453851-cbeb-4d2f-9e6f-98867eafa4e0.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-LIGHT-WASH-BLUE-HANNAH-12559.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-hayla-contrast-denim-pants-off-white-beige",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Hayla Contrast Denim Pants",
+    "price": 135,
+    "url": "https://thefrankieshop.com/products/hayla-contrast-denim-pants-off-white-beige",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-OFF-WHITE-DENIM-PANTS-MONICA-4108.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-OFF-WHITE-DENIM-PANTS-MONICA-4108.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-OFF-WHITE-DENIM-PANTS-MONICA-4137.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-OFF-WHITE-DENIM-PANTS-MONICA-4145.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-OFF-WHITE-DENIM-PANTS-MONICA-4133.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-OFF-WHITE-DENIM-PANTS-MONICA-4147.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-OFF-WHITE-DENIM-PANTS-MONICA-4144.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-OFF-WHITE-DENIM-PANTS-MONICA-4113.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/OFF-WHITE-DENIM-PANTS-MONICA-4165.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-hayla-contrast-denim-pants-off-white-blue",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Hayla Contrast Denim Pants",
+    "price": 135,
+    "url": "https://thefrankieshop.com/products/hayla-contrast-denim-pants-off-white-blue",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-WHITE-HANNAH-13174_8d2c2007-457d-4c51-8ac3-d561906ed814.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-WHITE-HANNAH-13174_8d2c2007-457d-4c51-8ac3-d561906ed814.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-WHITE-HANNAH-13232_96e9c605-18d4-4be2-9da2-a78084e1230c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-WHITE-HANNAH-13226_24d16ffd-c9f3-4e68-8e50-9c046ef9864b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-WHITE-HANNAH-13175_2795b8d3-ea8f-49e5-ac65-3f3c9d29dc96.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-WHITE-HANNAH-13230_57c81988-87fb-4fa6-9f14-936f0bf4f980.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-WHITE-HANNAH-13237_41371e57-0cb1-4838-a76c-fb47b7d7eab8.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-WHITE-HANNAH-13239_5442d270-cbe3-4364-91e8-ba402f592eff.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-CONTRAST-DENIM-PANTS-WHITE-HANNAH-13224_f9e3c70e-cf12-4a90-8aef-c87db20f63fd.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-hayla-denim-pants-black-wash",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Hayla Denim Pants",
+    "price": 135,
+    "url": "https://thefrankieshop.com/products/hayla-denim-pants-black-wash",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIMPANTS-BLACKWASH-LETA-202459214.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIMPANTS-BLACKWASH-LETA-202459214.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIMPANTS-BLACKWASH-LETA-202459219.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIMPANTS-BLACKWASH-LETA-202459202.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIMPANTS-BLACKWASH-LETA-202459256.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIMPANTS-BLACKWASH-LETA-202459215.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIMPANTS-BLACKWASH-LETA-202459224.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIMPANTS-BLACKWASH-LETA-202459245.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIMPANTS-BLACKWASH-LETA-202459217.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-hayla-denim-pants-medium-wash",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Hayla Denim Pants",
+    "price": 135,
+    "url": "https://thefrankieshop.com/products/hayla-denim-pants-medium-wash",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIM-PANTS-MEDIUM-WASH-ATIKAH-0057.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIM-PANTS-MEDIUM-WASH-ATIKAH-0057.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIM-PANTS-MEDIUM-WASH-ATIKAH-0063.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIM-PANTS-MEDIUM-WASH-ATIKAH-0056.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIM-PANTS-MEDIUM-WASH-ATIKAH-0059.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIM-PANTS-MEDIUM-WASH-ATIKAH-0061.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIM-PANTS-MEDIUM-WASH-ATIKAH-0064.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIM-PANTS-MEDIUM-WASH-ATIKAH-0060.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAYLA-DENIM-PANTS-MEDIUM-WASH-ATIKAH-0062_adade97e-4bf8-4139-b6ba-6bb0211d06e7.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-jas-denim-jumpsuit-dark-indigo",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Jas Denim Jumpsuit",
+    "price": 215,
+    "url": "https://thefrankieshop.com/products/jas-denim-jumpsuit-dark-indigo",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/JAS-DENIM-JUMPSUIT-DARK-INDIGO-MELANIE-0839-W_e086e2d8-09e1-4044-a8f2-708518fd33fb.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/JAS-DENIM-JUMPSUIT-DARK-INDIGO-MELANIE-0839-W_e086e2d8-09e1-4044-a8f2-708518fd33fb.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/JAS-DENIM-JUMPSUIT-DARK-INDIGO-MELANIE-0848-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/JAS-DENIM-JUMPSUIT-DARK-INDIGO-MELANIE-0844-W_8983cbd3-05bd-4f22-a28f-652280fd4ac5.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/JAS-DENIM-JUMPSUIT-DARK-INDIGO-MELANIE-0849-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/JAS-DENIM-JUMPSUIT-DARK-INDIGO-MELANIE-0840-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/JAS-DENIM-JUMPSUIT-DARK-INDIGO-MELANIE-0850-W_dd39b8a2-609c-4568-97e1-f1edc2dafd0c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/JAS-DENIM-JUMPSUIT-DARK-INDIGO-PACKSHOT.jpg?width=600"
+    ],
+    "category": "Sets & jumpsuits",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-naxos-belted-romper-navy",
+    "retailer": "The Frankie Shop",
+    "brand": "Murr",
+    "name": "Naxos Belted Romper",
+    "price": 195,
+    "url": "https://thefrankieshop.com/products/naxos-belted-romper-navy",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/NAXOS-BELTED-ROMPER-NAVY-MARIA-1013-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NAXOS-BELTED-ROMPER-NAVY-MARIA-1013-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NAXOS-BELTED-ROMPER-NAVY-MARIA-1023-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NAXOS-BELTED-ROMPER-NAVY-MARIA-1028-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NAXOS-BELTED-ROMPER-NAVY-MARIA-1010-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NAXOS-BELTED-ROMPER-NAVY-MARIA-1029-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NAXOS-BELTED-ROMPER-NAVY-PACKSHOT.jpg?width=600"
+    ],
+    "category": "Sets & jumpsuits",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-oakley-wide-leg-jeans-blue-wash",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Oakley Wide Leg Jeans",
+    "price": 149,
+    "url": "https://thefrankieshop.com/products/oakley-wide-leg-jeans-blue-wash",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/OAKLEY-WIDE-LEG-JEANS-BLUE-WASH-INDRE-2966..jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/OAKLEY-WIDE-LEG-JEANS-BLUE-WASH-INDRE-2966..jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/OAKLEY-WIDE-LEG-JEANS-BLUE-WASH-KOREA-7_7e15fd0d-b6d5-4c18-b7ca-737a8ee10ed2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/OAKLEY-WIDE-LEG-JEANS-BLUE-WASH-KOREA-6.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/OAKLEY-WIDE-LEG-JEANS-BLUE-WASH-INDRE-3006.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/OAKLEY-WIDE-LEG-JEANS-BLUE-WASH-INDRE-2987.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/OAKLEY-WIDE-LEG-JEANS-BLUE-WASH-INDRE-2994.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/OAKLEY-WIDE-LEG-JEANS-BLUE-WASH-INDRE-3012.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/OAKLEY-WIDE-LEG-JEANS-BLUE-WASH-INDRE-2955.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-piuma-knit-stirrup-leggings-black",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Piuma Knit Stirrup Leggings",
+    "price": 245,
+    "url": "https://thefrankieshop.com/products/piuma-knit-stirrup-leggings-black",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BLACK-WILMARY-189.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BLACK-WILMARY-189.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BLACK-WILMARY-193.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BLACK-WILMARY-198.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BLACK-WILMARY-19.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BLACK-WILMARY-202.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BLACK-WILMARY-33.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BLACK-WILMARY-182.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BLACK-WILMARY-212.jpg?width=600"
+    ],
+    "category": "Active",
+    "colour": "Black",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-piuma-knit-stirrup-leggings-brown",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Piuma Knit Stirrup Leggings",
+    "price": 245,
+    "url": "https://thefrankieshop.com/products/piuma-knit-stirrup-leggings-brown",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BROWN-WILMARY-233_2f52c2d3-d0d7-4576-bc3d-f77358f518c7.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BROWN-WILMARY-233_2f52c2d3-d0d7-4576-bc3d-f77358f518c7.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BROWN-WILMARY-202.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BROWN-WILMARY-193.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BROWN-WILMARY-189.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BROWN-WILMARY-182.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BROWN-WILMARY-198.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BROWN-WILMARY-212.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-BROWN-WILMARY-33.jpg?width=600"
+    ],
+    "category": "Active",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-piuma-knit-stirrup-leggings-white",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Piuma Knit Stirrup Leggings",
+    "price": 245,
+    "url": "https://thefrankieshop.com/products/piuma-knit-stirrup-leggings-white",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-WHITE-WILMARY-444.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-WHITE-WILMARY-444.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-WHITE-WILMARY-596.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-WHITE-WILMARY-819.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-WHITE-WILMARY-804.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-WHITE-WILMARY-821.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-WHITE-WILMARY-806.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-WHITE-WILMARY-792.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/PIUMA-KNIT-STIRRUP-LEGGINGS-WHITE-WILMARY-801.jpg?width=600"
+    ],
+    "category": "Active",
+    "colour": "White",
+    "shell": [
+      [
+        "Merino wool",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-tekla-poplin-pyjama-pants-coffee",
+    "retailer": "The Frankie Shop",
+    "brand": "Tekla",
+    "name": "Poplin Pyjama Pants",
+    "price": 245,
+    "url": "https://thefrankieshop.com/products/tekla-poplin-pyjama-pants-coffee",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-PANTS-COFFEE-BRAND-6-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-PANTS-COFFEE-BRAND-6-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-PANTS-COFFEE-BRAND-9-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-PANTS-COFFEE-BRAND-1-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-PANTS-COFFEE-BRAND-3-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-PANTS-COFFEE-BRAND-4-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-PANTS-COFFEE-BRAND-7-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-PANTS-COFFEE-BRAND-10-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-PANTS-COFFEE-BRAND-5-M.jpg?width=600"
+    ],
+    "category": "Sleep & lounge",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-tekla-poplin-pyjama-pants-hopper-stripes",
+    "retailer": "The Frankie Shop",
+    "brand": "Tekla",
+    "name": "Poplin Pyjama Pants",
+    "price": 245,
+    "url": "https://thefrankieshop.com/products/tekla-poplin-pyjama-pants-hopper-stripes",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-HOPPER-STRIPES-BRAND-WOMEN-1-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-HOPPER-STRIPES-BRAND-WOMEN-1-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-HOPPER-STRIPES-02-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-HOPPER-STRIPES-04-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-HOPPER-STRIPES-05-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-HOPPER-STRIPES-03-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-HOPPER-STRIPES-01-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-HOPPER-STRIPES-06-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-HOPPER-STRIPES-BRAND-WOMEN-BACK-W.jpg?width=600"
+    ],
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-tekla-poplin-pyjama-pants-needle-stripes",
+    "retailer": "The Frankie Shop",
+    "brand": "Tekla",
+    "name": "Poplin Pyjama Pants",
+    "price": 245,
+    "url": "https://thefrankieshop.com/products/tekla-poplin-pyjama-pants-needle-stripes",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-NEEDLE-STRIPES-BRAND-02-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-NEEDLE-STRIPES-BRAND-02-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-NEEDLE-STRIPES-BRAND-03-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-NEEDLE-STRIPES-BRAND-07-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-NEEDLE-STRIPES-BRAND-06-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-NEEDLE-STRIPES-BRAND-10-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-NEEDLE-STRIPES-BRAND-09-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-NEEDLE-STRIPES-BRAND-01-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-PANTS-NEEDLE-STRIPES-BRAND-05-W.jpg?width=600"
+    ],
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-tekla-poplin-pyjama-shirt-coffee",
+    "retailer": "The Frankie Shop",
+    "brand": "Tekla",
+    "name": "Poplin Pyjama Shirt",
+    "price": 290,
+    "url": "https://thefrankieshop.com/products/tekla-poplin-pyjama-shirt-coffee",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-SHIRT-COFFEE-BRAND-2-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-SHIRT-COFFEE-BRAND-2-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-SHIRT-COFFEE-BRAND-3-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-SHIRT-COFFEE-BRAND-1-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-SHIRT-COFFEE-BRAND-4-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-SHIRT-COFFEE-BRAND-7-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-SHIRT-COFFEE-BRAND-8-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-SHIRT-COFFEE-BRAND-9-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POLPLIN-PYJAMA-SHIRT-COFFEE-BRAND-10-M.jpg?width=600"
+    ],
+    "category": "Sleep & lounge",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-tekla-poplin-pyjama-shirt-hopper-stripes",
+    "retailer": "The Frankie Shop",
+    "brand": "Tekla",
+    "name": "Poplin Pyjama Shirt",
+    "price": 290,
+    "url": "https://thefrankieshop.com/products/tekla-poplin-pyjama-shirt-hopper-stripes",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-HOPPER-STRIPES-BRAND-WOMEN-5-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-HOPPER-STRIPES-BRAND-WOMEN-5-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-HOPPER-STRIPES-BRAND-WOMEN-6-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-HOPPER-STRIPES-BRAND-WOMEN-1-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-HOPPER-STRIPES-BRAND-MEN-5-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-HOPPER-STRIPES-BRAND-MEN-6-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-HOPPER-STRIPES-EDITO-5568-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-HOPPER-STRIPES-BRAND-MEN-7-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-HOPPER-STRIPES-EDITO-5760-M.jpg?width=600"
+    ],
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-tekla-poplin-pyjama-shirt-needle-stripes",
+    "retailer": "The Frankie Shop",
+    "brand": "Tekla",
+    "name": "Poplin Pyjama Shirt",
+    "price": 290,
+    "url": "https://thefrankieshop.com/products/tekla-poplin-pyjama-shirt-needle-stripes",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-NEEDLE-STRIPES-BRAND-01.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-NEEDLE-STRIPES-BRAND-01.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-NEEDLE-STRIPES-BRAND-11-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-NEEDLE-STRIPES-BRAND-09-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-NEEDLE-STRIPES-BRAND-10-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-NEEDLE-STRIPES-BRAND-08-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-NEEDLE-STRIPES-BRAND-07-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-NEEDLE-STRIPES-BRAND-04-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-POPLIN-PYJAMAS-SHIRT-NEEDLE-STRIPES-BRAND-02-M.jpg?width=600"
+    ],
+    "category": "Sleep & lounge",
+    "colour": "White",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-tekla-sateen-pyjama-pants-brown-pinstripe",
+    "retailer": "The Frankie Shop",
+    "brand": "Tekla",
+    "name": "Sateen Pyjama Pants",
+    "price": 460,
+    "url": "https://thefrankieshop.com/products/tekla-sateen-pyjama-pants-brown-pinstripe",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-BROWN-PIN-STRIPES-BRAND-04-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-BROWN-PIN-STRIPES-BRAND-04-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-BROWN-PIN-STRIPES-BRAND-01-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-BROWN-PIN-STRIPES-BRAND-08-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-BROWN-PIN-STRIPES-BRAND-06-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-BROWN-PIN-STRIPES-BRAND-02-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-BROWN-PIN-STRIPES-BRAND-05-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-BROWN-PIN-STRIPES-BRAND-07-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-BROWN-PIN-STRIPES-PACKSHOT-PACKSHOT.jpg?width=600"
+    ],
+    "category": "Sleep & lounge",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-tekla-sateen-pyjama-pants-porter",
+    "retailer": "The Frankie Shop",
+    "brand": "Tekla",
+    "name": "Sateen Pyjama Pants",
+    "price": 460,
+    "url": "https://thefrankieshop.com/products/tekla-sateen-pyjama-pants-porter",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-PORTER-MIA-56738-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-PORTER-MIA-56738-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-PORTER-MIA-56750-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-PORTER-MIA-56754-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-PORTER-MIA-56749-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-PORTER-MIA-56759-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-PORTER-BRANDS-3-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-PORTER-BRANDS-1-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-PANTS-PORTER-BRANDS-4-M.jpg?width=600"
+    ],
+    "category": "Sleep & lounge",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-tekla-sateen-pyjama-shirt-brown-pinstripe",
+    "retailer": "The Frankie Shop",
+    "brand": "Tekla",
+    "name": "Sateen Pyjama Shirt",
+    "price": 540,
+    "url": "https://thefrankieshop.com/products/tekla-sateen-pyjama-shirt-brown-pinstripe",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-SHIRT-BROWN-PIN-STRIPES-BRANDS-6-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-SHIRT-BROWN-PIN-STRIPES-BRANDS-6-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-SHIRT-BROWN-PIN-STRIPES-BRANDS-2-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-SHIRT-BROWN-PIN-STRIPES-BRANDS-1-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-SHIRT-BROWN-PIN-STRIPES-BRANDS-7-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-SHIRT-BROWN-PIN-STRIPES-BRANDS-3-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-SHIRT-BROWN-PIN-STRIPES-BRANDS-8-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-SHIRT-BROWN-PIN-STRIPES-BRANDS-4-M.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/TEKLA-SATEEN-PYJAMAS-SHIRT-BROWN-PIN-STRIPES-BRANDS-9-M.jpg?width=600"
+    ],
+    "category": "Sleep & lounge",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Organic cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-arlo-trousers-black",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Arlo Trousers Black",
+    "price": 139,
+    "url": "https://www.vrggrl.com/products/arlo-trousers-black",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_0353.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_0353.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_0400.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_0385.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_0422.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_0382.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_0373.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-aspen-high-rise-flocked-denim-jeans-brown",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Aspen High Rise Flocked Denim Jeans Brown",
+    "price": 199,
+    "url": "https://www.vrggrl.com/products/aspen-high-rise-flocked-denim-jeans-brown",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_220222.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_220222.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_220249.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_0589.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_220186.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_220197.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_220261.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_220238.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_0586.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-aston-denim-jeans-chocolate",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Aston High Rise Denim Jeans Chocolate",
+    "price": 80,
+    "url": "https://www.vrggrl.com/products/aston-denim-jeans-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4870_056d7f07-cc0c-4554-925a-35df2b484e39.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4870_056d7f07-cc0c-4554-925a-35df2b484e39.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4937_406f0d89-ee96-4fc7-87e5-409fd4e23261.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.12_VRGGRL_2509_27711f0b-1a82-4066-ab9c-8ac154f9b5d2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4945_db076634-0b47-4d2e-b39e-bdcff3260711.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4702_f7c86c07-3202-4f35-bfc6-12d1405138d7.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4891_d0be199e-3b2a-4088-a123-8443107046ec.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.12_VRGGRL_2518_fdb97b2f-0625-45ac-a203-49f206743dac.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4904_36ca8510-d9d0-4ff8-a402-bd9b525bef2c.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-clara-pants-chambray",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Clara Pants Chambray",
+    "price": 99,
+    "url": "https://www.vrggrl.com/products/clara-pants-chambray",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_4905.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_4905.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_4923.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_4892.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_4964.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_4918.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_4942.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-drew-pants-cream-stripe",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Drew Pants Cream Stripe",
+    "price": 99,
+    "url": "https://www.vrggrl.com/products/drew-pants-cream-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_53621.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_53621.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_52611.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_53721.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_52841.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_53571.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_53801.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_52871.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-franca-denim-jeans-washed-blue",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Franca High Rise Denim Jeans Washed Blue",
+    "price": 48,
+    "url": "https://www.vrggrl.com/products/franca-denim-jeans-washed-blue",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_3067.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_3067.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_3122.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_3070.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_3080.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_3114.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_3119.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-lenah-denim-jeans-blue",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Lenah High Rise Denim Jeans Blue",
+    "price": 159,
+    "url": "https://www.vrggrl.com/products/lenah-denim-jeans-blue",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_1983_a9670ad1-cbc5-426d-a50d-a6e4049929af.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_1983_a9670ad1-cbc5-426d-a50d-a6e4049929af.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_2026.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_2113.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_2037.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_1973_a22f6feb-79b4-4232-9c29-db1531380f86.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_1934_83339746-cc4b-41ec-9766-b4b505d3f102.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_2005.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_2055.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-lex-barrel-denim-jeans-black",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Lex Mid Rise Barrel Denim Jeans Black",
+    "price": 159,
+    "url": "https://www.vrggrl.com/products/lex-barrel-denim-jeans-black",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_2283_1.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_2283_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_2118_d36e02c2-6c4a-43c0-a7fe-5736f8b21abb.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_2227.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_2299.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_2251.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_2603_9fe1e26f-56a3-47b6-93ca-c8ee7af4ef1b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_2210.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_2303.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-lex-barrel-denim-jeans-blue",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Lex Mid Rise Barrel Denim Jeans Blue",
+    "price": 159,
+    "url": "https://www.vrggrl.com/products/lex-barrel-denim-jeans-blue",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0054.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0054.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0187.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.13_VRGGRL_0112.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_1090_4ebcf272-a5c5-48a1-a90e-6f75a4b7a89b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0064.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.13_VRGGRL_0004_cbb25d47-ab0a-4a96-be38-b6097029b51c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0191.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0160.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-lex-barrel-denim-jeans-musk",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Lex Mid Rise Barrel Denim Jeans Musk",
+    "price": 80,
+    "url": "https://www.vrggrl.com/products/lex-barrel-denim-jeans-musk",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_5754copy.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_5754copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/IB_6289.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_5781copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_5560copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_5592copy_97c075d4-f394-448c-ab3a-4de1a9f57ece.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_5645copy_819809cc-3636-4856-a0fc-267810a59a96.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_5784.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_5813_copy.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-manon-denim-jeans-butter",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Manon Mid Rise Denim Jeans Butter",
+    "price": 45,
+    "url": "https://www.vrggrl.com/products/manon-denim-jeans-butter",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_1979copy_4041dfe7-e626-428b-a5d5-b10b18d857e3.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_1979copy_4041dfe7-e626-428b-a5d5-b10b18d857e3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_2101copy_28d26fae-58ef-4a3f-a2a5-3c1b7a611320.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.13_VRGGRL_1240_0f1218eb-24a2-44b1-8b4d-2d1d9447da95.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_2123copy_686bc9ea-b78c-4aa1-884b-a45502a51ae2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_1952copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_2033.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_2048copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_1982copy_5099ec00-e540-4fa8-8135-eca95ca42da0.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Yellow",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-manon-denim-jeans-red",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Manon Mid Rise Denim Jeans Red",
+    "price": 85,
+    "url": "https://www.vrggrl.com/products/manon-denim-jeans-red",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_5126_6dbadb5f-d2e9-42e7-8aa2-916edb2e026e.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_5126_6dbadb5f-d2e9-42e7-8aa2-916edb2e026e.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0375_2193adf7-c7ea-48d5-9523-1e38656b9d92.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0649.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0571_0435d5bd-8cd2-48d6-96a1-392369edf04c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0668.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0610.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_06352.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-manon-denim-jeans-zebra",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Manon Mid Rise Denim Jeans Zebra",
+    "price": 169,
+    "url": "https://www.vrggrl.com/products/manon-denim-jeans-zebra",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_3120.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_3120.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/BLOGGERHANDLESFORWEB_19.png?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_3242_7c54682c-cbf7-4c7f-b793-d8e42e7c4bac.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_3284_b8fe5e51-f1a7-4755-b2ce-fb9381616f99.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_3164.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_3128.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_3204.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.06.23_VRGGRL_3155.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-margot-trousers-chocolate",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Margot Trousers Chocolate",
+    "price": 169,
+    "url": "https://www.vrggrl.com/products/margot-trousers-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1229.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1229.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1273.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1100.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1262.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1118.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1254.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1237.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-margot-trousers-slate",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Margot Trousers Slate",
+    "price": 169,
+    "url": "https://www.vrggrl.com/products/margot-trousers-slate",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1343.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1343.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1379.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_4173.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1374.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_4276.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_4111.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1356_1cee22b4-0f34-4337-946c-86931a3b9872.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_1375.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-marnie-denim-jeans-khaki",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Marnie High Rise Denim Jeans Khaki",
+    "price": 111,
+    "url": "https://www.vrggrl.com/products/marnie-denim-jeans-khaki",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.01.20_VRGGRL_6814copy_ad8bb077-c9a8-4f9d-8dde-50e30451e2eb.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.01.20_VRGGRL_6814copy_ad8bb077-c9a8-4f9d-8dde-50e30451e2eb.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.01.20_VRGGRL_6792copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.01.20_VRGGRL_6770copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.01.20_VRGGRL_6858copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.01.20_VRGGRL_6781.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.01.20_VRGGRL_6795copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.01.20_VRGGRL_6844.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.01.20_VRGGRL_6822copy.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-raya-linen-pants-black",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Raya Linen Pants Black",
+    "price": 83,
+    "url": "https://www.vrggrl.com/products/raya-linen-pants-black",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_1523.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_1523.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_1561.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_1580_5ba97e1b-b9bd-404c-ab6d-bad1accddfff.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_1572.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_1529.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_1553.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-raya-linen-pants-chocolate",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Raya Linen Pants Chocolate",
+    "price": 119,
+    "url": "https://www.vrggrl.com/products/raya-linen-pants-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_6774copy_d64c250d-67bf-4438-9de4-bf5c1a8af85c.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_6774copy_d64c250d-67bf-4438-9de4-bf5c1a8af85c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_6796copy_97559fa3-1298-40bd-8f55-14aba5314161.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_6780.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_6771copy_6bfdf743-1011-41f9-ab35-ff7bcad3fe2b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_6790copy_4c6bf029-66d5-4b7c-8474-745689cd6db2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_6812copy.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-rue-pants-snake",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Rue High Rise Pants Snake",
+    "price": 139,
+    "url": "https://www.vrggrl.com/products/rue-pants-snake",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215350.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215350.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215392.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.02.19_VRGGRL_0373.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215359.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215385.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215376.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.02.19_VRGGRL_0408.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/katebucceriRUEPANTSSNAKE.jpg?width=600"
+    ],
+    "category": "Pants",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-sami-barrel-denim-jeans-washed-blue",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Sami Mid Rise Barrel Denim Jeans Washed Blue",
+    "price": 159,
+    "url": "https://www.vrggrl.com/products/sami-barrel-denim-jeans-washed-blue",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215118.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215118.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215174.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_214852_fc56426a-f080-47cc-8e6f-7b2967d1e15a.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215153.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215127.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215162.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_2430_eca38435-5ab5-46dc-a781-74a072d0ce18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_215176.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-sami-mid-rise-barrel-denim-jeans-cream",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Sami Mid Rise Barrel Denim Jeans Cream",
+    "price": 159,
+    "url": "https://www.vrggrl.com/products/sami-mid-rise-barrel-denim-jeans-cream",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3215.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3215.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3288.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3317_8f9921a6-fc0b-4ebc-965f-099c379c134d.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3265.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3297.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3276.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3273.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-spencer-mid-rise-barrel-denim-jeans-blue",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Spencer Mid Rise Barrel Denim Jeans Blue",
+    "price": 159,
+    "url": "https://www.vrggrl.com/products/spencer-mid-rise-barrel-denim-jeans-blue",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_4673.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_4673.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_5587.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_4826_86901bac-05f0-429a-8d22-48be00efebf4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_5531.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_5598.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_5555.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_5604.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-spencer-mid-rise-barrel-denim-jeans-grey",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Spencer Mid Rise Barrel Denim Jeans Grey",
+    "price": 159,
+    "url": "https://www.vrggrl.com/products/spencer-mid-rise-barrel-denim-jeans-grey",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3425.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3425.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3486.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3608.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3458.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3423.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3694.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3494.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3498.jpg?width=600"
+    ],
+    "category": "Denim",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-veya-linen-playsuit-cream",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Veya Linen Playsuit Cream",
+    "price": 189,
+    "url": "https://www.vrggrl.com/products/veya-linen-playsuit-cream",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1642.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1642.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1718.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1698.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1708.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1739.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1650.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1753.jpg?width=600"
+    ],
+    "category": "Sets & jumpsuits",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
   }
 ]
