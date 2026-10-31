@@ -105180,5 +105180,1522 @@
     ],
     "isNew": true,
     "tags": []
+  },
+  {
+    "id": "dissh-aisle-white-linen-sleeve-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Aisle White Linen Sleeve Midi Dress",
+    "price": 80,
+    "url": "https://dissh.com/products/aisle-white-linen-sleeve-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/products/DNP11137WE.100.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/products/DNP11137WE.100.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/products/DNP11137WE.100_2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/products/DNP11137WE.100_3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/products/DNP11137WE.100_4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/products/DNP11137WE.100_5.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "long sleeve"
+    }
+  },
+  {
+    "id": "dissh-annika-cream-cotton-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Annika Cream Cotton Midi Dress",
+    "price": 306,
+    "url": "https://dissh.com/products/annika-cream-cotton-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11395CRM.115.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11395CRM.115.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11395CRM.115_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11395CRM.115_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11395CRM.115_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11395CRM.115_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11395CRM.115_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11395CRM.115_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-arabella-black-check-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Arabella Black Check Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/arabella-black-check-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032BK.600_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032BK.600_19.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-arabella-cream-check-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Arabella Cream Check Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/arabella-cream-check-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032CRM.115_11.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032CRM.115_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032CRM.115.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032CRM.115_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032CRM.115_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032CRM.115_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032CRM.115_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110032CRM.115_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-aubriella-dusty-blue-linen-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Aubriella Dusty Blue Linen Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/aubriella-dusty-blue-linen-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471DBL.462_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471DBL.462_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471DBL.462_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471DBL.462_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471DBL.462_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471DBL.462_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471DBL.462_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-aubriella-white-linen-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Aubriella White Linen Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/aubriella-white-linen-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471WE.100_11_02a3fcf5-6c21-43d0-9df9-1aac3aedecbd.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471WE.100_11_02a3fcf5-6c21-43d0-9df9-1aac3aedecbd.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471WE.100_6.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471WE.100_10_56d3f494-c1c7-4724-9513-4057a69accf6.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471WE.100_12_715de752-de6c-45b6-a3b4-769122c65599.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471WE.100_13_fcf1515b-5034-4a98-ba17-134aa3dc069b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471WE.100_14_47b0e368-1969-4ab8-8ad1-6d8b2a9d6312.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471WE.100_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111471WE.100_16.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-benette-black-fringe-maxi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Benette Black Fringe Maxi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/benette-black-fringe-maxi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489BK.600_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489BK.600_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489BK.600_19.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "maxi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-benette-natural-fringe-maxi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Benette Natural Fringe Maxi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/benette-natural-fringe-maxi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489NAT.150_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489NAT.150_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489NAT.150_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489NAT.150_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489NAT.150_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES11489NAT.150_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "maxi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-bernice-black-paperbag-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Bernice Black Paperbag Midi Dress",
+    "price": 193,
+    "url": "https://dissh.com/products/bernice-black-paperbag-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467BK.600_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-bernice-white-paperbag-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Bernice White Paperbag Midi Dress",
+    "price": 193,
+    "url": "https://dissh.com/products/bernice-white-paperbag-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467WE.100_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111467WE.100_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-dani-red-cotton-mini-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Dani Red Cotton Mini Dress",
+    "price": 170,
+    "url": "https://dissh.com/products/dani-red-cotton-mini-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11368RED.300_937ea597-405d-4a3b-80d1-ab7d76d527e0.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11368RED.300_937ea597-405d-4a3b-80d1-ab7d76d527e0.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11368RED.300_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11368RED.300_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11368RED.300_17.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11368RED.300_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11368RED.300_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11368RED.300_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-elorin-black-poplin-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Elorin Black Cotton Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/elorin-black-poplin-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548BK.600_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-elorin-red-poplin-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Elorin Red Cotton Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/elorin-red-poplin-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548RED.300_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548RED.300_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548RED.300_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548RED.300_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548RED.300_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548RED.300_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548RED.300_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-elorin-white-poplin-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Elorin White Cotton Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/elorin-white-poplin-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548WE.100_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111548WE.100_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-jo-black-drop-waist-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Jo Black Drop Waist Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/jo-black-drop-waist-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528BK.600_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-jo-black-drop-waist-mini-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Jo Black Drop Waist Mini Dress",
+    "price": 170,
+    "url": "https://dissh.com/products/jo-black-drop-waist-mini-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111526BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111526BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111526BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111526BK.600_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111526BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111526BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111526BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-jo-slate-drop-waist-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Jo Slate Drop Waist Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/jo-slate-drop-waist-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528SLE.630_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528SLE.630_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528SLE.630.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528SLE.630_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528SLE.630_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528SLE.630_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528SLE.630_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528SLE.630_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528SLE.630_19.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-jo-white-drop-waist-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Jo White Drop Waist Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/jo-white-drop-waist-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528WE.100_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111528WE.100_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-joanne-black-silk-slip-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Joanne Black Silk Slip Midi Dress",
+    "price": 396,
+    "url": "https://dissh.com/products/joanne-black-silk-slip-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038BK.600_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038BK.600_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038BK.600_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-joanne-olive-silk-slip-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Joanne Olive Silk Slip Midi Dress",
+    "price": 396,
+    "url": "https://dissh.com/products/joanne-olive-silk-slip-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038OLI.545_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038OLI.545_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038OLI.545_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038OLI.545_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038OLI.545_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038OLI.545_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110038OLI.545_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-lacy-cornflower-linen-mini-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Lacy Cornflower Linen Mini Dress",
+    "price": 91,
+    "url": "https://dissh.com/products/lacy-cornflower-linen-mini-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111369COR.470_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111369COR.470_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111369COR.470_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111369COR.470_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111369COR.470_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111369COR.470_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111369COR.470_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-mila-dusty-blue-silk-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Mila Dusty Blue Silk Midi Dress",
+    "price": 113,
+    "url": "https://dissh.com/products/mila-dusty-blue-silk-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP11494DBL.462_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP11494DBL.462_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP11494DBL.462_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP11494DBL.462_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP11494DBL.462_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP11494DBL.462_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-odessa-beige-check-slip-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Odessa Beige Check Slip Maxi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/odessa-beige-check-slip-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110043BEI.180_AW.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110043BEI.180_AW.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110043BEI.180_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110043BEI.180_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110043BEI.180_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110043BEI.180_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110043BEI.180_4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DAO110043BEI.180_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "maxi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-orlena-elm-poplin-mini-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Orlena Elm Sage Cotton Mini Dress",
+    "price": 170,
+    "url": "https://dissh.com/products/orlena-elm-poplin-mini-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111530ELM.537_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111530ELM.537_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111530ELM.537_4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111530ELM.537_17.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111530ELM.537_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111530ELM.537_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111530ELM.537_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111530ELM.537_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-orlena-elm-v-neck-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Orlena Elm Sage V Neck Cotton Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/orlena-elm-v-neck-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111540ELM.537_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111540ELM.537_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111540ELM.537_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111540ELM.537_17.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111540ELM.537_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111540ELM.537_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111540ELM.537_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-scottie-white-cotton-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Scottie White Cotton Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/scottie-white-cotton-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11521WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11521WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11521WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11521WE.100_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11521WE.100_14.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-sian-black-organza-mini-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Sian Black Silk Organza Mini Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/sian-black-organza-mini-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378BK.600.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378BK.600.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378BK.600_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-sian-ivory-organza-mini-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Sian Ivory Silk Organza Mini Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/sian-ivory-organza-mini-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378IVO.110_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378IVO.110_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378IVO.110_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378IVO.110_12_48203f09-068b-4796-853b-59c65a6b7233.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378IVO.110_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378IVO.110_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11378IVO.110_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-sky-burnt-choc-linen-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Sky Burnt Choc Linen Midi Dress",
+    "price": 159,
+    "url": "https://dissh.com/products/sky-burnt-choc-linen-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286BUCH.574_11.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286BUCH.574_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286BUCH.574_9eb22fb3-462b-4a87-82a5-5643bbe734f1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286BUCH.574_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286BUCH.574_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286BUCH.574_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286BUCH.574_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286BUCH.574_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-sky-dusty-blue-linen-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Sky Dusty Blue Linen Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/sky-dusty-blue-linen-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286DBL.462_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286DBL.462_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286DBL.462_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286DBL.462_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286DBL.462_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF11286DBL.462_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-toby-red-cotton-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Toby Red Cotton Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/toby-red-cotton-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190RED.300_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190RED.300_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190RED.300_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190RED.300_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190RED.300_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190RED.300_14.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-toby-slate-cotton-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Toby Slate Cotton Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/toby-slate-cotton-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190SLE.630_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190SLE.630_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190SLE.630.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190SLE.630_17.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190SLE.630_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190SLE.630_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190SLE.630_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190SLE.630_200_etch.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "dissh-toby-white-cotton-midi-dress",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Toby White Cotton Midi Dress",
+    "price": 226,
+    "url": "https://dissh.com/products/toby-white-cotton-midi-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190WE.100_11.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190WE.100_4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190WE.100_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190WE.100_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS111190WE.100_16.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "frankie-christopher-esber-anchor-dress-black",
+    "retailer": "The Frankie Shop",
+    "brand": "Christopher Esber",
+    "name": "Anchor Dress",
+    "price": 1395,
+    "url": "https://thefrankieshop.com/products/christopher-esber-anchor-dress-black",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/CHRISTOPHER-ESBER-ANCHOR-DRESS-BLACK-BRAND-1-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CHRISTOPHER-ESBER-ANCHOR-DRESS-BLACK-BRAND-1-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CHRISTOPHER-ESBER-ANCHOR-DRESS-BLACK-BRAND-4-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CHRISTOPHER-ESBER-ANCHOR-DRESS-BLACK-BRAND-2-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CHRISTOPHER-ESBER-ANCHOR-DRESS-BLACK-BRAND-3-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CHRISTOPHER-ESBER-ANCHOR-DRESS-BLACK-BRAND-5-W.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "trim": "Hardware 100% Nickel",
+    "attrs": {
+      "length": "maxi"
+    }
+  },
+  {
+    "id": "vrg-grl-aftersun-denim-mini-dress-red",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Aftersun Denim Mini Dress Red",
+    "price": 80,
+    "url": "https://www.vrggrl.com/products/aftersun-denim-mini-dress-red",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0204_d0f99203-7f96-4563-a308-c676940b7af4.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0204_d0f99203-7f96-4563-a308-c676940b7af4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0433.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0259.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0219.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0237.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_0239.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini"
+    }
+  },
+  {
+    "id": "vrg-grl-angele-mini-dress-lilac-stripe",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Angele Mini Dress Lilac Stripe",
+    "price": 42,
+    "url": "https://www.vrggrl.com/products/angele-mini-dress-lilac-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.02.19_VRGGRL_2616.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.02.19_VRGGRL_2616.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.02.19_VRGGRL_2623copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.02.19_VRGGRL_2593.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.02.19_VRGGRL_2570copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.02.19_VRGGRL_2592.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.02.19_VRGGRL_2631copy.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Violet",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini"
+    }
+  },
+  {
+    "id": "vrg-grl-annabelle-linen-mini-dress-white",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Annabelle Linen Mini Dress White",
+    "price": 39,
+    "url": "https://www.vrggrl.com/products/annabelle-linen-mini-dress-white",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_0330copy.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_0330copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/LIB7380.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/LIB7388.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_0279copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_0310.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_0336.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_0315.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.14_VRGGRL_0345copy.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini"
+    }
+  },
+  {
+    "id": "vrg-grl-behati-maxi-dress-black",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Behati Maxi Dress Black",
+    "price": 73,
+    "url": "https://www.vrggrl.com/products/behati-maxi-dress-black",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_2621copy.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_2621copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_2692copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/BLOGGERHANDLESFORWEB_11.png?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_2647.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_2699copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_2626copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.03.31_VRGGRL_2633copy.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "maxi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "vrg-grl-belle-linen-mini-dress-pink",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Belle Linen Mini Dress Pink",
+    "price": 149,
+    "url": "https://www.vrggrl.com/products/belle-linen-mini-dress-pink",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_2019.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_2019.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_2074.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_2083.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_2115.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_2075.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_2057.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Pink",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini"
+    }
+  },
+  {
+    "id": "vrg-grl-demi-maxi-dress-stripe",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Demi Midi Dress Stripe",
+    "price": 65,
+    "url": "https://www.vrggrl.com/products/demi-maxi-dress-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_0447.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_0447.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_0505.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_0479.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_0566.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_0522.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_0463.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "midi",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "vrg-grl-flora-mini-dress-mint-check",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Flora Mini Dress Mint Check",
+    "price": 119,
+    "url": "https://www.vrggrl.com/products/flora-mini-dress-mint-check",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1800.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1800.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1838.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1784.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1870.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1825.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_1797.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Green",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini"
+    }
+  },
+  {
+    "id": "vrg-grl-lila-mini-dress-cream",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Lila Mini Dress Cream",
+    "price": 75,
+    "url": "https://www.vrggrl.com/products/lila-mini-dress-cream",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0480.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0480.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0559.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0471.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0507.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0534.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0494.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini"
+    }
+  },
+  {
+    "id": "vrg-grl-liv-maxi-dress-apricot-stripe",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Liv Maxi Dress Apricot Stripe",
+    "price": 70,
+    "url": "https://www.vrggrl.com/products/liv-maxi-dress-apricot-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_2927_0caaf08b-3f10-4573-92e3-f7913017e3b1.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_2927_0caaf08b-3f10-4573-92e3-f7913017e3b1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.02_VRGGRL_0210.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_2949_81196b69-c591-4811-bd89-4d198662b4f9.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/EC1DD274-45FF-4238-8460-0734EC0902CB_1_201_a.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_2945_8ee2b7b3-ed83-4a8d-b752-612cec39a1c3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_2970_18bd1bda-a61b-40e8-a38e-5d3bf7a175b4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2753A761-D669-4EF8-8685-BE7DFC7142AE_1_201_a.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_2941_4e26b00d-dad3-4484-8a0d-caecf5e98ece.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "maxi"
+    }
+  },
+  {
+    "id": "vrg-grl-lo-linen-mini-dress-black",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Lo Linen Mini Dress Black",
+    "price": 70,
+    "url": "https://www.vrggrl.com/products/lo-linen-mini-dress-black",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_44381.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_44381.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_44531.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_44251.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_44471.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_44681.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "vrg-grl-lo-linen-mini-dress-white",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Lo Linen Mini Dress White",
+    "price": 42,
+    "url": "https://www.vrggrl.com/products/lo-linen-mini-dress-white",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_46491.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_46491.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_46891.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_46591.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_46391.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_46231.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_46701.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini",
+      "sleeve": "sleeveless"
+    }
+  },
+  {
+    "id": "vrg-grl-mara-mini-dress-black-check",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Mara Mini Dress Black Check",
+    "price": 129,
+    "url": "https://www.vrggrl.com/products/mara-mini-dress-black-check",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4065_528c453c-bb33-4548-a364-019c897f55f5.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4065_528c453c-bb33-4548-a364-019c897f55f5.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.02_VRGGRL_2104.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4132.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/DCDBEBDA-13D7-4F21-939D-EAC7FB9E2A3B_1_201_a_da60e05e-1e42-468e-b7f4-9284dd2674dd.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4106.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4107.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/DCC92F4F-E1DD-438F-A3B3-42068A734CCE_1_201_a.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.10.22_VRGGRL_4099.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini"
+    }
+  },
+  {
+    "id": "vrg-grl-muni-denim-mini-dress-wine",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Muni Denim Mini Dress Wine",
+    "price": 159,
+    "url": "https://www.vrggrl.com/products/muni-denim-mini-dress-wine",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3788.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3788.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3818.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3822.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3780.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3841.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3807.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.07.29_VRGGRL_3796.jpg?width=600"
+    ],
+    "category": "Dresses",
+    "colour": "Oxblood",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": [],
+    "attrs": {
+      "length": "mini"
+    }
   }
 ]
