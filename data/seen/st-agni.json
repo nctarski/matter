@@ -3518,5 +3518,37 @@
  "int.st-agni.com/products/gift-card": {
   "outcome": "out-of-scope",
   "date": "2026-10-23"
+ },
+ "int.st-agni.com/products/leather-cinch-jacket-black": {
+  "outcome": "catalog",
+  "date": "2026-10-31"
+ },
+ "int.st-agni.com/products/leather-cocoon-funnel-neck-jacket-black": {
+  "outcome": "catalog",
+  "date": "2026-10-31"
+ },
+ "int.st-agni.com/products/leather-fringe-skirt-black": {
+  "outcome": "catalog",
+  "date": "2026-10-31"
+ },
+ "int.st-agni.com/products/silk-organza-bralette-talco": {
+  "outcome": "catalog",
+  "date": "2026-10-31"
+ },
+ "int.st-agni.com/products/silk-wool-jacquard-cami-black": {
+  "outcome": "catalog",
+  "date": "2026-10-31"
+ },
+ "int.st-agni.com/products/silk-wool-jacquard-coat-talco": {
+  "outcome": "catalog",
+  "date": "2026-10-31"
+ },
+ "int.st-agni.com/products/silk-wool-jacquard-minimal-pants-black": {
+  "outcome": "catalog",
+  "date": "2026-10-31"
+ },
+ "int.st-agni.com/products/silk-wool-jacquard-strapless-dress-black": {
+  "outcome": "catalog",
+  "date": "2026-10-31"
  }
 }

@@ -365,22 +365,33 @@
    "brand": "Khaite",
    "method": "shopify-page",
    "cadence": "regular",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
+   "status": "partial",
+   "cursor": {
+    "method": "products.json (869 products 2026-10-31); composition is the variant option named Material (e.g. 100%CASHMERE, 98%COTTON,2%ELASTANE), no lining text anywhere on the page",
+    "resume": "re-pull products.json and stage clothing not yet in data/seen/khaite.json once the review page has room",
+    "heldPassing": 290,
+    "heldUnparsed": 25
+   },
+   "lastSweep": "2026-10-31",
    "lastDelta": null,
-   "note": ""
+   "note": "2026-10-31: swept while the review page was full (450 of 450 photos pending), so only negative outcomes were recorded: 497 out of scope (bags, shoes, belts, accessories, gift card), 57 under the fiber rule. 290 passing clothing pieces held, not recorded. 25 with SELF/LINING/COMBO codes or abbreviations (70%WS/30%SE, 100%HAIRCALF) held for a closer read. Khaite publishes no lining fiber, so lined coats and leather pieces need lining 'undisclosed' only where the page says lined."
   },
   {
    "order": 34,
    "brand": "The Row",
    "method": "shopify-page",
    "cadence": "regular",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
+   "status": "partial",
+   "cursor": {
+    "method": "products.json at www.therow.com (2,693 products 2026-10-31); composition from the product page Details block (between ' Details ' and 'Size & Fit'), lining as 'Fully lined in' / 'Half-lined in'",
+    "resume": "stage women's clothing (tag DIV_WOMEN'S RTW) not yet in data/seen/the-row.json once the review page has room",
+    "heldPassing": 391,
+    "heldComplex": 6,
+    "errors": 1
+   },
+   "lastSweep": "2026-10-31",
    "lastDelta": null,
-   "note": ""
+   "note": "2026-10-31: swept while the review page was full, so only negatives recorded: 1,962 out of scope (bags, shoes, accessories, 1,223 'Product Look' outfit pages, Galerie archive pieces), 294 men's (DIV_MEN'S RTW), 39 under the fiber rule out of 437 women's clothing pages read. 391 passing pieces held, not recorded; 6 held for a closer read (Baby Cashmere, Sheepskin/Lambskin Suede, two-part 'Virgin Wool; Silk'); 1 fetch error (corzas-top-blue-1)."
   },
   {
    "order": 35,
