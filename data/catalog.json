@@ -103692,5 +103692,1493 @@
     "lining": null,
     "isNew": true,
     "tags": []
+  },
+  {
+    "id": "dissh-benette-natural-fringe-column-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Benette Natural Fringe Column Maxi Skirt",
+    "price": 170,
+    "url": "https://dissh.com/products/benette-natural-fringe-column-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05094NAT.150.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05094NAT.150.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05094NAT.150_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05094NAT.150_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05094NAT.150_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05094NAT.150_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05094NAT.150_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05094NAT.150_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05094NAT.150_16.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-evie-black-linen-skort",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Evie Black Linen Skort",
+    "price": 136,
+    "url": "https://dissh.com/products/evie-black-linen-skort",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BK.600_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BK.600_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BK.600_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BK.600_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BK.600_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-evie-burnt-choc-linen-skort",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Evie Burnt Choc Linen Skort",
+    "price": 91,
+    "url": "https://dissh.com/products/evie-burnt-choc-linen-skort",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BUCH.574_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BUCH.574_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BUCH.574_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BUCH.574_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BUCH.574_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BUCH.574_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120BUCH.574_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-evie-cocoa-linen-skort",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Evie Cocoa Linen Skort",
+    "price": 91,
+    "url": "https://dissh.com/products/evie-cocoa-linen-skort",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120COA.564_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120COA.564_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120COA.564_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120COA.564_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120COA.564_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120COA.564_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120COA.564_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120COA.564_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-evie-white-linen-skort",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Evie White Linen Skort",
+    "price": 136,
+    "url": "https://dissh.com/products/evie-white-linen-skort",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120WE.100_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120WE.100_19.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DFS07120WE.100_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-juliette-gold-silk-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Juliette Gold Silk Midi Skirt",
+    "price": 80,
+    "url": "https://dissh.com/products/juliette-gold-silk-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05090GOL.220_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05090GOL.220_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05090GOL.220_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05090GOL.220_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05090GOL.220_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05090GOL.220_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05090GOL.220_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Mustard",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-maia-straw-linen-shirred-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Maia Straw Linen Shirred Midi Skirt",
+    "price": 68,
+    "url": "https://dissh.com/products/maia-straw-linen-shirred-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05079STR.160_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05079STR.160_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05079STR.160_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05079STR.160_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05079STR.160_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05079STR.160_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05079STR.160_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05079STR.160_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DNP05079STR.160_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-odette-ntrl-linen-wrap-midi-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Odette Natural Linen Wrap Midi Skirt",
+    "price": 147,
+    "url": "https://dissh.com/products/odette-ntrl-linen-wrap-midi-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236NAT.150.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236NAT.150.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236NAT.150_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236NAT.150_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236NAT.150_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236NAT.150_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236NAT.150_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236NAT.150_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-odette-white-linen-wrap-midi-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Odette White Linen Wrap Midi Skirt",
+    "price": 147,
+    "url": "https://dissh.com/products/odette-white-linen-wrap-midi-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236WE.100_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236WE.100_19.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05236WE.100_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-sian-black-organza-midi-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Sian Black Silk Organza Midi Skirt",
+    "price": 204,
+    "url": "https://dissh.com/products/sian-black-organza-midi-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148BK.600.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148BK.600.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148BK.600_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148BK.600_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148BK.600_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148BK.600_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148BK.600_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148BK.600_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148BK.600_19.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-sian-dark-choc-organza-midi-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Sian Dark Choc Silk Organza Midi Skirt",
+    "price": 204,
+    "url": "https://dissh.com/products/sian-dark-choc-organza-midi-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DCH.590_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DCH.590_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DCH.590_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DCH.590_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DCH.590_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DCH.590_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DCH.590_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DCH.590_18.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DCH.590_19.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-sian-dusty-blue-organza-midi-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Sian Dusty Blue Silk Organza Midi Skirt",
+    "price": 204,
+    "url": "https://dissh.com/products/sian-dusty-blue-organza-midi-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DBL.462_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DBL.462_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DBL.462_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DBL.462_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DBL.462_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DBL.462_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DBL.462_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148DBL.462_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-sian-gold-organza-midi-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Sian Gold Silk Organza Midi Skirt",
+    "price": 204,
+    "url": "https://dissh.com/products/sian-gold-organza-midi-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148GOL.220_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148GOL.220_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148GOL.220_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148GOL.220_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148GOL.220_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148GOL.220_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148GOL.220_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148GOL.220_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Mustard",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-sian-ivory-organza-midi-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Sian Ivory Silk Organza Midi Skirt",
+    "price": 204,
+    "url": "https://dissh.com/products/sian-ivory-organza-midi-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148IVO.110_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148IVO.110_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148IVO.110_4.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148IVO.110_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148IVO.110_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148IVO.110_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148IVO.110_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148IVO.110_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148IVO.110_16.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-sian-red-organza-midi-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Sian Red Silk Organza Midi Skirt",
+    "price": 204,
+    "url": "https://dissh.com/products/sian-red-organza-midi-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148RED.300_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148RED.300_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148RED.300.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148RED.300_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148RED.300_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148RED.300_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148RED.300_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05148RED.300_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Red",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-teagan-ivory-linen-column-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Teagan Ivory Linen Column Midi Skirt",
+    "price": 170,
+    "url": "https://dissh.com/products/teagan-ivory-linen-column-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05092IVO.110_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05092IVO.110_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05092IVO.110_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05092IVO.110_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05092IVO.110_12.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05092IVO.110_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05092IVO.110_15.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05092IVO.110_16.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/WES05092IVO.110_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "dissh-winona-white-linen-midi-skirt",
+    "retailer": "DISSH",
+    "brand": "DISSH",
+    "name": "Winona White Linen Midi Skirt",
+    "price": 204,
+    "url": "https://dissh.com/products/winona-white-linen-midi-skirt",
+    "image": "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05218WE.100_10.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05218WE.100_10.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05218WE.100_11.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05218WE.100_13.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05218WE.100_14.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/0265/5590/8132/files/DQF05218WE.100_200_etch.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "frankie-bevza-house-skirt-carrot-red",
+    "retailer": "The Frankie Shop",
+    "brand": "Bevza",
+    "name": "House Skirt",
+    "price": 475,
+    "url": "https://thefrankieshop.com/products/bevza-house-skirt-carrot-red",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/BEVZA-RED-HOUSE-SKIRT-CARRO-RED-BRAND-3-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEVZA-RED-HOUSE-SKIRT-CARRO-RED-BRAND-3-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEVZA-RED-HOUSE-SKIRT-CARRO-RED-BRAND-2-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEVZA-RED-HOUSE-SKIRT-CARRO-RED-BRAND-1-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEVZA-RED-HOUSE-SKIRT-CARRO-RED-BRAND-2-CROP-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEVZA-RED-HOUSE-SKIRT-CARRO-RED-BRAND-4-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/BEVZA-RED-HOUSE-SKIRT-CARRO-RED-PACKSHOT.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Red",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-co-parachute-skirt-camel",
+    "retailer": "The Frankie Shop",
+    "brand": "CO",
+    "name": "Parachute Skirt",
+    "price": 795,
+    "url": "https://thefrankieshop.com/products/co-parachute-skirt-camel",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CAMEL-KMAR-0724-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CAMEL-KMAR-0724-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CAMEL-KMAR-0698-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CAMEL-KMAR-0701-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CAMEL-KMAR-0706-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CAMEL-KMAR-0681-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CAMEL-KMAR-0702-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CAMEL-KMAR-0699-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CAMEL-KMAR-0705-W.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-co-parachute-skirt-chocolate",
+    "retailer": "The Frankie Shop",
+    "brand": "CO",
+    "name": "Parachute Skirt",
+    "price": 795,
+    "url": "https://thefrankieshop.com/products/co-parachute-skirt-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CHOCOLATE-KMAR-0992-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CHOCOLATE-KMAR-0992-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CHOCOLATE-KMAR-1001-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CHOCOLATE-KMAR-1005-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CHOCOLATE-KMAR-0999-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/CO-PARACHUTE-SKIRT-CHOCOLATE-KMAR-1006-W.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-elie-silk-fluid-maxi-skirt-ivory",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Elie Silk Fluid Maxi Skirt",
+    "price": 250,
+    "url": "https://thefrankieshop.com/products/elie-silk-fluid-maxi-skirt-ivory",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-SILK-FLUID-MAXI-SKIRT-IVORY-ASHLEY-0758-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-SILK-FLUID-MAXI-SKIRT-IVORY-ASHLEY-0758-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-SILK-FLUID-MAXI-SKIRT-IVORY-ASHLEY-0774-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-SILK-FLUID-MAXI-SKIRT-IVORY-ASHLEY-0767-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-SILK-FLUID-MAXI-SKIRT-IVORY-ASHLEY-0778-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-SILK-FLUID-MAXI-SKIRT-IVORY-ASHLEY-0779-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-SILK-FLUID-MAXI-SKIRT-IVORY-PACKSHOT.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Ivory",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-elie-silk-fluid-maxi-skirt-navy",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Elie Silk Fluid Maxi Skirt",
+    "price": 250,
+    "url": "https://thefrankieshop.com/products/elie-silk-fluid-maxi-skirt-navy",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-FLUID-MAXI-SKIRT-NAVY-EMMA-0637_1d13773f-7be8-42f2-9596-e4b2373fcaa2.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-FLUID-MAXI-SKIRT-NAVY-EMMA-0637_1d13773f-7be8-42f2-9596-e4b2373fcaa2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-FLUID-MAXI-SKIRT-NAVY-EMMA-0647_1ae23cc4-761b-42da-a038-23acd551ea90.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-FLUID-MAXI-SKIRT-NAVY-EMMA-0602_3bac7e57-3017-4772-a0e0-7d8fd31cdae2.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-FLUID-MAXI-SKIRT-NAVY-EMMA-0639_7399ba7a-4893-404d-a8fe-10ba5b8b6b45.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-FLUID-MAXI-SKIRT-NAVY-EMMA-0646_e88665c3-f9ba-41a1-baca-3d070d431466.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-FLUID-MAXI-SKIRT-NAVY-EMMA-0648_893d803b-b9f1-4b8a-8269-b30ccd272a38.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-FLUID-MAXI-SKIRT-NAVY-EMMA-0653_c992c932-6179-42a0-bce2-f91cc477e90c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/ELIE-FLUID-MAXI-SKIRT-NAVY-PACKSHOT_d226a70a-50af-4a2e-a08f-2d9bc3e36486.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Silk",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-haikure-mira-denim-skirt-vintage-black",
+    "retailer": "The Frankie Shop",
+    "brand": "Haikure",
+    "name": "Mira Denim Skirt",
+    "price": 395,
+    "url": "https://thefrankieshop.com/products/haikure-mira-denim-skirt-vintage-black",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/HAIKURE-MIRA-SKIRT-VINTAGE-BLACK-KMAR-0267-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAIKURE-MIRA-SKIRT-VINTAGE-BLACK-KMAR-0267-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAIKURE-MIRA-SKIRT-VINTAGE-BLACK-KMAR-0279-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAIKURE-MIRA-SKIRT-VINTAGE-BLACK-KMAR-0270-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAIKURE-MIRA-SKIRT-VINTAGE-BLACK-KMAR-0277-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAIKURE-MIRA-SKIRT-VINTAGE-BLACK-KMAR-0289-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAIKURE-MIRA-SKIRT-VINTAGE-BLACK-KMAR-0287-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HAIKURE-MIRA-SKIRT-VINTAGE-BLACK-KMAR-0305-W.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-hera-cotton-mini-skirt-camel",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Hera Cotton Mini Skirt",
+    "price": 135,
+    "url": "https://thefrankieshop.com/products/hera-cotton-mini-skirt-camel",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/HERA-COTTON-MINI-SKIRT-CAMEL-WILMARY-2428_71d5b02a-333a-4a46-8466-301f11fb69ea.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HERA-COTTON-MINI-SKIRT-CAMEL-WILMARY-2428_71d5b02a-333a-4a46-8466-301f11fb69ea.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HERA-COTTON-MINI-SKIRT-CAMEL-WILMARY-2456_61465855-ca29-49d6-98c3-b6b3a485dd83.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HERA-COTTON-MINI-SKIRT-CAMEL-WILMARY-2447_bb6382c5-9bec-4122-99c0-9797ee4a4a59.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HERA-COTTON-MINI-SKIRT-CAMEL-WILMARY-2457_15856ec2-b3ec-4a76-9549-4f3d3417752e.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HERA-COTTON-MINI-SKIRT-CAMEL-WILMARY-2435_cb1fc5ae-9570-4e93-8fdb-6453abb3ebe3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HERA-COTTON-MINI-SKIRT-CAMEL-WILMARY-2463-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/HERA-COTTON-MINI-SKIRT-CAMEL-PACKSHOT_f1cc6bd4-e225-40ad-918e-42d8c072ea52.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-lisle-front-slit-pencil-skirt-navy",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Lisle Front Slit Pencil Skirt",
+    "price": 155,
+    "url": "https://thefrankieshop.com/products/lisle-front-slit-pencil-skirt-navy",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-NAVY-VICKI-52342-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-NAVY-VICKI-52342-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-NAVY-VICKI-52329-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-NAVY-VICKI-52333-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-NAVY-MAME-1788-W_953d8101-9879-443a-a789-3816ea56d6fa.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-NAVY-MAME-1769-W_95e6bbf3-8fde-4169-9a02-8f4657241835.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-NAVY-MAME-1797-W_3cb68ed4-82d1-41aa-9296-38b5d4d23678.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-NAVY-MAME-1803-W_aa13d742-1c5a-463b-91d6-244dd6dec247.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Navy",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-lisle-front-slit-pencil-skirt-pale-olive",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Lisle Front Slit Pencil Skirt",
+    "price": 155,
+    "url": "https://thefrankieshop.com/products/lisle-front-slit-pencil-skirt-pale-olive",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-PALE-OLIVE-VICKI-52428-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-PALE-OLIVE-VICKI-52428-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-PALE-OLIVE-VICKI-52434-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-PALE-OLIVE-VICKI-52464-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-PALE-OLIVE-VICKI-52446-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-PALE-OLIVE-VICKI-52449-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-PALE-OLIVE-VICKI-52466-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-PALE-OLIVE-VICKI-52467-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/LISLE-FRONT-SLIT-PENCIL-SKIRT-PALE-OLIVE-PACKSHOT.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-nelaya-leather-macrame-skirt-black",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Nelaya Leather Macrame Skirt",
+    "price": 750,
+    "url": "https://thefrankieshop.com/products/nelaya-leather-macrame-skirt-black",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAM-SKIRT-BLACK-FARHIYA-1059_3ce69b94-ff0d-4149-871f-517821e33d8b.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAM-SKIRT-BLACK-FARHIYA-1059_3ce69b94-ff0d-4149-871f-517821e33d8b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAM-SKIRT-BLACK-FARHIYA-1033.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAM-SKIRT-BLACK-FARHIYA-1040_521fca99-57c8-4fe8-8f6f-30b13a80bcf1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAM-SKIRT-BLACK-FARHIYA-1046.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAM-SKIRT-BLACK-FARHIYA-1043.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAM-SKIRT-BLACK-FARHIYA-1063.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAM-SKIRT-BLACK-FARHIYA-1047.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAM-SKIRT-BLACK-FARHIYA-1045_baa54ee2-0bc3-402e-9ae2-e053fa2f2ca5.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-nelaya-leather-macrame-skirt-emerald",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Nelaya Leather Macrame Skirt",
+    "price": 750,
+    "url": "https://thefrankieshop.com/products/nelaya-leather-macrame-skirt-emerald",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAME-SKIRT-EMERALD-FARHIYA-3534.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAME-SKIRT-EMERALD-FARHIYA-3534.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAME-SKIRT-EMERALD-EDITO5.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAME-SKIRT-EMERALD-EDITO3.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAME-SKIRT-EMERALD-0413.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAME-SKIRT-EMERALD-FARHIYA-3507.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAME-SKIRT-EMERALD-EDITO.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAME-SKIRT-EMERALD-FARHIYA-3519.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/NELAYA-LEATHER-MACRAME-SKIRT-EMERALD-EDITO2.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Green",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-savil-leather-midi-skirt-black",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Savil Leather Midi Skirt",
+    "price": 470,
+    "url": "https://thefrankieshop.com/products/savil-leather-midi-skirt-black",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-BLACK-HELENA-3171.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-BLACK-HELENA-3171.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-BLACK-HELENA-3199.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-BLACK-HELENA-3194-CROP.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-BLACK-HELENA-3194.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-BLACK-HELENA-3203.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-BLACK-HELENA-3173.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-BLACK-PACKSHOT.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-savil-leather-midi-skirt-dark-brown",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Savil Leather Midi Skirt",
+    "price": 470,
+    "url": "https://thefrankieshop.com/products/savil-leather-midi-skirt-dark-brown",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-DARK-BROWN-MARINE-0962.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-DARK-BROWN-MARINE-0962.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-DARK-BROWN-MARINE-0976.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-DARK-BROWN-MARINE-0979.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-DARK-BROWN-HELENA-3593.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-DARK-BROWN-MARINE-0974.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-DARK-BROWN-HELENA-3590.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-DARK-BROWN-MARINE-0989.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/SAVIL-LEATHER-MIDI-SKIRT-BROWN-RT.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Leather",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Polyester",
+        100
+      ]
+    ],
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-thira-wrap-skirt-black-white-stripe",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Thira Wrap Skirt",
+    "price": 170,
+    "url": "https://thefrankieshop.com/products/thira-wrap-skirt-black-white-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-BLACK-WHITE-STRIPE-MARIA-0700-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-BLACK-WHITE-STRIPE-MARIA-0700-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-BLACK-WHITE-STRIPE-MARIA-0680-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-BLACK-WHITE-STRIPE-MARIA-0713-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-BLACK-WHITE-STRIPE-MARIA-0720-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-BLACK-WHITE-STRIPE-MARIA-0696-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-BLACK-WHITE-STRIPE-MARIA-0679-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-BLACK-WHITE-STRIPE-MARIA-0681-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-BLACK-WHITE-STRIPE-MARIA-0726-W.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "frankie-thira-wrap-skirt-white-light-blue",
+    "retailer": "The Frankie Shop",
+    "brand": "The Frankie Shop",
+    "name": "Thira Wrap Skirt",
+    "price": 170,
+    "url": "https://thefrankieshop.com/products/thira-wrap-skirt-white-light-blue",
+    "image": "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-WHITE-LIGHT-BLUE-MELANIE-0081-W.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-WHITE-LIGHT-BLUE-MELANIE-0081-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-WHITE-LIGHT-BLUE-MELANIE-0108-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-WHITE-LIGHT-BLUE-MELANIE-0103-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-WHITE-LIGHT-BLUE-MELANIE-0104-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-WHITE-LIGHT-BLUE-MELANIE-0093-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-WHITE-LIGHT-BLUE-MELANIE-0112-W.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/1527/0993/files/THIRA-WRAP-SKIRT-WHITE-LIGHT-BLUE-PACKSHOT_1f92ddd4-33ec-4dd5-9b04-a9e48aeda004.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": false,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-billie-midi-skirt-black",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Billie Midi Skirt Black",
+    "price": 119,
+    "url": "https://www.vrggrl.com/products/billie-midi-skirt-black",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_0871.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_0871.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_1105.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_0804_cdba1362-9bef-4cd8-95fc-91199e5745a8.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_1118.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_0830.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_0992_194ea13b-81e1-47b7-86c2-50051312a6d8.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_0878.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.03.25_VRGGRL_0823_e0792ea7-4837-4abd-ace0-b9c18d4af93f.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-billie-midi-skirt-cream",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Billie Midi Skirt Cream",
+    "price": 119,
+    "url": "https://www.vrggrl.com/products/billie-midi-skirt-cream",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_2988.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_2988.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3117.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3022.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3135.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3153.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3013.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_3046.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-charlee-midi-skirt-tan-stripe",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Charlee Midi Skirt Tan Stripe",
+    "price": 99,
+    "url": "https://www.vrggrl.com/products/charlee-midi-skirt-tan-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/INLINEBANNERS_2_b95924e4-ddb0-4bfb-ae28-c79939c65374.png?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/INLINEBANNERS_2_b95924e4-ddb0-4bfb-ae28-c79939c65374.png?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/180926_260907__5066.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/5_55a9df98-94f5-4019-aa66-da9cc350820e.png?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/180926_260907__5194.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/180926_260907__5342.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/180926_260907__5401.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Camel",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-cleo-mini-skirt-black",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Cleo Mini Skirt Black",
+    "price": 27,
+    "url": "https://www.vrggrl.com/products/cleo-mini-skirt-black",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0357.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0357.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0459.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0460.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0490.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0347.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0516_1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0473.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-eli-linen-skort-olive",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Eli Linen Skort Olive",
+    "price": 119,
+    "url": "https://www.vrggrl.com/products/eli-linen-skort-olive",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/180926_260907__2849.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/180926_260907__2849.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/180926_260907__2911.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.08.26_VRGGRL_2916_b0c58337-28d5-4ee5-98ed-120c6756cd4b.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/180926_260907__2905.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/180926_260907__2875.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/180926_260907__2917.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-elka-mini-skirt-black",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Elka Mini Skirt Black",
+    "price": 69,
+    "url": "https://www.vrggrl.com/products/elka-mini-skirt-black",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0685.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0685.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0573_4603a852-9ca1-463f-b718-fa1dd36f4b43.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0670.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0634.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2024.09.12_VRGGRL_1842.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0587_39081bd0-8f00-49c6-98c0-b2587f85e0ef.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0679.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-elka-mini-skirt-black-stripe",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Elka Mini Skirt Black Stripe",
+    "price": 35,
+    "url": "https://www.vrggrl.com/products/elka-mini-skirt-black-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_4040.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_4040.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_4061.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_3731.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_4058.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_3982_72a2fd9f-aa0d-4193-b172-a820eca8f4d6.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_4065.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_4106.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_4098.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-elka-mini-skirt-cream",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Elka Mini Skirt Cream",
+    "price": 20,
+    "url": "https://www.vrggrl.com/products/elka-mini-skirt-cream",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0398_260d8a9f-f45b-469c-a6ad-2c1c2b7f1162.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0398_260d8a9f-f45b-469c-a6ad-2c1c2b7f1162.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0429_c325c84a-645f-48b6-a78a-d829f03d4334.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2024.07.30_VRGGRL_2437copy_69de5a17-6bb7-43dc-a6dd-311167566a29.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0459_80a50a8c-8049-4782-b6fa-5e263c770a17.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0410_1f957f19-d183-4197-bb4e-8d97f6de78b1.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2024.07.30_VRGGRL_1619copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.24_VRGGRL_0467_e4b1eda5-6671-4f92-b248-97c8c87c1cb3.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-hope-mini-skirt-charcoal-stripe",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Hope Mini Skirt Charcoal Stripe",
+    "price": 43,
+    "url": "https://www.vrggrl.com/products/hope-mini-skirt-charcoal-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_5337_6799b8d3-3ba8-44e3-bed6-ce0296ada212.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_5337_6799b8d3-3ba8-44e3-bed6-ce0296ada212.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_5355.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_5332_481819c3-58c4-461c-9c73-5441ccf8b054.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_5319.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_5359.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.09.15_VRGGRL_5387.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Grey",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-jasmin-maxi-skirt-black",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Jasmin Maxi Skirt Black",
+    "price": 159,
+    "url": "https://www.vrggrl.com/products/jasmin-maxi-skirt-black",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_4311.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_4311.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_4509.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_4357.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_4535.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/21_7a9a7019-4024-4fa4-b1c9-c2f4d8e1b24e.png?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_4324.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_4372.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.08_VRGGRL_4342.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-jovi-anglaise-mini-skirt-cream",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Jovi Anglaise Mini Skirt Cream",
+    "price": 99,
+    "url": "https://www.vrggrl.com/products/jovi-anglaise-mini-skirt-cream",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_217442.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_217442.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_217468.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_217406.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_217451.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_217472.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_217454.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-jovi-linen-mini-skirt-olive",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Jovi Linen Mini Skirt Olive",
+    "price": 89,
+    "url": "https://www.vrggrl.com/products/jovi-linen-mini-skirt-olive",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_5044_9f226b67-7bf5-4645-b09e-943c8034bbdf.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_5044_9f226b67-7bf5-4645-b09e-943c8034bbdf.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_5058_cc6da2aa-3c54-47ab-82a6-94f62c179a49.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_5032_983e2bb9-60a3-4f0f-a6af-0f8b48691a0f.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_5055_3ac55145-1ef4-4952-9ddc-3325621d696c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_5068.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.04.29_VRGGRL_5079_3a441523-f5ea-4a9a-820c-5ce6c9a2e68e.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Olive",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-lily-mini-skirt-sky",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Lily Mini Skirt Sky",
+    "price": 27,
+    "url": "https://www.vrggrl.com/products/lily-mini-skirt-sky",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0943.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0943.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0936.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0886.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0946.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0960.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0965.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0898.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/14.04.2025_VRGGRL_0968.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Blue",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-lucille-anglaise-midi-skirt-cream",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Lucille Anglaise Midi Skirt Cream",
+    "price": 159,
+    "url": "https://www.vrggrl.com/products/lucille-anglaise-midi-skirt-cream",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_219443.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_219443.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_219613.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_219478.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_219500.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_219504.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_219603.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_219627.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.06.24_VRGGRL_219440.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Cream",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-rhode-skirt-polka-dot",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Rhode Mini Skirt Polka Dot",
+    "price": 79,
+    "url": "https://www.vrggrl.com/products/rhode-skirt-polka-dot",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_5033_fc3a704c-1b4b-4765-a759-2d1b242e31f8.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_5033_fc3a704c-1b4b-4765-a759-2d1b242e31f8.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_5196.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_5143_688a4717-f689-4964-bfde-82f62ca5a538.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_5011_a1d7dd44-6f31-4d32-9681-61c109473493.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_5006_16da02d9-d4ce-4e96-90eb-e9d05242d061.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_5029.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_5197.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_5165_b15a6948-0ffd-4a21-ad97-df9ada926469.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Black",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": "undisclosed",
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-solara-midi-skirt-black-stripe",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Solara Midi Skirt Black Stripe",
+    "price": 39,
+    "url": "https://www.vrggrl.com/products/solara-midi-skirt-black-stripe",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_0586copy.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_0586copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_0562copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_0579copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_0642copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_0565.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_0569copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_0552copy.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.05.26_VRGGRL_0559copy.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-thalia-midi-skirt-chocolate",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Thalia Midi Skirt Chocolate",
+    "price": 75,
+    "url": "https://www.vrggrl.com/products/thalia-midi-skirt-chocolate",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_0879_24fa9358-849e-4f6e-9f79-5b7da331ad49.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_0879_24fa9358-849e-4f6e-9f79-5b7da331ad49.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_0898.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_1231_73f656b6-eca2-47c7-ac86-99831b04d81c.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_1008_12140f9d-5051-434e-b4d5-cb1a45d33c79.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_0906_7a61bc59-81dc-426a-b149-579afe76629d.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_0927_8b075008-3c8e-41fc-9c65-da1569341a58.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2025.11.26_VRGGRL_0910_7ccbf058-03f8-4f39-b2c4-4b48cf3f0009.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "Chocolate",
+    "shell": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "lining": null,
+    "isNew": true,
+    "tags": []
+  },
+  {
+    "id": "vrg-grl-violette-linen-midi-skirt-white",
+    "retailer": "Vrg Grl",
+    "brand": "Vrg Grl",
+    "name": "Violette Linen Midi Skirt White",
+    "price": 70,
+    "url": "https://www.vrggrl.com/products/violette-linen-midi-skirt-white",
+    "image": "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.01.19_VRGGRL_0880.jpg?width=600",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.01.19_VRGGRL_0880.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.02.10_VRGGRL_16811.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.01.19_VRGGRL_0828.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.01.19_VRGGRL_0846.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.01.19_VRGGRL_0872.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.01.19_VRGGRL_0904.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.01.19_VRGGRL_0921.jpg?width=600",
+      "https://cdn.shopify.com/s/files/1/2682/6366/files/2026.01.19_VRGGRL_0924.jpg?width=600"
+    ],
+    "category": "Skirts",
+    "colour": "White",
+    "shell": [
+      [
+        "Linen",
+        100
+      ]
+    ],
+    "lining": [
+      [
+        "Cotton",
+        100
+      ]
+    ],
+    "isNew": true,
+    "tags": []
   }
 ]
