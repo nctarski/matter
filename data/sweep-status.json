@@ -350,31 +350,22 @@
    "brand": "DISSH",
    "method": "shopify-json",
    "cadence": "regular",
-   "status": "partial",
-   "cursor": {
-    "method": "products.json (2,509 products 2026-10-30), USD from the product page ld+json offer",
-    "resume": "re-pull products.json and stage passing pieces not yet in data/seen/dissh.json",
-    "heldPassing": 12
-   },
-   "lastSweep": "2026-10-30",
+   "status": "done",
+   "cursor": null,
+   "lastSweep": "2026-11-01",
    "lastDelta": null,
-   "note": "2026-10-30: products.json at dissh.com; composition is a bullet in body_html (\"Sleeveless 100% cotton top\"), present for 215 of 1,340 in-stock clothing pieces; the other 1,125 recorded as no-composition. USD price from the product page offers. 157 staged before the 450 photo limit; 12 passing pieces held and not recorded. Not recorded on purpose: 46 with lace trim, sheer underlayers, contrast parts or a blend in the title. Internal or removable slip lining stored as undisclosed. Accessories, shoes and swim out of scope."
+   "note": "2026-10-30: products.json at dissh.com; composition is a bullet in body_html (\"Sleeveless 100% cotton top\"), present for 215 of 1,340 in-stock clothing pieces; the other 1,125 recorded as no-composition. USD price from the product page offers. 157 staged before the 450 photo limit; 12 passing pieces held and not recorded. Not recorded on purpose: 46 with lace trim, sheer underlayers, contrast parts or a blend in the title. Internal or removable slip lining stored as undisclosed. Accessories, shoes and swim out of scope. 2026-11-01: re-pulled products.json (2,509). Staged 31 (12 held from 10-30 plus new arrivals) in round-2026-11-01-nightly, 4 out of scope. 25 still not recorded on purpose (lace trim, sheer underlayers, internal slip or skirt layers, a blend in the title, one with no fiber named). Sold-out pieces not recorded."
   },
   {
    "order": 33,
    "brand": "Khaite",
    "method": "shopify-page",
    "cadence": "regular",
-   "status": "partial",
-   "cursor": {
-    "method": "products.json (869 products 2026-10-31); composition is the variant option named Material (e.g. 100%CASHMERE, 98%COTTON,2%ELASTANE), no lining text anywhere on the page",
-    "resume": "re-pull products.json and stage clothing not yet in data/seen/khaite.json once the review page has room",
-    "heldPassing": 290,
-    "heldUnparsed": 25
-   },
-   "lastSweep": "2026-10-31",
+   "status": "done",
+   "cursor": null,
+   "lastSweep": "2026-11-01",
    "lastDelta": null,
-   "note": "2026-10-31: swept while the review page was full (450 of 450 photos pending), so only negative outcomes were recorded: 497 out of scope (bags, shoes, belts, accessories, gift card), 57 under the fiber rule. 290 passing clothing pieces held, not recorded. 25 with SELF/LINING/COMBO codes or abbreviations (70%WS/30%SE, 100%HAIRCALF) held for a closer read. Khaite publishes no lining fiber, so lined coats and leather pieces need lining 'undisclosed' only where the page says lined."
+   "note": "2026-10-31: swept while the review page was full (450 of 450 photos pending), so only negative outcomes were recorded: 497 out of scope (bags, shoes, belts, accessories, gift card), 57 under the fiber rule. 290 passing clothing pieces held, not recorded. 25 with SELF/LINING/COMBO codes or abbreviations (70%WS/30%SE, 100%HAIRCALF) held for a closer read. Khaite publishes no lining fiber, so lined coats and leather pieces need lining 'undisclosed' only where the page says lined. 2026-11-01: staged 246 in round-2026-11-01-nightly; 8 rejected (Ellen Hoodie; argyle Timi, Lisa x2, Marcela, Rita, Timi Embroidery, Tammy). Not recorded on purpose: 18 jeans listing 2% POLYURETHANE (not in the fiber taxonomy, needs Natalie: store as Elastane or skip), 15 with SELF/LINING/COMBO codes or abbreviations (70%WS/30%SE, Shellar, Callum haircalf, Nara, Abigail Stretch Lansing, Loxley Black, Emmylou trim), 28 sold out. LAMB read as Leather when the description says lambskin or leather, Shearling when the name says shearling. HAIRCALF and CALFSKIN stored as Leather. Linings only where the page names them (cupro, silk habotai), undisclosed for twill or quilted lining with no fiber."
   },
   {
    "order": 34,
@@ -384,14 +375,17 @@
    "status": "partial",
    "cursor": {
     "method": "products.json at www.therow.com (2,693 products 2026-10-31); composition from the product page Details block (between ' Details ' and 'Size & Fit'), lining as 'Fully lined in' / 'Half-lined in'",
-    "resume": "stage women's clothing (tag DIV_WOMEN'S RTW) not yet in data/seen/the-row.json once the review page has room",
-    "heldPassing": 391,
-    "heldComplex": 6,
+    "resume": "re-pull products.json, take in-stock women's clothing (tag DIV_WOMEN'S RTW) not in data/seen/the-row.json, in products.json order",
+    "readThrough": 240,
+    "inStockNotInLedger": 349,
+    "heldPassing": 64,
+    "notYetRead": 109,
+    "heldComplex": 2,
     "errors": 1
    },
-   "lastSweep": "2026-10-31",
+   "lastSweep": "2026-11-01",
    "lastDelta": null,
-   "note": "2026-10-31: swept while the review page was full, so only negatives recorded: 1,962 out of scope (bags, shoes, accessories, 1,223 'Product Look' outfit pages, Galerie archive pieces), 294 men's (DIV_MEN'S RTW), 39 under the fiber rule out of 437 women's clothing pages read. 391 passing pieces held, not recorded; 6 held for a closer read (Baby Cashmere, Sheepskin/Lambskin Suede, two-part 'Virgin Wool; Silk'); 1 fetch error (corzas-top-blue-1)."
+   "note": "2026-10-31: swept while the review page was full, so only negatives recorded: 1,962 out of scope (bags, shoes, accessories, 1,223 'Product Look' outfit pages, Galerie archive pieces), 294 men's (DIV_MEN'S RTW), 39 under the fiber rule out of 437 women's clothing pages read. 391 passing pieces held, not recorded; 6 held for a closer read (Baby Cashmere, Sheepskin/Lambskin Suede, two-part 'Virgin Wool; Silk'); 1 fetch error (corzas-top-blue-1). 2026-11-01: read 240 of 349 in-stock pages not yet in the ledger, staged the first 173 passing in round-2026-11-01-nightly until the 450 photo limit. 64 passing pieces after those held, not recorded. 2 with two-part linings held (Everly Coat top cupro / lower wool, Ina Coat silk; cotton). Baby Cashmere stored as Cashmere, Calfskin Leather as Leather. corzas-top-blue-1 still has no Details block."
   },
   {
    "order": 35,
@@ -912,7 +906,7 @@
   },
   {
    "order": 82,
-   "brand": "Sézane",
+   "brand": "S\u00e9zane",
    "method": "browse-listing",
    "cadence": "regular",
    "status": "todo",

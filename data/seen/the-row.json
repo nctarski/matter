@@ -9178,5 +9178,870 @@
  "www.therow.com/products/malika-coat-black-1": {
   "outcome": "fiber",
   "date": "2026-10-31"
+ },
+ "www.therow.com/products/quser-top-charcoal-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/gilian-shirt-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lowe-pant-red-cangiante": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/kadie-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/iverness-top-grey-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/dinni-jean-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lander-coat-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lowe-pant-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/kanan-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/drava-top-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/enuko-coat-dark-brown": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/katune-shirt-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/imora-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/olmi-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/birte-dress-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/keone-coat-brown": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/celar-pant-dark-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/piro-top-charcoal-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/recan-top-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/olmi-top-sand": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/imma-jean-off-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/tartu-top-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/kloe-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/elor-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/olti-top-charcoal-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/olti-top-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/archa-coat-light-taupe": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lew-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/imma-jean-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/ciro-jacket-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/fela-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lowe-pant-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/izor-shirt-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/clemente-shirt-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/dinni-jean-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/camron-top-white-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lew-skirt-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/keone-coat-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/arp-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/leith-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/koji-top-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/ludao-shirt-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/torin-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/gaile-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/kenton-pant-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/celinde-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/azurine-coat-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/kenton-pant-off-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/ayana-coat-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lorraine-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/leith-top-brown": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/aura-dress-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/torin-top-sand": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/neva-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/noli-cardigan-charcoal-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/imma-jean-bone": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/piro-top-brown": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lapina-shirt-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/iverness-top-natural": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/luka-shirt-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/faustina-dress-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/ale-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/evette-shirt-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/ophelia-top-sand-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/ophelia-top-grey-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/ophelia-top-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/ophelia-top-blue-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/corzas-top-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/stepny-top-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/stepny-top-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pleno-top-medium-grey-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/bakura-skirt-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/kriza-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/duca-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/aida-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pruce-top-brown-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/purin-top-brown-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pato-top-grey-taupe": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/donata-coat-coffee": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/gavina-shirt-white-blue-stripe": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/parvi-pants-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/catena-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/phora-top-grey-taupe": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/parth-top-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/birket-top-grey-sepia": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/emma-coat-grey-taupe": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/gala-pant-black-5": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/cove-jacket-dark-charcoal": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/birket-top-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/phef-top-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pelagia-cardigan-grey-taupe": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/elisa-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pato-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/iverness-top-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/phef-top-brown": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/ciel-coat-brown-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/bamira-coat-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/birket-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/phora-top-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/gavina-shirt-white-2": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/cosmo-short-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/paru-dress-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/kriza-pant-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/kelta-top-off-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/piane-top-off-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/donata-coat-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/coleman-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/eglitta-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pihla-top-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/keiran-coat-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pauli-top-brown-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/iza-coat-dark-brown": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/priit-top-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pauli-top-purple": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/poesis-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/duvan-pant-grey-taupe": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pelagia-cardigan-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/plira-top-grey-taupe": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/gala-pant-black-6": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/elana-top-grey-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/daniela-pant-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/gemma-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/poynta-cardigan-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/dinni-pant-brown-linen": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/daniela-pant-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lind-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/elana-top-grey-sepia": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/alena-top-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/iverness-top-black-3": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/basso-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/catalina-top-off-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/emma-coat-miscellaneous": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/benka-jacket-beige": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/adler-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/bamira-coat-brown-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/berit-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/cyra-dress-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/dera-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/duvan-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/duvan-pant-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lula-top-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/parth-top-leaf": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pato-top-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/phora-top-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/plira-top-grey": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/pruce-top-medium-grey-melange": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/riaco-jean-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lula-top-ivory": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/joma-dress-dark-brown": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/adalet-top-light-blue-stripe": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/javier-dress-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/dottie-top-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/eryn-top-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/berit-pant-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/kensington-top-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/lavinia-top-sepia": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/fadry-pant-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/cendrea-top-white-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/fini-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/otie-cardigan-dark-blue": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/fima-jean-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/fima-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/odelle-top-anthracite": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/odelle-top-522": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/dantea-top-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/julen-dress-white": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/dantea-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/oashi-top-anthracite": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/amapola-coat-beige-overflow": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/gavina-shirt-open-blue-1": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/etina-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/oakson-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
+ },
+ "www.therow.com/products/orly-top-beige": {
+  "outcome": "staged",
+  "date": "2026-11-01",
+  "round": "round-2026-11-01-nightly.json"
  }
 }
