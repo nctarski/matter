@@ -376,27 +376,37 @@
    "cursor": {
     "method": "products.json at www.therow.com (2,693 products 2026-10-31); composition from the product page Details block (between ' Details ' and 'Size & Fit'), lining as 'Fully lined in' / 'Half-lined in'",
     "resume": "re-pull products.json, take in-stock women's clothing (tag DIV_WOMEN'S RTW) not in data/seen/the-row.json, in products.json order",
-    "readThrough": 240,
+    "readThrough": 349,
     "inStockNotInLedger": 349,
-    "heldPassing": 64,
-    "notYetRead": 109,
+    "heldPassing": 173,
+    "notYetRead": 0,
     "heldComplex": 2,
-    "errors": 1
+    "errors": 1,
+    "note2026-11-02": "re-read all 376 in-stock women's pages (products.json 2,693). 176 not in the ledger: every one passes or is held for a closer read; no new negatives. Waiting on review page room to stage."
    },
    "lastSweep": "2026-11-01",
    "lastDelta": null,
-   "note": "2026-10-31: swept while the review page was full, so only negatives recorded: 1,962 out of scope (bags, shoes, accessories, 1,223 'Product Look' outfit pages, Galerie archive pieces), 294 men's (DIV_MEN'S RTW), 39 under the fiber rule out of 437 women's clothing pages read. 391 passing pieces held, not recorded; 6 held for a closer read (Baby Cashmere, Sheepskin/Lambskin Suede, two-part 'Virgin Wool; Silk'); 1 fetch error (corzas-top-blue-1). 2026-11-01: read 240 of 349 in-stock pages not yet in the ledger, staged the first 173 passing in round-2026-11-01-nightly until the 450 photo limit. 64 passing pieces after those held, not recorded. 2 with two-part linings held (Everly Coat top cupro / lower wool, Ina Coat silk; cotton). Baby Cashmere stored as Cashmere, Calfskin Leather as Leather. corzas-top-blue-1 still has no Details block."
+   "note": "2026-10-31: swept while the review page was full, so only negatives recorded: 1,962 out of scope (bags, shoes, accessories, 1,223 'Product Look' outfit pages, Galerie archive pieces), 294 men's (DIV_MEN'S RTW), 39 under the fiber rule out of 437 women's clothing pages read. 391 passing pieces held, not recorded; 6 held for a closer read (Baby Cashmere, Sheepskin/Lambskin Suede, two-part 'Virgin Wool; Silk'); 1 fetch error (corzas-top-blue-1). 2026-11-01: read 240 of 349 in-stock pages not yet in the ledger, staged the first 173 passing in round-2026-11-01-nightly until the 450 photo limit. 64 passing pieces after those held, not recorded. 2 with two-part linings held (Everly Coat top cupro / lower wool, Ina Coat silk; cotton). Baby Cashmere stored as Cashmere, Calfskin Leather as Leather. corzas-top-blue-1 still has no Details block. 2026-11-02: review page still full (450 of 450 pending, none reviewed), nothing staged. Re-read all in-stock women's pages: the 176 not in the ledger are 173 passing pieces held (not recorded), Everly and Ina coats (two-part linings) and corzas-top-blue-1 (no Details block). Every page now read; The Row is done once the 173 are staged."
   },
   {
    "order": 35,
    "brand": "Toteme",
    "method": "shopify-page",
    "cadence": "regular",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
+   "status": "partial",
+   "cursor": {
+    "method": "products.json at toteme.com/en-us (1,564 products 2026-11-02; prices in USD, final-sale prices are low but real). Composition is in the product page Details block, from the first 'NN%' to the care line (Dry clean, Cool hand wash, Specialist clean); parts after ';' are trim, lining, filling. Strip certification words (RWS, GRS, OCS, GOTS, LENZING). Ledger key toteme.com/en-us/products/<handle>.",
+    "resume": "in-stock women's clothing (tag 'gender: womenswear', product_type not an accessory type) not in data/seen/toteme.json, in products.json order",
+    "inStockWomensClothing": 666,
+    "readThrough": 230,
+    "heldPassing": 112,
+    "heldUnparsed": 8,
+    "errors": 1
+   },
+   "lastSweep": "2026-11-02",
    "lastDelta": null,
-   "note": ""
+   "note": "2026-11-02: swept while the review page was full (450 of 450 pending), so only negatives recorded: 650 out of scope (bags, shoes, jewellery, scarves, hats, belts, gloves, socks, sunglasses, swimwear, ties, towels, small leather goods), 75 men's, 110 under the fiber rule (mostly viscose, recycled polyester and wool/polyamide blends). Read 230 of 666 in-stock women's clothing pages: 112 passing held, not recorded; 8 not recorded because the composition did not parse cleanly ('other fibers', 'cotton organic' word order, lyocell trademark sign); classic-compact-knit-cardigan-black returned 404. 28 products with a blank product_type and sold-out clothing not recorded. Product pages fetch fine from a toteme.com tab.",
+   "domain": "toteme.com"
   },
   {
    "order": 36,
@@ -906,7 +916,7 @@
   },
   {
    "order": 82,
-   "brand": "S\u00e9zane",
+   "brand": "Sézane",
    "method": "browse-listing",
    "cadence": "regular",
    "status": "todo",

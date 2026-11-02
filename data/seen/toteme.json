@@ -1,0 +1,3342 @@
+{
+ "toteme.com/en-us/products/medium-pony-hair-day-tote-tiger": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/floral-signature-monogram-scarf-ivory-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/flap-pocket-trousers-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-evening-trousers-black-2": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bead-embroidered-earrings-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bar-mid-heel-naplack-boots-ash": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cutout-python-embossed-mules-black-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-slim-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cinched-pocket-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/log-booties-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cocktail-bead-embroidered-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/tuxedo-loafers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/knit-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shearling-over-the-knee-flat-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/big-t-lock-leather-slim-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fivefold-glossed-leather-shoulder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bar-mid-heel-naplack-boots-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cocktail-naplack-bag-cherry": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-croco-embossed-day-tote-cherry": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-loafer-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fine-t-shirt-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/handknit-socks-white-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rib-crew-off-white": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/liner-jacket-blue": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fine-t-shirt-navy": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/relaxed-denim-vintage-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cotton-silk-sweatshirt-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fine-crew-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fine-t-shirt-white": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/raglan-cable-turtleneck-brown-melange": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shearling-flight-jacket-dark-brown": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lived-in-crew-rose": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/denim-jacket-bleach-vintage": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/relaxed-denim-mid-vintage": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/car-jacket-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-double-faced-crew-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/raglan-cable-turtleneck-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/relaxed-trousers-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/tuxedo-shirt-white-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/handknit-socks-black-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/winter-parka-off-white": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lace-up-leather-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fine-crew-grey-melange": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lace-up-suede-boots-ochre": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cotton-silk-sweatshirt-grey-melange": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-double-faced-crew-grey-melange": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/boxy-db-jacket-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/men-tuxedo-shirt-white": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/kick-trousers-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sleeve-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-pony-hair-day-tote-zebra": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/nappa-mid-heel-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/nappa-mid-heel-boots-bark": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/base-coat-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rib-cashmere-beanie-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/casual-shirt-black-grey": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/camel-hair-crew-camel": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/wool-scarf-grey-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/dot-tie-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/casual-pocket-shirt-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rib-cashmere-beanie-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/raglan-cable-crew-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/raglan-crew-black-white": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/wool-scarf-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/wool-scarf-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/raglan-crew-ecru-navy": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/raglan-cable-crew-almond": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/wool-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cable-cardigan-dark-navy": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/relaxed-coat-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cable-cardigan-red": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rib-cashmere-beanie-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/relaxed-trousers-charcoal-melange": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rib-cashmere-beanie-grey-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rib-cashmere-beanie-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-sb-flannel-jacket-charcoal-melange": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/dot-tie-burgundy": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slouch-blouse-dark-green": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-python-embossed-clutch-black-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-palmellato-patent-cardholder-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-palmellato-patent-wallet-cherry": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-palmellato-patent-cardholder-cherry": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-nappa-loafers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculptural-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lounge-trousers-rock": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculptural-skirt-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cocoon-crepe-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/curved-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lounge-trousers-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cowl-neck-blouse-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cowl-neck-blouse-black-1": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-jersey-turtleneck-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/ribbed-bow-blouse-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scarf-lapel-blazer-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-brushed-wool-scarf-grey-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/jersey-sleeve-scarf-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/jersey-sleeve-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-tassel-scarf-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-brushed-wool-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-headband-grey-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lambswool-beanie-almond": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/extra-long-leather-gloves-bordeaux": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-headband-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lambswool-beanie-vintage-blue": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lambswool-beanie-sage": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-nappa-ankle-boots-bark": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sharp-pony-hair-kitten-pumps-tiger": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-tassel-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/ribbed-bow-blouse-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/high-waist-trousers-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-nappa-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-pony-hair-ballerinas-zebra": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-pony-hair-ballerinas-tiger": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-python-embossed-clutch-black-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/roam-goat-hair-tote-black-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/leather-gloves-bordeaux": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-t-shirt-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cable-cardigan-grey-melange": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/check-scarf-white-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/straight-denim-vintage-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/dot-tie-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scarf-peacoat-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-t-shirt-white": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/robe-double-coat-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-croco-embossed-loafers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/2-5cm-classic-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shell-jacket-red": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stockholm-bandana-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/square-sunglasses-dark-havana": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-crew-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/leather-weekender-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/raglan-crew-pale-blue-white": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/zip-hoodie-washed-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scarf-cardigan-grey-melange": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/square-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/relaxed-double-coat-dark-navy": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shrunk-shirt-white-cobalt": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shrunk-shirt-blue-white": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/casual-shirt-white-cobalt-blue": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/zip-hoodie-red": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/straight-denim-white": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/liner-jacket-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/peacoat-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/men-fringed-scarf-jacket-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shield-sunglasses-dark-havana": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/zip-leather-jacket-brown": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/casual-pocket-shirt-white": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stockholm-bandana-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/liner-jacket-mustard": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/trench-hazel": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/denim-jacket-indigo": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/boxy-db-jacket-navy": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shield-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/kick-trousers-navy": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/straight-denim-mid-vintage": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-weekender-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/relaxed-double-coat-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scarf-cardigan-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/straight-denim-deep-indigo": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/straight-denim-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/camel-hair-crew-brown-melange": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shell-jacket-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/kick-denim-mid-vintage": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/2-5cm-classic-belt-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/zip-leather-jacket-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/kick-denim-vintage-black": {
+  "outcome": "not-womens",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/moccasin-croco-embossed-loafers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/moccasin-loafer-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/nappa-over-the-knee-boots-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/extra-long-leather-gloves-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scarf-lapel-blazer-taupe-melange": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/asymmetric-draped-cady-blouse-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/asymmetric-scarf-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-leggings-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/elongated-byzantine-necklace-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/double-pleat-fluid-trousers-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/high-waist-trousers-taupe-melange": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bar-python-embossed-mules-black-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/strapless-balloon-dress-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/leather-cashmere-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-palmellato-patent-wallet-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/elongated-byzantine-necklace-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-jersey-top-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/micro-blazer-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slouch-waist-dress-dark-green": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/nappa-over-the-knee-boots-bark": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/long-knit-skirt-fondante": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-suede-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-leather-shoulder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-belted-suede-tote-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-belted-suede-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-mercer-nubuck-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-palmellato-patent-shoulder-cherry": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mercer-nubuck-tote-rock": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-belted-grained-leather-tote-cashew": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-belted-grained-leather-tote-cashew": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/tee-knit-fondante": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mercer-leather-tote-stone-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-belted-suede-tote-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-belted-suede-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-ostrich-embossed-crossbody-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-mercer-nubuck-tote-rock": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-suede-ankle-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-palmellato-patent-cardholder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-jersey-ballerinas-grey-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-suede-ankle-boots-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-suede-mules-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-nappa-mules-bark": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/flex-nappa-sneakers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/tigers-eye-drop-necklace-honey-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-ostrich-embossed-cardholder-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-bracelet-silver-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/tigers-eye-drops-honey-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-nappa-mules-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-stripe-bracelet-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-tigers-eye-drop-necklace-honey-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/flex-nappa-sneakers-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fine-silk-scarf-collar-ecru-black-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-suede-mules-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-stripe-hoops-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-collar-silver-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/long-sleeve-everyday-dress-black-2": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculpted-knit-dress-sage": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/gathered-parachute-coat-rock": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/gathered-parachute-coat-black-2": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rounded-peacoat-grey-melange": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fine-v-neck-knit-fondante": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculptural-scuba-top-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fitted-ribbed-top-off-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fitted-ribbed-top-sage": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/jersey-sleeve-scarf-grey-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lightweight-wool-shirt-washed-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/high-waist-trousers-washed-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lightweight-wool-shirt-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/varsity-wool-jacket-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-ostrich-embossed-shoulder-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/ribbed-waist-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-ostrich-embossed-wallet-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-palmellato-patent-shoulder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slouch-waist-scarf-dress-fawn": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-ostrich-embossed-crossbody-bordeaux": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-jersey-pumps-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-palmellato-patent-wallet-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-mercer-leather-tote-black-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-naplack-pumps-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-patent-crossbody-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scarf-nappa-slingbacks-cashew": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/silk-scarf-collar-ecru-black-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/crepe-turtleneck-top-off-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/crepe-turtleneck-top-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/asymmetric-draped-blouse-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rounded-peacoat-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculpted-knit-dress-off-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slouch-waist-scarf-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculpted-knit-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/ribbed-waist-skirt-off-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculptural-short-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/silk-scarf-collar-faded-black-black-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/silk-scarf-bracelet-faded-black-black-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scarf-naplack-slingbacks-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slit-scuba-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/high-waist-trousers-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scarf-nappa-slingbacks-black-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/silk-scarf-bracelet-ecru-black-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-naplack-pumps-cherry": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pierced-nappa-pumps-cashew": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pierced-nappa-pumps-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/deconstructed-stretch-nappa-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-jersey-ballerinas-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-naplack-pumps-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mercer-nubuck-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-mercer-leather-tote-stone-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-crossbody-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-ostrich-embossed-shoulder-bordeaux": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-python-embossed-crossbody-black-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-palmellato-patent-shoulder-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mercer-leather-tote-black-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-nappa-ballerinas-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/short-sleeve-jersey-top-pale-grey-melange": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/jersey-drawstring-trousers-pale-grey-melange": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/summer-parachute-jacket-overcast-beige": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/centered-monogram-silk-scarf-sky": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fluid-drawstring-trousers-talc": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-nappa-ankle-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/everyday-top-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/everyday-top-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slouch-waist-dress-sky": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pointelle-knit-swimsuit-washed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pointelle-monogram-headband-washed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-knit-buttoned-top-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-knit-buttoned-top-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-compact-knit-tank-walnut": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-satin-tunic-violet": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/draped-scarf-blouse-desert": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/oversized-striped-shirt-yellow-sky": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fluid-satin-trousers-violet": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculpted-collar-bonfire": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculpted-collar-buttercup": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/paper-sun-hat-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-lizard-embossed-cardholder-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-nappa-ankle-boots-chai": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/tee-knit-desert": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/long-sleeve-tee-knit-desert": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-lizard-embossed-wallet-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-knit-v-neck-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/long-knit-skirt-desert": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-top-handle-champagne": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/roam-leather-tote-manuka": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-crochet-cotton-scarf-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-compact-knit-tank-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-compact-knit-tank-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-satin-tunic-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/duchess-satin-tee-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/draped-scarf-blouse-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rounded-neckline-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculpted-cuff-bonfire": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fluid-satin-trousers-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sculpted-cuff-buttercup": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-leather-clutch-champagne": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/summer-parachute-jacket-clove": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-nappa-ballerinas-desert": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-knit-v-neck-off-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-paisley-clutch-rye-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/flex-sneakers-desert-buttercup": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slouch-waist-dress-off-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-clutch-champagne": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/draped-jersey-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-rope-top-handle-pearl": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-crochet-silk-scarf-washed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pointelle-strapless-bikini-top-washed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pointelle-bikini-bottoms-washed-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slingback-satin-flip-flops-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/draped-jersey-skirt-buttercup": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-rope-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/parachute-halter-top-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/parachute-halter-top-off-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/halter-tie-swimsuit-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/balconette-bikini-top-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/u-neck-bikini-top-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/high-bikini-bottoms-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/draped-slip-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/draped-slip-dress-pale-grey-melange": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/draped-slip-dress-buttercup": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lizard-embossed-keyring-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/chevron-stripe-tee-black-green": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bevel-pony-hair-wristlet-leopard": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fil-coupe-monogram-sarong-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-bikini-top-tofu": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/parachute-trousers-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pointelle-swimsuit-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-bikini-top-sand": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/summer-woven-mules-macadamia": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/parachute-trousers-off-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/striped-sunglasses-scarf-ecru-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/twist-halter-top-cumin": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-knit-halter-top-optic-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/twist-halter-top-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-knit-halter-top-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/twist-halter-dress-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scoop-cover-up-macadamia": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/chevron-stripe-skirt-black-green": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cropped-trousers-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/beach-pareo-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/byzantine-belt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/striped-sunglasses-scarf-red-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/twist-halter-dress-cumin": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-bar-suede-sandals-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-bar-suede-sandals-desert": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/summer-pony-hair-mules-leopard": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cropped-trousers-white": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pointelle-bikini-top-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pointelle-bikini-bottoms-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-bikini-bottoms-tofu": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-flap-woven-envelope-natural-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/satin-shirtdress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-bikini-bottoms-sand": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/velvet-venetian-slippers-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/summer-woven-mules-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/collector-scarf-cream-daffodil": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/beach-pareo-desert": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/woven-beach-tote-black-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/beach-tote-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/collector-sarong-cream-daffodil": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slingback-satin-flip-flops-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shield-aviator-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shield-aviator-sunglasses-dark-havana": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/voyager-sunglasses-dark-havana": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/voyager-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cateye-sunglasses-dark-havana": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cateye-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/crisp-summer-trench-taupe": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/duchess-satin-pencil-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/woven-stripe-drawstring-trousers-meringue-1": {
+  "outcome": "fiber",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-naplack-clutch-flamingo": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/linen-sarong-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-shoulder-fawn": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/flex-sneakers-off-white-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lace-scarf-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lace-sarong-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/balconette-bikini-top-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/u-neck-bikini-top-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/high-bikini-bottoms-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-diamond-studs-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/infinity-bead-necklace-glacier": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-belted-paper-tote-ecru-vanilla": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-canvas-top-handle-beige-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/lizard-embossed-lipstick-case-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-belted-paper-tote-ecru-vanilla": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-belted-paper-tote-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-belted-paper-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-croco-embossed-clutch-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-belted-paper-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-croco-embossed-clutch-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-lizard-embossed-clutch-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-bikini-bottoms-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/platform-suede-sandals-black-tan": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-strapless-bikini-top-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-tie-bikini-top-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-lizard-embossed-crossbody-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-strap-nappa-sandals-white-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-tie-bikini-bottoms-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-swimsuit-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-strapless-swimsuit-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/linen-sarong-buttercup": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/linen-sarong-sky": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/halter-tie-swimsuit-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-jade-drop-necklace-dark-green-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/jade-drops-dark-green-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-diamond-studs-silver-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/crystal-drop-necklace-white-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-lizard-embossed-bandeau-slides-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-diamond-bracelet-white-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/crystal-drops-white-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-diamond-bracelet-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-belted-grained-leather-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/naplack-flip-flops-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/beach-tote-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/leather-lipstick-case-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-lizard-embossed-bandeau-mules-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/beach-tote-ecru-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/centered-monogram-silk-scarf-macadamia": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contoured-lizard-embossed-flip-flops-beige-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-naplack-slingbacks-buttercup": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-naplack-ballerinas-buttercup": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-strap-nappa-sandals-desert-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/naplack-flip-flops-buttercup": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/naplack-heeled-flip-flops-buttercup": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/jade-drop-necklace-dark-green-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/centered-monogram-silk-scarf-walnut": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/embroidered-monogram-silk-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/embroidered-monogram-silk-scarf-ivory": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/embroidered-monogram-silk-scarf-cream": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-croco-embossed-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-shoulder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-belted-grained-leather-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-canvas-clutch-beige-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-onyx-drop-necklace-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-lizard-embossed-top-handle-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-belted-paper-tote-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-lizard-embossed-slingbacks-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-crystal-drop-necklace-white-gold-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-paper-tote-ecru-vanilla": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-lizard-embossed-bandeau-slides-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-rope-clutch-pearl": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-strap-nappa-sandals-red-desert": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-strap-nappa-sandals-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-nappa-slingbacks-desert": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contoured-naplack-flip-flops-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-lizard-embossed-bandeau-mules-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-rope-top-handle-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scoop-bikini-top-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scoop-swimsuit-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scoop-swimsuit-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scoop-bikini-top-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scoop-bikini-bottoms-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/scoop-bikini-bottoms-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/studded-velvet-slides-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-paper-raffia-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-paper-raffia-tote-natural": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/studded-leather-slides-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-flip-flops-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slingback-naplack-mary-janes-flamingo": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-heeled-flip-flops-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/threefold-croco-embossed-clutch-tangerine": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-flip-flops-tangerine": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-heeled-flip-flops-tangerine": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-heeled-flip-flops-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/ribbed-bikini-bottom-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/ribbed-bikini-bottom-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/ribbed-strapless-bikini-top-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/ribbed-strapless-bikini-top-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/ribbed-strapless-swimsuit-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/ribbed-strapless-swimsuit-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-swimsuit-light-hay": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-top-handle-camel-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/infinity-bead-necklace-bloom": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/infinity-bead-necklace-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/infinity-bead-necklace-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slingback-patent-mary-janes-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/infinity-bead-necklace-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-flip-flops-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/alpaca-knit-beanie-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slingback-satin-mary-janes-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/threefold-croco-embossed-clutch-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/threefold-croco-embossed-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/threefold-croco-embossed-clutch-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-grained-leather-bucket-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-woven-leather-clutch-fawn": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-naplack-slingbacks-flamingo": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rope-drop-earrings-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-leather-wallet-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rope-drop-earrings-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rope-hoops-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-polished-leather-top-handle-cashew": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rope-hoops-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rope-drop-earrings-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-woven-leather-tote-fawn": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-nappa-pumps-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-woven-leather-top-handle-fawn": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-woven-leather-clutch-black-sand": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-naplack-pumps-cashew": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-leather-cardholder-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-leather-shoulder-cashew": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-grained-leather-bucket-bag-tan": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-woven-leather-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-woven-leather-clutch-fawn": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-leather-shoulder-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-leather-top-handle-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-leather-clutch-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/roam-leather-tote-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-naplack-ballerinas-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/flex-suede-sneakers-umber": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/flex-suede-sneakers-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-grained-leather-top-handle-sienna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-grained-leather-top-handle-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-croco-embossed-top-handle-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rope-lariat-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/flex-suede-sneakers-copper": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/roam-leather-tote-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/big-leather-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-croco-embossed-top-handle-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/clip-croco-embossed-top-handle-dark-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-naplack-slingbacks-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-naplack-pumps-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-suede-ballerinas-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rope-lariat-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/contour-naplack-slingbacks-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/roam-leather-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slip-naplack-ballerinas-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/roam-leather-tote-stone": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-leather-shoulder-tan": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-leather-shoulder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-leather-shoulder-milk": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-box-leather-day-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-socks-macadamia": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-leather-clutch-bark": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-navigators-sunglasses-havana": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-leather-clutch-camel": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-traveler-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/crew-socks-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/crew-socks-dark-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/brushed-cashmere-beanie-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/crew-socks-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/brushed-cashmere-gloves-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/winter-blanket-scarf-navy-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-scarf-red": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/wool-cashmere-lounge-slippers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/loafer-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/frayed-satin-lounge-slippers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-frayed-satin-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-passport-holder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-socks-light-grey": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-leather-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/downtown-shearling-boots-black-beige": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/diamond-lace-drops-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bar-leather-mules-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-pony-hair-clutch-wine": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-pony-hair-top-handle-wine": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-jacquard-scarf-black-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-pony-hair-clutch-wine": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sport-sneakers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-leather-cross-body-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-suede-satchel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/day-nappa-knee-high-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/downtown-nappa-knee-high-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/diamond-lace-studs-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/infinity-pearl-choker-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-croco-embossed-slingbacks-dark-brown-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cocktail-naplack-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/infinity-pearl-necklace-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bi-color-chain-silver-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/downtown-nappa-knee-high-boots-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-collar-beige-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-twill-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-twill-scarf-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-bracelet-beige-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-pony-hair-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-pony-hair-bucket-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bevel-pony-hair-bag-leopard": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-twill-scarf-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-pony-hair-bucket-bag-leopard": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-pony-hair-clutch-leopard": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-neck-warmer-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-gloves-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-beanie-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-scarf-charcoal": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/checked-cashmere-scarf-midnight-green": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-winter-scarf-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-winter-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/zipped-croco-embossed-chelsea-boots-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-croco-embossed-day-pouch-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/small-croco-embossed-day-pouch-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-grained-leather-day-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-suede-ankle-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/velvet-loafers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/grained-leather-loafers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/zipped-leather-chelsea-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sharp-suede-kitten-pumps-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/zipped-suede-chelsea-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-croco-embossed-t-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-naplack-ankle-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/soft-croco-embossed-t-clutch-biscuit": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/medium-croco-embossed-day-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/sharp-nappa-kitten-pumps-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/petite-signature-hoops-beige-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fold-down-shearling-boots-pepper": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cashmere-headband-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/grained-leather-ankle-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/fold-down-shearling-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/byzantine-bracelet-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/byzantine-collar-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-suede-top-handle-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-suede-tote-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-bracelet-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-collar-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-wallet-tan": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/byzantine-bracelet-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/wedge-heel-pony-hair-slingbacks-leopard": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/petite-signature-hoops-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-suede-bucket-bag-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/petite-signature-hoops-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-grained-leather-cardholder-tan": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/forzatina-necklace-18kt-white-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-suede-clutch-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-suede-bucket-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-satchel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-naplack-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/glossy-leather-boots-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/byzantine-collar-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/byzantine-bracelet-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-woven-leather-clutch-black-sand": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-woven-leather-top-handle-black-sand": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/light-wool-blanket-scarf-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-heeled-flip-flops-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/velvet-venetian-slippers-saffron": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-beach-towel-black-tofu": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-heeled-flip-flops-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-knit-headband-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pointelle-swimsuit-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pointelle-bikini-bottoms-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/paper-sun-hat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pillow-tofu": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/compact-knit-headband-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pointelle-bikini-bottoms-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/collector-scarf-ecru-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/collector-sarong-ecru-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pointelle-bikini-top-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-headband-tofu": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pointelle-swimsuit-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-pointelle-bikini-top-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/paper-sun-hat-honey": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-flap-envelope-ecru": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-clutch-pearl": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/beach-tote-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-diamond-studs-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-diamond-bracelet-red-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-diamond-bracelet-beige-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-t-lock-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/mini-diamond-bracelet-blue-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/thin-suede-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/byzantine-collar-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/thin-croco-embossed-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/onyx-drops-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pebble-belt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/large-onyx-drop-necklace-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/onyx-drop-necklace-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/woven-leather-belted-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-strapless-bikini-top-ecru-straw": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-strapless-swimsuit-ecru-straw": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-bikini-bottoms-ecru-straw": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-suede-top-handle-tobacco": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/forzatina-bracelet-18kt-white-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/forzatina-bracelet-18kt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/forzatina-necklace-18kt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-woven-leather-top-handle-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-woven-leather-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-suede-clutch-tobacco": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pebble-studs-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pebble-bracelet-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-asymmetric-ballerina-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/checked-light-wool-scarf-ecru-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-day-tote-dark-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/croco-embossed-flip-flops-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/minimalist-suede-ballerinas-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/grained-leather-day-tote-dark-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/light-wool-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/light-wool-scarf-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/velvet-venetian-slippers-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-croco-embossed-belt-chocolate": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/suede-day-tote-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/light-wool-scarf-hazel": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-leather-slingbacks-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-shearling-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/crew-neck-chain-18kt-white-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/eternity-diamond-midi-ring-18kt-white-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/diamond-chain-ring-18kt-white-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/diamond-chain-ring-18kt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/diamond-chain-bracelet-18kt-white-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/diamond-chain-bracelet-18kt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bezel-diamond-hoops-18kt-white-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/wide-classic-wool-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/wide-classic-wool-scarf-mid-grey-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-cardholder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pony-hair-belt-sand": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-wallet-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-pony-hair-top-handle-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pony-hair-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-clutch-camel": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-pave-ring-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-pony-hair-clutch-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-croco-embossed-wallet-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-croco-embossed-cardholder-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-pave-hoops-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-pave-bracelet-silver": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/thin-leather-trouser-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-top-handle-bark": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-croco-embossed-bucket-bag-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/rope-knot-cufflinks-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-leather-bucket-bag-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-top-handle-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-clutch-dark-brown": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-leather-clutch-bark": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-leather-bucket-bag-bark": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/pony-hair-belt-leopard": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-bracelet-chilli-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-trouser-leather-belt-black-croco-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/faux-pearl-necklace-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/long-faux-pearl-necklace-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bezel-diamond-hoops-18kt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/bezel-diamond-earring-18kt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-navigators-sunglasses-bark": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/faux-pearl-studs-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/long-jasper-necklace-black-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/jasper-studs-black-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-navigators-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-top-handle-fawn": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-clutch-fawn": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-rounds-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-tote-tan": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-squares-sunglasses-umber": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/crew-neck-chain-18kt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-hoops-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-bracelet-black-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-collar-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-hoops-ecru-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-bracelet-ecru-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-ring-ecru-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-hoops-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-bracelet-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-ring-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/eternity-diamond-midi-ring-18kt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signet-diamond-midi-ring-18kt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/cigar-diamond-midi-ring-18kt-gold": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-clutch-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-bikini-bottoms-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-strapless-bikini-top-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-strapless-bikini-top-light-hay": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-bikini-bottoms-light-hay": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-swimsuit-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-strapless-swimsuit-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-tie-bikini-bottoms-light-hay": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-tie-bikini-bottoms-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-tie-bikini-top-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-edge-strapless-swimsuit-light-hay": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/stripe-tie-bikini-top-light-hay": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-top-handle-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-trouser-leather-belt-tan": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shearling-winter-hat-black-off-white": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-trouser-leather-belt-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-tote-granite": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-city-boot-black-suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-mid-heel-leather-boot-black-croco": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-top-handle-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-tote-espresso": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-top-handle-tan-grain": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-clutch-black-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/belted-tote-black-grain": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-top-handle-black-grain-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-clutch-black-grain-1": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-clutch-milk-grain": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-clutch-tan-grain": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/slim-trouser-leather-belt-black-grain": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/t-lock-top-handle-milk-grain": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-squares-sunglasses-tortoise": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-monogram-silk-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-mid-heel-leather-boot-dark-brown-croco": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-wide-shaft-boot-dark-brown-croco": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-wool-scarf-light-grey-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-wool-scarf-camel": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/shearling-winter-hat-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-squares-sunglasses-havanna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-beach-towel-tofu": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-swimsuit-tofu": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-mid-heel-boot": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-squares-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-mid-heel-boot-black-suede": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-wool-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/classic-wool-scarf-grey-melange": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-beach-towel-navy": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-beach-towel-sand-ivory": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-flip-flop-flat-black-croco": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-swimsuit-sand": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-swimsuit-beige": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/monogram-swimsuit-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-regular-sunglasses-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/signature-monogram-silk-scarf-creme": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-regular-sunglasses-havanna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-flip-flop-heel-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-classics-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/the-classics-havanna": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/centered-monogram-silk-scarf-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/centered-monogram-silk-scarf-creme": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/double-clasp-leather-belt-croco": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ },
+ "toteme.com/en-us/products/double-clasp-leather-belt-black": {
+  "outcome": "out-of-scope",
+  "date": "2026-11-02"
+ }
+}
