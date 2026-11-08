@@ -391,20 +391,11 @@
    "brand": "Toteme",
    "method": "shopify-page",
    "cadence": "regular",
-   "status": "partial",
-   "cursor": {
-    "method": "products.json at toteme.com/en-us (1,564 products 2026-11-02; prices in USD, final-sale prices are low but real). Composition is in the product page Details block, from the first 'NN%' to the care line (Dry clean, Cool hand wash, Specialist clean); parts after ';' are trim, lining, filling. Strip certification words (RWS, GRS, OCS, GOTS, LENZING). Ledger key toteme.com/en-us/products/<handle>.",
-    "resume": "in-stock women’s clothing not in data/seen/toteme.json, in products.json order (all already read 2026-11-06: 112 passing held for review page room, 21 denim/tee pages where the Details capture missed the composition, 7 product pages returned 404)",
-    "inStockWomensClothing": 672,
-    "readThrough": 374,
-    "heldPassing": 112,
-    "heldUnparsed": 22,
-    "errors": 7,
-    "notYetRead": 0
-   },
-   "lastSweep": "2026-11-06",
+   "status": "done",
+   "cursor": null,
+   "lastSweep": "2026-11-08",
    "lastDelta": null,
-   "note": "2026-11-02: swept while the review page was full (450 of 450 pending), so only negatives recorded: 650 out of scope (bags, shoes, jewellery, scarves, hats, belts, gloves, socks, sunglasses, swimwear, ties, towels, small leather goods), 75 men's, 110 under the fiber rule (mostly viscose, recycled polyester and wool/polyamide blends). Read 230 of 666 in-stock women's clothing pages: 112 passing held, not recorded; 8 not recorded because the composition did not parse cleanly ('other fibers', 'cotton organic' word order, lyocell trademark sign); classic-compact-knit-cardigan-black returned 404. 28 products with a blank product_type and sold-out clothing not recorded. Product pages fetch fine from a toteme.com tab. 2026-11-03: review page still full (450 of 450 pending, none reviewed), nothing staged. products.json 1,576; 643 in-stock women's clothing, 534 not in the ledger, all read. 188 more under the fiber rule recorded (viscose, lyocell, polyamide, polyester, metal blends; 26 of them had an extra unparsed part but over 5% synthetic regardless). 258 passing held, not recorded. Held, not recorded: 47 unparsed ('cotton organic' word order, 'other fibers', cert words like RMS, description text running into the composition), 16 where a single composition follows 'lined'/'lining' so it may be the lining, 19 with no Style number block, 6 returned 404. Toteme is done once the 258 passing pieces are staged and the 88 held pages get a closer read. 2026-11-06: products.json 1,664; 672 in-stock women’s clothing, 374 not in the ledger, all read. Staged the first 188 passing (products.json order) in round-2026-11-06-nightly, which filled the review page to 450 photos. 45 under the fiber rule recorded (viscose, polyester blends, 93/7 cotton-elastane rib tanks, country jackets with polyester filling). 112 passing pieces held, not recorded. Held, not recorded: 21 denim and tees whose Details text did not reach the composition in the capture (read the full page next time), 1 other, 7 product pages that returned 404. Parser now maps cow, goat, calf, lamb and sheep leather to Leather, sheep shearling to Shearling, organic silk to Silk and ‘cotton organic’ to Organic cotton; parts after ‘;’ are lining (stored), trim (trim note) or other fabric parts (must pass).",
+   "note": "2026-11-02: swept while the review page was full (450 of 450 pending), so only negatives recorded: 650 out of scope (bags, shoes, jewellery, scarves, hats, belts, gloves, socks, sunglasses, swimwear, ties, towels, small leather goods), 75 men's, 110 under the fiber rule (mostly viscose, recycled polyester and wool/polyamide blends). Read 230 of 666 in-stock women's clothing pages: 112 passing held, not recorded; 8 not recorded because the composition did not parse cleanly ('other fibers', 'cotton organic' word order, lyocell trademark sign); classic-compact-knit-cardigan-black returned 404. 28 products with a blank product_type and sold-out clothing not recorded. Product pages fetch fine from a toteme.com tab. 2026-11-03: review page still full (450 of 450 pending, none reviewed), nothing staged. products.json 1,576; 643 in-stock women's clothing, 534 not in the ledger, all read. 188 more under the fiber rule recorded (viscose, lyocell, polyamide, polyester, metal blends; 26 of them had an extra unparsed part but over 5% synthetic regardless). 258 passing held, not recorded. Held, not recorded: 47 unparsed ('cotton organic' word order, 'other fibers', cert words like RMS, description text running into the composition), 16 where a single composition follows 'lined'/'lining' so it may be the lining, 19 with no Style number block, 6 returned 404. Toteme is done once the 258 passing pieces are staged and the 88 held pages get a closer read. 2026-11-06: products.json 1,664; 672 in-stock women’s clothing, 374 not in the ledger, all read. Staged the first 188 passing (products.json order) in round-2026-11-06-nightly, which filled the review page to 450 photos. 45 under the fiber rule recorded (viscose, polyester blends, 93/7 cotton-elastane rib tanks, country jackets with polyester filling). 112 passing pieces held, not recorded. Held, not recorded: 21 denim and tees whose Details text did not reach the composition in the capture (read the full page next time), 1 other, 7 product pages that returned 404. Parser now maps cow, goat, calf, lamb and sheep leather to Leather, sheep shearling to Shearling, organic silk to Silk and ‘cotton organic’ to Organic cotton; parts after ‘;’ are lining (stored), trim (trim note) or other fabric parts (must pass). 2026-11-08: products.json 1,664; 147 in-stock women’s clothing not in the ledger (the 112 held passing, the 22 unparsed captures and new arrivals), all read through a DOM read of the Details accordion, which fixed the earlier capture misses. 136 staged in round-2026-11-08-nightly. 4 recorded under the fiber rule (puffer and car coat with recycled polyamide and polyester shells, cropped flap jacket at 70% recycled wool), 44 out of scope (shoes, scarves, jewellery, bags, small leather goods, and the monogram sleep set, which is a pillow and mask). Not recorded, so a delta run picks them up: 7 product pages that still return 404, and the pony hair coat in Leopard (no swatch for leopard). 27 service pages with a blank product type are not products. Sweep done; Toteme moves to delta.",
    "domain": "toteme.com"
   },
   {
@@ -412,11 +403,19 @@
    "brand": "Staud",
    "method": "shopify-page",
    "cadence": "regular",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
+   "status": "partial",
+   "cursor": {
+    "method": "products.json at staud.clothing (1,805 products 2026-11-08, USD store). Composition sits in the product page text between 'Fit & Fabric Shipping & returns' and 'Free U.S. shipping'; labelled (Fabric, Fabrication, Self, Shell, Lining, Trim, Contrast, Core, Corset) or a bare 'NN% X, NN% Y' line. Clothing = parent-type tags bottoms, dresses, one-piece, outerwear, pants, skirts, sweaters, tops (988 in stock).",
+    "resume": "Read the natural-tagged in-stock clothing (fabric-cashmere, cotton, linen, silk, wool, leather, suede, shearling, denim, poplin, voile, haircalf; 508) from position 251 in products.json order, then the 480 in-stock clothing pieces with other fabric tags. Skip anything in data/seen/staud.json.",
+    "naturalTaggedRead": 250,
+    "naturalTaggedTotal": 508,
+    "otherTaggedUnread": 480,
+    "heldNotRecorded": 89
+   },
+   "lastSweep": "2026-11-08",
    "lastDelta": null,
-   "note": ""
+   "note": "2026-11-08: first night. Read 250 compositions. 87 staged in round-2026-11-08-nightly, 68 under the fiber rule (mostly 93/7 silk-spandex, linen-viscose blends, polyester and nylon contrast parts), 6 rejected by the brand rules (5 polyester-lined leather and cotton jackets, 1 terry hoodie). 89 held, not recorded: print colourways with no swatch (Monday Stripe, Seaport Stripe, Tulip, Sprout, Martini and so on, which need a photo-based colour), 11 with a synthetic Trim or Core part (nylon or polyester, not covered by the embroidery allowance, so it needs Natalie's call), a feather trim, and a few compositions that did not sum to 100 or sat only in prose. The products.json price is the current USD price, sale prices included.",
+   "domain": "staud.clothing"
   },
   {
    "order": 37,

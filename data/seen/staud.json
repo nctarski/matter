@@ -1,0 +1,733 @@
+{
+ "staud.clothing/products/river-leather-jacket-earth": {
+  "outcome": "rejected",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/linden-sweater-dino-fair-isle": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/giada-sweater-dinosaur": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/celeste-silk-dress-diana": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/tai-silk-tee-ivory": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/amelie-linen-dress-natural-x": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/amelie-linen-dress-natural-1": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/costa-linen-dress-dark-oak": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/costa-linen-dress-orchid": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/madison-linen-dress-natural": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/elira-silk-dress-key-lime-sprout": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/madison-linen-mini-dress-orchid": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/callie-dress-sunshine": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/jaelyn-silk-dress-mink": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/amelie-linen-dress-dark-oak": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/phare-silk-dress-sprout": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/sonoma-silk-skirt-key-lime": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/elena-dress-ecru-stripe": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/phare-silk-maxi-dress-cliffside": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/paolina-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/paolina-dress-ivory": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/amalina-linen-mini-dress-thyme": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/amalina-linen-mini-dress-white": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/vivi-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/william-tee-clarity-porto-stripe": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/clarke-jacket-butter-studs": {
+  "outcome": "rejected",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/halie-mini-dress-ecru": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/zandra-linen-skirt-black": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/sabina-silk-dress-caffe-stripe": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/stroll-silk-pant-caffe-stripe": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/phare-silk-maxi-dress-koi": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/noemi-skirt-superbloom-scarf": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/phare-silk-top-artist-stripe": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/lina-silk-top-tapestry-noir": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/rhodes-silk-top-earth": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/charli-silk-top-millefiore-2-0": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/maeva-silk-top-glasswork-multi": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/maeva-silk-top-tapestry-rose-multi": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/lara-silk-dress-tapestry-noir": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/charli-silk-dress-millefiore-multi": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/athena-silk-dress-tapestry-rose": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/rae-silk-dress-tapestry-noir": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/rae-silk-dress-tapestry-rose-multi": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/marcel-silk-dress-glasswork": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/freda-silk-dress-zinc": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/portia-silk-dress-studio": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/fawn-silk-dress-tapestry-rose-multi": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/marin-top-black-ivory": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/evangeline-silk-midi-dress-studio": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/natasha-cashmere-sweater-black": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/natasha-cashmere-sweater-cigar": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/stroll-silk-pant-millefiore-2-0": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/reannah-silk-skirt-glasswork-multi": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/adriana-silk-dress-earth": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/adriana-silk-dress-citron": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/simone-jacket-taupe": {
+  "outcome": "rejected",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/charlie-terry-hoodie-washed-black": {
+  "outcome": "rejected",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/evelyn-silk-dress-still-life": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/soho-leather-jacket-black": {
+  "outcome": "rejected",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/phoebe-silk-mini-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/violetta-silk-dress-black-still-life": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/posy-silk-dress-quartz": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/stroll-silk-pant-emerald": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/stroll-silk-pant-black": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/phoebe-silk-dress-amethyst": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/phare-silk-maxi-dress-emerald": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/evelyn-silk-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/posy-silk-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/suni-silk-top-ivory": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/suni-silk-top-emerald": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/suni-silk-top-black": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/gondola-leather-jacket-earth": {
+  "outcome": "rejected",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/phoebe-silk-dress-ivory": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/fabianne-silk-mini-dress-black": {
+  "outcome": "fiber",
+  "date": "2026-11-08"
+ },
+ "staud.clothing/products/thatcher-pant-graphite": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/larson-sweater-light-pebble": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/wilder-dress-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/thatcher-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/merritt-sweater-ivory": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/jade-skirt-graphite": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/merritt-sweater-charcoal": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/wells-dress-white-embroidery": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/maisie-linen-top-blush-canyon": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/oro-linen-dress-blush-canyon": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/brea-linen-dress-blue-haze": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/indya-mini-dress-white": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/cori-dress-navy": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/indya-dress-white": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/laura-linen-dress-blue-haze": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/mateo-linen-pant-natural": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/procida-linen-skirt-natural": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/leo-high-rise-jean-33-rose": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/gus-relaxed-jean-33-rose": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/mateo-linen-pant-thyme": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/trevor-bermuda-short-indigo": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/vivi-top-ivory": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/sicilia-top-ivory": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/halie-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/fiore-top-earth": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/fiore-top-rouge": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/sandbar-linen-top-natural": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/valencia-linen-dress-butter": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/brio-linen-dress-natural": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/cecily-mini-dress-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/kira-silk-dress-ivory": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/gwen-mini-dress-butter": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/renzo-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/renzo-pant-ivory": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/nicola-skirt-pesto": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/angelique-linen-dress-butter-studs": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/paddle-linen-short-butter-studs": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/lisa-linen-top-butter": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/halie-top-ecru": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/gus-relaxed-jean-butter": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/beck-mini-skirt-rose": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/margi-dress-butter": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/noah-short-butter": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/noah-short-cobalt": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/noah-jean-butter": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/noah-jean-cobalt": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/su26-vivi-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/fiore-linen-top-tomato": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/milano-linen-skirt-tomato": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/grazia-linen-dress-tomato": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/reed-linen-jacket-thyme": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/bellaria-top-rouge": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/culver-top-earth": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/dalia-silk-dress-ivory": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/dalia-silk-dress-kelly": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/bianca-silk-dress-pinot": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/margi-dress-rouge": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/carine-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/carine-top-white": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/brio-dress-earth-studs": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/wylie-dress-earth-studs": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/bianca-silk-dress-kelly": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/milano-skirt-rouge": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/milano-skirt-earth": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/molly-mini-dress-earth": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/geo-suede-short-espresso": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/enya-top-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/enya-top-sesame": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/dean-high-rise-jean-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/maddox-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/dean-highrise-crystal-jean-vintage-wash": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/franky-flare-jean-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/kai-leather-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/ashton-cashmere-shrug-ivory": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/gus-relaxed-jean-amethyst": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/teddy-straight-jean-jet-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/gus-relaxed-jean-black-1": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/lane-cashmere-sweater-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/jackson-jean-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/josette-suede-shirt-amethyst": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/quentin-haircalf-jacket-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/gus-suede-pant-amethyst": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/gus-haircalf-pant-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/ashton-cashmere-shrug-black": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/gus-leather-pant-earth": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/hunter-leather-culotte-earth": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ },
+ "staud.clothing/products/traverse-bodysuit-white": {
+  "outcome": "staged",
+  "date": "2026-11-08",
+  "round": "round-2026-11-08-nightly.json"
+ }
+}

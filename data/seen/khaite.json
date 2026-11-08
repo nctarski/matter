@@ -2248,9 +2248,8 @@
   "date": "2026-11-01"
  },
  "khaite.com/products/gruna-pant-in-black-paisley": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/theodora-cardigan-in-dune": {
   "outcome": "rejected",
@@ -2322,7 +2321,7 @@
  },
  "khaite.com/products/berry-top-in-chalk": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/dolly-top-in-navy-and-cream": {
   "outcome": "rejected",
@@ -2342,16 +2341,15 @@
  },
  "khaite.com/products/tylar-top-in-black": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/juniper-sweater-in-charcoal": {
   "outcome": "catalog",
   "date": "2026-11-04"
  },
  "khaite.com/products/cindy-skirt-in-black-leather": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/berry-top-in-black": {
   "outcome": "rejected",
@@ -2363,20 +2361,19 @@
  },
  "khaite.com/products/tylar-top-in-black-and-red": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/tylar-top-in-dark-navy-and-cream": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/artur-sweater-in-black-and-cream": {
   "outcome": "rejected",
   "date": "2026-11-04"
  },
  "khaite.com/products/ophelia-skirt-in-black": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/zimmer-jean-in-northfield": {
   "outcome": "rejected",
@@ -2391,23 +2388,20 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/clover-pant-in-grey-melange": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/bonnie-jean-in-benson": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/clover-pant-in-camel": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/fawn-top-in-black": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/samo-jacket-in-black-velvet": {
   "outcome": "catalog",
@@ -2422,9 +2416,8 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/lachlan-skirt-in-black": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/astor-dress-in-black": {
   "outcome": "catalog",
@@ -2443,23 +2436,20 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/clover-pant-in-dark-brown": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/sonti-coat-in-charcoal": {
   "outcome": "catalog",
   "date": "2026-11-04"
  },
  "khaite.com/products/clover-pant-in-charcoal": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/hunter-pant-in-black-croc-embossed-leather": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/rolon-coat-in-black-leather": {
   "outcome": "catalog",
@@ -2478,19 +2468,16 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/tessa-skirt-in-black-silk": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/kerrie-jean-in-lansing": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/miles-pant-in-black-leather": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/amelia-jacket-in-black": {
   "outcome": "catalog",
@@ -2513,13 +2500,12 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/loxley-skirt-in-charcoal": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/talita-top-in-black-velvet": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/manston-coat-in-charcoal": {
   "outcome": "catalog",
@@ -2559,7 +2545,7 @@
  },
  "khaite.com/products/goya-top-in-charcoal": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/vinci-top-in-antilope": {
   "outcome": "rejected",
@@ -2575,16 +2561,15 @@
  },
  "khaite.com/products/karla-top-in-chestnut": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/hewit-jacket-in-dark-navy": {
   "outcome": "catalog",
   "date": "2026-11-04"
  },
  "khaite.com/products/august-pant-in-black-wool": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/meko-jacket-in-black": {
   "outcome": "catalog",
@@ -2603,14 +2588,12 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/jett-skirt-in-black-leather": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/loxley-skirt-in-black-leather": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/harlin-dress-in-charcoal": {
   "outcome": "catalog",
@@ -2626,7 +2609,7 @@
  },
  "khaite.com/products/fawn-top-in-sepia-multi": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/takeo-cardigan-in-sepia-black-multi": {
   "outcome": "catalog",
@@ -2634,7 +2617,7 @@
  },
  "khaite.com/products/fawn-top-in-sepia-black-multi": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/kelly-sweater-in-black": {
   "outcome": "catalog",
@@ -2653,23 +2636,20 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/ziva-skirt-in-black-olive-multi": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/mae-short-sleeve-t-shirt-in-dijon": {
   "outcome": "rejected",
   "date": "2026-11-04"
  },
  "khaite.com/products/hunter-pant-in-desert-sand": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/ryden-pant-in-black-velvet": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/scarla-dress-in-black-silk": {
   "outcome": "catalog",
@@ -2681,11 +2661,11 @@
  },
  "khaite.com/products/emmylou-t-shirt-in-dijon": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/emmylou-t-shirt-in-chestnut": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/rolon-coat-in-black-velvet": {
   "outcome": "catalog",
@@ -2700,14 +2680,12 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/hunter-pant-in-black-cotton": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/ryden-pant-in-black-wool": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/goya-top-in-monkey-print": {
   "outcome": "rejected",
@@ -2718,19 +2696,16 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/ryden-pant-in-black-leather": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/august-pant-in-charcoal": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/loxley-skirt-in-black-croc-embossed-leather": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/karo-jean-in-rialto": {
   "outcome": "rejected",
@@ -2758,26 +2733,23 @@
  },
  "khaite.com/products/briar-top-in-champagne": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/cain-sweater-in-biscotti": {
   "outcome": "catalog",
   "date": "2026-11-04"
  },
  "khaite.com/products/adara-skirt-in-bronze": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/adara-skirt-in-cream": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/adara-skirt-in-black": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/wilson-coat-in-black": {
   "outcome": "catalog",
@@ -2789,11 +2761,11 @@
  },
  "khaite.com/products/harlow-top-in-charcoal": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/briar-top-in-bronze": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/demi-dress-in-black": {
   "outcome": "catalog",
@@ -2804,9 +2776,8 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/kerrie-jean-in-benson": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/bronte-dress-in-black": {
   "outcome": "catalog",
@@ -2846,16 +2817,15 @@
  },
  "khaite.com/products/dylan-top-in-dark-navy": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/dylan-top-in-heather-grey": {
   "outcome": "rejected",
   "date": "2026-11-04"
  },
  "khaite.com/products/roma-pant-in-black-1": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/dolem-jacket-in-army-melange": {
   "outcome": "rejected",
@@ -2882,19 +2852,16 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/callum-pant-in-dark-olive": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/callum-jean-in-dumas": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/mita-pant-in-black-1": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/finley-jean-in-holbrook": {
   "outcome": "rejected",
@@ -2921,18 +2888,16 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/karo-jean-in-benson": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/leta-sweater-in-dusty-rose": {
   "outcome": "catalog",
   "date": "2026-11-04"
  },
  "khaite.com/products/clara-jean-in-prescott": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/leta-sweater-in-charcoal": {
   "outcome": "catalog",
@@ -2967,18 +2932,16 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/lyle-skirt-in-black": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/bonnie-jean-in-holbrook": {
   "outcome": "rejected",
   "date": "2026-11-04"
  },
  "khaite.com/products/jett-skirt-in-dark-olive": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/roxanne-dress-in-black": {
   "outcome": "catalog",
@@ -3001,28 +2964,24 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/mita-pant-in-black": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/clara-jean-in-benson": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/jett-skirt-in-dark-olive-1": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/cordan-jacket-in-black": {
   "outcome": "catalog",
   "date": "2026-11-04"
  },
  "khaite.com/products/farley-jean-in-seneca": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "rejected",
+  "date": "2026-11-08"
  },
  "khaite.com/products/golden-sweater-in-charcoal": {
   "outcome": "catalog",
@@ -3033,17 +2992,16 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/finley-jean-in-benson": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/angel-top-in-black": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/angel-top-in-chalk": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/leta-sweater-in-putty-1": {
   "outcome": "catalog",
@@ -3070,9 +3028,8 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/callum-pant-in-black-1": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/sabina-sweater-in-black": {
   "outcome": "catalog",
@@ -3091,18 +3048,16 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/callum-jean-in-shelburne": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/everheart-cardigan-in-black": {
   "outcome": "catalog",
   "date": "2026-11-04"
  },
  "khaite.com/products/borden-pant-in-black-haircalf": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/leni-top-in-midnight-navy": {
   "outcome": "catalog",
@@ -3117,23 +3072,20 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/anden-skirt-in-black-leather": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/anden-skirt-in-golden-ochre-leather": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/lorelai-top-in-black": {
   "outcome": "catalog",
   "date": "2026-11-04"
  },
  "khaite.com/products/winton-skirt-in-golden-ochre": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/lorelai-top-in-midnight-navy": {
   "outcome": "catalog",
@@ -3168,9 +3120,8 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/callum-pant-in-bordeaux-haircalf": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/leni-top-in-black": {
   "outcome": "catalog",
@@ -3201,9 +3152,8 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/farley-jean-in-benson": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/nora-cardigan-in-biscotti": {
   "outcome": "rejected",
@@ -3231,21 +3181,19 @@
  },
  "khaite.com/products/aimee-top-in-black": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "khaite.com/products/callum-pant-in-storm": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/leta-sweater-in-biscotti": {
   "outcome": "catalog",
   "date": "2026-11-04"
  },
  "khaite.com/products/abigail-stretch-jean-in-montgomery": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/nora-cardigan-in-heather-grey": {
   "outcome": "catalog",
@@ -3264,14 +3212,12 @@
   "date": "2026-11-04"
  },
  "khaite.com/products/danielle-jean-in-prescott": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/abigail-jean-in-prescott": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "khaite.com/products/mae-sweater-in-black": {
   "outcome": "catalog",

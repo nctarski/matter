@@ -6522,11 +6522,11 @@
  },
  "dissh.com/products/haylee-straw-linen-cowl-top": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "dissh.com/products/rhea-2-0-burnt-choc-cotton-shirt": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "dissh.com/products/lela-sandstone-linen-skirt": {
   "outcome": "rejected",
@@ -6538,21 +6538,19 @@
  },
  "dissh.com/products/lela-sandstone-linen-shirt": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "dissh.com/products/lela-sandstone-linen-pant": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "dissh.com/products/lela-sandstone-linen-sleeved-top": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "dissh.com/products/lela-sandstone-linen-short": {
-  "outcome": "staged",
-  "date": "2026-11-01",
-  "round": "round-2026-11-01-nightly.json"
+  "outcome": "catalog",
+  "date": "2026-11-08"
  },
  "dissh.com/products/lacy-cocoa-linen-mini-dress": {
   "outcome": "catalog",
@@ -6564,10 +6562,10 @@
  },
  "dissh.com/products/rhea-2-0-white-cotton-shirt": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  },
  "dissh.com/products/rhea-2-0-ice-blue-cotton-shirt": {
   "outcome": "catalog",
-  "date": "2026-11-04"
+  "date": "2026-11-08"
  }
 }
