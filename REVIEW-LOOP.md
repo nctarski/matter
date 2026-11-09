@@ -102,6 +102,12 @@ ledger as `rejected` instead of staging them.
   natural linings use the natural lining only switch.
 - Allowed: elastane inside an otherwise natural lining, the same stretch
   allowance the shell gets.
+- Pocketing counts. Denim and trousers that list a polyester or poly/cotton
+  lining are rejected even when it is only the pocket bags (Natalie,
+  2026-11-09).
+- Undisclosed linings stay. A piece the retailer calls "lined" without saying
+  what with is staged as usual and shows "lining not disclosed" (Natalie,
+  2026-11-09).
 - `liningIsBlocked()` in `lib/fibers.js` is the test. `scripts/audit.mjs` fails
   on a blocked lining and `scripts/merge-review.mjs` refuses to publish one,
   so a piece that slips past a sweep still cannot go live.
