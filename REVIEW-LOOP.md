@@ -28,8 +28,11 @@ it and pressed Publish.
 A candidate needs `effectiveNatural >= 95` on the shell, the same function the
 site uses in `lib/fibers.js`: natural fibers plus elastane when elastane is
 5% or less. Lining never disqualifies a piece. It is stored separately exactly
-as the retailer publishes it. A retailer that says "lined" without saying what
-gets `"undisclosed"`. Never guess a composition.
+as the retailer publishes it, with one exception: a lining with any polyester,
+recycled polyester, nylon, polyamide, acrylic or polypropylene in it, alone or
+in a blend, rejects the piece (see "The lining rule" below). A retailer that
+says "lined" without saying what gets `"undisclosed"`. Never guess a
+composition.
 
 Fiber names are stored in the site's spelling (capitalised, see
 `FIBER_ALIASES`). Massimo Dutti says "goat leather" or "cow leather": store
@@ -86,6 +89,24 @@ them.
 62 live pieces were taken out of the catalog under this rule on 2026-10-30
 (3 Massimo Dutti cargo pants, 59 jackets and blazers, mostly Massimo Dutti and
 Quince) and recorded as rejected.
+
+## The lining rule: no petrochemical linings, any category
+
+Natalie's call on 2026-11-09, replacing the jacket-only lining part of the rule
+above. Nothing lined in polyester, recycled polyester, nylon, polyamide,
+acrylic or polypropylene reaches MATTER, alone or in a blend, in any category.
+A 100% leather jacket with a polyester lining is out. Record these in the
+ledger as `rejected` instead of staging them.
+- Allowed: regenerated cellulosic linings (viscose, rayon, modal, lyocell,
+  TENCEL, cupro, acetate). They stay on the site, and shoppers who want only
+  natural linings use the natural lining only switch.
+- Allowed: elastane inside an otherwise natural lining, the same stretch
+  allowance the shell gets.
+- `liningIsBlocked()` in `lib/fibers.js` is the test. `scripts/audit.mjs` fails
+  on a blocked lining and `scripts/merge-review.mjs` refuses to publish one,
+  so a piece that slips past a sweep still cannot go live.
+87 live pieces and 34 pending review candidates were removed under this rule on
+2026-11-09. The removed list is in `data/review/removed-lining-2026-11-09.json`.
 
 ## Curated edits on the homepage
 

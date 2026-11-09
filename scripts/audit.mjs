@@ -32,7 +32,7 @@ const fibers = await import(
 const {
   TIER_1_NATURAL, TIER_2_CELLULOSIC, LYOCELL, TIER_3_SYNTHETIC,
   FIBER_ALIASES, CATEGORIES, COLOURS, NAV, RESTING_TAGS, EDIT_TAGS,
-  naturalPct, cellulosicPct, effectiveNatural, formatComposition,
+  naturalPct, cellulosicPct, liningIsBlocked, effectiveNatural, formatComposition,
 } = fibers;
 
 const KNOWN_FIBERS = new Set([
@@ -123,6 +123,10 @@ for (const item of catalog) {
     }
 
     if (total !== 100) fail(id, `${label} percentages sum to ${total}, not 100`);
+  }
+
+  if (liningIsBlocked(item.lining)) {
+    fail(id, 'lining is polyester, nylon or another petrochemical fiber, which MATTER does not carry');
   }
 
   /* Stock, written by scripts/apply-stock.mjs. Optional, but when present it

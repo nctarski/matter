@@ -12,6 +12,7 @@
  *   node scripts/merge-review.mjs round-1   (reads round-1.skips.json)
  */
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
+import { liningIsBlocked } from '../lib/fibers.js';
 
 const root = new URL('../', import.meta.url);
 const path = (p) => new URL(p, root);
@@ -45,12 +46,16 @@ const byId = new Map(pool.map((c) => [c.id, c]));
 
 let added = 0, present = 0;
 const missing = [];
+const blocked = [];
 for (const id of wanted) {
   const c = byId.get(id);
   if (!c) { missing.push(id); continue; }
   if (ids.has(c.id) || urls.has(bare(c.url))) { present++; continue; }
+  // Never publish a polyester or nylon lining, even if it was approved.
+  if (liningIsBlocked(c.lining)) { blocked.push(id); continue; }
   catalog.push(c); ids.add(c.id); urls.add(bare(c.url)); added++;
 }
 writeFileSync(path('data/catalog.json'), JSON.stringify(catalog, null, 2) + '\n');
 console.log(`${added} added, ${present} already in the catalog, ${missing.length} not found in any round file. Catalog now ${catalog.length}.`);
+if (blocked.length) console.log(`${blocked.length} held back for a polyester or nylon lining:`, blocked.join(', '));
 if (missing.length) { console.log('Not found:', missing.join(', ')); process.exitCode = 2; }

@@ -9380,9 +9380,9 @@
   "round": "round-2026-10-29-frankie.json"
  },
  "thefrankieshop.com/products/maybelle-wool-front-slit-pencil-skirt-light-taupe-melange": {
-  "outcome": "catalog",
-  "date": "2026-10-29",
-  "round": "round-2026-10-29-frankie.json"
+  "outcome": "rejected",
+  "date": "2026-11-09",
+  "round": "lining-rule-2026-11-09"
  },
  "thefrankieshop.com/products/elinor-wool-oversized-bomber-jacket-beige-melange": {
   "outcome": "rejected",
@@ -10500,9 +10500,9 @@
   "date": "2026-10-30"
  },
  "thefrankieshop.com/products/hera-cotton-mini-skirt-camel": {
-  "outcome": "catalog",
-  "date": "2026-11-01",
-  "round": "round-2026-10-29-frankie.json"
+  "outcome": "rejected",
+  "date": "2026-11-09",
+  "round": "lining-rule-2026-11-09"
  },
  "thefrankieshop.com/products/vallby-belted-short-trench-beige": {
   "outcome": "rejected",
@@ -10518,9 +10518,9 @@
   "round": "round-2026-10-29-frankie.json"
  },
  "thefrankieshop.com/products/lahti-belted-short-coat-beige": {
-  "outcome": "catalog",
-  "date": "2026-10-29",
-  "round": "round-2026-10-29-frankie.json"
+  "outcome": "rejected",
+  "date": "2026-11-09",
+  "round": "lining-rule-2026-11-09"
  },
  "thefrankieshop.com/products/lui-organic-cotton-boxer-shorts-red": {
   "outcome": "catalog",
@@ -10885,14 +10885,14 @@
   "round": "round-2026-10-29-frankie.json"
  },
  "thefrankieshop.com/products/savil-leather-midi-skirt-dark-brown": {
-  "outcome": "catalog",
-  "date": "2026-11-01",
-  "round": "round-2026-10-29-frankie.json"
+  "outcome": "rejected",
+  "date": "2026-11-09",
+  "round": "lining-rule-2026-11-09"
  },
  "thefrankieshop.com/products/savil-leather-midi-skirt-black": {
-  "outcome": "catalog",
-  "date": "2026-11-01",
-  "round": "round-2026-10-29-frankie.json"
+  "outcome": "rejected",
+  "date": "2026-11-09",
+  "round": "lining-rule-2026-11-09"
  },
  "thefrankieshop.com/products/ornella-side-button-up-shirt-light-blue": {
   "outcome": "catalog",
