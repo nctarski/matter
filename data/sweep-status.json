@@ -406,15 +406,16 @@
    "status": "partial",
    "cursor": {
     "method": "products.json at staud.clothing (1,805 products 2026-11-08, USD store). Composition sits in the product page text between 'Fit & Fabric Shipping & returns' and 'Free U.S. shipping'; labelled (Fabric, Fabrication, Self, Shell, Lining, Trim, Contrast, Core, Corset) or a bare 'NN% X, NN% Y' line. Clothing = parent-type tags bottoms, dresses, one-piece, outerwear, pants, skirts, sweaters, tops (988 in stock).",
-    "resume": "Read the natural-tagged in-stock clothing (fabric-cashmere, cotton, linen, silk, wool, leather, suede, shearling, denim, poplin, voile, haircalf; 508) from position 251 in products.json order, then the 480 in-stock clothing pieces with other fabric tags. Skip anything in data/seen/staud.json.",
-    "naturalTaggedRead": 250,
-    "naturalTaggedTotal": 508,
-    "otherTaggedUnread": 480,
-    "heldNotRecorded": 89
+    "resume": "Natural-tagged in-stock clothing is fully read. Next: the other-tagged in-stock clothing from position 51 in products.json order (410 left; mostly polyester, viscose and nylon party pieces). Then re-check what is held below. Skip anything in data/seen/staud.json.",
+    "naturalTaggedRead": 353,
+    "naturalTaggedTotal": 353,
+    "heldNotRecorded": 113,
+    "otherTaggedRead": 50,
+    "otherTaggedTotal": 460
    },
-   "lastSweep": "2026-11-08",
+   "lastSweep": "2026-11-09",
    "lastDelta": null,
-   "note": "2026-11-08: first night. Read 250 compositions. 87 staged in round-2026-11-08-nightly, 68 under the fiber rule (mostly 93/7 silk-spandex, linen-viscose blends, polyester and nylon contrast parts), 6 rejected by the brand rules (5 polyester-lined leather and cotton jackets, 1 terry hoodie). 89 held, not recorded: print colourways with no swatch (Monday Stripe, Seaport Stripe, Tulip, Sprout, Martini and so on, which need a photo-based colour), 11 with a synthetic Trim or Core part (nylon or polyester, not covered by the embroidery allowance, so it needs Natalie's call), a feather trim, and a few compositions that did not sum to 100 or sat only in prose. The products.json price is the current USD price, sale prices included.",
+   "note": "2026-11-08: first night. Read 250 compositions. 87 staged in round-2026-11-08-nightly, 68 under the fiber rule (mostly 93/7 silk-spandex, linen-viscose blends, polyester and nylon contrast parts), 6 rejected by the brand rules (5 polyester-lined leather and cotton jackets, 1 terry hoodie). 89 held, not recorded: print colourways with no swatch (Monday Stripe, Seaport Stripe, Tulip, Sprout, Martini and so on, which need a photo-based colour), 11 with a synthetic Trim or Core part (nylon or polyester, not covered by the embroidery allowance, so it needs Natalie's call), a feather trim, and a few compositions that did not sum to 100 or sat only in prose. The products.json price is the current USD price, sale prices included. 2026-11-09: products.json 1,805 (1,001 in-stock clothing, 840 not in the ledger). Read 402 compositions (all 353 natural-tagged plus the first 50 other-tagged). Staged 173 in round-2026-11-09-nightly; print and stripe colourways were given a swatch by looking at the photo (ground colour for pinstripes). 101 fiber (incl. 100% polyester brocade, taffeta, sequin and tulle party pieces whose fabric line carried extra words), 13 rejected (7 jackets lined in polyester, 6 tees and tanks with words or graphics: Loser, Feeling Prickly, Super Star x2, Da Adolfo x2), 817 out of scope (bags, shoes, accessories, home, pet, swim). Not recorded, so they come back: 52 passing pieces whose photo did not save tonight (Chrome stopped a second download from staud.clothing), 17 held after the photo check (multi-colour stripes and prints with no clear swatch, leopard and haircalf prints, two editorial-only first photos), 40 whose composition did not parse or needs Natalie (synthetic Trim parts on Nia, Corinna, Paolina, Von, Ainsley, Layla, Halie and Evangeline; glass bead and feather trims; faux fur trims; Evangeline compositions that do not sum to 100; two-lining Evangeline pieces), 4 pages that returned no text, and sold-out pieces.",
    "domain": "staud.clothing"
   },
   {
