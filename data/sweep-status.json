@@ -403,19 +403,14 @@
    "brand": "Staud",
    "method": "shopify-page",
    "cadence": "regular",
-   "status": "partial",
+   "status": "done",
    "cursor": {
     "method": "products.json at staud.clothing (1,805 products 2026-11-08, USD store). Composition sits in the product page text between 'Fit & Fabric Shipping & returns' and 'Free U.S. shipping'; labelled (Fabric, Fabrication, Self, Shell, Lining, Trim, Contrast, Core, Corset) or a bare 'NN% X, NN% Y' line. Clothing = parent-type tags bottoms, dresses, one-piece, outerwear, pants, skirts, sweaters, tops (988 in stock).",
-    "resume": "Natural-tagged in-stock clothing is fully read. Next: the other-tagged in-stock clothing from position 51 in products.json order (410 left; mostly polyester, viscose and nylon party pieces). Then re-check what is held below. Skip anything in data/seen/staud.json.",
-    "naturalTaggedRead": 353,
-    "naturalTaggedTotal": 353,
-    "heldNotRecorded": 113,
-    "otherTaggedRead": 50,
-    "otherTaggedTotal": 460
+    "held": "Not recorded, so a delta run picks them up: 15 print and stripe colourways with no clear swatch (Samson Martini, Superbloom Scarf, Caffe/Cigar/Canyon/Sienna/Costa stripes, Prowl and Night Prowl, Nightowl stripe shorts), the 40 parse or trim holds from 2026-11-09 (synthetic Trim parts on Nia, Corinna, Paolina, Halie, Layla, Ainsley and others; bead, feather and faux fur trims; Evangeline pieces), Pietro and Vespa dresses (embroidery fiber not stated), Isola dress (beading not stated), Vatolla Alla Spiaggia top and Laguna skirt (nylon Trim parts), Albee Dress White and Gondola Jacket Truffle (no composition block on the page)."
    },
-   "lastSweep": "2026-11-09",
+   "lastSweep": "2026-11-10",
    "lastDelta": null,
-   "note": "2026-11-08: first night. Read 250 compositions. 87 staged in round-2026-11-08-nightly, 68 under the fiber rule (mostly 93/7 silk-spandex, linen-viscose blends, polyester and nylon contrast parts), 6 rejected by the brand rules (5 polyester-lined leather and cotton jackets, 1 terry hoodie). 89 held, not recorded: print colourways with no swatch (Monday Stripe, Seaport Stripe, Tulip, Sprout, Martini and so on, which need a photo-based colour), 11 with a synthetic Trim or Core part (nylon or polyester, not covered by the embroidery allowance, so it needs Natalie's call), a feather trim, and a few compositions that did not sum to 100 or sat only in prose. The products.json price is the current USD price, sale prices included. 2026-11-09: products.json 1,805 (1,001 in-stock clothing, 840 not in the ledger). Read 402 compositions (all 353 natural-tagged plus the first 50 other-tagged). Staged 173 in round-2026-11-09-nightly; print and stripe colourways were given a swatch by looking at the photo (ground colour for pinstripes). 101 fiber (incl. 100% polyester brocade, taffeta, sequin and tulle party pieces whose fabric line carried extra words), 13 rejected (7 jackets lined in polyester, 6 tees and tanks with words or graphics: Loser, Feeling Prickly, Super Star x2, Da Adolfo x2), 817 out of scope (bags, shoes, accessories, home, pet, swim). Not recorded, so they come back: 52 passing pieces whose photo did not save tonight (Chrome stopped a second download from staud.clothing), 17 held after the photo check (multi-colour stripes and prints with no clear swatch, leopard and haircalf prints, two editorial-only first photos), 40 whose composition did not parse or needs Natalie (synthetic Trim parts on Nia, Corinna, Paolina, Von, Ainsley, Layla, Halie and Evangeline; glass bead and feather trims; faux fur trims; Evangeline compositions that do not sum to 100; two-lining Evangeline pieces), 4 pages that returned no text, and sold-out pieces.",
+   "note": "2026-11-08: first night. Read 250 compositions. 87 staged in round-2026-11-08-nightly, 68 under the fiber rule (mostly 93/7 silk-spandex, linen-viscose blends, polyester and nylon contrast parts), 6 rejected by the brand rules (5 polyester-lined leather and cotton jackets, 1 terry hoodie). 89 held, not recorded: print colourways with no swatch (Monday Stripe, Seaport Stripe, Tulip, Sprout, Martini and so on, which need a photo-based colour), 11 with a synthetic Trim or Core part (nylon or polyester, not covered by the embroidery allowance, so it needs Natalie's call), a feather trim, and a few compositions that did not sum to 100 or sat only in prose. The products.json price is the current USD price, sale prices included. 2026-11-09: products.json 1,805 (1,001 in-stock clothing, 840 not in the ledger). Read 402 compositions (all 353 natural-tagged plus the first 50 other-tagged). Staged 173 in round-2026-11-09-nightly; print and stripe colourways were given a swatch by looking at the photo (ground colour for pinstripes). 101 fiber (incl. 100% polyester brocade, taffeta, sequin and tulle party pieces whose fabric line carried extra words), 13 rejected (7 jackets lined in polyester, 6 tees and tanks with words or graphics: Loser, Feeling Prickly, Super Star x2, Da Adolfo x2), 817 out of scope (bags, shoes, accessories, home, pet, swim). Not recorded, so they come back: 52 passing pieces whose photo did not save tonight (Chrome stopped a second download from staud.clothing), 17 held after the photo check (multi-colour stripes and prints with no clear swatch, leopard and haircalf prints, two editorial-only first photos), 40 whose composition did not parse or needs Natalie (synthetic Trim parts on Nia, Corinna, Paolina, Von, Ainsley, Layla, Halie and Evangeline; glass bead and feather trims; faux fur trims; Evangeline compositions that do not sum to 100; two-lining Evangeline pieces), 4 pages that returned no text, and sold-out pieces. 2026-11-10: products.json 1,807. Read the remaining 418 in-stock clothing pages (all other-tagged pieces plus 9 with a blank parent type). Staged 81 in round-2026-11-10-nightly: the 50 passing pieces held on 2026-11-09 for photos (photos recovered from the img2 download; Giada, Easy Cashmere Tee and Cropped Hampton colours set from the photo) and 31 new passes. 355 fiber, 29 rejected (lining rule: 24 pieces with polyester or polyamide linings including the Roman skirt, Josette Espresso and Dune, Olivia Desert Stripe and Crest haircalf skirt; brand rules: Liam tee with STAUD wordmark, Slate tees with printed graphics, Kit Top with 26 numbering, Lounge Terry Hoodie), 6 out of scope. Sweep done.",
    "domain": "staud.clothing"
   },
   {
@@ -423,11 +418,15 @@
    "brand": "Simkhai",
    "method": "shopify-page",
    "cadence": "regular",
-   "status": "todo",
-   "cursor": null,
-   "lastSweep": null,
+   "status": "done",
+   "cursor": {
+    "method": "products.json at simkhai.com (1,017 products, USD store, one colour per product). Composition sits in the product page text after \"More Details\", up to \"Shipping & Returns\"; often prefixed by model height and lined/closure notes. Clothing = Group tags other than Footwear and Handbags, minus mens and swim tags.",
+    "held": "Not recorded, so a delta run picks them up: 25 pages with no More Details block (Cameron Dress, Kasey Midi Skirt, Andi Jacket, Signature tees and tanks and others); zebra calf hair pieces (Daria jacket, Rilo coat, Sonoma dress) and Vayla polo in a multi colourway with no clear swatch; Zorina cardigans, Vayla polo and Mel leather jacket with fur or shearling collars whose fiber is not stated; Sophie top, Chelly, Zarelle, Gabriette, Candra, Larz and Porter pieces with embellishment or embroidery not stated; Luma Faux Fur Vest; Avrae and Fei feather or polyester trims; Veda pants and Raven skirt (backing line does not parse); Sefi and Savia (sums do not add to 100); Kimia jacket."
+   },
+   "lastSweep": "2026-11-11",
    "lastDelta": null,
-   "note": ""
+   "note": "2026-11-11: first night, sweep done. 918 in-stock products: 152 men’s, 190 out of scope (shoes, bags, swim, phone cases, scarves, belts, gift card), 576 women’s clothing pages read. Staged 74 in round-2026-11-11-nightly (cashmere and merino knits, leather and suede, silk georgette, cotton poplin). 446 fiber (mostly polyester, acetate, viscose and rayon blends, plus compositions with no percentages), 6 rejected by the lining rule (polyester-lined calf hair skirt and jacket, Lina and Clairis lace dresses, Cleo dress), 50 held (see cursor.held).",
+   "domain": "www.simkhai.com"
   },
   {
    "order": 38,
