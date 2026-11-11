@@ -323,6 +323,8 @@ status (todo, partial, done), a `cursor` for where a partial sweep stopped
 (category, material filter value, page), `lastSweep` and `lastDelta` dates.
 `sweepComplete` flips to true when every retailer is done.
 
+**Budget and mainstream brands go next.** Natalie's call on 2026-11-11. Jockey, Uniqlo, Madewell and Old Navy were added to the queue, and they run right after Simkhai along with the mainstream brands that were already queued (Gap, Banana Republic, J.Crew, H&M, Abercrombie & Fitch, Everlane, Free People, Anthropologie), ahead of Frame and the rest of the designer brands. Old Navy and H&M are sift brands, so they still wait until no regular brand is todo or partial. None of the four new stores has been tried yet: the first night on each one finds out how it serves products and records what worked in its `note`.
+
 **Sift brands.** Added 2026-10-23, Natalie's call. Some brands are mostly
 synthetic or viscose but still carry the odd linen shirt or wool coat, and
 finding those is work a shopper will not do themselves. These have `"cadence":
