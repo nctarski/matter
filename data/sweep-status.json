@@ -433,22 +433,30 @@
    "brand": "Jockey",
    "method": "browse-listing",
    "cadence": "regular",
-   "status": "todo",
-   "cursor": null,
+   "status": "partial",
+   "cursor": {
+    "method": "Not Shopify. Listing: https://api.jockey.com/catalog/products?Department=women&weightVariant=0&limit=100&page=N from a jockey.com tab (336 women's products 2026-11-12). Composition: each product page's __NEXT_DATA__ props.pageProps.Product.FabricBullets ('95% cotton/5% spandex', 'Gusset: 100% cotton', 'Body: ...; Rib: ...'); Variants carry colour, price and Inventory; images https://dynamic.jockeycdn.com/fit=crop,width=820,height=1024/product-img/<Id 6 digits>/<colour code>/<shot>.jpg (OMF = on-model front). jockeycdn images read from an example.com tab (CORS open). One card per product in the first in-stock solid colour; Plus Size and larger multipack copies of the same style are recorded as duplicate.",
+    "blocked": "2026-11-12: product pages returned HTTP 429 after about 170 pages at one every 1.5 to 3 seconds. Stopped at the first 429. Next run: one page every 6 seconds and keep it under 120 pages.",
+    "remaining": "147 product pages not read (everything after jockey-womens-soft-luxe-textured-long-sleeve-top in listing order) plus 7 held: 5 print-only flannel and Fam Jams pieces with no clear swatch, and 100% Cotton Classic French Cut 6 Pack and Classic Brief 3 Pack whose only in-stock colour was Black Petals (a print)."
+   },
    "lastSweep": null,
    "lastDelta": null,
-   "note": "Added 2026-11-11, Natalie's call: budget and mainstream brands next. jockey.com, USD, women's only. Check first whether products.json answers (Shopify); if not, read the women's category listings in Chrome and the composition on each product page. Strong on cotton underwear, tees, sleep and lounge. Expect many cotton/elastane blends: apply the fiber rule strictly (elastane 5% or less)."
+   "note": "Added 2026-11-11, Natalie's call: budget and mainstream brands next. jockey.com, USD, women's only. Check first whether products.json answers (Shopify); if not, read the women's category listings in Chrome and the composition on each product page. Strong on cotton underwear, tees, sleep and lounge. Expect many cotton/elastane blends: apply the fiber rule strictly (elastane 5% or less). 2026-11-12: first night. 336 women's products listed; 171 product pages read before a 429 rate limit, plus 16 socks and accessories from the listing. 36 staged in round-2026-11-12-nightly (100% cotton Elance and organic cotton stretch underwear, pointelle and plush loungewear, The One and Only organic cotton tee and pant), 102 under the fiber rule (nylon, modal, polyester blends, spandex over 5%), 23 duplicates (Plus Size and 6 Pack copies), 20 out of scope, 1 hoodie rejected."
   },
   {
    "order": 39,
    "brand": "Uniqlo",
    "method": "filtered-listing",
    "cadence": "regular",
-   "status": "todo",
-   "cursor": null,
+   "status": "partial",
+   "cursor": {
+    "method": "Uniqlo commerce API from a www.uniqlo.com tab (use /robots.txt, the full pages freeze): listing /us/api/commerce/v5/en/products?path=%2C%2C%2C&genderId=women&limit=100&offset=N (1,363 items, 449 with genderCategory WOMEN, the rest UNISEX, MEN, KIDS, BABY); search adds &q=<word>; details /us/api/commerce/v5/en/products/<id>/price-groups/00/details (composition, per colour when it starts with [code NAME]); stock and price /products/<id>/price-groups/00/l2s?withPrices=true&withStocks=true. Images from image.uniqlo.com have no CORS: read them in a tab opened on image.uniqlo.com and relay to an example.com tab (opened by a click so it is the opener) with BroadcastChannel then postMessage, since Chrome allows only one download per site.",
+    "done": "2026-11-12: WOMEN items from the searches 100% cotton, cashmere, linen, merino, lambswool, mohair, wool, leather, suede, corduroy, flannel, poplin, oxford, twill and denim, then the first 130 remaining WOMEN items in listing order; HEATTECH and AIRism recorded as fiber unread, socks, bags, gloves, belts and other accessories as out of scope.",
+    "remaining": "152 WOMEN items not yet read, then the 339 UNISEX items (Uniqlo U and basics) still to decide on. Held, not recorded: 5 products with no stock in price group 00 (Premium Linen Skipper Collar 3/4 Sleeve Shirt and its striped version, Premium Linen Shirt Striped E490985, Merino Crew Neck Cardigan, High Rise Wide Jeans Short) since they may sell in group 01."
+   },
    "lastSweep": null,
    "lastDelta": null,
-   "note": "Added 2026-11-11, Natalie's call: budget and mainstream next. uniqlo.com/us, USD, women's only. Shortlist by material (100% cotton, linen, cashmere, merino, silk) through the site's filter or search. Read composition per product; Uniqlo lists body and lining parts separately. Skip HEATTECH, AIRism and other synthetic lines without reading and record them as fiber."
+   "note": "Added 2026-11-11, Natalie's call: budget and mainstream next. uniqlo.com/us, USD, women's only. Shortlist by material (100% cotton, linen, cashmere, merino, silk) through the site's filter or search. Read composition per product; Uniqlo lists body and lining parts separately. Skip HEATTECH, AIRism and other synthetic lines without reading and record them as fiber. 2026-11-12: first night, partial. 219 compositions read (89 from material searches, 130 from the listing). 61 staged in round-2026-11-12-nightly (cashmere, merino and lambswool knits, premium linen shirts, 100% cotton jeans, shirts, tees and pajamas), 174 fiber, 28 rejected (graphic UT tees, polyester-lined jackets, skirts and dresses), 27 out of scope, 2 duplicates."
   },
   {
    "order": 40,
